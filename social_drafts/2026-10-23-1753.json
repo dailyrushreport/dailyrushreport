@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-23-1753.json",
+  "created": "2026-10-23T22:53:22.937030+00:00",
+  "created_ct": "Fri Oct 23, 2026 5:53 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+    "original_headline": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+    "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers. (CNBC) https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 173,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
