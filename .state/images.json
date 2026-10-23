@@ -1437,5 +1437,114 @@
 "via": "feed"
 },
 "checked": "2026-10-23T20:14:43.097739+00:00"
+},
+"https://www.nationalreview.com/2026/10/fraud-is-not-the-biggest-source-of-health-care-waste/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108441771-1792585938123-gettyimages-2204055550-UKRAINE_STARLINK.jpeg?v=1792783422&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://reason.com/2026/10/23/how-helping-someone-buy-drugs-can-send-you-to-prison-for-20-years/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Scott-Hancock-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Joshua Greene/hancockonaddiction.org",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-912673": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743323",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/4Qkczefm8pjzwLat4Khu2E-1920-80.jpg",
+"w": 1500,
+"h": 938,
+"credit": "NASA",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/melania-trump-brokers-local-humanitarian-ceasefire-ukrainian-city": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://www.foxnews.com/tech/cheap-android-phones-found-malware-already-installed": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/android-motion-sickness.jpg?ve=1&tl=1",
+"w": 931,
+"h": 524,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-union/articles/cqwy7e08jlxpo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a09/live/a8201ab0-cf22-11f1-93e1-3b657b665bcf.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://nypost.com/2026/10/23/media/rhode-island-school-district-allegedly-hid-students-gender-transitions-from-parents/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146239718.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://nypost.com/2026/10/23/sports/aaron-rodgers-agrees-with-nfl-moving-ahead-with-paris-game-despite-unrest/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-4rcuvv3ye-1792785786156.jpg?quality%3D90%26strip%3Dall%261792771422",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
+},
+"https://nypost.com/2026/10/23/sports/aaron-rodgers-on-jalen-hurts-injury-imbroglio-never-seen-eye-to-eye-with-nfl-medical/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-y8ly71ve9-1792786848761.jpg?quality%3D90%26strip%3Dall%261792772465",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T20:55:21.725853+00:00"
 }
 }
