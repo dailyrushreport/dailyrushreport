@@ -1,17 +1,17 @@
-# Social drafts — Fri Oct 23, 2026 9:25 AM CT
+# Social drafts — Fri Oct 23, 2026 12:26 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-23-0925.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-23-1226.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo  
+Lead: Ex-FBI officials charged with lying to Congress about Hunter Biden probe  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 175/280 chars (X counting)
+## X — status: pending_approval · 167/280 chars (X counting)
 
 ```
-Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says. (BBC) https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo
+Ex-FBI officials charged with lying to Congress about Hunter Biden probe. (The Hill) https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says. Story via BBC. Link in bio.
+Ex-FBI officials charged with lying to Congress about Hunter Biden probe. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
