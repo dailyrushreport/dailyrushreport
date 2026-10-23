@@ -157,27 +157,53 @@ def build_df(items):
         for t in i["_tok"]:
             DF[t] = DF.get(t, 0) + 1
 
-def similar(a, b):
-    """IDF-weighted overlap: two headlines are the same story if they share enough rare words."""
+def _w(t):
     import math
+    return math.log(1 + max(len(DF), 1) / DF.get(t, 1))
+
+def similar(a, b):
+    """IDF-weighted overlap: two headlines are the same story if they share enough rare words.
+    Never on a single shared word (e.g. 'Ukraine'), and satire never merges with real news."""
     ta, tb = a["_tok"], b["_tok"]
-    if not ta or not tb:
+    if not ta or not tb or bool(a.get("column") == "laugh") != bool(b.get("column") == "laugh"):
         return False
-    n = max(len(DF), 1)
-    w = lambda t: math.log(1 + n / DF.get(t, 1))
     shared = ta & tb
+    if len(shared) < 2:
+        return False
     rare = [t for t in shared if DF.get(t, 1) <= 6]
-    score = sum(w(t) for t in shared) / min(sum(w(t) for t in ta), sum(w(t) for t in tb))
+    score = sum(_w(t) for t in shared) / min(sum(_w(t) for t in ta), sum(_w(t) for t in tb))
     return (len(rare) >= 2 and score >= 0.33) or score >= 0.6
 
+def same_story(a, b, S=None):
+    """Stricter test used only for red/breaking: on top of similar(), the two headlines must share
+    2+ distinctive words (each used by <= breaking_rare_df headlines in today's pool, so 'Trump',
+    'Ukraine', 'Senate' don't count) and the shared words must carry >= breaking_min_overlap of the
+    LONGER headline's weight (so one long headline can't swallow a short generic one)."""
+    S = S or {}
+    if not similar(a, b):
+        return False
+    shared = a["_tok"] & b["_tok"]
+    rare = [t for t in shared if DF.get(t, 1) <= S.get("breaking_rare_df", 8)]
+    if len(rare) < 2:
+        return False
+    overlap = sum(_w(t) for t in shared) / max(sum(_w(t) for t in a["_tok"]), sum(_w(t) for t in b["_tok"]))
+    return overlap >= S.get("breaking_min_overlap", 0.30)
+
+def overlap(a, b):
+    shared = a["_tok"] & b["_tok"]
+    return sum(_w(t) for t in shared) / max(min(sum(_w(t) for t in a["_tok"]), sum(_w(t) for t in b["_tok"])), 1e-9)
+
 def cluster(items):
-    """Group near-duplicate stories. Returns list of clusters (lists), each sorted newest first."""
+    """Group near-duplicate stories. Returns list of clusters (lists), each sorted newest first.
+    Each cluster is seeded by its newest headline and a story joins only if it matches that seed directly
+    (best-matching seed wins). No chaining, so 'West Bank soldiers' can't ride in via a loosely similar
+    'gunmen' story into an unrelated 'church funeral in Jordan' cluster."""
     build_df(items)
     clusters = []
     for it in sorted(items, key=lambda x: x["published"], reverse=True):
-        for c in clusters:
-            if any(similar(it, o) for o in c):
-                c.append(it); break
+        best = max((c for c in clusters if similar(it, c[0])), key=lambda c: overlap(it, c[0]), default=None)
+        if best is not None:
+            best.append(it)
         else:
             clusters.append([it])
     return clusters
@@ -235,35 +261,80 @@ def opinion_reason(item, feed_flags):
         return "headline labelled opinion"
     return None
 
+def outlet_group(item, S):
+    """Who really published it. Same-parent feeds count once: grouped by web domain (CNBC + CNBC Economy,
+    BBC + BBC Science, Fox News + Fox News Tech), then by settings.outlet_groups (domain -> parent)."""
+    d = outlet(item.get("url", ""))
+    return (S.get("outlet_groups") or {}).get(d, d)
+
+def red_coverage_map(items, S):
+    """Independent recent coverage per story, for red. Only items published in the last breaking_window_hours
+    count, and opinion, satire and breaking_skip_sources items never count. For every recent item (the
+    'anchor') we collect the outlets whose headline matches the anchor directly with same_story() -- no
+    chaining A~B~C, and no reliance on the order-dependent dedupe clusters. Returns ({url: (n_outlets, counted items)}, {url: urls of every headline on that same story})."""
+    win = timedelta(hours=S.get("breaking_window_hours", 6))
+    skip = set(S.get("breaking_skip_sources", []))
+    pool = [x for x in items
+            if not x.get("opinion") and x.get("column") != "laugh" and x.get("source") not in skip
+            and NOW - datetime.fromisoformat(x["published"]) <= win]
+    best = {}
+    for anchor in pool:
+        groups = {}
+        for x in sorted(pool, key=lambda x: x["published"], reverse=True):
+            if x is anchor or same_story(anchor, x, S):
+                groups.setdefault(outlet_group(x, S), x)
+        members = [x for x in pool if x is anchor or same_story(anchor, x, S)]
+        for x in members:                      # every headline in the matched set gets the set's count
+            if len(groups) > best.get(x["url"], (0,))[0]:
+                best[x["url"]] = (len(groups), list(groups.values()), [m["url"] for m in members])
+    return {u: (n, its) for u, (n, its, _) in best.items()}, {u: urls for u, (_, _, urls) in best.items()}
+
+def red_qualifies(x, S):
+    """True if the story has enough independent, recent coverage for automatic red (before the cap)."""
+    newest = x.get("red_newest")
+    return bool(x.get("red_outlets", 0) >= S.get("breaking_min_outlets", 3) and newest
+                and NOW - datetime.fromisoformat(newest) <= timedelta(hours=S.get("breaking_fresh_hours", 2))
+                and not x.get("opinion") and x.get("column") != "laugh")
+
 def mark_breaking(shown, S):
-    """Red breaking headline (red text, no label). Editor choice (picks.json "breaking": true/false) always wins and does not
-    count toward the cap. Otherwise a story qualifies if 2+ distinct outlets carry it right now, or
-    its newest version was published within breaking_recent_minutes. Auto labels are capped at
-    breaking_max, strongest first (more outlets, then newest)."""
-    recent = timedelta(minutes=S.get("breaking_recent_minutes", 60))
-    min_out = S.get("breaking_min_outlets", 2)
-    auto = []
+    """Red headline text (no label), Drudge-style: one, maybe two at a time, sometimes none.
+    Editor picks (picks.json "breaking": true/false) are applied first; editor reds DO count toward the cap
+    (they're always shown, but leave fewer slots for automatic ones). Automatic red needs
+    breaking_min_outlets (3) different independent outlets on the same story within breaking_window_hours (6),
+    newest item no older than breaking_fresh_hours (2). Ranked by outlet count, then newest; capped at
+    breaking_max (2) in total. Publishing time alone never makes a story red."""
+    cap = S.get("breaking_max", 2)
+    auto, n_editor = [], 0
     for x in shown:
+        x["breaking"] = False
         if x.get("column") == "laugh" or x.get("satire"):
-            x["breaking"] = False                      # satire is never red, not even by editor pick
-            continue
+            continue                                   # satire is never red, not even by editor pick
         if "breaking_pick" in x:
             x["breaking"] = x["breaking_pick"]
-            if x["breaking"]: x["why"] = "editor"
+            if x["breaking"]:
+                x["why"] = "editor"; n_editor += 1
             continue
         if x.get("pinned") or x.get("source") in S.get("breaking_skip_sources", []):
             continue
         if x.get("opinion"):
             continue                                   # opinion never auto-red (editor pick above can still force it)
-        multi = x.get("outlets", 1) >= min_out
-        fresh = NOW - datetime.fromisoformat(x.get("newest", x["published"])) <= recent
-        if multi or fresh:
-            x["why"] = (f"{x['outlets']} outlets" if multi else "") + (" + " if multi and fresh else "") + \
-                       ("published <1h ago" if fresh else "")
+        n, newest = x.get("red_outlets", 0), x.get("red_newest")
+        if red_qualifies(x, S):
+            age = int((NOW - datetime.fromisoformat(newest)).total_seconds() // 60)
+            x["why"] = f"{n} outlets in {S.get('breaking_window_hours', 6)}h, newest {age}m ago: " + \
+                       ", ".join(x.get("red_sources", []))
             auto.append(x)
-    auto.sort(key=lambda x: (x.get("outlets", 1), x.get("newest", x["published"])), reverse=True)
-    for x in auto[:S.get("breaking_max", 5)]:
-        x["breaking"] = True
+    auto.sort(key=lambda x: (x["red_outlets"], x["red_newest"]), reverse=True)
+    slots, used = max(cap - n_editor, 0), set()
+    for x in auto:
+        story = set(x.get("red_urls", []))
+        if story & used:
+            x["why_not"] = "same story is already red"       # one red link per story
+        elif slots <= 0:
+            x["why_not"] = "qualified but over the cap"
+        else:
+            x["breaking"] = True; slots -= 1; used |= story
+    return auto
 
 # ---------------------------------------------------------------- social drafts
 # Drafts only. Nothing here posts anywhere; there is no posting code and no API keys.
@@ -384,6 +455,7 @@ def build(args):
         uniq.append(i)
 
     clusters = cluster(uniq)
+    cov, story_of = red_coverage_map(uniq, S)
     # one representative per cluster: prefer an editor rewrite, else the newest
     reps = []
     for c in clusters:
@@ -392,6 +464,13 @@ def build(args):
         # distinct publishers (by domain) whose headline matches this story directly (not via a chain)
         # (opinion columns about a story don't count as independent news coverage)
         rep["outlets"] = len({outlet(x["url"]) for x in c if x is rep or (similar(x, rep) and not x.get("opinion"))})
+        # red coverage must be about THIS headline: the best anchor whose matched set includes rep itself
+        n_red, red_items = cov.get(rep["url"], (0, []))
+        rep["red_outlets"] = n_red
+        if red_items:
+            rep["red_newest"] = max(x["published"] for x in red_items)
+            rep["red_sources"] = [x["source"] for x in sorted(red_items, key=lambda x: x["published"], reverse=True)]
+            rep["red_urls"] = story_of.get(rep["url"], []) + [x["url"] for x in c]
         rep["newest"] = max(x["published"] for x in c)
         rep["_members"] = [f'{x["source"]}: {x["title"]}' for x in c]
         if "breaking_pick" not in rep:
@@ -437,11 +516,16 @@ def build(args):
     # ---- subleads: next strongest lead-eligible stories (prefer different outlets)
     reps.sort(key=lambda r: (r["coverage"], r["published"]), reverse=True)
     subleads, used_src = [], {lead.get("source")}
+    # a headline the red matcher ties to the lead/sub-lead story (worded too differently for the dedupe)
+    # isn't repeated as another sub-lead or lower down the page
+    top_story = set(story_of.get(lead.get("url"), []))
     for r in reps:
         if len(subleads) >= S["subleads"]: break
+        if r["url"] in top_story: continue
         if r["lead_ok"] and r["source"] not in used_src and r["column"] != "laugh" and not r.get("opinion"):
-            subleads.append(r); used_src.add(r["source"])
+            subleads.append(r); used_src.add(r["source"]); top_story |= set(story_of.get(r["url"], []))
     for r in subleads: reps.remove(r)
+    reps = [r for r in reps if r["url"] not in top_story]
 
     # ---- columns, newest first, capped per source so no outlet dominates
     cols = {1: [], 2: [], 3: [], "laugh": []}
@@ -451,7 +535,8 @@ def build(args):
                                        "source": p.get("source", ""), "hot": p.get("hot", False), "pinned": True,
                                        **({"breaking_pick": bool(p["breaking"])} if "breaking" in p else {})})
     per_src = {}
-    for r in sorted(reps, key=lambda r: (("display" in r), r["published"]), reverse=True):
+    # a story that qualifies for red always gets a column slot (placed first), so it can't fall off the page
+    for r in sorted(reps, key=lambda r: (red_qualifies(r, S), ("display" in r), r["published"]), reverse=True):
         c = r["column"]
         limit = S["laugh_count"] if c == "laugh" else S["per_column"]
         k = (c, r["source"])
@@ -463,7 +548,7 @@ def build(args):
     for c in (1, 2, 3):
         cols[c].sort(key=lambda r: (not r.get("pinned"), "display" not in r, ""))
 
-    mark_breaking([lead] + subleads + cols[1] + cols[2] + cols[3], S)
+    qualified = mark_breaking([lead] + subleads + cols[1] + cols[2] + cols[3], S)
 
     total = 1 + len(subleads) + sum(len(v) for v in cols.values())
     log("Feed report:")
@@ -475,6 +560,9 @@ def build(args):
     log(f"Red (breaking) headlines: {sum(1 for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking'))}"
         + "".join(f"\n    - [{x['why']}] {x.get('display') or x['title']}"
                   + "".join(f"\n        · {m}" for m in x.get("_members", []) if os.environ.get("RR_DEBUG")) for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking')))
+    for x in qualified:
+        if x.get("why_not"):
+            log(f"    (not red, {x['why_not']}) [{x['why']}] {x.get('display') or x['title']}")
     log(f"Stories placed: {total}; lead = [{lead.get('source')}] {lead.get('display', lead['title'])}")
     if total < 15:
         log("ERROR: fewer than 15 stories - keeping previous index.html"); sys.exit(2)

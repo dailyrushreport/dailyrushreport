@@ -56,6 +56,9 @@ Headlines link straight to the original publishers; we only show the headline an
   several outlets and stories you've rewritten. It stays up `lead_hold_hours` (3) and then rotates; the last
   `avoid_repeat_leads` (4) leads can't come back.
 - **Dedupe:** exact URL matching plus near-duplicate headline matching across outlets (one link per story).
+  Two headlines are only treated as the same story if they share at least **two** meaningful words (one shared
+  word like "Ukraine" is not enough), and a satire headline is never merged with a news headline. Each story group
+  is matched against its newest headline only, so unrelated stories can't chain together through a middle one.
 - **Balance:** at most `max_per_source_per_column` (3) links from one outlet per column.
 - **Failures:** if a feed is down, its last good copy (if still fresh) is used. If the whole build gets fewer
   than 15 stories, the old `index.html` is left alone and the script exits non-zero.
@@ -63,9 +66,24 @@ Headlines link straight to the original publishers; we only show the headline an
 - Satire (Babylon Bee) only appears in the "For laughs" section at the bottom, each item prefixed **SATIRE:**.
 
 ## Red (breaking) headlines
-A breaking story is shown as **red headline text** (no "BREAKING" word in front). A story turns red when either:
-- the story is being carried by **2+ different outlets** at once (same duplicate-cluster, counted by publisher web domain, so BBC + BBC Science count as one; opinion pieces in the cluster don't count), or
-- its newest version was **published within the last 60 minutes**.
+Drudge-style: usually **one, sometimes two, sometimes none**. A breaking story is shown as **red headline text**
+(no "BREAKING" word in front). Being new is not enough on its own. A story turns red only when **all** of these are true:
+- **3 or more different outlets** are carrying the same story within the **last 6 hours**;
+- the **newest** of those reports is **2 hours old or less** (the story is still moving);
+- the story is actually on the page (a story that qualifies is always given a slot in its column).
+
+How outlets are counted:
+- Same-owner outlets count **once**: BBC + BBC Science, CNBC + CNBC Economy + NBC News, Fox News + Fox Business +
+  OutKick, NY Post + WSJ (News Corp). The list is `outlet_groups` in `feeds.json`.
+- Opinion, satire and the `breaking_skip_sources` outlets don't count as coverage.
+- Matching for red is stricter than the page dedupe: the headlines must share at least **two distinctive words**
+  (names, places, things — not common words like "Trump" or "says"), and those words must make up at least
+  **30%** of the longer headline. Each headline is compared directly with the others; no chaining.
+
+When more stories qualify than the cap allows, the ones with the **most outlets** win, then the one updated most recently.
+Only **one red link per story** (if the same story appears twice, only one copy is red). Hard cap: **2 red on the page**.
+The build log shows every red headline with its reason (e.g. "3 outlets in 6h, newest 10m ago: BBC, Washington
+Examiner, CNBC") and any story that qualified but wasn't red, with why.
 
 Never red automatically:
 - **Opinion.** A story is opinion if any of these is true: its feed has `"opinion": true` in `feeds.json`
@@ -78,15 +96,17 @@ Never red automatically:
 - Outlets in `breaking_skip_sources` (RealClearPolitics, National Review, Reason, The Free Press).
 - **Satire** (Babylon Bee / "For laughs") — never red, not even by editor pick.
 
-Automatic red is capped at **5 per page** (strongest first: most outlets, then newest).
-Settings in `feeds.json`: `breaking_max` (5), `breaking_min_outlets` (2), `breaking_recent_minutes` (60).
+Settings in `feeds.json`: `breaking_max` (2, total red per page), `breaking_min_outlets` (3),
+`breaking_window_hours` (6), `breaking_fresh_hours` (2), `breaking_rare_df` (8, how rare a shared word must be),
+`breaking_min_overlap` (0.30), `outlet_groups`.
 
 Editor control in `picks.json` — add `"breaking": true` or `"breaking": false` to any `lead`, `pinned`, or `rewrites` entry:
 ```json
 "rewrites": {"https://publisher.com/story": {"breaking": false}}
 ```
 `"breaking": true` forces red even for an opinion piece (your call as editor); `false` turns red off.
-Editor-forced red always shows and doesn't count toward the cap.
+Editor-forced red always shows and **does count toward the cap of 2**: with one editor red, at most one
+automatic red is added; with two, none. (Satire stays black even with `"breaking": true`.)
 
 ## Adding or removing a feed
 Add an entry to `feeds.json` → `feeds`: `{"name": "Outlet", "url": "https://…/rss", "column": 2, "lead": false}`.

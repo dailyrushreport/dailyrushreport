@@ -1,5 +1,5 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for the red BREAKING label (see README). breaking_skip_sources: opinion/analysis outlets that never get an automatic BREAKING label. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README).",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README).",
   "settings": {
     "per_column": 11,
     "laugh_count": 3,
@@ -33,15 +33,33 @@
       "Crossword"
     ],
     "lead_hold_hours": 3,
-    "breaking_max": 5,
-    "breaking_min_outlets": 2,
-    "breaking_recent_minutes": 60,
+    "breaking_max": 2,
+    "breaking_min_outlets": 3,
+    "breaking_window_hours": 6,
+    "breaking_fresh_hours": 2,
+    "breaking_rare_df": 8,
+    "breaking_min_overlap": 0.3,
     "breaking_skip_sources": [
       "RealClearPolitics",
       "National Review",
       "Reason",
       "The Free Press"
-    ]
+    ],
+    "outlet_groups": {
+      "bbc.com": "BBC",
+      "bbc.co.uk": "BBC",
+      "foxnews.com": "Fox",
+      "foxbusiness.com": "Fox",
+      "outkick.com": "Fox",
+      "nypost.com": "News Corp",
+      "wsj.com": "News Corp",
+      "cnbc.com": "NBC News",
+      "nbcnews.com": "NBC News",
+      "msnbc.com": "NBC News",
+      "apnews.com": "AP",
+      "reuters.com": "Reuters",
+      "pagesix.com": "News Corp"
+    }
   },
   "feeds": [
     {
