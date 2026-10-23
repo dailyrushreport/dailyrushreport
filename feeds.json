@@ -1,9 +1,25 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (always labeled SATIRE; rotates across outlets: newest story from each satire outlet, at most 1 per outlet, outlet order reshuffled every hour, laugh_count shown; laugh_skip_words drops crude headlines). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout.",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (always labeled SATIRE; rotates across outlets: newest story from each satire outlet, at most 1 per outlet, outlet order reshuffled every hour, laugh_count shown; laugh_skip_words drops crude headlines). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout. lifestyle_sections: small labeled lists under the Culture column (health, faith); a feed joins one with \"lifestyle\": \"health\"; these stories never lead, never turn red and don't count as coverage; max = stories shown, max_per_source = per outlet. Per-feed options: max_per_column (tighter per-source cap), skip_if_url_contains, skip_if_title_starts_with, skip_categories, title_must_match (regex), strip_title_suffix.",
   "settings": {
     "per_column": 11,
     "laugh_count": 3,
-    "laugh_skip_words": ["fuck", "shit", "bitch", "cunt", "dick", "cock", "porn", "orgasm", "masturbat", "dildo", "blowjob", "penis", "vagina", "boner", "horny"],
+    "laugh_skip_words": [
+      "fuck",
+      "shit",
+      "bitch",
+      "cunt",
+      "dick",
+      "cock",
+      "porn",
+      "orgasm",
+      "masturbat",
+      "dildo",
+      "blowjob",
+      "penis",
+      "vagina",
+      "boner",
+      "horny"
+    ],
     "subleads": 3,
     "default_max_age_hours": 36,
     "lead_window_hours": 14,
@@ -63,13 +79,27 @@
       "marketwatch.com": "News Corp",
       "breitbart.com": "Breitbart",
       "justthenews.com": "Just the News",
-      "newsmax.com": "Newsmax"
+      "newsmax.com": "Newsmax",
+      "jpost.com": "Jerusalem Post",
+      "timesofisrael.com": "Times of Israel"
     },
     "column_photos": 3,
     "photo_min_width": 300,
     "lead_photo_min_width": 400,
     "photo_search_depth": 8,
-    "photo_timeout_seconds": 6
+    "photo_timeout_seconds": 6,
+    "lifestyle_sections": {
+      "health": {
+        "label": "HEALTH & WELLNESS",
+        "max": 3,
+        "max_per_source": 1
+      },
+      "faith": {
+        "label": "FAITH & FREEDOM",
+        "max": 2,
+        "max_per_source": 1
+      }
+    }
   },
   "feeds": [
     {
@@ -203,6 +233,32 @@
       "opinion": true
     },
     {
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+      "column": 2,
+      "max_per_column": 2,
+      "skip_if_url_contains": [
+        "/opinion/",
+        "/conferences/",
+        "/brandblend/",
+        "/sponsored"
+      ],
+      "_note": "Israeli news (centre-right). News only: /opinion/, conference and sponsored pages skipped. No lead flag. Capped at 2 per column."
+    },
+    {
+      "name": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/feed/",
+      "column": 2,
+      "max_per_column": 2,
+      "skip_if_url_contains": [
+        "blogs.timesofisrael.com"
+      ],
+      "skip_categories": [
+        "podcasts"
+      ],
+      "_note": "Israeli news. Reader blogs and podcasts excluded. No lead flag. Capped at 2 per column."
+    },
+    {
       "name": "The Guardian",
       "url": "https://www.theguardian.com/us-news/rss",
       "column": 1
@@ -251,6 +307,52 @@
       "url": "https://www.space.com/feeds/all",
       "column": 3,
       "max_age_hours": 72
+    },
+    {
+      "name": "Fox News Health",
+      "url": "https://moxie.foxnews.com/google-publisher/health.xml",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 72
+    },
+    {
+      "name": "Peter Attia MD",
+      "url": "https://peterattiamd.com/feed/",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 336,
+      "skip_if_title_starts_with": [
+        "#"
+      ],
+      "skip_categories": [
+        "Premium Articles"
+      ],
+      "_note": "longevity/strength/metabolic health articles; podcast episodes (#NNN) and paywalled Premium Articles skipped"
+    },
+    {
+      "name": "Zoe Harcombe",
+      "url": "https://www.zoeharcombe.com/feed/",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 336,
+      "_note": "PhD nutrition researcher, low-carb/real-food, critiques dietary guidelines; weekly. Most posts are member posts but the executive summary is free to read"
+    },
+    {
+      "name": "Religion News Service",
+      "url": "https://religionnews.com/category/news/feed/",
+      "column": 3,
+      "lifestyle": "faith",
+      "max_age_hours": 48
+    },
+    {
+      "name": "Adventist News Network",
+      "url": "https://news.google.com/rss/search?q=site:adventist.news+%22religious+liberty%22+OR+%22religious+freedom%22+when:60d&hl=en-US&gl=US&ceid=US:en",
+      "column": 3,
+      "lifestyle": "faith",
+      "max_age_hours": 336,
+      "strip_title_suffix": " - Adventist News Network",
+      "title_must_match": "religious (liberty|freedom)|\\bliberty\\b|freedom of (religion|conscience|worship)|conscience|sabbath|sunday law|church and state|persecut",
+      "_note": "adventist.news has no public RSS (Vercel bot wall), so this uses Google News search, filtered to religious-liberty headlines"
     },
     {
       "name": "Babylon Bee",

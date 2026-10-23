@@ -300,6 +300,8 @@ OPINION_CAT = re.compile(r"^(fox-news/)?(opinions?\b.*|op-?eds?|commentary|colum
 OPINION_TITLE = re.compile(r"^\s*(opinion|op-?ed|editorial|commentary|column)\s*[:|\-\u2014]", re.I)
 
 def opinion_reason(item, feed_flags):
+    if item.get("lifestyle"):
+        return f"lifestyle section ({item['lifestyle']})"
     if feed_flags.get(item.get("source")):
         return "opinion-only feed"
     path = urllib.parse.urlsplit(item.get("url", "")).path
@@ -658,6 +660,30 @@ def assign_photos(lead, cols, S, picks, all_items):
     atomic_write(IMG_CACHE, json.dumps(cache, indent=0))
     return [x for x in [lead] + cols.get(1, []) + cols.get(2, []) + cols.get(3, []) if x.get("photo")]
 
+def feed_filter(f, items):
+    """Per-feed options (all optional, see README "Lifestyle sections"):
+    skip_if_url_contains / skip_if_title_starts_with / skip_categories: drop matching items from this feed only;
+    title_must_match: regex, keep only matching headlines (e.g. religious-liberty stories from a church news feed);
+    strip_title_suffix: text removed from the end of headlines (Google News adds " - Publisher");
+    lifestyle: section name ("health", "faith") - see lifestyle_sections in settings."""
+    urls = [p.lower() for p in f.get("skip_if_url_contains", [])]
+    starts = [p.lower() for p in f.get("skip_if_title_starts_with", [])]
+    cats = {c.lower() for c in f.get("skip_categories", [])}
+    must = re.compile(f["title_must_match"], re.I) if f.get("title_must_match") else None
+    suf = f.get("strip_title_suffix")
+    out = []
+    for i in items:
+        i = dict(i)
+        if suf and i["title"].endswith(suf):
+            i["title"] = i["title"][:-len(suf)].rstrip()
+        if (any(p in i["url"].lower() for p in urls) or any(i["title"].lower().startswith(p) for p in starts)
+                or cats & {c.lower() for c in i.get("cats") or []} or (must and not must.search(i["title"]))):
+            continue
+        if f.get("lifestyle"):
+            i["lifestyle"] = f["lifestyle"]
+        out.append(i)
+    return out
+
 # ---------------------------------------------------------------- main build
 def build(args):
     cfg = load_json(os.path.join(ROOT, "feeds.json"), None)
@@ -675,6 +701,7 @@ def build(args):
             max_age = timedelta(hours=f.get("max_age_hours", S["default_max_age_hours"]))
             fresh = [i for i in its if NOW - datetime.fromisoformat(i["published"]) <= max_age
                      and datetime.fromisoformat(i["published"]) <= NOW + timedelta(hours=2)]
+            fresh = feed_filter(f, fresh)
             report.append((name, status, len(its), len(fresh)))
             items.extend(fresh)
 
@@ -783,17 +810,30 @@ def build(args):
                                        "source": p.get("source", ""), "hot": p.get("hot", False), "pinned": True,
                                        **({"breaking_pick": bool(p["breaking"])} if "breaking" in p else {})})
     per_src = {}
+    # a feed can set a tighter "max_per_column" than the global max_per_source_per_column
+    src_cap = {f["name"]: min(f["max_per_column"], S["max_per_source_per_column"]) for f in feeds if f.get("max_per_column")}
     # a story that qualifies for red always gets a column slot (placed first), so it can't fall off the page
     for r in sorted(reps, key=lambda r: (red_qualifies(r, S), ("display" in r), r["published"]), reverse=True):
         c = r["column"]
-        if c == "laugh":
-            continue                                   # For Laughs is filled by the rotation below
+        if c == "laugh" or r.get("lifestyle"):
+            continue                                   # For Laughs / lifestyle sections are filled below
         limit = S["laugh_count"] if c == "laugh" else S["per_column"]
         k = (c, r["source"])
-        if len(cols[c]) >= limit or per_src.get(k, 0) >= S["max_per_source_per_column"]:
+        if len(cols[c]) >= limit or per_src.get(k, 0) >= src_cap.get(r["source"], S["max_per_source_per_column"]):
             continue
         per_src[k] = per_src.get(k, 0) + 1
         cols[c].append(r)
+    # ---- lifestyle sections (health, faith): their own small, capped lists under the Culture column, newest
+    # first, at most max_per_source_per_column per outlet. They never lead or turn red (treated as opinion).
+    for g, conf in (S.get("lifestyle_sections") or {}).items():
+        key, lst, n_src = "life:" + g, [], {}
+        for r in sorted((r for r in reps if r.get("lifestyle") == g), key=lambda r: r["published"], reverse=True):
+            if len(lst) >= conf.get("max", 2): break
+            per = conf.get("max_per_source", S["max_per_source_per_column"])
+            if n_src.get(r["source"], 0) >= per: continue
+            n_src[r["source"]] = n_src.get(r["source"], 0) + 1
+            lst.append(r)
+        cols[key] = cols.get(key, []) + lst          # editor pins with column "life:<name>" go first
     # ---- For Laughs: rotate across satire outlets so no single one dominates. Take each outlet's newest
     # story (skipping crude headlines), at most 1 per outlet, and shuffle the outlet order with a seed that
     # changes every hour (Central time), so a different outlet leads and a different mix shows through the day.
@@ -836,7 +876,8 @@ def build(args):
     log("Feed report:")
     for name, status, n, fresh in report:
         log(f"  {name:22s} {status:10s} items={n:3d} fresh={fresh}")
-    lost = [x for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get("opinion") and not x.get("breaking")]
+    life = [x for k, v in cols.items() if str(k).startswith("life:") for x in v]
+    lost = [x for x in [lead] + subleads + cols[1] + cols[2] + cols[3] + life if x.get("opinion") and not x.get("breaking")]
     log(f"Opinion pieces on page (never auto-red): {len(lost)}"
         + "".join(f"\n    - [{x['opinion']}] {x.get('display') or x['title']} ({x.get('source')})" for x in lost))
     log(f"Red (breaking) headlines: {sum(1 for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking'))}"
@@ -849,7 +890,7 @@ def build(args):
     if total < 15:
         log("ERROR: fewer than 15 stories - keeping previous index.html"); sys.exit(2)
 
-    page = render(lead, subleads, cols, feeds)
+    page = render(lead, subleads, cols, feeds, S)
     atomic_write(os.path.join(ROOT, args.out), page)
     if os.path.abspath(os.path.join(ROOT, args.out)) != os.path.join(ROOT, "index.html"):
         log(f"Wrote {args.out} (test build: archive, state and social drafts left untouched)"); return
@@ -886,6 +927,10 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax
          "NPR": "https://www.npr.org/", "Ars Technica": "https://arstechnica.com/",
          "The Verge": "https://www.theverge.com/", "ScienceDaily": "https://www.sciencedaily.com/",
          "UPI Odd News": "https://www.upi.com/Odd_News/", "Space.com": "https://www.space.com/",
+         "The Jerusalem Post": "https://www.jpost.com/", "The Times of Israel": "https://www.timesofisrael.com/",
+         "Fox News Health": "https://www.foxnews.com/health", "Peter Attia MD": "https://peterattiamd.com/",
+         "Zoe Harcombe": "https://www.zoeharcombe.com/", "Religion News Service": "https://religionnews.com/",
+         "Adventist News Network": "https://adventist.news/",
          "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
          "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",
          "Duffel Blog": "https://www.duffelblog.com/", "ClickHole": "https://clickhole.com/",
@@ -924,11 +969,14 @@ def column(label, lst, every=3):
             out.append("<hr>")
     return "\n".join(out)
 
-def render(lead, subleads, cols, feeds=()):
+def render(lead, subleads, cols, feeds=(), S=None):
     upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
     c1 = column("NATION &amp; POLITICS", cols.get(1, []))
     c2 = column("MONEY &amp; WORLD", cols.get(2, []))
     c3 = column("CULTURE", cols.get(3, []))
+    for g, conf in ((S or {}).get("lifestyle_sections") or {}).items():
+        if cols.get("life:" + g):
+            c3 += "\n<hr>\n" + column(html.escape(conf.get("label", g.upper())), cols["life:" + g], every=99)
     if cols.get("laugh"):
         c3 += "\n<hr>\n" + column("FOR LAUGHS", cols["laugh"], every=99)
     seen, srcs = set(), []

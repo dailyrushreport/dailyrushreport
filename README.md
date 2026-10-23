@@ -150,3 +150,15 @@ Set `"enabled": false` to switch one off. Run `python3 build.py` and check the f
   Underlines: one switch — `--link-underline` at the top of the `<style>` block (`underline` or `none`).
   The `hot` flag in picks.json is still accepted but doesn't change colour.
   Do not use other sites' logos/images or microphone imagery associated with Rush Limbaugh/EIB.
+
+## Lifestyle sections (Health & Wellness, Faith & Freedom)
+
+Small labeled lists at the bottom of the Culture column, above For Laughs. A feed joins one with
+`"lifestyle": "health"` (or `"faith"`) in `feeds.json`; `settings.lifestyle_sections` sets the heading, how many
+stories show (`max`) and how many per outlet (`max_per_source`). Lifestyle stories are treated like opinion: they
+never become the lead or a sub-lead, never turn red and never count as coverage for red. They don't take slots from
+the regular Culture headlines.
+
+Per-feed options (any feed): `max_per_column` (tighter than `max_per_source_per_column`), `skip_if_url_contains`,
+`skip_if_title_starts_with`, `skip_categories`, `title_must_match` (regex; keep only matching headlines) and
+`strip_title_suffix` (e.g. Google News' " - Publisher").
