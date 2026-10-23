@@ -3,13 +3,14 @@
   "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit",
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/"
+  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
+  "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
-  "since": "2026-10-23T17:26:30.418026+00:00"
+  "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+  "since": "2026-10-23T17:53:58.559110+00:00"
  },
- "last_build": "2026-10-23T17:28:17.692244+00:00",
+ "last_build": "2026-10-23T17:53:58.559110+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -53,6 +54,7 @@
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/"
+  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
+  "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html"
  ]
 }

@@ -843,5 +843,130 @@
 "via": "feed"
 },
 "checked": "2026-10-23T17:26:30.418026+00:00"
+},
+"https://justthenews.com/nation/crime/attorneys-man-accused-assassinating-charlie-kirk-say-years-may-be-needed-prepare-trial": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cry4x7n5yje0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dfdd/live/e8088930-cefc-11f1-accf-3309656ad0bb.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://www.foxnews.com/politics/ex-fbi-officials-arrested-hunter-biden-laptop-probe-testimony-scrutiny": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hunterloris.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://justthenews.com/index%2ephp/world/middle-east/netanyahu-orders-full-lockdown-occupied-west-bank-following-shooting": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://justthenews.com/nation/crime/two-ex-fbi-officials-charged-making-false-statements-about-hunter-bidens-laptop": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://reason.com/2026/10/23/the-founders-warned-against-secret-arrests-ice-is-testing-that-principle/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Detainee-Records-Lawsuit-1200x675.png",
+"w": 1200,
+"h": 675,
+"credit": "Lifestyle_Graphic/pixel-shot.com/Magnific/Mariam Zakaidze",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://thehill.com/blogs/in-the-know/6168715-meghan-markle-father-investigation-response/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/03/GettyImages-2263035582-e1792776157725.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Santiago Urquijo",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Intel",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://www.upi.com/Odd_News/2026/10/23/lotto-Michigan-Lottery-birthday-money/2381792776549/": {
+"v": 2,
+"photo": {
+"img": "https://cdnph.upi.com/ph/st/th/2381792776549/2026/upi/8fe2fd97e1ecf543c62bff636f608158/v1.5/Michigan-woman-turns-birthday-money-into-150000-lottery-prize.jpg",
+"w": 400,
+"h": 267,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://reason.com/2026/10/23/mississippi-cop-who-shot-1-year-old-kohen-wiley-resigns-after-state-calls-shooting-justified/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/bodycam-footage-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "darkhorsepress322/Youtube",
+"via": "feed"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108441642-1792585770300-gettyimages-2300463140-ukrinform-ukrainia261016_npze8.jpeg?v=1792585811&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
+},
+"https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T17:53:58.559110+00:00"
 }
 }
