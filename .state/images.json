@@ -1049,5 +1049,125 @@
 "via": "feed"
 },
 "checked": "2026-10-23T18:16:21.174884+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/technology/american-express-cutting-5-its-global-workforce-prepare-ai-cfo-says": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/crime/meghan-markles-father-thomas-markle-investigated-allegedly-possessing-child-sex-images": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.jpost.com/international/article-912669": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743315",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108413960-1792066832161-gettyimages-2299691524-AFP_D3BP6R7.jpeg?v=1792066857&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26139081500280.jpg?w=900",
+"w": 900,
+"h": 599,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.breitbart.com/politics/2026/10/23/exclusive-melania-trump-secures-localized-russia-ukraine-ceasefire-senior-adviser-calls-it-meaningful-step-toward-lasting-peace/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/GettyImages2300501952-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-912668": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743314",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://dailycaller.com/2026/10/23/police-arrest-kids-for-arizona-gun-store-burglary-that-prompted-dealer-to-put-his-truck-on-the-line": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/09/DCNF%20-%20Gun%20Store%202A%20Sales%20-%20Featured.jpg",
+"w": 1400,
+"h": 600,
+"credit": "(Photo by Scott Olson/Getty Images)",
+"via": "feed"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e2ae/live/13ebb490-cedb-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://nypost.com/2026/10/23/sports/aaron-donald-refuse-panic-rams-season-spirals-amid-injuries/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-w0pnucpbf-1792780351046.jpg?quality%3D90%26strip%3Dall%261792765993",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T18:52:22.670766+00:00"
 }
 }
