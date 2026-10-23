@@ -90,6 +90,7 @@ def parse_feed(raw, feed):
                 g = it.findtext("guid") or ""
                 link = g if g.startswith("http") else ""
             date = it.findtext("pubDate") or it.findtext("{http://purl.org/dc/elements/1.1/}date")
+            cats = [c.text or "" for c in it.findall("category")]
         elif tag == ATOM + "entry":
             title = it.findtext(ATOM + "title")
             link = ""
@@ -97,6 +98,7 @@ def parse_feed(raw, feed):
                 if l.get("rel", "alternate") == "alternate":
                     link = l.get("href", ""); break
             date = it.findtext(ATOM + "published") or it.findtext(ATOM + "updated")
+            cats = [c.get("term", "") or c.get("label", "") for c in it.findall(ATOM + "category")]
         else:
             continue
         title = clean_text(title)
@@ -104,7 +106,8 @@ def parse_feed(raw, feed):
             continue
         out.append({"title": title, "url": canonical_url(link), "source": feed["name"],
                     "published": (parse_date(date) or NOW).isoformat(),
-                    "column": feed.get("column", 1), "lead_ok": bool(feed.get("lead"))})
+                    "column": feed.get("column", 1), "lead_ok": bool(feed.get("lead")),
+                    "cats": [clean_text(c) for c in cats if clean_text(c) and len(c) < 80][:20]})
     return out
 
 def fetch_feed(feed, settings, offline=False):
@@ -206,8 +209,34 @@ def outlet(url):
         return ".".join(parts[-3:])                     # bbc.co.uk
     return ".".join(parts[-2:])                         # foxnews.com
 
+# Opinion pieces never get the red treatment automatically. A story counts as opinion if ANY of:
+#   * its feed is marked "opinion": true in feeds.json (opinion-only feeds)
+#   * its URL path has an opinion section segment (/opinion/, /op-eds/, /commentary/, /columnists/ ...)
+#   * the feed tags it with an opinion category (Opinion, Op-Eds, Commentary, Editorial(s), Columns ...)
+#   * the headline itself is labelled (starts with "Opinion:", "OPINION", "Op-Ed:", "Editorial:", "Commentary:")
+# A columnist-style "Name: quote" headline alone is NOT treated as opinion.
+OPINION_PATH = re.compile(r"/(opinions?|op-?eds?|commentary|columns?|columnists?|editorials?|perspectives?|"
+                          r"letters-to-the-editor|beltway-confidential|restoring-america)(/|$)", re.I)
+OPINION_CAT = re.compile(r"^(fox-news/)?(opinions?\b.*|op-?eds?|commentary|columns?|columnists?|editorials?|"
+                         r"perspectives?|letters to the editor|beltway confidential)$", re.I)
+OPINION_TITLE = re.compile(r"^\s*(opinion|op-?ed|editorial|commentary|column)\s*[:|\-\u2014]", re.I)
+
+def opinion_reason(item, feed_flags):
+    if feed_flags.get(item.get("source")):
+        return "opinion-only feed"
+    path = urllib.parse.urlsplit(item.get("url", "")).path
+    m = OPINION_PATH.search(path)
+    if m:
+        return f"URL section /{m.group(1)}/"
+    for c in item.get("cats") or []:
+        if OPINION_CAT.match(c.strip()):
+            return f"feed category '{c.strip()}'"
+    if OPINION_TITLE.match(item.get("title", "")):
+        return "headline labelled opinion"
+    return None
+
 def mark_breaking(shown, S):
-    """Red BREAKING label. Editor choice (picks.json "breaking": true/false) always wins and does not
+    """Red breaking headline (red text, no label). Editor choice (picks.json "breaking": true/false) always wins and does not
     count toward the cap. Otherwise a story qualifies if 2+ distinct outlets carry it right now, or
     its newest version was published within breaking_recent_minutes. Auto labels are capped at
     breaking_max, strongest first (more outlets, then newest)."""
@@ -215,7 +244,8 @@ def mark_breaking(shown, S):
     min_out = S.get("breaking_min_outlets", 2)
     auto = []
     for x in shown:
-        if x.get("column") == "laugh":
+        if x.get("column") == "laugh" or x.get("satire"):
+            x["breaking"] = False                      # satire is never red, not even by editor pick
             continue
         if "breaking_pick" in x:
             x["breaking"] = x["breaking_pick"]
@@ -223,6 +253,8 @@ def mark_breaking(shown, S):
             continue
         if x.get("pinned") or x.get("source") in S.get("breaking_skip_sources", []):
             continue
+        if x.get("opinion"):
+            continue                                   # opinion never auto-red (editor pick above can still force it)
         multi = x.get("outlets", 1) >= min_out
         fresh = NOW - datetime.fromisoformat(x.get("newest", x["published"])) <= recent
         if multi or fresh:
@@ -316,6 +348,7 @@ def build(args):
     picks = load_json(os.path.join(ROOT, "picks.json"), {})
     state = load_json(STATE_FILE, {"recent_leads": []})
     feeds = [f for f in cfg["feeds"] if f.get("enabled", True)]
+    opinion_feeds = {f["name"]: True for f in feeds if f.get("opinion")}
 
     report, items = [], []
     with cf.ThreadPoolExecutor(16) as ex:
@@ -345,6 +378,9 @@ def build(args):
             if "breaking" in rw:
                 i["breaking_pick"] = bool(rw["breaking"])
         i["_tok"] = tokens(i["title"])
+        why = opinion_reason(i, opinion_feeds)
+        if why:
+            i["opinion"] = why
         uniq.append(i)
 
     clusters = cluster(uniq)
@@ -354,7 +390,8 @@ def build(args):
         rep = next((x for x in c if "display" in x), c[0])
         rep["coverage"] = len({x["source"] for x in c})
         # distinct publishers (by domain) whose headline matches this story directly (not via a chain)
-        rep["outlets"] = len({outlet(x["url"]) for x in c if x is rep or similar(x, rep)})
+        # (opinion columns about a story don't count as independent news coverage)
+        rep["outlets"] = len({outlet(x["url"]) for x in c if x is rep or (similar(x, rep) and not x.get("opinion"))})
         rep["newest"] = max(x["published"] for x in c)
         rep["_members"] = [f'{x["source"]}: {x["title"]}' for x in c]
         if "breaking_pick" not in rep:
@@ -380,7 +417,7 @@ def build(args):
         if keep and NOW - datetime.fromisoformat(cur["since"]) > hold:
             keep = None
         # ...after that, retire it and don't bring back any of the last N leads
-        cands = [keep] if keep else [r for r in reps if r["lead_ok"] and r["column"] != "laugh"
+        cands = [keep] if keep else [r for r in reps if r["lead_ok"] and r["column"] != "laugh" and not r.get("opinion")
                  and NOW - datetime.fromisoformat(r["published"]) <= window
                  and r["url"] not in recent[-S["avoid_repeat_leads"]:]]
         if not cands:
@@ -402,7 +439,7 @@ def build(args):
     subleads, used_src = [], {lead.get("source")}
     for r in reps:
         if len(subleads) >= S["subleads"]: break
-        if r["lead_ok"] and r["source"] not in used_src and r["column"] != "laugh":
+        if r["lead_ok"] and r["source"] not in used_src and r["column"] != "laugh" and not r.get("opinion"):
             subleads.append(r); used_src.add(r["source"])
     for r in subleads: reps.remove(r)
 
@@ -432,14 +469,17 @@ def build(args):
     log("Feed report:")
     for name, status, n, fresh in report:
         log(f"  {name:22s} {status:10s} items={n:3d} fresh={fresh}")
-    log(f"BREAKING labels: {sum(1 for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking'))}"
+    lost = [x for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get("opinion") and not x.get("breaking")]
+    log(f"Opinion pieces on page (never auto-red): {len(lost)}"
+        + "".join(f"\n    - [{x['opinion']}] {x.get('display') or x['title']} ({x.get('source')})" for x in lost))
+    log(f"Red (breaking) headlines: {sum(1 for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking'))}"
         + "".join(f"\n    - [{x['why']}] {x.get('display') or x['title']}"
                   + "".join(f"\n        · {m}" for m in x.get("_members", []) if os.environ.get("RR_DEBUG")) for x in [lead] + subleads + cols[1] + cols[2] + cols[3] if x.get('breaking')))
     log(f"Stories placed: {total}; lead = [{lead.get('source')}] {lead.get('display', lead['title'])}")
     if total < 15:
         log("ERROR: fewer than 15 stories - keeping previous index.html"); sys.exit(2)
 
-    page = render(lead, subleads, cols)
+    page = render(lead, subleads, cols, feeds)
     atomic_write(os.path.join(ROOT, args.out), page)
     if os.path.abspath(os.path.join(ROOT, args.out)) != os.path.join(ROOT, "index.html"):
         log(f"Wrote {args.out} (test build: archive, state and social drafts left untouched)"); return
@@ -458,25 +498,56 @@ def build(args):
     log(f"Wrote {args.out}")
 
 # ---------------------------------------------------------------- HTML
-# Plain newspaper styling: black on white, one column, no graphics, no colour.
+# Drudge-style layout (style only, original content): big bold uppercase sans headline on top,
+# heavy italic "DAILY RUSH REPORT" masthead under it, then three typewriter-font columns split by
+# thin rules. Breaking = red headline text (no label). No images, no ads.
+# UNDERLINES: one toggle - set --link-underline in the <style> block to "none" to switch them off.
+HOMES = {"Fox News": "https://www.foxnews.com/", "NY Post": "https://nypost.com/",
+         "Washington Examiner": "https://www.washingtonexaminer.com/", "Axios": "https://www.axios.com/",
+         "The Hill": "https://thehill.com/", "Politico": "https://www.politico.com/",
+         "Daily Caller": "https://dailycaller.com/", "Daily Wire": "https://www.dailywire.com/",
+         "Free Beacon": "https://freebeacon.com/", "RealClearPolitics": "https://www.realclearpolitics.com/",
+         "The Free Press": "https://www.thefp.com/", "Reason": "https://reason.com/",
+         "National Review": "https://www.nationalreview.com/", "Bloomberg": "https://www.bloomberg.com/",
+         "CNBC": "https://www.cnbc.com/", "BBC": "https://www.bbc.com/news",
+         "WSJ Opinion": "https://www.wsj.com/opinion", "The Guardian": "https://www.theguardian.com/us",
+         "NPR": "https://www.npr.org/", "Ars Technica": "https://arstechnica.com/",
+         "The Verge": "https://www.theverge.com/", "ScienceDaily": "https://www.sciencedaily.com/",
+         "UPI Odd News": "https://www.upi.com/Odd_News/", "Space.com": "https://www.space.com/",
+         "Babylon Bee": "https://babylonbee.com/"}
+
 def link(i, cls=""):
     t = html.escape(i.get("display") or i["title"])
     src = html.escape(i.get("source", ""))
     sat = "SATIRE: " if i.get("column") == "laugh" else ""
-    if i.get("breaking"):
-        sat = '<span class="brk">BREAKING</span> ' + sat
-    c = f' class="{cls}"' if cls else ""
-    return (f'{sat}<a{c} href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">{t}</a>'
+    classes = " ".join(c for c in (cls, "red" if i.get("breaking") else "") if c)
+    c = f' class="{classes}"' if classes else ""
+    return (f'<a{c} href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">{sat}{t}</a>'
             + (f' <span class="src">({src})</span>' if src else ""))
 
-def render(lead, subleads, cols):
-    upd = datetime.now(TZ).strftime("%A, %B %-d, %Y &middot; %-I:%M %p CT")
-    def ul(lst):
-        return "\n".join(f"<li>{link(i)}</li>" for i in lst)
-    heads = {1: "NATION &amp; POLITICS", 2: "MONEY &amp; WORLD", 3: "SCIENCE, TECH &amp; ODDITIES", "laugh": "FOR LAUGHS"}
-    sections = "\n".join(f'<h2>{heads[c]}</h2>\n<ul>{ul(cols[c])}</ul>'
-                         for c in (1, 2, 3, "laugh") if cols.get(c))
-    subs = f'<ul class="subs">{ul(subleads)}</ul>' if subleads else ""
+def column(label, lst, every=3):
+    out = [f'<h2>{label}</h2>']
+    for n, i in enumerate(lst):
+        out.append(f'<p>{link(i)}</p>')
+        if (n + 1) % every == 0 and n + 1 < len(lst):
+            out.append("<hr>")
+    return "\n".join(out)
+
+def render(lead, subleads, cols, feeds=()):
+    upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
+    subs = "\n".join(f'<p class="sub">{link(i)}</p>' for i in subleads)
+    c1 = column("NATION &amp; POLITICS", cols.get(1, []))
+    c2 = column("MONEY &amp; WORLD", cols.get(2, []))
+    c3 = column("SCIENCE, TECH &amp; ODDITIES", cols.get(3, []))
+    if cols.get("laugh"):
+        c3 += "\n<hr>\n" + column("FOR LAUGHS", cols["laugh"], every=99)
+    seen, srcs = set(), []
+    for f in feeds:
+        home = HOMES.get(f["name"])
+        if home and f["name"] not in seen and f["name"] != "WSJ Opinion":
+            seen.add(f["name"])
+            srcs.append((f["name"].upper(), f'<a href="{home}" target="_blank" rel="noopener">{html.escape(f["name"].upper())}</a>'))
+    sources = ('<hr>\n<h2>SOURCES</h2>\n<p class="wire">' + "<br>\n".join(a for _, a in sorted(srcs)) + "</p>") if srcs else ""
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -484,31 +555,52 @@ def render(lead, subleads, cols):
 <meta name="description" content="The day's headlines, picked with common sense and served fast. Links go to the original publishers.">
 <meta http-equiv="refresh" content="900">
 <style>
+:root{{--link-underline:underline;--red:#f00}}  /* set --link-underline:none to remove all underlines */
 html{{background:#fff;color:#000}}
-body{{margin:0 auto;max-width:760px;padding:16px 18px 28px;font:16px/1.4 Georgia,"Times New Roman",serif;background:#fff;color:#000}}
-a,a:visited,a:hover,a:active{{color:#000}}
-h1{{margin:0;font-size:34px;font-weight:bold;text-align:center}}
-.date{{margin:2px 0 0;text-align:center;font-size:14px}}
-hr{{border:0;border-top:1px solid #000;margin:14px 0}}
-ul{{list-style:none;margin:0;padding:0}}
-li{{padding:7px 0;font-size:17px;font-weight:bold}}
-.lead{{margin:20px 0 10px;text-align:center}}
-.lead a{{font-size:clamp(28px,5vw,40px);line-height:1.15;font-weight:bold}}
-.subs li{{text-align:center;font-size:20px}}
-h2{{margin:26px 0 4px;font-size:13px;font-weight:normal;letter-spacing:.08em}}
-.src{{font-size:13px;font-weight:normal}}
-.brk{{color:#c00;font-weight:bold;font-size:.7em;letter-spacing:.04em;vertical-align:.1em}}
-p.end{{margin:30px 0 0;font-size:13px;text-align:center}}
-@media (max-width:560px){{h1{{font-size:28px}}li{{padding:9px 0}}.subs li{{font-size:18px}}}}
+body{{margin:0 auto;max-width:1100px;padding:18px 10px 40px;background:#fff;color:#000;
+  font:bold 13px/1.25 "Courier New",Courier,"Nimbus Mono PS","Liberation Mono",monospace}}
+a,a:visited,a:hover,a:active{{color:#000;text-decoration:var(--link-underline)}}
+a.red,a.red:visited,a.red:hover,a.red:active{{color:var(--red)}}
+.top{{text-align:center;font-family:Arial,Helvetica,"Liberation Sans",sans-serif;font-weight:bold}}
+.lead{{margin:6px 0 10px;font-size:clamp(26px,4.4vw,46px);line-height:1.12;text-transform:uppercase}}
+.lead .src,.sub .src{{font-family:"Courier New",Courier,monospace}}
+.sub{{margin:6px 0;font-size:clamp(15px,2vw,20px);line-height:1.2;text-transform:uppercase}}
+.mast{{margin:22px 0 0;text-align:center;font:italic 900 clamp(34px,7.4vw,84px)/1 "Arial Black","Arial Bold",Gadget,Impact,"Helvetica Neue",Arial,sans-serif;
+  letter-spacing:-.02em;transform:skewX(-6deg)}}
+.date{{margin:6px 0 18px;text-align:center;font-size:11px;font-weight:normal}}
+.cols{{display:grid;grid-template-columns:1fr 1fr 1fr}}
+.col{{padding:0 10px;min-width:0}}
+.col+.col{{border-left:1px solid #000}}
+h2{{margin:0 0 8px;font-size:11px;font-weight:normal;letter-spacing:.06em;border-bottom:1px solid #000;padding-bottom:3px}}
+.col h2:not(:first-child){{margin-top:4px}}
+.col p{{margin:0 0 12px;overflow-wrap:anywhere}}
+hr{{border:0;border-top:1px solid #000;margin:10px 0 12px}}
+.src{{font-size:11px;font-weight:normal;white-space:nowrap;text-transform:none}}
+.wire{{line-height:1.35}}
+p.end{{margin:30px 0 0;font-size:11px;font-weight:normal;text-align:center}}
+@media (max-width:700px){{body{{padding:12px 4px 30px;font-size:11px}}.col{{padding:0 4px}}.src{{font-size:9.5px;white-space:normal}}h2{{font-size:9.5px}}}}
+@media (max-width:340px){{.cols{{grid-template-columns:1fr}}.col+.col{{border-left:0;border-top:1px solid #000;padding-top:10px}}}}
 </style></head>
 <body>
-<h1>DAILY RUSH REPORT</h1>
-<p class="date">{upd}</p>
-<hr>
-<div class="lead">{link(lead)}</div>
+<div class="top">
+<p class="lead">{link(lead)}</p>
 {subs}
+</div>
+<h1 class="mast">DAILY RUSH REPORT</h1>
+<p class="date">{upd}</p>
+<div class="cols">
+<div class="col">
+{c1}
+</div>
+<div class="col">
+{c2}
+</div>
+<div class="col">
+{c3}
+{sources}
+</div>
+</div>
 <hr>
-{sections}
 <p class="end">Links go to original publishers.</p>
 </body></html>
 """

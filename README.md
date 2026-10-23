@@ -62,20 +62,31 @@ Headlines link straight to the original publishers; we only show the headline an
 - **Junk filter:** `skip_if_url_contains` / `skip_if_title_starts_with` in `feeds.json` (podcasts, video, celebrity pages, etc.).
 - Satire (Babylon Bee) only appears in the "For laughs" section at the bottom, each item prefixed **SATIRE:**.
 
-## BREAKING label
-A small red **BREAKING** appears before a headline (the only colour on the page) when either:
-- the story is being carried by **2+ different outlets** at once (same duplicate-cluster, counted by publisher web domain, so BBC + BBC Science count as one), or
+## Red (breaking) headlines
+A breaking story is shown as **red headline text** (no "BREAKING" word in front). A story turns red when either:
+- the story is being carried by **2+ different outlets** at once (same duplicate-cluster, counted by publisher web domain, so BBC + BBC Science count as one; opinion pieces in the cluster don't count), or
 - its newest version was **published within the last 60 minutes**.
 
-Outlets listed in `breaking_skip_sources` (opinion/analysis: RealClearPolitics, National Review, Reason,
-The Free Press) never get an automatic label. Automatic labels are capped at **5 per page** (strongest first: most outlets, then newest) so it keeps its meaning. Satire is never labeled.
+Never red automatically:
+- **Opinion.** A story is opinion if any of these is true: its feed has `"opinion": true` in `feeds.json`
+  (currently WSJ Opinion and RealClearPolitics); its URL has an opinion section such as `/opinion/`, `/opinions/`,
+  `/op-ed/`, `/op-eds/`, `/commentary/`, `/column(s)/`, `/columnists/`, `/editorial(s)/`, `/perspective(s)/`,
+  `/letters-to-the-editor/`, `/beltway-confidential/`, `/restoring-america/`; the feed tags it with an opinion category
+  (Opinion, Opinions - …, Op-Eds, Commentary, Editorial(s), Columns, fox-news/opinion…); or the headline starts with
+  "Opinion:", "Op-Ed:", "Editorial:", "Commentary:" or "Column:". A "Name: quote" headline alone does not count.
+  Opinion pieces are also never picked as the lead or a sub-lead. The build log lists opinion stories on the page and why.
+- Outlets in `breaking_skip_sources` (RealClearPolitics, National Review, Reason, The Free Press).
+- **Satire** (Babylon Bee / "For laughs") — never red, not even by editor pick.
+
+Automatic red is capped at **5 per page** (strongest first: most outlets, then newest).
 Settings in `feeds.json`: `breaking_max` (5), `breaking_min_outlets` (2), `breaking_recent_minutes` (60).
 
 Editor control in `picks.json` — add `"breaking": true` or `"breaking": false` to any `lead`, `pinned`, or `rewrites` entry:
 ```json
 "rewrites": {"https://publisher.com/story": {"breaking": false}}
 ```
-Editor-forced labels always show and don't count toward the cap. The build log lists every labeled headline and why.
+`"breaking": true` forces red even for an opinion piece (your call as editor); `false` turns red off.
+Editor-forced red always shows and doesn't count toward the cap.
 
 ## Adding or removing a feed
 Add an entry to `feeds.json` → `feeds`: `{"name": "Outlet", "url": "https://…/rss", "column": 2, "lead": false}`.
@@ -84,7 +95,11 @@ Set `"enabled": false` to switch one off. Run `python3 build.py` and check the f
 ## Ground rules (copyright & trust)
 - Headline + link only. Never copy article text or images.
 - Rewrites must be true to the linked story. When in doubt, use the publisher's headline.
-- Styling is original CSS in `render()` inside `build.py`: plain newspaper look, black text on white,
-  one column, plain bold "DAILY RUSH REPORT" title, no logo/graphics/images. The only colour is the small red BREAKING label. Satire items read
-  "SATIRE:" in plain text. The `hot` flag in picks.json is still accepted but no longer changes colour.
-  Do not borrow other sites' markup, logos, or layouts (including microphone imagery associated with Rush Limbaugh/EIB).
+- Styling is original CSS in `render()` inside `build.py`, in the classic Drudge-style look: big bold uppercase
+  sans-serif lead headline (plus sub-leads) on top, a heavy italic "DAILY RUSH REPORT" masthead set in system
+  fonts (text, not an image), then three columns of bold Courier-style headlines split by thin rules, outlet in
+  parentheses after each link, a SOURCES list at the foot of column 3. Black on white; the only colour is red for
+  breaking headlines. No logos, photos, ads or copied content from any other site. Satire items read "SATIRE:".
+  Underlines: one switch — `--link-underline` at the top of the `<style>` block (`underline` or `none`).
+  The `hot` flag in picks.json is still accepted but doesn't change colour.
+  Do not use other sites' logos/images or microphone imagery associated with Rush Limbaugh/EIB.

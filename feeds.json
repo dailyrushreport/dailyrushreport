@@ -1,5 +1,5 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for the red BREAKING label (see README). breaking_skip_sources: opinion/analysis outlets that never get an automatic BREAKING label.",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for the red BREAKING label (see README). breaking_skip_sources: opinion/analysis outlets that never get an automatic BREAKING label. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README).",
   "settings": {
     "per_column": 11,
     "laugh_count": 3,
@@ -98,7 +98,8 @@
       "name": "RealClearPolitics",
       "url": "https://www.realclearpolitics.com/index.xml",
       "column": 1,
-      "max_age_hours": 48
+      "max_age_hours": 48,
+      "opinion": true
     },
     {
       "name": "The Free Press",
@@ -151,7 +152,8 @@
       "name": "WSJ Opinion",
       "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
       "column": 2,
-      "_note": "feed appears frozen since Jan 2025; freshness filter skips it automatically"
+      "_note": "feed appears frozen since Jan 2025; freshness filter skips it automatically",
+      "opinion": true
     },
     {
       "name": "The Guardian",
