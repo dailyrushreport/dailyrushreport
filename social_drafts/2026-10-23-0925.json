@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-23-0925.json",
+  "created": "2026-10-23T14:25:40.896112+00:00",
+  "created_ct": "Fri Oct 23, 2026 9:25 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+    "original_headline": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says. (BBC) https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 175,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

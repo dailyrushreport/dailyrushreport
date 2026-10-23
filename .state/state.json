@@ -1,13 +1,14 @@
 {
  "recent_leads": [
   "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit",
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+  "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
-  "since": "2026-10-23T11:22:00.599996+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+  "since": "2026-10-23T14:25:40.896112+00:00"
  },
- "last_build": "2026-10-23T13:42:44.354860+00:00",
+ "last_build": "2026-10-23T14:25:40.896112+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -39,6 +40,7 @@
   "Babylon Bee": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+  "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
  ]
 }
