@@ -1,8 +1,9 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout.",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (always labeled SATIRE; rotates across outlets: newest story from each satire outlet, at most 1 per outlet, outlet order reshuffled every hour, laugh_count shown; laugh_skip_words drops crude headlines). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout.",
   "settings": {
     "per_column": 11,
     "laugh_count": 3,
+    "laugh_skip_words": ["fuck", "shit", "bitch", "cunt", "dick", "cock", "porn", "orgasm", "masturbat", "dildo", "blowjob", "penis", "vagina", "boner", "horny"],
     "subleads": 3,
     "default_max_age_hours": 36,
     "lead_window_hours": 14,
@@ -231,6 +232,48 @@
     {
       "name": "Babylon Bee",
       "url": "https://babylonbee.com/feed",
+      "column": "laugh",
+      "max_age_hours": 96
+    },
+    {
+      "name": "The Onion",
+      "url": "https://theonion.com/feed/",
+      "column": "laugh",
+      "max_age_hours": 96
+    },
+    {
+      "name": "Reductress",
+      "url": "https://reductress.com/feed/",
+      "column": "laugh",
+      "max_age_hours": 120
+    },
+    {
+      "name": "The Hard Times",
+      "url": "https://thehardtimes.net/feed/",
+      "column": "laugh",
+      "max_age_hours": 96
+    },
+    {
+      "name": "Duffel Blog",
+      "url": "https://www.duffelblog.com/feed",
+      "column": "laugh",
+      "max_age_hours": 168
+    },
+    {
+      "name": "ClickHole",
+      "url": "https://clickhole.com/feed/",
+      "column": "laugh",
+      "max_age_hours": 120
+    },
+    {
+      "name": "The Beaverton",
+      "url": "https://www.thebeaverton.com/feed/",
+      "column": "laugh",
+      "max_age_hours": 120
+    },
+    {
+      "name": "The Daily Mash",
+      "url": "https://www.thedailymash.co.uk/feed",
       "column": "laugh",
       "max_age_hours": 96
     }

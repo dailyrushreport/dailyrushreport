@@ -15,6 +15,8 @@ Only the standard library is used.
 
 Usage:  python3 build.py [--out index.html] [--offline]
 """
+import gzip
+import random
 import argparse, concurrent.futures as cf, email.utils, hashlib, html, json, os, re, sys, tempfile, time
 import urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
@@ -155,6 +157,8 @@ def fetch_feed(feed, settings, offline=False):
         try:
             req = urllib.request.Request(feed["url"], headers={"User-Agent": settings["user_agent"]})
             raw = urllib.request.urlopen(req, timeout=settings.get("timeout_seconds", 10)).read()
+            if raw[:2] == b"\x1f\x8b":                  # some servers gzip the feed even when not asked
+                raw = gzip.decompress(raw)
             items = parse_feed(raw, feed)
             if not items:
                 raise ValueError("no items")
@@ -772,12 +776,28 @@ def build(args):
     # a story that qualifies for red always gets a column slot (placed first), so it can't fall off the page
     for r in sorted(reps, key=lambda r: (red_qualifies(r, S), ("display" in r), r["published"]), reverse=True):
         c = r["column"]
+        if c == "laugh":
+            continue                                   # For Laughs is filled by the rotation below
         limit = S["laugh_count"] if c == "laugh" else S["per_column"]
         k = (c, r["source"])
         if len(cols[c]) >= limit or per_src.get(k, 0) >= S["max_per_source_per_column"]:
             continue
         per_src[k] = per_src.get(k, 0) + 1
         cols[c].append(r)
+    # ---- For Laughs: rotate across satire outlets so no single one dominates. Take each outlet's newest
+    # story (skipping crude headlines), at most 1 per outlet, and shuffle the outlet order with a seed that
+    # changes every hour (Central time), so a different outlet leads and a different mix shows through the day.
+    bad = [w.lower() for w in S.get("laugh_skip_words", [])]
+    newest = {}
+    for r in sorted((r for r in reps if r["column"] == "laugh"), key=lambda r: r["published"], reverse=True):
+        t = (r.get("display") or r["title"]).lower()
+        if r["source"] not in newest and not any(w in t for w in bad):
+            newest[r["source"]] = r
+    outlets = sorted(newest)
+    random.Random(datetime.now(TZ).strftime("%Y-%m-%d %H")).shuffle(outlets)
+    cols["laugh"] = [p for p in cols["laugh"] if p.get("pinned")]
+    cols["laugh"] += [newest[o] for o in outlets][:max(0, S["laugh_count"] - len(cols["laugh"]))]
+
     # keep a fixed order within columns: pinned first, then editor-voiced, then newest
     for c in (1, 2, 3):
         cols[c].sort(key=lambda r: (not r.get("pinned"), "display" not in r, ""))
@@ -856,7 +876,10 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "NY Post": "https://nypost.com/
          "NPR": "https://www.npr.org/", "Ars Technica": "https://arstechnica.com/",
          "The Verge": "https://www.theverge.com/", "ScienceDaily": "https://www.sciencedaily.com/",
          "UPI Odd News": "https://www.upi.com/Odd_News/", "Space.com": "https://www.space.com/",
-         "Babylon Bee": "https://babylonbee.com/"}
+         "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
+         "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",
+         "Duffel Blog": "https://www.duffelblog.com/", "ClickHole": "https://clickhole.com/",
+         "The Beaverton": "https://www.thebeaverton.com/", "The Daily Mash": "https://www.thedailymash.co.uk/"}
 
 def link(i, cls=""):
     t = html.escape(i.get("display") or i["title"])

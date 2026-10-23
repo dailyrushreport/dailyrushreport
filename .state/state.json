@@ -8,7 +8,7 @@
   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
   "since": "2026-10-23T14:25:40.896112+00:00"
  },
- "last_build": "2026-10-23T16:01:29.825827+00:00",
+ "last_build": "2026-10-23T16:34:41.458484+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -36,8 +36,15 @@
   "ScienceDaily": "ok",
   "BBC Science": "ok",
   "UPI Odd News": "ok",
-  "Space.com": "ok",
-  "Babylon Bee": "ok"
+  "Space.com": "FAILED (URLError: <urlopen error timed out>) - used cache from 2026-10-23T16:01Z",
+  "Babylon Bee": "ok",
+  "The Onion": "ok",
+  "Reductress": "ok",
+  "The Hard Times": "ok",
+  "Duffel Blog": "ok",
+  "ClickHole": "ok",
+  "The Beaverton": "ok",
+  "The Daily Mash": "ok"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
