@@ -11,7 +11,7 @@
   "url": "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "since": "2026-10-23T18:16:21.174884+00:00"
  },
- "last_build": "2026-10-23T19:01:55.360755+00:00",
+ "last_build": "2026-10-23T19:05:06.640998+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -56,7 +56,7 @@
   "The Hard Times": "ok",
   "Duffel Blog": "ok",
   "ClickHole": "ok",
-  "The Beaverton": "FAILED (URLError: <urlopen error timed out>) - used cache from 2026-10-23T18:52Z",
+  "The Beaverton": "ok",
   "The Daily Mash": "ok"
  },
  "drafted_leads": [
