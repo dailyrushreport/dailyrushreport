@@ -7,7 +7,7 @@
   "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
   "since": "2026-10-23T11:22:00.599996+00:00"
  },
- "last_build": "2026-10-23T13:08:39.947026+00:00",
+ "last_build": "2026-10-23T13:32:51.180767+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -35,7 +35,7 @@
   "ScienceDaily": "ok",
   "BBC Science": "ok",
   "UPI Odd News": "ok",
-  "Space.com": "FAILED (URLError: <urlopen error timed out>) - no cache",
+  "Space.com": "ok",
   "Babylon Bee": "ok"
  },
  "drafted_leads": [
