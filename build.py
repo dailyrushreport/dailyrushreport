@@ -784,6 +784,20 @@ def build(args):
 
     qualified = mark_breaking([lead] + subleads + cols[1] + cols[2] + cols[3], S)
 
+    # ---- Drudge layout: only the lead sits above the masthead. The other top stories (sub-leads) move to the
+    # top of the columns: each to its own column (1 or 2 for news; 3 only if it's a Culture story), at most
+    # 2 per column, overflowing to the other news column. They keep their red status and get class "sub".
+    tops = {1: [], 2: [], 3: []}
+    for r in subleads:
+        home = r["column"] if r["column"] in (1, 2, 3) else 1
+        order = [home] + [c for c in (1, 2) if c != home] + ([3] if home != 3 else [])
+        dest = next((c for c in order if len(tops[c]) < 2), min(tops, key=lambda c: len(tops[c])))
+        r["top"] = True
+        tops[dest].append(r)
+    for c in (1, 2, 3):
+        cols[c] = tops[c] + cols[c]
+    subleads = []
+
     with_photos = assign_photos(lead, cols, S, picks, uniq)
     log(f"Photos: {len(with_photos)}" + "".join(
         f"\n    - {x.get('display') or x['title']} ({x.get('source')}) <- {x['photo']['img']}" for x in with_photos))
@@ -824,7 +838,8 @@ def build(args):
     log(f"Wrote {args.out}")
 
 # ---------------------------------------------------------------- HTML
-# Drudge-style layout (style only, original content): big bold uppercase sans headline on top,
+# Drudge-style layout (style only, original content): the lead's photo + big bold uppercase sans headline
+# ALONE on top (the other top stories open the columns),
 # heavy italic "DAILY RUSH REPORT" masthead under it, then three typewriter-font columns split by
 # thin rules. Breaking = red headline text (no label). One photo over the lead and a few in the columns,
 # each from its own story (hotlinked, credited). No ads.
@@ -871,17 +886,16 @@ def column(label, lst, every=3):
     for n, i in enumerate(lst):
         if i.get("photo"):
             out.append(photo(i))
-        out.append(f'<p>{link(i)}</p>')
+        out.append(f'<p class="sub">{link(i)}</p>' if i.get("top") else f'<p>{link(i)}</p>')
         if (n + 1) % every == 0 and n + 1 < len(lst):
             out.append("<hr>")
     return "\n".join(out)
 
 def render(lead, subleads, cols, feeds=()):
     upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
-    subs = "\n".join(f'<p class="sub">{link(i)}</p>' for i in subleads)
     c1 = column("NATION &amp; POLITICS", cols.get(1, []))
     c2 = column("MONEY &amp; WORLD", cols.get(2, []))
-    c3 = column("SCIENCE, TECH &amp; ODDITIES", cols.get(3, []))
+    c3 = column("CULTURE", cols.get(3, []))
     if cols.get("laugh"):
         c3 += "\n<hr>\n" + column("FOR LAUGHS", cols["laugh"], every=99)
     seen, srcs = set(), []
@@ -906,8 +920,8 @@ a,a:visited,a:hover,a:active{{color:#000;text-decoration:var(--link-underline)}}
 a.red,a.red:visited,a.red:hover,a.red:active{{color:var(--red)}}
 .top{{text-align:center;font-family:Arial,Helvetica,"Liberation Sans",sans-serif;font-weight:bold}}
 .lead{{margin:6px 0 10px;font-size:clamp(26px,4.4vw,46px);line-height:1.12;text-transform:uppercase}}
-.lead .src,.sub .src{{font-family:"Courier New",Courier,monospace}}
-.sub{{margin:6px 0;font-size:clamp(15px,2vw,20px);line-height:1.2;text-transform:uppercase}}
+.lead .src{{font-family:"Courier New",Courier,monospace}}
+.col p.sub{{font-size:1.1em}}
 .mast{{margin:22px 0 0;text-align:center;font:italic 900 clamp(34px,7.4vw,84px)/1 "Arial Black","Arial Bold",Gadget,Impact,"Helvetica Neue",Arial,sans-serif;
   letter-spacing:-.02em;transform:skewX(-6deg)}}
 .date{{margin:6px 0 18px;text-align:center;font-size:11px;font-weight:normal}}
@@ -935,7 +949,6 @@ p.end{{margin:30px 0 0;font-size:11px;font-weight:normal;text-align:center}}
 <div class="top">
 {photo(lead, "ph leadph", lazy=False)}
 <p class="lead">{link(lead)}</p>
-{subs}
 </div>
 <h1 class="mast">DAILY RUSH REPORT</h1>
 <p class="date">{upd}</p>

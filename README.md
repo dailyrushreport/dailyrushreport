@@ -27,7 +27,7 @@ Headlines link straight to the original publishers; we only show the headline an
      ```json
      "lead": {"title": "PLAIN-SPOKEN HEADLINE HERE", "url": "https://publisher.com/story", "source": "WSJ", "expires": "2026-10-23 18:00"}
      ```
-   - Add a must-read link to a column (1 = Nation & Politics, 2 = Money & World, 3 = Science, Tech & Oddities):
+   - Add a must-read link to a column (1 = Nation & Politics, 2 = Money & World, 3 = Culture):
      ```json
      "pinned": [{"title": "...", "url": "https://...", "source": "Reason", "column": 2, "hot": true, "expires": "2026-10-23 23:59"}]
      ```
@@ -108,6 +108,14 @@ Editor control in `picks.json` — add `"breaking": true` or `"breaking": false`
 Editor-forced red always shows and **does count toward the cap of 2**: with one editor red, at most one
 automatic red is added; with two, none. (Satire stays black even with `"breaking": true`.)
 
+## Page layout (Drudge-style)
+1. **Above the masthead: only the lead** — its photo, then the big uppercase headline. Nothing else.
+2. The **DAILY RUSH REPORT** masthead and date.
+3. Three columns: **NATION & POLITICS**, **MONEY & WORLD**, **CULTURE** (satire "For laughs" and SOURCES at the foot of column 3).
+   The next top stories (`subleads` in feeds.json, default 3) open the columns: each goes to the top of its own
+   column (news stories to column 1 or 2, at most 2 per column; column 3 only for a Culture story), set slightly
+   larger. A pinned lead in picks.json takes the top slot the same way as an automatic one.
+
 ## Photos
 Drudge-style: **one photo above the lead headline** and **a few (default 3) in the columns**, each placed directly
 above its own story's headline, near the top of a column (spread across the three columns).
@@ -135,7 +143,7 @@ Set `"enabled": false` to switch one off. Run `python3 build.py` and check the f
   into this repo), linked back to the story and credited.
 - Rewrites must be true to the linked story. When in doubt, use the publisher's headline.
 - Styling is original CSS in `render()` inside `build.py`, in the classic Drudge-style look: big bold uppercase
-  sans-serif lead headline (plus sub-leads) on top, a heavy italic "DAILY RUSH REPORT" masthead set in system
+  sans-serif lead headline (with its photo) alone on top, a heavy italic "DAILY RUSH REPORT" masthead set in system
   fonts (text, not an image), then three columns of bold Courier-style headlines split by thin rules, outlet in
   parentheses after each link, a SOURCES list at the foot of column 3. Black on white; the only colour is red for
   breaking headlines. Story photos as described under **Photos**; no logos, ads or copied content from any other site. Satire items read "SATIRE:".
