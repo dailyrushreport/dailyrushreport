@@ -29,6 +29,42 @@ ARCHIVE_DIR = os.path.join(ROOT, "archive")
 TZ = ZoneInfo("America/Chicago")
 NOW = datetime.now(timezone.utc)
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
+IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|$)", re.I)
+
+def _int(v):
+    try:
+        return int(float(v))
+    except (TypeError, ValueError):
+        return 0
+
+def feed_image(it):
+    """Best image the feed itself gives for an item: media:content / media:thumbnail (also inside media:group)
+    and image enclosures. Largest declared width wins. Returns {img, w, h, credit} or None."""
+    cands, item_credit = [], ""
+    for c in it.iter(MEDIA + "credit"):
+        if (c.text or "").strip():
+            item_credit = c.text.strip(); break
+    for el in it.iter():
+        if el.tag not in (MEDIA + "content", MEDIA + "thumbnail", "enclosure", ATOM + "link"):
+            continue
+        u = (el.get("url") or el.get("href") or "").strip()
+        if not u.startswith("http"):
+            continue
+        typ, med = (el.get("type") or "").lower(), (el.get("medium") or "").lower()
+        if el.tag == ATOM + "link" and el.get("rel") != "enclosure":
+            continue
+        if not (typ.startswith("image/") or med == "image" or (not typ and IMG_EXT.search(u))
+                or (el.tag == MEDIA + "thumbnail")):
+            continue
+        cr = el.findtext(MEDIA + "credit") or ""
+        cands.append({"img": html.unescape(u), "w": _int(el.get("width")), "h": _int(el.get("height")),
+                      "credit": (cr.strip() or item_credit), "thumb": el.tag == MEDIA + "thumbnail"})
+    if not cands:
+        return None
+    best = max(cands, key=lambda c: (c["w"], not c["thumb"]))
+    best.pop("thumb")
+    return best
 
 def log(*a):
     print(datetime.now(TZ).strftime("%H:%M:%S"), *a, file=sys.stderr)
@@ -104,7 +140,9 @@ def parse_feed(raw, feed):
         title = clean_text(title)
         if not title or not link.strip().startswith("http"):
             continue
-        out.append({"title": title, "url": canonical_url(link), "source": feed["name"],
+        im = feed_image(it)
+        out.append({**({"image": im} if im else {}),
+                    "title": title, "url": canonical_url(link), "source": feed["name"],
                     "published": (parse_date(date) or NOW).isoformat(),
                     "column": feed.get("column", 1), "lead_ok": bool(feed.get("lead")),
                     "cats": [clean_text(c) for c in cats if clean_text(c) and len(c) < 80][:20]})
@@ -410,6 +448,202 @@ def write_social_drafts(lead, state):
     log(f"Social drafts: wrote social_drafts/{stamp}.json/.md + latest.md (pending_approval)")
     return d
 
+# ---------------------------------------------------------------- photos
+# Drudge-style photos: one above the lead, a few in the columns, each from its OWN story. Images are hotlinked
+# from the publisher (never downloaded into the repo). Source order: the feed's media:content / media:thumbnail /
+# enclosure, else the article page's og:image / twitter:image. Every chosen image is probed (small ranged GET)
+# for real pixel size, so tiny images, logos and generic social cards are skipped. Results are cached in
+# .state/images.json so the 30-minute rebuilds don't refetch pages. Failures are skipped silently.
+IMG_CACHE = os.path.join(STATE_DIR, "images.json")
+GENERIC_IMG = re.compile(r"(logo|placeholder|default|fallback|generic|favicon|sprite|spacer|blank\.|social[-_]?share|"
+                         r"share[-_]?(image|card)|og[-_]?image[-_]?default|site[-_]?image|/brand(ing)?/|"
+                         r"/sp_wp\.|branded_news|overlay-base64|1x1|pixel\.)", re.I)
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+def upgrade_img(u):
+    """Same picture, bigger size, for CDNs whose size lives in the URL (BBC feed thumbnails are 240px)."""
+    return re.sub(r"(ichef\.bbci\.co\.uk/(?:ace|news)/standard/)\d+/", r"\g<1>976/", u)
+
+def img_size(data):
+    """Pixel size from the first bytes of a JPEG/PNG/GIF/WebP. (0, 0) if unknown."""
+    import struct
+    try:
+        if data[:8] == b"\x89PNG\r\n\x1a\n":
+            return struct.unpack(">II", data[16:24])
+        if data[:6] in (b"GIF87a", b"GIF89a"):
+            return struct.unpack("<HH", data[6:10])
+        if data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+            k = data[12:16]
+            if k == b"VP8X":
+                return (int.from_bytes(data[24:27], "little") + 1, int.from_bytes(data[27:30], "little") + 1)
+            if k == b"VP8 ":
+                w, h = struct.unpack("<HH", data[26:30]); return (w & 0x3FFF, h & 0x3FFF)
+            if k == b"VP8L":
+                b = int.from_bytes(data[21:25], "little"); return ((b & 0x3FFF) + 1, ((b >> 14) & 0x3FFF) + 1)
+        if data[:2] == b"\xff\xd8":
+            i = 2
+            while i + 9 < len(data):
+                if data[i] != 0xFF:
+                    i += 1; continue
+                m = data[i + 1]
+                if m in (0xD8, 0x01) or 0xD0 <= m <= 0xD7:
+                    i += 2; continue
+                ln = struct.unpack(">H", data[i + 2:i + 4])[0]
+                if m in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                    h, w = struct.unpack(">HH", data[i + 5:i + 9]); return (w, h)
+                i += 2 + ln
+    except Exception:
+        pass
+    return (0, 0)
+
+def probe_img(u, timeout):
+    """Fetch the start of the image: confirms it loads, is an image, and gives its real size."""
+    req = urllib.request.Request(u, headers={"User-Agent": BROWSER_UA, "Range": "bytes=0-131071",
+                                             "Accept": "image/jpeg,image/png,image/webp,image/*;q=0.8"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        typ = (r.headers.get("Content-Type") or "").lower()
+        total = r.headers.get("Content-Range", "").rsplit("/", 1)[-1] if r.status == 206 else r.headers.get("Content-Length")
+        data = r.read(131072)
+    if not typ.startswith("image/") or "svg" in typ:
+        raise ValueError(f"not a photo ({typ})")
+    w, h = img_size(data)
+    return w, h, _int(total)
+
+META_RE = re.compile(r"<meta\s[^>]*>", re.I)
+def page_image(url, timeout):
+    """og:image / twitter:image (+ og:image:width, and a JSON-LD creditText if the page has one)."""
+    req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA, "Accept": "text/html"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        page = r.read(600_000).decode("utf-8", "replace")
+    meta = {}
+    for tag in META_RE.findall(page):
+        k = re.search(r'(?:property|name)\s*=\s*["\']([^"\']+)', tag, re.I)
+        v = re.search(r'content\s*=\s*["\']([^"\']*)', tag, re.I)
+        if k and v:
+            meta.setdefault(k.group(1).lower(), html.unescape(v.group(1)).strip())
+    u = meta.get("og:image") or meta.get("og:image:secure_url") or meta.get("twitter:image") or meta.get("twitter:image:src")
+    if not u:
+        return None
+    u = urllib.parse.urljoin(url, u)
+    cr = re.search(r'"creditText"\s*:\s*"([^"]{2,80})"', page)
+    return {"img": u, "w": _int(meta.get("og:image:width")), "h": _int(meta.get("og:image:height")),
+            "credit": html.unescape(cr.group(1)) if cr else ""}
+
+def clean_credit(c):
+    c = clean_text(c or "")
+    c = re.sub(r"^(photo(graph)?s?|image|credit|picture)\s*(credit)?\s*[:\-\u2014]?\s*", "", c, flags=re.I).strip(" .")
+    if not c or len(c) > 70 or re.search(r"https?://|www\.", c):
+        return ""
+    return c
+
+def resolve_photo(it, S, cache, generic):
+    """Return a usable photo for one story ({img, w, h, credit}) or None. Uses/updates the cache."""
+    key = it["url"]
+    hit = cache.get(key)
+    if hit and hit.get("v") == 2 and (hit.get("photo") or
+            NOW - datetime.fromisoformat(hit["checked"]) < timedelta(hours=6)):   # retry misses after 6h
+        return hit.get("photo")
+    timeout = S.get("photo_timeout_seconds", 6)
+    minw = S.get("photo_min_width", 300)
+    cands = []
+    fi = it.get("image")
+    if fi:
+        cands.append(dict(fi, img=upgrade_img(fi["img"]), via="feed"))
+    if not fi or (fi.get("w") or 0) < 600 or GENERIC_IMG.search(fi["img"]):
+        try:
+            pi = page_image(it["url"], timeout)
+            if pi and (not fi or pi["img"] != fi["img"]):
+                cands.append(dict(pi, via="page"))
+        except Exception:
+            pass
+    best = None
+    for c in cands:
+        if GENERIC_IMG.search(c["img"]) or c["img"] in generic:
+            continue
+        try:
+            w, h, size = probe_img(c["img"], timeout)
+        except Exception:
+            continue
+        w, h = (w or c.get("w") or 0), (h or c.get("h") or 0)
+        if w < minw or (h and h < 150) or (h and not 0.5 <= w / h <= 2.6):
+            continue                                    # tiny, banner-shaped or tall strip: skip
+        if size and (size < 6000 or size > S.get("photo_max_bytes", 2_000_000)):
+            continue                                    # icon-sized file, or a multi-MB original
+        c.update(w=w, h=h)
+        if best is None or w > best["w"]:
+            best = c
+    photo = None
+    if best:
+        photo = {"img": best["img"], "w": best["w"], "h": best["h"], "credit": clean_credit(best.get("credit")),
+                 "via": best["via"]}
+    cache[key] = {"v": 2, "photo": photo, "checked": NOW.isoformat()}
+    return photo
+
+def generic_images(items):
+    """An image URL used by two or more different stories is a stock/default card, not the story's photo."""
+    seen = {}
+    for i in items:
+        u = (i.get("image") or {}).get("img")
+        if u:
+            seen.setdefault(u, set()).add(i["url"])
+    return {u for u, s in seen.items() if len(s) > 1}
+
+def photo_ok(it):
+    return not (it.get("opinion") or it.get("satire") or it.get("column") == "laugh")
+
+def assign_photos(lead, cols, S, picks, all_items):
+    """Lead photo + S.column_photos (default 3) column photos, spread across the three columns,
+    each placed directly above its own story near the top of its column."""
+    cache = load_json(IMG_CACHE, {})
+    cutoff = NOW - timedelta(days=3)
+    cache = {k: v for k, v in cache.items() if datetime.fromisoformat(v.get("checked", "2000-01-01T00:00:00+00:00")) > cutoff}
+    generic = generic_images(all_items)
+    # generic cards seen by the page fetcher for several stories also count
+    pc = {}
+    for v in cache.values():
+        if (v.get("photo") or {}).get("via") == "page":
+            pc[v["photo"]["img"]] = pc.get(v["photo"]["img"], 0) + 1
+    generic |= {u for u, n in pc.items() if n > 1}
+    n_col = int(S.get("column_photos", 3))
+    depth = int(S.get("photo_search_depth", 8))          # only look at the top N stories of each column
+    want = []
+    if photo_ok(lead):
+        want.append(lead)
+    for c in (1, 2, 3):
+        want += [x for x in cols.get(c, [])[:depth] if photo_ok(x)]
+    with cf.ThreadPoolExecutor(8) as ex:                   # cached stories return instantly
+        list(ex.map(lambda x: resolve_photo(x, S, cache, generic), want))
+    got = {x["url"]: resolve_photo(x, S, cache, generic) for x in want}
+    # lead: picks.json "lead_image" = URL to force a photo, false to show none
+    li = picks.get("lead_image", None)
+    if li is False:
+        lead.pop("photo", None)
+    elif isinstance(li, str) and li.startswith("http"):
+        lead["photo"] = {"img": li, "credit": clean_credit(picks.get("lead_image_credit", ""))}
+    elif got.get(lead["url"]) and got[lead["url"]]["w"] >= S.get("lead_photo_min_width", 400):
+        lead["photo"] = got[lead["url"]]
+    # columns: round-robin 1,2,3,1,2,3... taking the next photo-able story, at least 4 stories below the last one
+    nxt = {1: 0, 2: 0, 3: 0}
+    placed, used_imgs = 0, {(lead.get("photo") or {}).get("img")}
+    while placed < n_col:
+        progress = False
+        for c in (1, 2, 3):
+            if placed >= n_col:
+                break
+            lst = cols.get(c, [])
+            for k in range(nxt[c], min(len(lst), depth)):
+                ph = got.get(lst[k]["url"])
+                if ph and ph["img"] not in used_imgs and photo_ok(lst[k]):
+                    lst[k]["photo"] = ph; used_imgs.add(ph["img"])
+                    nxt[c] = k + 4; placed += 1; progress = True
+                    break
+            else:
+                nxt[c] = depth
+        if not progress:
+            break
+    atomic_write(IMG_CACHE, json.dumps(cache, indent=0))
+    return [x for x in [lead] + cols.get(1, []) + cols.get(2, []) + cols.get(3, []) if x.get("photo")]
+
 # ---------------------------------------------------------------- main build
 def build(args):
     cfg = load_json(os.path.join(ROOT, "feeds.json"), None)
@@ -550,6 +784,10 @@ def build(args):
 
     qualified = mark_breaking([lead] + subleads + cols[1] + cols[2] + cols[3], S)
 
+    with_photos = assign_photos(lead, cols, S, picks, uniq)
+    log(f"Photos: {len(with_photos)}" + "".join(
+        f"\n    - {x.get('display') or x['title']} ({x.get('source')}) <- {x['photo']['img']}" for x in with_photos))
+
     total = 1 + len(subleads) + sum(len(v) for v in cols.values())
     log("Feed report:")
     for name, status, n, fresh in report:
@@ -588,7 +826,8 @@ def build(args):
 # ---------------------------------------------------------------- HTML
 # Drudge-style layout (style only, original content): big bold uppercase sans headline on top,
 # heavy italic "DAILY RUSH REPORT" masthead under it, then three typewriter-font columns split by
-# thin rules. Breaking = red headline text (no label). No images, no ads.
+# thin rules. Breaking = red headline text (no label). One photo over the lead and a few in the columns,
+# each from its own story (hotlinked, credited). No ads.
 # UNDERLINES: one toggle - set --link-underline in the <style> block to "none" to switch them off.
 HOMES = {"Fox News": "https://www.foxnews.com/", "NY Post": "https://nypost.com/",
          "Washington Examiner": "https://www.washingtonexaminer.com/", "Axios": "https://www.axios.com/",
@@ -613,9 +852,25 @@ def link(i, cls=""):
     return (f'<a{c} href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">{sat}{t}</a>'
             + (f' <span class="src">({src})</span>' if src else ""))
 
+def photo(i, cls="ph", lazy=True):
+    """Story photo: hotlinked from the publisher, linked to the story, credit underneath. If it fails to load
+    in the browser, the whole figure removes itself (no broken-image icon)."""
+    p = i.get("photo")
+    if not p:
+        return ""
+    credit = p.get("credit") or re.sub(r" (Economy|Tech|Science|Odd News|Opinion)$", "", i.get("source") or "")
+    wh = f' width="{p["w"]}" height="{p["h"]}"' if p.get("w") and p.get("h") else ""
+    return (f'<figure class="{cls}"><a href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">'
+            f'<img src="{html.escape(p["img"], quote=True)}" alt="{html.escape(i.get("display") or i["title"], quote=True)}"{wh}'
+            f'{" loading=" + chr(34) + "lazy" + chr(34) if lazy else ""} referrerpolicy="no-referrer" '
+            f'onerror="this.closest(\'figure\').remove()"></a>'
+            + (f'<figcaption>(Photo: {html.escape(credit)})</figcaption>' if credit else "") + '</figure>')
+
 def column(label, lst, every=3):
     out = [f'<h2>{label}</h2>']
     for n, i in enumerate(lst):
+        if i.get("photo"):
+            out.append(photo(i))
         out.append(f'<p>{link(i)}</p>')
         if (n + 1) % every == 0 and n + 1 < len(lst):
             out.append("<hr>")
@@ -665,12 +920,20 @@ h2{{margin:0 0 8px;font-size:11px;font-weight:normal;letter-spacing:.06em;border
 hr{{border:0;border-top:1px solid #000;margin:10px 0 12px}}
 .src{{font-size:11px;font-weight:normal;white-space:nowrap;text-transform:none}}
 .wire{{line-height:1.35}}
+figure{{margin:0}}
+.ph{{margin:0 0 6px}}
+.ph img{{display:block;width:100%;max-width:260px;height:auto;border:0}}
+.ph figcaption{{font-size:10px;font-weight:normal;margin-top:2px}}
+.leadph{{margin:4px auto 6px;width:min(100%,420px)}}
+.leadph img{{max-width:100%;max-height:440px;width:100%;object-fit:cover;margin:0 auto}}
+.leadph figcaption{{font-family:"Courier New",Courier,monospace;text-align:right}}
 p.end{{margin:30px 0 0;font-size:11px;font-weight:normal;text-align:center}}
 @media (max-width:700px){{body{{padding:12px 4px 30px;font-size:11px}}.col{{padding:0 4px}}.src{{font-size:9.5px;white-space:normal}}h2{{font-size:9.5px}}}}
 @media (max-width:340px){{.cols{{grid-template-columns:1fr}}.col+.col{{border-left:0;border-top:1px solid #000;padding-top:10px}}}}
 </style></head>
 <body>
 <div class="top">
+{photo(lead, "ph leadph", lazy=False)}
 <p class="lead">{link(lead)}</p>
 {subs}
 </div>

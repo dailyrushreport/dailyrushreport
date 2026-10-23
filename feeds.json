@@ -1,5 +1,5 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README).",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout.",
   "settings": {
     "per_column": 11,
     "laugh_count": 3,
@@ -59,7 +59,12 @@
       "apnews.com": "AP",
       "reuters.com": "Reuters",
       "pagesix.com": "News Corp"
-    }
+    },
+    "column_photos": 3,
+    "photo_min_width": 300,
+    "lead_photo_min_width": 400,
+    "photo_search_depth": 8,
+    "photo_timeout_seconds": 6
   },
   "feeds": [
     {

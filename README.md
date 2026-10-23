@@ -15,7 +15,7 @@ Headlines link straight to the original publishers; we only show the headline an
 | `run_daily.sh` | Wrapper for cron; logs to `build.log`. |
 | `.github/workflows/build.yml` | Optional: auto-rebuild every 30 min on GitHub. |
 | `archive/` | Snapshot of every build (last 60 kept). |
-| `.state/` | Feed cache + lead history (lets the site survive feed outages). Don't edit. |
+| `.state/` | Feed cache, photo cache + lead history (lets the site survive feed outages). Don't edit. |
 
 ## Daily workflow
 1. **Hands-off:** cron (or GitHub Actions) runs `./run_daily.sh` every 30 min. Nothing else is required.
@@ -108,18 +108,37 @@ Editor control in `picks.json` — add `"breaking": true` or `"breaking": false`
 Editor-forced red always shows and **does count toward the cap of 2**: with one editor red, at most one
 automatic red is added; with two, none. (Satire stays black even with `"breaking": true`.)
 
+## Photos
+Drudge-style: **one photo above the lead headline** and **a few (default 3) in the columns**, each placed directly
+above its own story's headline, near the top of a column (spread across the three columns).
+- Every photo comes from **its own story**: first the feed's `media:content` / `media:thumbnail` / image `enclosure`,
+  else the article page's `og:image` / `twitter:image`. The largest usable size is used.
+- Images are **hotlinked** from the publisher (nothing is downloaded into this repo), wrapped in a link to the
+  story, with `alt` = the headline and a credit line under it: the feed/page photo credit when there is one
+  (e.g. `(Photo: Alex Wroblewski/AFP/Getty Images)`), otherwise `(Photo: Outlet)`.
+- Skipped: opinion and satire stories, images under `photo_min_width` (300px; lead needs `lead_photo_min_width`, 400px),
+  odd shapes, logos/placeholder/default social cards (by URL pattern, or the same image used by 2+ stories),
+  and multi-MB originals. Each image is test-fetched at build time; if a browser still can't load one, it removes
+  itself, so there's never a broken-image box. No good lead image = no lead photo.
+- Results are cached in `.state/images.json` (3 days; misses retried after 6h), so 30-minute rebuilds don't refetch.
+- `feeds.json` settings: `column_photos` (how many column photos; `0` = none), `photo_search_depth` (how far down
+  each column to look, 8), `photo_min_width`, `lead_photo_min_width`, `photo_timeout_seconds`.
+- `picks.json`: `"lead_image": null` = automatic; `"lead_image": "https://…jpg"` = use this image over the lead
+  (add `"lead_image_credit": "AP"` for the credit); `"lead_image": false` = no lead photo.
+
 ## Adding or removing a feed
 Add an entry to `feeds.json` → `feeds`: `{"name": "Outlet", "url": "https://…/rss", "column": 2, "lead": false}`.
 Set `"enabled": false` to switch one off. Run `python3 build.py` and check the feed report it prints.
 
 ## Ground rules (copyright & trust)
-- Headline + link only. Never copy article text or images.
+- Headline + link only. Never copy article text. Photos are the publisher's own story image, hotlinked (not copied
+  into this repo), linked back to the story and credited.
 - Rewrites must be true to the linked story. When in doubt, use the publisher's headline.
 - Styling is original CSS in `render()` inside `build.py`, in the classic Drudge-style look: big bold uppercase
   sans-serif lead headline (plus sub-leads) on top, a heavy italic "DAILY RUSH REPORT" masthead set in system
   fonts (text, not an image), then three columns of bold Courier-style headlines split by thin rules, outlet in
   parentheses after each link, a SOURCES list at the foot of column 3. Black on white; the only colour is red for
-  breaking headlines. No logos, photos, ads or copied content from any other site. Satire items read "SATIRE:".
+  breaking headlines. Story photos as described under **Photos**; no logos, ads or copied content from any other site. Satire items read "SATIRE:".
   Underlines: one switch — `--link-underline` at the top of the `<style>` block (`underline` or `none`).
   The `hot` flag in picks.json is still accepted but doesn't change colour.
   Do not use other sites' logos/images or microphone imagery associated with Rush Limbaugh/EIB.

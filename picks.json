@@ -1,6 +1,7 @@
 {
-  "_comment": "Editor overrides (all optional). lead: pin a lead story {title,url,source,expires}. pinned: extra links {title,url,source,column 1|2|3,hot,expires}. rewrites: {url: 'punchy headline'} or {url: {title, hot}} - must stay factually accurate to the linked story. block: URLs or title keywords to hide. expires uses 'YYYY-MM-DD HH:MM' Central time; expired entries are ignored automatically. breaking: add \"breaking\": true or false to a lead, pinned, or rewrites entry to force the red BREAKING label on/off (rewrites entry may hold only {\"breaking\": false}).",
+  "_comment": "Editor overrides (all optional). lead: pin a lead story {title,url,source,expires}. pinned: extra links {title,url,source,column 1|2|3,hot,expires}. rewrites: {url: 'punchy headline'} or {url: {title, hot}} - must stay factually accurate to the linked story. block: URLs or title keywords to hide. expires uses 'YYYY-MM-DD HH:MM' Central time; expired entries are ignored automatically. breaking: add \"breaking\": true or false to a lead, pinned, or rewrites entry to force the red BREAKING label on/off (rewrites entry may hold only {\"breaking\": false}). lead_image: leave out or null for the automatic photo from the lead story, a URL to use that image over the lead (hotlinked; add \"lead_image_credit\": \"AP\" for the credit), or false for no lead photo.",
   "lead": null,
+  "lead_image": null,
   "pinned": [],
   "rewrites": {
     "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit": {
