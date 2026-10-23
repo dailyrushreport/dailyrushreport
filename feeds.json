@@ -59,7 +59,11 @@
       "msnbc.com": "NBC News",
       "apnews.com": "AP",
       "reuters.com": "Reuters",
-      "pagesix.com": "News Corp"
+      "pagesix.com": "News Corp",
+      "marketwatch.com": "News Corp",
+      "breitbart.com": "Breitbart",
+      "justthenews.com": "Just the News",
+      "newsmax.com": "Newsmax"
     },
     "column_photos": 3,
     "photo_min_width": 300,
@@ -119,6 +123,25 @@
       "column": 1
     },
     {
+      "name": "Breitbart",
+      "url": "https://www.breitbart.com/feed/",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "Just the News",
+      "url": "https://justthenews.com/rss.xml",
+      "column": 1,
+      "date_only": true,
+      "_note": "feed pubDate is date-only (no time); build.py stamps new items with the time first seen. No lead flag"
+    },
+    {
+      "name": "Newsmax",
+      "url": "https://www.newsmax.com/rss/Newsfront/16/",
+      "column": 1,
+      "lead": true
+    },
+    {
       "name": "RealClearPolitics",
       "url": "https://www.realclearpolitics.com/index.xml",
       "column": 1,
@@ -160,6 +183,12 @@
       "name": "CNBC Economy",
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
       "column": 2
+    },
+    {
+      "name": "Fox Business",
+      "url": "https://moxie.foxbusiness.com/google-publisher/latest.xml",
+      "column": 2,
+      "lead": true
     },
     {
       "name": "BBC",

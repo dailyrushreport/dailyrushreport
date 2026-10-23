@@ -162,6 +162,15 @@ def fetch_feed(feed, settings, offline=False):
             items = parse_feed(raw, feed)
             if not items:
                 raise ValueError("no items")
+            if feed.get("date_only"):
+                # feed gives a date but no time (Just the News): a story we haven't seen before gets the time we
+                # first saw it, so new stories sort as new; ones already cached keep their earlier time. On the
+                # very first fetch (no cache) everything keeps the bare date, so the backlog doesn't look fresh.
+                prev = load_json(cache, None)
+                if prev:
+                    seen_at = {i["url"]: i["published"] for i in prev.get("items", [])}
+                    for i in items:
+                        i["published"] = seen_at.get(i["url"]) or max(i["published"], NOW.isoformat())
             atomic_write(cache, json.dumps({"fetched": NOW.isoformat(), "items": items}))
             return feed["name"], "ok", items
         except Exception as e:
@@ -864,7 +873,7 @@ def build(args):
 # thin rules. Breaking = red headline text (no label). One photo over the lead and a few in the columns,
 # each from its own story (hotlinked, credited). No ads.
 # UNDERLINES: one toggle - set --link-underline in the <style> block to "none" to switch them off.
-HOMES = {"Fox News": "https://www.foxnews.com/", "NY Post": "https://nypost.com/",
+HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax.com/", "Breitbart": "https://www.breitbart.com/", "Fox Business": "https://www.foxbusiness.com/", "Just the News": "https://justthenews.com/", "NY Post": "https://nypost.com/",
          "Washington Examiner": "https://www.washingtonexaminer.com/", "Axios": "https://www.axios.com/",
          "The Hill": "https://thehill.com/", "Politico": "https://www.politico.com/",
          "Daily Caller": "https://dailycaller.com/", "Daily Wire": "https://www.dailywire.com/",
