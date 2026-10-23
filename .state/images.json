@@ -1169,5 +1169,70 @@
 "via": "feed"
 },
 "checked": "2026-10-23T18:52:22.670766+00:00"
+},
+"https://justthenews.com/politics-policy/environment/vance-becomes-hurricane-set-hit-mexico-friday-night": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://justthenews.com/nation/crime/meghan-markles-father-thomas-markle-investigated-allegedly-possessing-child-sex-images": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://nypost.com/2026/10/23/betting/duke-vs-virginia-prediction-college-football-best-bets-odds-picks-for-acc-clash-in-week-8/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-r1biya3an-1792600032243.jpg?quality%3D90%26strip%3Dall%261792585689",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://nypost.com/2026/10/23/betting/rays-vs-brewers-game-1-pick-world-series-best-bets-odds-prediction/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-oerrgjby4-1792745747334.jpg?quality%3D90%26strip%3Dall%261792731427",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://nypost.com/2026/10/23/us-news/doj-probes-corey-lewandowski-over-improper-awarding-of-dhs-contracts-under-kristi-noem/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146207147.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T19:01:55.360755+00:00"
+},
+"https://nypost.com/2026/10/23/us-news/slain-la-teen-was-showering-when-ex-boyfriend-broke-in-and-shot-her-family-claims/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146224945.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T19:01:55.360755+00:00"
 }
 }
