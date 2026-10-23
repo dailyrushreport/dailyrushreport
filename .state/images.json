@@ -261,5 +261,93 @@
 "via": "feed"
 },
 "checked": "2026-10-23T15:12:18.033718+00:00"
+},
+"https://www.foxnews.com/outkick-sports/lebron-james-doubles-sneaky-golf-hip-turns-national-anthem-trump-total-disgrace-dig": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/LeBron-James-Philadelphia-basketball.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.axios.com/2026/10/22/trump-maha-adviser-resigns": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/wA9bB2W6omzY4SY5ANsrMRIcaHc=/0x0:4000x2250/1366x768/2026/10/22/1792694000958.jpg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4777377/trump-midterm-election-ballot-mail-florida/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26293035458328.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&strip=all&crop=0%2C11.368215768306%2C100%2C77.263568463387&w=1200",
+"w": 1200,
+"h": 626,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108452052-1792768171703-gettyimages-2299593242-TRUMP_ALASKA.jpeg?v=1792768200&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://thehill.com/homenews/campaign/6168217-norman-andrews-graham-south-carolina-senate/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/MR-Top-Darline-Graham-Annie-Andrews.png?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107245896-1684928576240-gettyimages-1257684389-OPED-FBI-EDITORIAL-LV.jpeg?v=1726006147&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
+},
+"https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T15:22:25.307410+00:00"
 }
 }
