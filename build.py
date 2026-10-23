@@ -155,7 +155,8 @@ def fetch_feed(feed, settings, offline=False):
     cache = os.path.join(CACHE_DIR, key + ".json")
     if not offline:
         try:
-            req = urllib.request.Request(feed["url"], headers={"User-Agent": settings["user_agent"]})
+            req = urllib.request.Request(feed["url"], headers={"User-Agent": feed.get("user_agent") or settings["user_agent"],
+                                                       "Accept": "application/rss+xml, application/xml, text/xml, */*"})
             raw = urllib.request.urlopen(req, timeout=settings.get("timeout_seconds", 10)).read()
             if raw[:2] == b"\x1f\x8b":                  # some servers gzip the feed even when not asked
                 raw = gzip.decompress(raw)
