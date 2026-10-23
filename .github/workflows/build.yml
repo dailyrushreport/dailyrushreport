@@ -1,20 +1,35 @@
-# Optional: rebuild every 30 minutes on GitHub Actions and commit the result
-# (works with GitHub Pages, or Netlify/Cloudflare Pages connected to the repo).
+# Rebuild every 30 minutes, commit the fresh page, and publish it with GitHub Pages (Source = GitHub Actions).
 name: Daily Rush Report build
 on:
   schedule: [{cron: "*/30 * * * *"}]
   workflow_dispatch:
-  push: {paths: ["picks.json", "feeds.json", "build.py"]}
-permissions: {contents: write}
+  push:
+    branches: [main]
+    paths: ["picks.json", "feeds.json", "build.py", ".github/workflows/build.yml"]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: {group: pages, cancel-in-progress: false}
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: {name: github-pages, url: "${{ steps.deploy.outputs.page_url }}"}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: python3 build.py
-      - run: |
+      - name: Commit rebuilt page
+        run: |
           git config user.name "daily-rush-report-bot"; git config user.email "bot@users.noreply.github.com"
           git add -A index.html archive .state social_drafts CNAME
-          git diff --cached --quiet || git commit -m "Rebuild $(date -u +%FT%TZ)" && git push
+          git diff --cached --quiet || (git commit -m "Rebuild $(date -u +%FT%TZ)" && git push)
+      - name: Stage public files
+        run: |
+          mkdir -p _site && cp -r index.html CNAME .nojekyll archive _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: _site}
+      - id: deploy
+        uses: actions/deploy-pages@v4
