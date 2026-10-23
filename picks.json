@@ -1,0 +1,22 @@
+{
+  "_comment": "Editor overrides (all optional). lead: pin a lead story {title,url,source,expires}. pinned: extra links {title,url,source,column 1|2|3,hot,expires}. rewrites: {url: 'punchy headline'} or {url: {title, hot}} - must stay factually accurate to the linked story. block: URLs or title keywords to hide. expires uses 'YYYY-MM-DD HH:MM' Central time; expired entries are ignored automatically. breaking: add \"breaking\": true or false to a lead, pinned, or rewrites entry to force the red BREAKING label on/off (rewrites entry may hold only {\"breaking\": false}).",
+  "lead": null,
+  "pinned": [],
+  "rewrites": {
+    "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit": {
+      "title": "NYC votes to put its 170-year-old horse carriages out to pasture... Trump blasts ban; drivers threaten to sue",
+      "hot": true
+    },
+    "https://nypost.com/2026/10/22/us-news/kamala-harris-gets-crickets-from-mississippi-rally-crowd-after-butchering-motivational-quote/": {
+      "title": "Harris mangles a motivational quote in Mississippi... crowd answers with crickets",
+      "hot": false
+    },
+    "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html": "Taxes chase money, money moves: Wealthy Chinese shift offshore cash to U.S. banks as Beijing's tax net widens",
+    "https://www.foxnews.com/outkick-sports/bears-fans-don-mike-ditka-famous-mustache-franchise-legend-honored-first-home-game-since-death": "Da Mustache Lives: Bears fans honor Mike Ditka at first home game since his death",
+    "https://www.foxnews.com/politics/i-basically-snapped-new-jersey-mayor-charges-resident-chaotic-council-meeting": "'I basically snapped': N.J. mayor charges at resident during council meeting",
+    "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/": "How many Starship launches to land on the Moon? Latest estimate: 22",
+    "https://www.upi.com/Odd_News/2026/10/22/lotto-Maryland-Lottery-sun-visor/6491792687678/": "$30,000 winning lottery ticket rode around in a sun visor for weeks",
+    "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html": "Jobless claims hover near lowest since the 1960s"
+  },
+  "block": []
+}

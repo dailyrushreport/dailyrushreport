@@ -1,0 +1,44 @@
+{
+ "recent_leads": [
+  "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit",
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+ ],
+ "current_lead": {
+  "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+  "since": "2026-10-23T11:22:00.599996+00:00"
+ },
+ "last_build": "2026-10-23T13:08:39.947026+00:00",
+ "feeds": {
+  "Fox News": "ok",
+  "NY Post": "ok",
+  "Washington Examiner": "ok",
+  "Axios": "ok",
+  "The Hill": "ok",
+  "Politico": "ok",
+  "Daily Caller": "ok",
+  "Daily Wire": "ok",
+  "Free Beacon": "ok",
+  "RealClearPolitics": "ok",
+  "The Free Press": "ok",
+  "Reason": "ok",
+  "National Review": "ok",
+  "Bloomberg": "ok",
+  "CNBC": "ok",
+  "CNBC Economy": "ok",
+  "BBC": "ok",
+  "WSJ Opinion": "ok",
+  "The Guardian": "ok",
+  "NPR": "ok",
+  "Ars Technica": "ok",
+  "The Verge": "ok",
+  "Fox News Tech": "ok",
+  "ScienceDaily": "ok",
+  "BBC Science": "ok",
+  "UPI Odd News": "ok",
+  "Space.com": "FAILED (URLError: <urlopen error timed out>) - no cache",
+  "Babylon Bee": "ok"
+ },
+ "drafted_leads": [
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+ ]
+}

@@ -1,0 +1,213 @@
+{
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Science, Tech & Oddities, laugh=satire box (always labeled SATIRE). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for the red BREAKING label (see README). breaking_skip_sources: opinion/analysis outlets that never get an automatic BREAKING label.",
+  "settings": {
+    "per_column": 11,
+    "laugh_count": 3,
+    "subleads": 3,
+    "default_max_age_hours": 36,
+    "lead_window_hours": 14,
+    "avoid_repeat_leads": 4,
+    "max_per_source_per_column": 3,
+    "timeout_seconds": 10,
+    "user_agent": "Mozilla/5.0 (compatible; DailyRushReportBot/0.1; +https://example.com/about)",
+    "skip_if_url_contains": [
+      "decider.com",
+      "pagesix.com",
+      "/podcast/",
+      "/sounds/",
+      "/video/",
+      "/videos/",
+      "/audio/",
+      "/entertainment/",
+      "/horoscope",
+      "/shopping/",
+      "/deals/",
+      "/coupons/",
+      "/sponsored/"
+    ],
+    "skip_if_title_starts_with": [
+      "The Papers:",
+      "WATCH:",
+      "LISTEN:",
+      "Quiz:",
+      "Crossword"
+    ],
+    "lead_hold_hours": 3,
+    "breaking_max": 5,
+    "breaking_min_outlets": 2,
+    "breaking_recent_minutes": 60,
+    "breaking_skip_sources": [
+      "RealClearPolitics",
+      "National Review",
+      "Reason",
+      "The Free Press"
+    ]
+  },
+  "feeds": [
+    {
+      "name": "Fox News",
+      "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "NY Post",
+      "url": "https://nypost.com/feed/",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/feed/",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "Axios",
+      "url": "https://api.axios.com/feed/",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/feed/",
+      "column": 1,
+      "lead": true
+    },
+    {
+      "name": "Politico",
+      "url": "https://rss.politico.com/politics-news.xml",
+      "column": 1
+    },
+    {
+      "name": "Daily Caller",
+      "url": "https://dailycaller.com/feed/",
+      "column": 1
+    },
+    {
+      "name": "Daily Wire",
+      "url": "https://www.dailywire.com/feeds/rss.xml",
+      "column": 1
+    },
+    {
+      "name": "Free Beacon",
+      "url": "https://freebeacon.com/feed/",
+      "column": 1
+    },
+    {
+      "name": "RealClearPolitics",
+      "url": "https://www.realclearpolitics.com/index.xml",
+      "column": 1,
+      "max_age_hours": 48
+    },
+    {
+      "name": "The Free Press",
+      "url": "https://www.thefp.com/feed",
+      "column": 2,
+      "lead": true,
+      "max_age_hours": 48
+    },
+    {
+      "name": "Reason",
+      "url": "https://reason.com/feed/",
+      "column": 2,
+      "max_age_hours": 48
+    },
+    {
+      "name": "National Review",
+      "url": "https://www.nationalreview.com/feed/",
+      "column": 2,
+      "max_age_hours": 48
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "column": 2,
+      "lead": true
+    },
+    {
+      "name": "CNBC",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "column": 2,
+      "lead": true
+    },
+    {
+      "name": "CNBC Economy",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+      "column": 2
+    },
+    {
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "column": 2,
+      "lead": true
+    },
+    {
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "column": 2
+    },
+    {
+      "name": "WSJ Opinion",
+      "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
+      "column": 2,
+      "_note": "feed appears frozen since Jan 2025; freshness filter skips it automatically"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/rss",
+      "column": 1
+    },
+    {
+      "name": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "column": 1
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "column": 3
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "column": 3
+    },
+    {
+      "name": "Fox News Tech",
+      "url": "https://moxie.foxnews.com/google-publisher/tech.xml",
+      "column": 3,
+      "max_age_hours": 72
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "column": 3,
+      "max_age_hours": 72
+    },
+    {
+      "name": "BBC Science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "column": 3,
+      "max_age_hours": 48
+    },
+    {
+      "name": "UPI Odd News",
+      "url": "https://rss.upi.com/news/odd_news.rss",
+      "column": 3,
+      "max_age_hours": 72
+    },
+    {
+      "name": "Space.com",
+      "url": "https://www.space.com/feeds/all",
+      "column": 3,
+      "max_age_hours": 72
+    },
+    {
+      "name": "Babylon Bee",
+      "url": "https://babylonbee.com/feed",
+      "column": "laugh",
+      "max_age_hours": 96
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-23-0636.json",
+  "created": "2026-10-23T11:36:12.840764+00:00",
+  "created_ct": "Fri Oct 23, 2026 6:36 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+    "original_headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+    "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting. (BBC) https://www.bbc.co.uk/news/articles/cq4g1p974wxko\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 180,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
