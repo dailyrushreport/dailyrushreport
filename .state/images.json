@@ -552,5 +552,38 @@
 "via": "feed"
 },
 "checked": "2026-10-23T16:34:41.458484+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T16:35:44.631555+00:00"
+},
+"https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/dijSC5G6yi90lXwXncH7_YBB9nk=/0x0:5473x3079/1366x768/2026/10/23/1792767760015.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-23T16:35:44.631555+00:00"
+},
+"https://nypost.com/2026/10/23/lifestyle/nyc-ghost-tours-7-spooky-walks-beyond-manhattan/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41482916.jpg?quality=75&strip=all&w=1200",
+"w": 1200,
+"h": 799,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-23T16:35:44.631555+00:00"
 }
 }
