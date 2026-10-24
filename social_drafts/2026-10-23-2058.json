@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-23-2058.json",
+  "created": "2026-10-24T01:58:05.470630+00:00",
+  "created_ct": "Fri Oct 23, 2026 8:58 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Rubio calls for Cubans to partner with CIA",
+    "original_headline": "Rubio calls for Cubans to partner with CIA",
+    "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Rubio calls for Cubans to partner with CIA. (Washington Examiner) https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 134,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Rubio calls for Cubans to partner with CIA. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
