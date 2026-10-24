@@ -2843,5 +2843,54 @@
 "via": "feed"
 },
 "checked": "2026-10-24T04:54:35.549026+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T05:16:03.208451+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/6e58794f92b9e30eeef550ba44c8e1b8c69f9a52/472_0_6693_5355/master/6693.jpg?width=700&quality=85&auto=format&fit=max&s=d7e20018a64dc3c776545de18a966687",
+"w": 700,
+"h": 560,
+"credit": "Dmitri Lovetsky/AP",
+"via": "feed"
+},
+"checked": "2026-10-24T05:16:03.208451+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw80zx79nkvno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T05:16:03.208451+00:00"
+},
+"https://www.theguardian.com/sport/2026/oct/24/sexual-assault-scandal-rocked-gymnastics-larry-nassar-sport-change-slow": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/a4943adc53bbaa8b3c2d38e4cf3cfce0e71ad211/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e1423aebbb6ea275038268a6fd9a5774",
+"w": 700,
+"h": 560,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T05:16:03.208451+00:00"
+},
+"https://nypost.com/2026/10/24/world-news/hitlers-infamous-nazi-eagles-nest-retreat-set-ablaze-in-suspected-arson/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-961zdtau2-1792817685077.jpg?quality%3D90%26strip%3Dall%261792803326",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T05:16:03.208451+00:00"
 }
 }
