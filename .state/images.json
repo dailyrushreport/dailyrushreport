@@ -2474,5 +2474,75 @@
 "via": "feed"
 },
 "checked": "2026-10-24T02:20:39.102606+00:00"
+},
+"https://justthenews.com/government/courts-law/charged-fbi-agent-nikki-floris-surfaced-across-years-weaponization-probes": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://justthenews.com/government/federal-agencies/green-cards-sale-feds-bust-another-sham-marriage-ring-prices-hit-100000": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://justthenews.com/nation/states/center-square/report-shows-1b-georgias-pandemic-benefits-unchecked": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4778364/fbi-arrests-cia-contractor-allegedly-leaking-classified-material/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26118770612708.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://nypost.com/2026/10/23/sports/mlb-monitoring-dodgers-owner-mark-walter-amid-federal-probe/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-c7573mqsd-1792808666337.jpg?quality%3D90%26strip%3Dall%261792794280",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c670pr1ryxyno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c63r5779vyl9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b1ff/live/3a2fbbf0-cf31-11f1-9f96-7f17b236547a.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:56:10.714141+00:00"
+},
+"https://nypost.com/2026/10/23/us-news/autistic-man-33-dies-after-fight-outside-nyc-disability-center-sources/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FCOMP-AUTISTIC-1.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:56:10.714141+00:00"
 }
 }
