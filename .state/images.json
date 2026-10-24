@@ -3231,5 +3231,65 @@
 "via": "feed"
 },
 "checked": "2026-10-24T08:55:18.825542+00:00"
+},
+"https://www.foxnews.com/politics/virginia-dems-cast-doubt-prosecution-colleague-embracing-criminal-allegations-trump": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/louise_lucas.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912690": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743176",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4777617/benjamin-netanyahu-threat-invade-west-bank-test-us-patience-israeli-conflict/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26296274856830.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/c644a0871c76102cddb303d63fdfe9d61cd01e79/421_0_3113_2491/master/3113.jpg?width=700&quality=85&auto=format&fit=max&s=6a043eec038a183043c00bb290600883",
+"w": 700,
+"h": 560,
+"credit": "Cheney Orr/Reuters",
+"via": "feed"
+},
+"checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.jpost.com/international/article-912691": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743350",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T09:15:27.360427+00:00"
 }
 }
