@@ -1,25 +1,25 @@
-# Social drafts — Fri Oct 23, 2026 10:57 PM CT
+# Social drafts — Sat Oct 24, 2026 2:08 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-23-2257.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-24-0208.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/  
-Pinned by editor: no · BREAKING: yes
+Lead: Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years  
+Outlet: Fox News  
+Link: https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 174/280 chars (X counting)
+## X — status: pending_approval · 191/280 chars (X counting)
 
 ```
-Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. (The Hill) https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/
+Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years. (Fox News) https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. Story via The Hill. Link in bio.
+Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years. Story via Fox News. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

@@ -9,13 +9,14 @@
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
   "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
-  "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+  "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
+  "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
-  "since": "2026-10-24T03:57:40.214967+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
+  "since": "2026-10-24T07:08:16.004284+00:00"
  },
- "last_build": "2026-10-24T06:16:00.297565+00:00",
+ "last_build": "2026-10-24T07:08:16.004284+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -72,6 +73,7 @@
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
   "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
-  "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+  "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
+  "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years"
  ]
 }
