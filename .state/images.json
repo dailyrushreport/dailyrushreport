@@ -3799,5 +3799,103 @@
 "via": "feed"
 },
 "checked": "2026-10-24T12:14:40.876721+00:00"
+},
+"https://justthenews.com/government/white-house/wkdtrumpius-maximus-presidential-overhaul-dc-channels-imperial-rome": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://justthenews.com/world/more-70000-police-deployed-france-cities-prepare-more-riots": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://thehill.com/homenews/campaign/6169950-ramaswamy-campaign-ad-jennings/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2024/11/AP21301756916793-e1732921181423.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://www.jpost.com/american-politics/article-912693": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/548013",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://www.jpost.com/israel-news/article-912697": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/716943",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "ESA",
+"via": "feed"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://www.washingtonexaminer.com/news/4748339/november-social-security-direct-payment-worth-994-out-in-six-days/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP25356688164306-e1777477522867.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Posnov",
+"via": "feed"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/abdul-el-sayed-parlayed-his-race-obsessed-medical-research-to-fast-track-fund-his-journey-to-congress-critics/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-hhgpf86hk-1792796624572.jpg?quality%3D90%26strip%3Dall%261792782277",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/new-details-in-arcadia-teen-murder-as-accused-killer-exposed/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146258652.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T13:03:18.788605+00:00"
 }
 }
