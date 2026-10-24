@@ -4553,5 +4553,109 @@
 "via": "feed"
 },
 "checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://justthenews.com/government/federal-agencies/fbi-arrests-former-cia-contractor-classified-information-leak-case": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4778562/trump-hints-at-white-house-press-corps-relocation/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/01/WEX_TRUMP_WH-1-e1768950483795.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26297468767736-e1792860530912.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://www.jpost.com/middle-east/article-912712": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743369",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://www.jpost.com/middle-east/article-912713": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743372",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108442584-1792601105464-Traders-Photo-20261021-AS-PRESS-5.jpg?v=1792601484&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://nypost.com/2026/10/24/sports/kenneth-walker-iii-enters-seahawks-revenge-game-as-patrick-mahomes-first-superman-back/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-t720bhs2w-1792859268845.jpg?quality%3D90%26strip%3Dall%261792844981",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://nypost.com/2026/10/24/sports/warriors-lendeborg-enters-exclusive-company-in-home-debut/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-bwyxld397-1792832886059.jpg?quality%3D90%26strip%3Dall%261792818543",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://nypost.com/2026/10/24/sports/jayson-tatum-tries-to-silence-feud-with-jaylen-brown/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-z1lwnr76v-1792860200894.jpg?quality%3D90%26strip%3Dall%261792845838",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
+},
+"https://nypost.com/2026/10/24/health/a-bedtime-staple-could-help-curb-painkiller-dependence-after-surgery-study/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41499613_fc04d2.jpg?quality%3D90%26strip%3Dall",
+"w": 6720,
+"h": 4478,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:53:39.618073+00:00"
 }
 }

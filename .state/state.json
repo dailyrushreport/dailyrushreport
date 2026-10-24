@@ -12,13 +12,14 @@
   "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
   "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
   "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
-  "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/"
+  "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
+  "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
-  "since": "2026-10-24T13:51:26.455362+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+  "since": "2026-10-24T16:53:39.618073+00:00"
  },
- "last_build": "2026-10-24T16:14:03.190668+00:00",
+ "last_build": "2026-10-24T16:53:39.618073+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -78,6 +79,7 @@
   "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
   "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
   "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
-  "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/"
+  "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
+  "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo"
  ]
 }
