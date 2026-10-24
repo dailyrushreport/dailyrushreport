@@ -3661,7 +3661,7 @@
 "https://justthenews.com/nation/technology/ukraine-says-starlink-speed-restrictions-lifted-after-disruptions-military-drones": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T11:52:45.576594+00:00"
+"checked": "2026-10-24T19:16:44.536578+00:00"
 },
 "https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes": {
 "v": 2,
@@ -4994,5 +4994,82 @@
 "via": "feed"
 },
 "checked": "2026-10-24T18:55:59.245505+00:00"
+},
+"https://www.washingtonexaminer.com/politics/4778692/obama-endorses-angie-nixon-after-cry-for-support/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/GettyImages-2282241001.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743382",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912715": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743378",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/disneyland-flooded-by-sudden-downpour-as-rides-shut-down-and-fireworks-canceled/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146337223.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://nypost.com/2026/10/24/world-news/missouri-neurosurgeon-convicted-of-sexually-assaulting-woman-20-in-scottish-nightclub/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146340327.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
+},
+"https://nypost.com/2026/10/24/sports/nfl-house-in-paris-closes-ahead-of-saints-steelers-game-amid-riots/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-ro670lf62-1792867724569.jpg?quality%3D90%26strip%3Dall%261792853373",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T19:16:44.536578+00:00"
 }
 }
