@@ -4133,5 +4133,108 @@
 "via": "page"
 },
 "checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://justthenews.com/government/white-house/trump-expected-vote-early-florida": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-24/venezuela-to-restart-a-crucial-power-plant-with-china-s-help": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.jpost.com/israel-news/article-912703": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743358",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107243224-1684411224877-gettyimages-1491059980-mt_15744_opmy4ayv.jpeg?v=1750872566&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.cnbc.com/make-it/2026/10/24/sewing-workshop-business-stitch-lab-atx.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108416170-1792097745910-261015_Stitch_Lab_03.png?v=1792103535&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0%2C10.722587942729%2C100%2C78.554824114543&w=1200",
+"w": 1200,
+"h": 623,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://www.jpost.com/israel-news/culture/article-912705": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743363",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/zohran-mamdani-casts-his-midterm-ballot-as-first-day-of-early-voting-kicks-off-in-nyc/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FMAMDANI-LIVE-VOTING.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://nypost.com/2026/10/24/sports/matt-blake-gets-yankees-extension-after-pitching-staffs-dominant-season/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41498656.jpg?quality%3D90%26strip%3Dall",
+"w": 2999,
+"h": 1999,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
+},
+"https://nypost.com/2026/10/24/world-news/former-idf-chief-who-could-displace-netanyahu-cites-us-bonds/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146309414.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:51:39.637412+00:00"
 }
 }
