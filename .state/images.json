@@ -3160,5 +3160,32 @@
 "via": "feed"
 },
 "checked": "2026-10-24T07:54:52.743036+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T08:15:24.492310+00:00"
+},
+"https://www.jpost.com/american-politics/article-912688": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743257",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T08:15:24.492310+00:00"
+},
+"https://www.foxnews.com/politics/new-england-city-transformed-refugees-now-faces-youth-gun-violence-crisis-fear-my-life": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Lewiston-Maine-sign-Oct.-14_-2026.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T08:15:24.492310+00:00"
 }
 }
