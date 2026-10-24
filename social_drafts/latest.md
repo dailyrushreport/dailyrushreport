@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 24, 2026 2:08 AM CT
+# Social drafts — Sat Oct 24, 2026 5:14 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-24-0208.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-24-0514.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years  
+Lead: California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules  
 Outlet: Fox News  
-Link: https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years  
+Link: https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 191/280 chars (X counting)
+## X — status: pending_approval · 187/280 chars (X counting)
 
 ```
-Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years. (Fox News) https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years
+California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules. (Fox News) https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years. Story via Fox News. Link in bio.
+California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
