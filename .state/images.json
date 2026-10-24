@@ -5284,5 +5284,70 @@
 "via": "feed"
 },
 "checked": "2026-10-24T20:49:15.481367+00:00"
+},
+"https://justthenews.com/index%2Ephp/world/more-70000-police-deployed-france-cities-prepare-more-riots": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/trump-says-he-might-move-white-house-press-corps-wont-replace-briefing-room": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://www.jpost.com/israel-news/article-912722": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743388",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/IranAttacks_Timotija_AP_VahidSalemi.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://nypost.com/2026/10/24/sports/where-to-watch-rays-vs-brewers-world-series-game-2-live-for-free/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-taqcepyxu-1792874521801.jpg?quality%3D90%26strip%3Dall%261792860147",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://nypost.com/2026/10/24/betting/nfl-week-7-player-props-picks-predictions-zay-flowers-kyren-williams-tyrone-tracy-jr-best-bets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnfl-week-7-nfl-player-props-picks-best-bets.jpg?quality%3D90%26strip%3Dall%261792781885",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T21:11:16.629130+00:00"
+},
+"https://nypost.com/2026/10/24/sports/lakers-must-fix-luka-doncic-austin-reaves-turnover-woes-despite-explosive-offense/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-946jo75if-1792874144912.jpg?quality%3D90%26strip%3Dall%261792859772",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T21:11:16.629130+00:00"
 }
 }
