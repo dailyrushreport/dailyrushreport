@@ -1,25 +1,25 @@
-# Social drafts — Fri Oct 23, 2026 8:58 PM CT
+# Social drafts — Fri Oct 23, 2026 10:57 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-23-2058.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-23-2257.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Rubio calls for Cubans to partner with CIA  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/  
-Pinned by editor: no · BREAKING: no
+Lead: Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 134/280 chars (X counting)
+## X — status: pending_approval · 174/280 chars (X counting)
 
 ```
-Rubio calls for Cubans to partner with CIA. (Washington Examiner) https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/
+Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. (The Hill) https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Rubio calls for Cubans to partner with CIA. Story via Washington Examiner. Link in bio.
+Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. Story via The Hill. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

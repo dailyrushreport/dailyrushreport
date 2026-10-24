@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-23-2257.json",
+  "created": "2026-10-24T03:57:40.214967+00:00",
+  "created_ct": "Fri Oct 23, 2026 10:57 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’",
+    "original_headline": "Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’",
+    "url": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. (The Hill) https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 174,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Rubio floats CIA ‘partnership’ to Cubans tired of ‘failed promises, corruption’. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
