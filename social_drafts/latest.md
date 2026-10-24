@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 24, 2026 12:14 PM CT
+# Social drafts — Sat Oct 24, 2026 3:49 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-24-1214.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-24-1549.json x` or `... instagram` (prints the final text to copy).
 
-Lead: NFL forced to close ‘NFL House’ pop-up due to Paris protests  
-Outlet: The Hill  
-Link: https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/  
+Lead: Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce  
+Outlet: Fox News  
+Link: https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 141/280 chars (X counting)
+## X — status: pending_approval · 179/280 chars (X counting)
 
 ```
-NFL forced to close ‘NFL House’ pop-up due to Paris protests. (The Hill) https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/
+Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce. (Fox News) https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-NFL forced to close ‘NFL House’ pop-up due to Paris protests. Story via The Hill. Link in bio.
+Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
