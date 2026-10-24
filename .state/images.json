@@ -112,7 +112,7 @@
 "https://www.upi.com/Odd_News/2026/10/22/lotto-Maryland-Lottery-sun-visor/6491792687678/": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T09:54:05.811678+00:00"
+"checked": "2026-10-24T16:14:03.190668+00:00"
 },
 "https://www.thefp.com/p/france-riots-ohio-rehab-slutcon-niall-ferguson": {
 "v": 2,
@@ -4476,5 +4476,82 @@
 "via": "feed"
 },
 "checked": "2026-10-24T15:52:32.342239+00:00"
+},
+"https://www.foxnews.com/outkick-sports/menacing-high-school-running-back-executes-punishing-kickoff-blocks-witness": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/david-gabriel-georges-trinity-defense.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://www.foxnews.com/world/death-toll-rises-9-church-attack-officials-blame-extremist-islamist-ideology": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/church-shooting-exterior.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://www.foxnews.com/media/stephen-smith-doubles-down-trump-dinner-challenges-critics-asking-what-f-you-doing": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/stephen-a-smith-fanatics-fest-javits-center.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://www.jpost.com/israel-news/article-912708": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/427335",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://www.jpost.com/israel-news/article-912711": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739594",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://nypost.com/2026/10/24/sports/buzz-builds-about-arch-manning-foregoing-nfl-draft-and-possibly-leaving-texas/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-e5b0xyw8r-1792857810273.jpg?quality%3D90%26strip%3Dall%261792843474",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/orphaned-baby-walrus-found-on-alaskan-beach-goes-to-seaworld-in-florida/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146311435.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T16:14:03.190668+00:00"
 }
 }
