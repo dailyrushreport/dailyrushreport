@@ -4040,5 +4040,98 @@
 "via": "feed"
 },
 "checked": "2026-10-24T13:51:26.455362+00:00"
+},
+"https://justthenews.com/world/middle-east/intelligence-official-warns-iranians-preparing-attacks-americans": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.foxnews.com/politics/omars-deleted-tweet-clue-alleged-brother-marriage": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ilhan-omar-minneapolis-minnesota.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5cad/live/842ed380-cfa9-11f1-aadb-297fd0a130b9.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.theguardian.com/sport/2026/oct/24/frederick-richard-floor-gold-world-gymnastics-championships-rotterdam": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/73be4983e57a42b6b0b7dcf14e6f79899741b434/126_0_1923_1539/master/1923.jpg?width=700&quality=85&auto=format&fit=max&s=83935a6095186b0e3899c533cf0becb0",
+"w": 700,
+"h": 560,
+"credit": "Piroschka Van De Wouw/Reuters",
+"via": "feed"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.foxnews.com/media/snl-weekend-update-anchor-calls-republicans-slurs-mocks-charlie-kirk-stand-up-special": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/michael-che-weekend-update-saturday-night-live.jpg?ve=1&tl=1",
+"w": 931,
+"h": 524,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.foxnews.com/travel/las-vegas-takes-aim-notorious-tourist-trap-warnings-appear-along-iconic-strip": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vegas-costume-performers-tourists.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.foxnews.com/travel/louvre-turns-away-tourists-paris-braces-renewed-violence-following-destructive-riots": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/paris-louvre-protests-riots-france-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8050/live/03654f30-cfb4-11f1-b441-2b33b063138f.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
+},
+"https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T14:12:56.830217+00:00"
 }
 }
