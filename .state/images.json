@@ -112,7 +112,7 @@
 "https://www.upi.com/Odd_News/2026/10/22/lotto-Maryland-Lottery-sun-visor/6491792687678/": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T03:18:38.403965+00:00"
+"checked": "2026-10-24T09:54:05.811678+00:00"
 },
 "https://www.thefp.com/p/france-riots-ohio-rehab-slutcon-niall-ferguson": {
 "v": 2,
@@ -3291,5 +3291,76 @@
 "via": "page"
 },
 "checked": "2026-10-24T09:15:27.360427+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-24/mauritius-carrier-looks-at-narrow-body-jets-in-fleet-overhaul": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.jpost.com/israel-news/culture/article-912607": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743220",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.jpost.com/israel-news/culture/article-912559": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743119",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/5J4fvCph6fE4O1qBNNXdOLOzThw=/0x0:1920x1080/1920x1080/2026/10/21/1792603342996.gif",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/gavin-newsom-speech.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c317kxyknwp2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T09:54:05.811678+00:00"
 }
 }
