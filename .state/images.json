@@ -3187,5 +3187,49 @@
 "via": "feed"
 },
 "checked": "2026-10-24T08:15:24.492310+00:00"
+},
+"https://www.foxnews.com/politics/iran-substantially-increased-efforts-target-americans-abroad-us-intelligence-memo-warns": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/marco-rubio-us-embassy-new-delhi-fox-news-001.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T08:55:18.825542+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912687": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/703773",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T08:55:18.825542+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f3e5/live/203d0e90-cf7d-11f1-93e1-3b657b665bcf.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T08:55:18.825542+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/us-accuses-government-contractor-of-leaking-classified-info-to-girlfriends-substack/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146292884.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T08:55:18.825542+00:00"
 }
 }
