@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-24-1214.json",
+  "created": "2026-10-24T17:14:07.578799+00:00",
+  "created_ct": "Sat Oct 24, 2026 12:14 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "NFL forced to close ‘NFL House’ pop-up due to Paris protests",
+    "original_headline": "NFL forced to close ‘NFL House’ pop-up due to Paris protests",
+    "url": "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "NFL forced to close ‘NFL House’ pop-up due to Paris protests. (The Hill) https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 141,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "NFL forced to close ‘NFL House’ pop-up due to Paris protests. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
