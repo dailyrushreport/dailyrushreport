@@ -2436,5 +2436,43 @@
 "via": "feed"
 },
 "checked": "2026-10-24T01:58:05.470630+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/appeals-court-finds-illegal-aliens-have-no-right-bond-hearings": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T02:20:39.102606+00:00"
+},
+"https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/aebb76f37b038e8c2f0a010d30ef60813487acd9/167_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d71ae7184b111a6a0ccdbae559d9a3a3",
+"w": 700,
+"h": 560,
+"credit": "Mike Blake/Reuters",
+"via": "feed"
+},
+"checked": "2026-10-24T02:20:39.102606+00:00"
+},
+"https://nypost.com/2026/10/23/sports/knicks-start-title-defense-0-2-after-comeback-comes-up-short-vs-celtics/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-k2tezvrus-1792807167933.jpg?quality%3D90%26strip%3Dall%261792792789",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:20:39.102606+00:00"
+},
+"https://nypost.com/2026/10/23/us-news/la-driver-wanted-in-robberies-sought-in-deadly-hit-and-run-that-killed-teen/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146262378.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T02:20:39.102606+00:00"
 }
 }
