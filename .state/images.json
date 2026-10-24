@@ -5709,5 +5709,114 @@
 "via": "feed"
 },
 "checked": "2026-10-24T23:10:51.236552+00:00"
+},
+"https://justthenews.com/index%2Ephp/world/middle-east/gunmen-attack-church-funeral-jordan-killing-7-injuring-dozens": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/federal-agencies/fbi-arrests-former-cia-contractor-classified-information-leak-case": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://www.jpost.com/american-politics/article-912723": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739895",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://www.jpost.com/international/article-912724": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743390",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/1bec76acb23460fb2e9b426a6fa0994483544b92/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=68cbfd2ec4b8dcc0fbef6a42541f19bf",
+"w": 700,
+"h": 560,
+"credit": "Paul Sancya/AP",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqy8ljkle97ro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://nypost.com/2026/10/24/sports/warriors-rookie-admits-he-went-overboard-with-luka-doncic-trash-talk/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-b94bgs6q3-1792882929551.jpg?quality%3D90%26strip%3Dall%261792868545",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/jane-fondas-climate-pac-lavishes-funds-on-lefties-in-final-stretch/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146223812.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41504145.jpg?quality%3D90%26strip%3Dall",
+"w": 3268,
+"h": 2178,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
+},
+"https://nypost.com/2026/10/24/sports/pete-deboer-facing-stars-with-islanders-for-first-time-since-firing/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41504374.jpg?quality%3D90%26strip%3Dall",
+"w": 2631,
+"h": 1753,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T23:44:01.049477+00:00"
 }
 }
