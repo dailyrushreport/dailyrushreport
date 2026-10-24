@@ -3657,5 +3657,87 @@
 "via": "page"
 },
 "checked": "2026-10-24T11:13:54.056348+00:00"
+},
+"https://justthenews.com/nation/technology/ukraine-says-starlink-speed-restrictions-lifted-after-disruptions-military-drones": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/arch-manning-texas-tennessee-victory.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c39wz740e0nyo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.jpost.com/middle-east/article-912694": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721856",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwkg5md14j8go": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.jpost.com/international/article-912696": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738662",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://www.cnbc.com/2026/10/24/eagles-nest-adolf-hitler-germany-fire.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108455447-17928421412026-10-24t023712z_1164515052_rc2e9oah2dsm_rtrmadp_0_germany-fire.jpeg?v=1792842186&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/ilhan-omar-brings-on-bidens-personal-attorney-amy-jeffress/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-minneapolis-minn-day-man-146220884_c53200.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-24T11:52:45.576594+00:00"
 }
 }
