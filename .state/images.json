@@ -6358,7 +6358,7 @@
 "https://justthenews.com/nation/states/center-square/louisiana-adds-36000-jobs-construction-leading": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T05:21:47.848723+00:00"
+"checked": "2026-10-25T13:03:28.059749+00:00"
 },
 "https://justthenews.com/nation/states/center-square/midterm-elections-one-third-gubernatorial-ag-seats-reelection": {
 "v": 2,
@@ -7400,5 +7400,141 @@
 "via": "feed"
 },
 "checked": "2026-10-25T12:14:10.912239+00:00"
+},
+"https://justthenews.com/index%2ephp/world/europe/protests-over-rising-costs-spread-across-italy-clashes-reported": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/states/center-square/iowa-house-candidates-divided-tariffs-iran": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-912787": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743463",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.jpost.com/israel-news/article-912791": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731234",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://thehill.com/homenews/state-watch/6170630-trump-announces-audi-factory-georgia/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298077263085-e1792930209980.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261024222000.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/galaxy-with-three-supermassive-black-holes.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261024221956.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/spinosaurus-water-splash.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261024221849.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/cancer-cell-divides.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108381290-1791546538218-2026-10-08T170517Z_1387630975_RC24ZNA4231I_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1792928626&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/560f/live/b29654d0-c8ad-11f1-9c75-6ff1271de385.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/wwe-wrestler-amber-nova-flora-busted-for-dui-in-florida/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-hs0ymog7o-1792933123907.jpg?quality%3D90%26strip%3Dall%261792918753",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://nypost.com/2026/10/25/sports/heres-where-to-watch-giants-texans-for-free-time-livestream/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-qo8ro7m5z-1792770146250.jpg?quality%3D90%26strip%3Dall%261792755835",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/education-secretary-linda-mcmahon-takes-on-california-schools-and-gavin-newsom/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146262555.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T13:03:28.059749+00:00"
 }
 }
