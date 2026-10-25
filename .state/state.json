@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
   "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
   "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
   "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
-  "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+  "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
+  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
-  "since": "2026-10-25T18:12:24.641907+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+  "since": "2026-10-25T18:57:18.240220+00:00"
  },
- "last_build": "2026-10-25T18:12:24.641907+00:00",
+ "last_build": "2026-10-25T18:57:18.240220+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -99,6 +99,7 @@
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
   "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
-  "https://thehill.com/policy/international/6170833-machado-returns-venezuela/"
+  "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
+  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
  ]
 }
