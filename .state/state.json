@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
   "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
   "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
-  "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+  "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+  "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-  "since": "2026-10-25T10:14:01.477119+00:00"
+  "url": "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
+  "since": "2026-10-25T13:52:16.348116+00:00"
  },
- "last_build": "2026-10-25T13:03:28.059749+00:00",
+ "last_build": "2026-10-25T13:52:16.348116+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -93,6 +93,7 @@
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
-  "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+  "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+  "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/"
  ]
 }
