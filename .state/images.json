@@ -6177,7 +6177,7 @@
 "https://justthenews.com/politics-policy/prediction-markets-vs-polling-new-frontier-political-prognostication": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T03:58:41.133593+00:00"
+"checked": "2026-10-25T14:52:22.901380+00:00"
 },
 "https://justthenews.com/politics-policy/elections/maga-inc-has-spent-277m-midterms-heres-where-it-went": {
 "v": 2,
@@ -7737,5 +7737,87 @@
 "via": "feed"
 },
 "checked": "2026-10-25T14:13:55.013633+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6x2w0ngejneo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108459424-1792934269117-gettyimages-2301481800-souchet-notitle261025_npMjy.jpeg?v=1792934278&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108438443-1792521182922-FullSizeRender_1.jpg?v=1792521226&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6aad65492fa729.90834060-e1792710146454.jpeg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://nypost.com/2026/10/25/sports/how-peyton-manning-feels-about-colts-gm-job/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-hek5wznqt-1792936733072.jpg?quality%3D90%26strip%3Dall%261792922341",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://nypost.com/2026/10/25/betting/underdog-promo-code-nypost-play-5-get-100-for-giants-vs-texans/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41466332.jpg?quality%3D90%26strip%3Dall",
+"w": 4329,
+"h": 2885,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://justthenews.com/index%2Ephp/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T14:52:22.901380+00:00"
 }
 }
