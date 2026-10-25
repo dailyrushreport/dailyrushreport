@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
   "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
   "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
-  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o"
+  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
+  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
-  "since": "2026-10-25T15:13:45.393587+00:00"
+  "url": "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
+  "since": "2026-10-25T15:52:39.413696+00:00"
  },
- "last_build": "2026-10-25T15:13:45.393587+00:00",
+ "last_build": "2026-10-25T15:52:39.413696+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -95,6 +95,7 @@
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
-  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o"
+  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
+  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/"
  ]
 }
