@@ -25,9 +25,9 @@
   "url": "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
   "since": "2026-10-25T07:09:39.502897+00:00"
  },
- "last_build": "2026-10-25T07:09:39.502897+00:00",
+ "last_build": "2026-10-25T07:55:44.401959+00:00",
  "feeds": {
-  "Fox News": "FAILED (URLError: <urlopen error timed out>) - used cache from 2026-10-25T06:16Z",
+  "Fox News": "ok",
   "NY Post": "ok",
   "Washington Examiner": "ok",
   "Axios": "ok",
