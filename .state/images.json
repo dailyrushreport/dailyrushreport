@@ -6187,7 +6187,7 @@
 "https://justthenews.com/politics-policy/all-things-trump/trump-delivers-big-news-georgia-new-automaker-plant-audi": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T03:58:41.133593+00:00"
+"checked": "2026-10-25T16:53:33.765673+00:00"
 },
 "https://nypost.com/2026/10/24/us-news/florida-am-university-homecoming-shooting-leaves-multiple-injured/": {
 "v": 2,
@@ -8065,5 +8065,87 @@
 "via": "feed"
 },
 "checked": "2026-10-25T16:14:28.671819+00:00"
+},
+"https://justthenews.com/politics-policy/elections/trump-calls-murkowski-gops-worst-senator": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26145784873457.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://www.jpost.com/israel-news/article-912819": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743500",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53cb/live/6e2ee0b0-d090-11f1-92f6-357f3b0f345f.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0%2C3.4371763956174%2C100%2C93.125647208765&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://www.jpost.com/diaspora/article-912820": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743502",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://nypost.com/2026/10/25/sports/patrick-mahomes-andy-reid-told-chiefs-tackle-to-leave-meeting-before-ir-decision/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fchiefs.jpg?quality%3D90%26strip%3Dall%261792930959",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/maniac-busted-for-stabbing-rabbi-with-syringe-in-nyc-as-cops-reveal-she-attacked-another-jewish-victim-hours-earlier/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FComp-Rabbi-Attacker.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T16:53:33.765673+00:00"
 }
 }

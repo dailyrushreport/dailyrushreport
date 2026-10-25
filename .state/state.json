@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
   "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
   "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
-  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/"
+  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
+  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
-  "since": "2026-10-25T15:52:39.413696+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
+  "since": "2026-10-25T16:53:33.765673+00:00"
  },
- "last_build": "2026-10-25T16:14:28.671819+00:00",
+ "last_build": "2026-10-25T16:53:33.765673+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -96,6 +96,7 @@
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
-  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/"
+  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
+  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/"
  ]
 }
