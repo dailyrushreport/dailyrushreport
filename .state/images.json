@@ -112,7 +112,7 @@
 "https://www.upi.com/Odd_News/2026/10/22/lotto-Maryland-Lottery-sun-visor/6491792687678/": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T04:58:12.633317+00:00"
+"checked": "2026-10-25T11:13:46.099707+00:00"
 },
 "https://www.thefp.com/p/france-riots-ohio-rehab-slutcon-niall-ferguson": {
 "v": 2,
@@ -7100,5 +7100,104 @@
 "via": "page"
 },
 "checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.foxnews.com/politics/mike-johnsons-future-hangs-balance-accidental-speaker-marks-3-years": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/mike-johnson-us-capitol-fox-news-002.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://www.foxnews.com/us/young-woman-joked-going-missing-10-years-later-mom-wont-rest-until-finds-who-killed-her": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Angie-Barlow-disappearance-death-investigation.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://www.foxnews.com/world/brazil-becomes-next-test-latin-americas-surging-conservative-movement": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brazil-election-1.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://reason.com/2026/10/25/police-destroyed-their-homes-and-businesses-the-supreme-court-wont-say-who-should-pay/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/carlos-pena-amy-hadley-swat-supreme-court-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4778886/nicki-minaj-to-rally-alongside-trump-metro-detroit-sunday/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26028617023222.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://reason.com/volokh/2026/10/25/today-in-supreme-court-history-october-25-1795-8/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2019/10/1790-Blair.jpg",
+"w": 330,
+"h": 400,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8ly097zw1xwo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://nypost.com/2026/10/25/sports/jets-vs-dolphins-preview-prediction-what-to-watch-for-in-week-7/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-4gq0hyhvu-1792918743168.jpg?quality%3D90%26strip%3Dall%261792904361",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
+},
+"https://www.foxbusiness.com/business-leaders/ceo-sunday-atomic-wings-ceo-shares-his-journey-from-wall-street-restaurant-business": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/ceo-sunday-master-18.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T11:13:46.099707+00:00"
 }
 }
