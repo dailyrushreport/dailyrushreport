@@ -8905,5 +8905,80 @@
 "via": "feed"
 },
 "checked": "2026-10-25T21:12:19.527461+00:00"
+},
+"https://justthenews.com/world/venezuelan-opposition-leader-returns-venezuela": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://justthenews.com/nation/states/center-square/poll-democrats-slightly-lead-republicans-economy-heading-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4779139/ousting-hegseth-priority-democrats-retake-majority-jason-crow/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26253636231764.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+"w": 1200,
+"h": 621,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://nypost.com/2026/10/25/sports/center-theo-edema-shines-for-st-johns-in-unexpected-minutes-versus-texas-star/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-411y3dtbm-1792964066289.jpg?quality%3D90%26strip%3Dall%261792949778",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T21:50:17.123019+00:00"
+},
+"https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108460992-1792964317207-gettyimages-2296895737-AFP_C9HA9GH.jpeg?v=1792964372&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T21:50:17.123019+00:00"
 }
 }
