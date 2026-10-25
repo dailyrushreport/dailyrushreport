@@ -7019,5 +7019,86 @@
 "via": "feed"
 },
 "checked": "2026-10-25T10:14:01.477119+00:00"
+},
+"https://www.nationalreview.com/2026/10/were-doomed/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.nationalreview.com/2026/10/the-ear-lobe-and-the-unborn-child/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.nationalreview.com/2026/10/abdul-el-sayeds-media-hall-pass/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.jpost.com/israel-news/article-912756": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729599",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.jpost.com/international/article-912779": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743456",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.foxnews.com/politics/inside-pentagons-doomsday-plan-keep-america-fighting-global-war-erupts": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/army-nuclear-reactor.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-famous-feuds-skin-secrets": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/quiz-collage-1025.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.foxnews.com/politics/foster-childrens-autism-therapy-risk-georgia-lawmakers-step-funding-fight": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brian-strickland-georgia-capitol-autism-therapy-protest.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
+},
+"https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/8c58/live/4758dc50-cfa7-11f1-aadb-297fd0a130b9.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T10:52:49.354297+00:00"
 }
 }
