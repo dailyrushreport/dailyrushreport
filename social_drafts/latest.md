@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 24, 2026 3:49 PM CT
+# Social drafts — Sat Oct 24, 2026 7:09 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-24-1549.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-24-1909.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce  
-Outlet: Fox News  
-Link: https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce  
+Lead: NC State fires head coach Dave Doeren in massive $10.3 million shakeup  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 179/280 chars (X counting)
+## X — status: pending_approval · 150/280 chars (X counting)
 
 ```
-Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce. (Fox News) https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce
+NC State fires head coach Dave Doeren in massive $10.3 million shakeup. (NY Post) https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce. Story via Fox News. Link in bio.
+NC State fires head coach Dave Doeren in massive $10.3 million shakeup. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
