@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-0514.json",
+  "created": "2026-10-25T10:14:01.477119+00:00",
+  "created_ct": "Sun Oct 25, 2026 5:14 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "original_headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored. (BBC) https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 153,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
