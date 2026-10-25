@@ -8334,5 +8334,87 @@
 "via": "feed"
 },
 "checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://justthenews.com/nation/states/center-square/shapiro-and-davis-kick-29-county-bus-tour-final-10-days-campaign": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://www.foxnews.com/us/5-victims-released-hospital-after-florida-am-university-shooting-1-remains-critical": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/florida-am-university-tallahassee-shooting.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://thehill.com/policy/international/6170833-machado-returns-venezuela/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69e3db074df8b2.07430370-e1792946883703.jpeg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3323/live/f31148a0-d085-11f1-a4ba-351760cfea6a.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://www.jpost.com/israel-news/article-912830": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742971",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://nypost.com/2026/10/25/sports/kirk-herbstreit-doesnt-hold-back-after-arch-manning-interception/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-cr4lqlph5-1792949262275.jpg?quality%3D90%26strip%3Dall%261792934959",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/urgent-flood-alert-issued-across-california-as-monster-king-tides-sweep-in/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146456338.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T18:12:24.641907+00:00"
 }
 }

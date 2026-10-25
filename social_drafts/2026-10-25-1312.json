@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-1312.json",
+  "created": "2026-10-25T18:12:24.641907+00:00",
+  "created_ct": "Sun Oct 25, 2026 1:12 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Machado returns to Venezuela after 10 months of exile",
+    "original_headline": "Machado returns to Venezuela after 10 months of exile",
+    "url": "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Machado returns to Venezuela after 10 months of exile. (The Hill) https://thehill.com/policy/international/6170833-machado-returns-venezuela/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 148,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Machado returns to Venezuela after 10 months of exile. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
