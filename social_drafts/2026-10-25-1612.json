@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-1612.json",
+  "created": "2026-10-25T21:12:19.527461+00:00",
+  "created_ct": "Sun Oct 25, 2026 4:12 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash",
+    "original_headline": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash",
+    "url": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash. (The Hill) https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 165,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
