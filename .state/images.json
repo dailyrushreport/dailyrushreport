@@ -6756,5 +6756,109 @@
 "via": "feed"
 },
 "checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mosque-trucks.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.foxnews.com/politics/leavitt-says-trump-defying-midterm-headwinds-he-barnstorms-country": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-karoline-leavitt-fox-news.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.washingtonexaminer.com/policy/defense/4774713/hegseth-pentagon-arsenal-freedom-tour-campaign-trail-midterms/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26262855560989.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://freebeacon.com/america/when-america-reordered-the-world/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-19-Oct-2026-11-55-AM-2107.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://freebeacon.com/culture/samurai-gangsters/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-19-Oct-2026-10-41-AM-8286-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://freebeacon.com/culture/the-latest-bond-thriller/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-19-Oct-2026-10-19-AM-405-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=492d5dbc51ec41dc78018dbd07a4e9a8",
+"w": 700,
+"h": 560,
+"credit": "Chedly Ben Ibrahim/NurPhoto via Getty Images",
+"via": "feed"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6n9rzde1n80o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a998/live/36317670-d048-11f1-852e-e52a0d42e3b5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
+},
+"https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108458515-1792916742118-gettyimages-2301705921-bm2_1898_mrt2dnwv.jpeg?v=1792916756&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T09:15:15.242302+00:00"
 }
 }
