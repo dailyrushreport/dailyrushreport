@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 24, 2026 8:54 PM CT
+# Social drafts — Sat Oct 24, 2026 10:19 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-24-2054.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-24-2219.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps  
-Outlet: Fox News  
-Link: https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps  
+Lead: Trump casts his midterm ballot early in Florida  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 139/280 chars (X counting)
 
 ```
-Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps. (Fox News) https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps
+Trump casts his midterm ballot early in Florida. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps. Story via Fox News. Link in bio.
+Trump casts his midterm ballot early in Florida. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

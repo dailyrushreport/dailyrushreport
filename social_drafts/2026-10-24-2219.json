@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-24-2219.json",
+  "created": "2026-10-25T03:19:17.429689+00:00",
+  "created_ct": "Sat Oct 24, 2026 10:19 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump casts his midterm ballot early in Florida",
+    "original_headline": "Trump casts his midterm ballot early in Florida",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump casts his midterm ballot early in Florida. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 139,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump casts his midterm ballot early in Florida. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
