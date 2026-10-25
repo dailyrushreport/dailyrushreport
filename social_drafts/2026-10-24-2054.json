@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-24-2054.json",
+  "created": "2026-10-25T01:54:15.498673+00:00",
+  "created_ct": "Sat Oct 24, 2026 8:54 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps",
+    "original_headline": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps",
+    "url": "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps. (Fox News) https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

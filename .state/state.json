@@ -16,13 +16,14 @@
   "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
   "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
-  "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/"
+  "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
+  "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
-  "since": "2026-10-25T00:09:17.903593+00:00"
+  "url": "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
+  "since": "2026-10-25T01:54:15.498673+00:00"
  },
- "last_build": "2026-10-25T01:04:11.889813+00:00",
+ "last_build": "2026-10-25T01:54:15.498673+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -86,6 +87,7 @@
   "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
   "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
-  "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/"
+  "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
+  "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps"
  ]
 }
