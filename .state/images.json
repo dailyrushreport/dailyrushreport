@@ -8574,5 +8574,49 @@
 "via": "feed"
 },
 "checked": "2026-10-25T18:57:18.240220+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-912811": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743195",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T19:18:35.425747+00:00"
+},
+"https://www.jpost.com/israel-news/sports/article-912834": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743526",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T19:18:35.425747+00:00"
+},
+"https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/36c02ae0baa9fb82116ba11542338d9694b7beb4/375_0_1070_857/master/1070.jpg?width=700&quality=85&auto=format&fit=max&s=92fd728f0df1920cbab49ba0840b6dae",
+"w": 700,
+"h": 561,
+"credit": "Courtesy Robert Hickman",
+"via": "feed"
+},
+"checked": "2026-10-25T19:18:35.425747+00:00"
+},
+"https://nypost.com/2026/10/25/sports/the-four-nfl-teams-interested-in-potential-jonathan-taylor-trade/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-u1m3ye2d6-1792953555210.jpg?quality%3D90%26strip%3Dall%261792939185",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:18:35.425747+00:00"
 }
 }
