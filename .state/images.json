@@ -8618,5 +8618,76 @@
 "via": "feed"
 },
 "checked": "2026-10-25T19:18:35.425747+00:00"
+},
+"https://justthenews.com/politics-policy/elections/brazil-votes-high-stakes-presidential-runoff-between-lula-and-bolsonaro": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://www.foxnews.com/outkick-sports/parker-mccollum-wants-sons-learn-lesson-hunting-ranch-life-taught-growing": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/parker-mccollum-guitar.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://www.theverge.com/tech/1018275/zen-browser-arc-replacement": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
+"w": 1198,
+"h": 620,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c64g14481n7qo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/23ad/live/af4a9e40-d09a-11f1-aeb2-977af36708cb.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146456320.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/novel-way-californians-are-scrimping-on-halloween-amid-cost-of-living-crisis-hanging-in-there/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146460736.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/disturbing-twist-involving-flock-database-and-women-seeking-abortions/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41409574.jpg?quality%3D90%26strip%3Dall",
+"w": 6000,
+"h": 3999,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T19:47:31.783791+00:00"
 }
 }
