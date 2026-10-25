@@ -5878,5 +5878,87 @@
 "via": "feed"
 },
 "checked": "2026-10-25T00:09:17.903593+00:00"
+},
+"https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://www.jpost.com/international/article-912727": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743396",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://www.jpost.com/israel-news/culture/article-912611": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743226",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/4778856/obama-el-sayed-democratic-party-that-can-disagree/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26297832526479.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://nypost.com/2026/10/24/us-news/star-reporter-fired-amid-claims-of-secret-affair-with-california-senator/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-f3nd3i9ws-1792884222459.jpg?quality%3D90%26strip%3Dall%261792870005",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
+},
+"https://nypost.com/2026/10/24/sports/gotham-lose-top-stars-to-injury-with-nwsl-shield-still-on-the-line/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-pcswuglbz-1792886353314.jpg?quality%3D90%26strip%3Dall%261792872003",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T01:04:11.889813+00:00"
 }
 }
