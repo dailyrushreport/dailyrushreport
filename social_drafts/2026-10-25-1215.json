@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-1215.json",
+  "created": "2026-10-25T17:15:06.528906+00:00",
+  "created_ct": "Sun Oct 25, 2026 12:15 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+    "original_headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+    "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen. (CNBC) https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 191,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

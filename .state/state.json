@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
   "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
@@ -19,17 +18,18 @@
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
-  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/"
+  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
+  "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
-  "since": "2026-10-25T16:53:33.765673+00:00"
+  "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+  "since": "2026-10-25T17:15:06.528906+00:00"
  },
- "last_build": "2026-10-25T16:53:33.765673+00:00",
+ "last_build": "2026-10-25T17:15:06.528906+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
-  "Washington Examiner": "ok",
+  "Washington Examiner": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-10-25T16:53Z",
   "Axios": "ok",
   "The Hill": "ok",
   "Politico": "ok",
@@ -61,8 +61,8 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
-  "Religion News Service": "ok",
+  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-10-25T16:53Z",
+  "Religion News Service": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-10-25T16:53Z",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
@@ -97,6 +97,7 @@
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
-  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/"
+  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
+  "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html"
  ]
 }
