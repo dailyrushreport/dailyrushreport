@@ -8257,5 +8257,82 @@
 "via": "feed"
 },
 "checked": "2026-10-25T17:15:06.528906+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-912822": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743510",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://www.jpost.com/middle-east/article-912824": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743508",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://dailycaller.com/2026/10/25/protesters-palestinian-flags-storm-colosseum-rome": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2301317595_2.jpg",
+"w": 2801,
+"h": 1200,
+"credit": "(Photo by Antonio Masiello/Getty Images)",
+"via": "feed"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4779025/mary-peltola-car-crash-alaska-senate/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/AP26014074600575.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://nypost.com/2026/10/25/business/halloween-candy-sales-off-to-slow-start-amid-high-chocolate-prices-affordability-concerns/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-2qzfw5i0u-1792949928533.jpg?quality%3D90%26strip%3Dall%261792935538",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://nypost.com/2026/10/25/business/new-images-released-of-anagram-apartment-tower-along-nycs-gowanus-canal/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146258595_8839a7.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
+},
+"https://nypost.com/2026/10/25/sports/baylor-fires-football-coach-dave-aranda-after-brutal-loss-to-kansas/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41509785.jpg?quality%3D90%26strip%3Dall",
+"w": 5291,
+"h": 3526,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T17:49:40.467319+00:00"
 }
 }
