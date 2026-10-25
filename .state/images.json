@@ -6349,5 +6349,42 @@
 "via": "page"
 },
 "checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/states/center-square/attorneys-detail-tennessees-failed-execution": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T05:21:47.848723+00:00"
+},
+"https://justthenews.com/nation/states/center-square/louisiana-adds-36000-jobs-construction-leading": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T05:21:47.848723+00:00"
+},
+"https://justthenews.com/nation/states/center-square/midterm-elections-one-third-gubernatorial-ag-seats-reelection": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T05:21:47.848723+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T05:21:47.848723+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/nyc-woman-sexually-assaulted-at-knifepoint-in-central-park-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FCentral_Park_Assault_1.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T05:21:47.848723+00:00"
 }
 }
