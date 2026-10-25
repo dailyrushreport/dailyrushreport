@@ -24,7 +24,7 @@
   "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
   "since": "2026-10-25T03:19:17.429689+00:00"
  },
- "last_build": "2026-10-25T05:54:12.693028+00:00",
+ "last_build": "2026-10-25T06:16:55.672661+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -39,7 +39,7 @@
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
-  "Reason": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-10-25T05:21Z",
+  "Reason": "ok",
   "National Review": "ok",
   "Bloomberg": "ok",
   "CNBC": "ok",
