@@ -112,7 +112,7 @@
 "https://www.upi.com/Odd_News/2026/10/22/lotto-Maryland-Lottery-sun-visor/6491792687678/": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T22:48:49.704995+00:00"
+"checked": "2026-10-25T04:58:12.633317+00:00"
 },
 "https://www.thefp.com/p/france-riots-ohio-rehab-slutcon-niall-ferguson": {
 "v": 2,
@@ -6285,5 +6285,69 @@
 "via": "feed"
 },
 "checked": "2026-10-25T04:23:58.326144+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/states/center-square/california-pays-billions-affordable-student-housing": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/elections/maga-inc-has-spent-277m-midterms-heres-where-it-went": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/prediction-markets-vs-polling-new-frontier-political-prognostication": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://www.foxnews.com/outkick-sports/brewers-complete-wild-game-2-comeback-controversial-call-puts-them-up-2-0-world-series-rays": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brewers-contreras-ashby-world-series-celebration.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://www.foxnews.com/outkick-sports/arch-manning-texas-survive-ole-miss-second-half-meltdown-creates-austin-anxiety": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/arch-manning-texas-longhorns-ole-miss_002.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://www.jpost.com/us-elections/article-912734": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743406",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T04:58:12.633317+00:00"
+},
+"https://www.jpost.com/international/article-912735": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743407",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T04:58:12.633317+00:00"
 }
 }
