@@ -6702,5 +6702,59 @@
 "via": "feed"
 },
 "checked": "2026-10-25T08:14:29.440223+00:00"
+},
+"https://justthenews.com/index%2ephp/world/middle-east/gunmen-attack-church-funeral-jordan-killing-7-injuring-dozens": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/california-taxpayers-pay-500m-wildlife-crossings": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmz98plpjzplo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f02e/live/5ba1ae30-c0a7-11f1-b72b-c3e328aa18ed.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/south-carolina-police-chase-suspect-crashes-into-home-trying-to-escape-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146419439.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T08:54:29.745826+00:00"
+},
+"https://nypost.com/2026/10/25/world-news/british-man-daniel-jackson-receives-award-from-un-for-starting-own-nation-verdis-in-balkans/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146419642.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T08:54:29.745826+00:00"
 }
 }
