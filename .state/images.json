@@ -4044,7 +4044,7 @@
 "https://justthenews.com/world/middle-east/intelligence-official-warns-iranians-preparing-attacks-americans": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T14:12:56.830217+00:00"
+"checked": "2026-10-25T02:56:40.143352+00:00"
 },
 "https://www.foxnews.com/politics/omars-deleted-tweet-clue-alleged-brother-marriage": {
 "v": 2,
@@ -4916,7 +4916,7 @@
 "https://justthenews.com/index%2Ephp/nation/technology/ukraine-says-starlink-speed-restrictions-lifted-after-disruptions-military-drones": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-24T18:55:59.245505+00:00"
+"checked": "2026-10-25T02:56:40.143352+00:00"
 },
 "https://www.jpost.com/middle-east/article-912716": {
 "v": 2,
@@ -6070,5 +6070,32 @@
 "via": "feed"
 },
 "checked": "2026-10-25T02:18:17.372943+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T02:56:40.143352+00:00"
+},
+"https://nypost.com/2026/10/24/sports/usc-suffers-humiliating-wisconsin-loss-as-lincoln-rileys-seat-heats-up/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-hnptomtli-1792895766739.jpg?quality%3D90%26strip%3Dall%261792881386",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T02:56:40.143352+00:00"
+},
+"https://nypost.com/2026/10/24/sports/nets-put-up-fight-but-fall-in-high-scoring-loss-to-cavaliers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41505807.jpg?quality=75&strip=all&w=1200",
+"w": 1200,
+"h": 799,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T02:56:40.143352+00:00"
 }
 }
