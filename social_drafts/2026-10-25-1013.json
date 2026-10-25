@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-1013.json",
+  "created": "2026-10-25T15:13:45.393587+00:00",
+  "created_ct": "Sun Oct 25, 2026 10:13 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+    "original_headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+    "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son. (BBC) https://www.bbc.co.uk/news/articles/cxp8g21j4648o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -5844,7 +5844,7 @@
 "https://justthenews.com/nation/states/center-square/taxpayers-pay-2b-more-after-department-splits-two": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T00:09:17.903593+00:00"
+"checked": "2026-10-25T15:13:45.393587+00:00"
 },
 "https://www.breitbart.com/politics/2026/10/24/exclusive-mike-rogers-warns-of-abdul-el-sayeds-radical-ideology-this-is-about-the-heart-and-soul-of-america/": {
 "v": 2,
@@ -7819,5 +7819,92 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-25T14:52:22.901380+00:00"
+},
+"https://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.foxnews.com/us/six-flags-add-seat-belts-roller-coasters-georgia-rider-death": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/GA-SIX-FLAGS-GOLIATH-FALL-2.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.breitbart.com/2nd-amendment/2026/10/25/at-least-12-injured-in-shooting-near-florida-am-football-stadium/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/pexels-cottonbro-10480623-640x335.png",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.jpost.com/american-politics/article-912801": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743476",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://dailycaller.com/2026/10/25/raul-torrez-artificial-intelligence-attorney-general-behind-historic-meta-fine": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/Raul%20Torrez%20Kids%20Getty.jpg",
+"w": 2000,
+"h": 857,
+"credit": "by Jemal Countess/Getty Images for Accountable Tech",
+"via": "feed"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://dailycaller.com/2026/10/25/musk-closes-starlink-loophole-ukraine-drone-strikes": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2297775036_2.jpg",
+"w": 2801,
+"h": 1200,
+"credit": "(Photo by Finn Gomez/Getty Images)",
+"via": "feed"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-912809": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743495",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
+},
+"https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108373638-1791320679046-gettyimages-2298340629-AMAZON_PRIME.jpeg?v=1791320784&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T15:13:45.393587+00:00"
 }
 }
