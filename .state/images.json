@@ -9197,5 +9197,81 @@
 "via": "feed"
 },
 "checked": "2026-10-25T23:11:04.300841+00:00"
+},
+"https://justthenews.com/nation/states/center-square/treasurys-do-not-pay-covers-99-programs-law-covers-11": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://justthenews.com/nation/states/center-square/poll-majority-rejects-ai-fraud-detection-if-eligible-people-lose-out": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nina-tonji-french-national-anthem-fox-news_.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqrmyl1mljppo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb60/live/cb62caa0-d0c5-11f1-8ef5-7b2c8bc9de85.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.jpost.com/international/article-912846": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743545",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912847": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743515",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4779088/watch-live-bernie-sanders-rallies-with-abdul-el-sayed-in-michigan/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26200714473054.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
+},
+"https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107320194-1697732018339-gettyimages-1423002421-pi-2598302.jpeg?v=1778202331&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-25T23:45:31.714513+00:00"
 }
 }

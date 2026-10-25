@@ -25,7 +25,7 @@
   "url": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "since": "2026-10-25T21:12:19.527461+00:00"
  },
- "last_build": "2026-10-25T23:11:04.300841+00:00",
+ "last_build": "2026-10-25T23:45:31.714513+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -66,7 +66,7 @@
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
-  "Reductress": "FAILED (ParseError: mismatched tag: line 93, column 2) - used cache from 2026-10-25T20:08Z",
+  "Reductress": "ok",
   "The Hard Times": "ok",
   "Duffel Blog": "ok",
   "ClickHole": "ok",
