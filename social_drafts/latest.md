@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 24, 2026 10:19 PM CT
+# Social drafts — Sun Oct 25, 2026 2:09 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-24-2219.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-25-0209.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump casts his midterm ballot early in Florida  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/  
+Lead: Arson suspect arrested after fire engulfs Hitler’s Eagle’s Nest Alps mountain retreat  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 139/280 chars (X counting)
+## X — status: pending_approval · 165/280 chars (X counting)
 
 ```
-Trump casts his midterm ballot early in Florida. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/
+Arson suspect arrested after fire engulfs Hitler’s Eagle’s Nest Alps mountain retreat. (NY Post) https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump casts his midterm ballot early in Florida. Story via Washington Examiner. Link in bio.
+Arson suspect arrested after fire engulfs Hitler’s Eagle’s Nest Alps mountain retreat. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

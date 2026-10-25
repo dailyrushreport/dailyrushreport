@@ -18,15 +18,16 @@
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/"
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
+  "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
-  "since": "2026-10-25T03:19:17.429689+00:00"
+  "url": "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
+  "since": "2026-10-25T07:09:39.502897+00:00"
  },
- "last_build": "2026-10-25T06:16:55.672661+00:00",
+ "last_build": "2026-10-25T07:09:39.502897+00:00",
  "feeds": {
-  "Fox News": "ok",
+  "Fox News": "FAILED (URLError: <urlopen error timed out>) - used cache from 2026-10-25T06:16Z",
   "NY Post": "ok",
   "Washington Examiner": "ok",
   "Axios": "ok",
@@ -90,6 +91,7 @@
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/"
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
+  "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/"
  ]
 }
