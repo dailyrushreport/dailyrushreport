@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
   "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
   "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
   "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
@@ -19,13 +18,14 @@
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
-  "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/"
+  "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
+  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
-  "since": "2026-10-25T21:12:19.527461+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+  "since": "2026-10-26T00:12:47.930703+00:00"
  },
- "last_build": "2026-10-25T23:45:31.714513+00:00",
+ "last_build": "2026-10-26T00:12:47.930703+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -102,6 +102,7 @@
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
-  "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/"
+  "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
+  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
  ]
 }

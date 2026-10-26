@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-25-1912.json",
+  "created": "2026-10-26T00:12:47.930703+00:00",
+  "created_ct": "Sun Oct 25, 2026 7:12 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "original_headline": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Serbia's veteran ruler Vučić concedes election to student-led protest movement. (BBC) https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 168,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Serbia's veteran ruler Vučić concedes election to student-led protest movement. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
