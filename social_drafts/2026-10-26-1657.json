@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-26-1657.json",
+  "created": "2026-10-26T21:57:32.611343+00:00",
+  "created_ct": "Mon Oct 26, 2026 4:57 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "DOJ charges ex-FBI Director James Comey in new case",
+    "original_headline": "DOJ charges ex-FBI Director James Comey in new case",
+    "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "DOJ charges ex-FBI Director James Comey in new case. (CNBC) https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 142,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "DOJ charges ex-FBI Director James Comey in new case. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

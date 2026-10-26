@@ -1,17 +1,17 @@
-# Social drafts — Mon Oct 26, 2026 1:35 PM CT
+# Social drafts — Mon Oct 26, 2026 4:57 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-26-1335.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-26-1657.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules  
+Lead: DOJ charges ex-FBI Director James Comey in new case  
 Outlet: CNBC  
-Link: https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html  
+Link: https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 163/280 chars (X counting)
+## X — status: pending_approval · 142/280 chars (X counting)
 
 ```
-Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules. (CNBC) https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html
+DOJ charges ex-FBI Director James Comey in new case. (CNBC) https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules. Story via CNBC. Link in bio.
+DOJ charges ex-FBI Director James Comey in new case. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

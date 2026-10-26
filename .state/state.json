@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
   "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
-  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html"
+  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+  "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-  "since": "2026-10-26T18:35:45.558538+00:00"
+  "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+  "since": "2026-10-26T21:57:32.611343+00:00"
  },
- "last_build": "2026-10-26T21:26:31.930588+00:00",
+ "last_build": "2026-10-26T21:57:32.611343+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -109,6 +109,7 @@
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
   "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
-  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html"
+  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+  "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html"
  ]
 }
