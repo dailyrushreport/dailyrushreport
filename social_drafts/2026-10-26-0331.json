@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-26-0331.json",
+  "created": "2026-10-26T08:31:51.247182+00:00",
+  "created_ct": "Mon Oct 26, 2026 3:31 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    "original_headline": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede. (CNBC) https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 167,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

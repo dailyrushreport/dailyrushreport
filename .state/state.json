@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
   "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
-  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
+  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-  "since": "2026-10-26T05:02:15.088128+00:00"
+  "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+  "since": "2026-10-26T08:31:51.247182+00:00"
  },
- "last_build": "2026-10-26T07:40:01.533746+00:00",
+ "last_build": "2026-10-26T08:31:51.247182+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -104,6 +104,7 @@
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-  "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump"
+  "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
+  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
  ]
 }
