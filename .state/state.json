@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-  "since": "2026-10-26T08:31:51.247182+00:00"
+  "url": "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
+  "since": "2026-10-26T11:03:49.280919+00:00"
  },
- "last_build": "2026-10-26T10:12:50.389765+00:00",
+ "last_build": "2026-10-26T11:03:49.280919+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -105,6 +105,7 @@
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
-  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+  "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally"
  ]
 }

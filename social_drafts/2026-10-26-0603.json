@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-26-0603.json",
+  "created": "2026-10-26T11:03:49.280919+00:00",
+  "created_ct": "Mon Oct 26, 2026 6:03 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally",
+    "original_headline": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally",
+    "url": "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally. (Fox News) https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
