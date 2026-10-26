@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
@@ -19,13 +18,14 @@
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally"
+  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
+  "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
-  "since": "2026-10-26T11:03:49.280919+00:00"
+  "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+  "since": "2026-10-26T13:43:01.265474+00:00"
  },
- "last_build": "2026-10-26T11:03:49.280919+00:00",
+ "last_build": "2026-10-26T13:43:01.265474+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -106,6 +106,7 @@
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally"
+  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
+  "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html"
  ]
 }
