@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-26-1723.json",
+  "created": "2026-10-26T22:23:36.558524+00:00",
+  "created_ct": "Mon Oct 26, 2026 5:23 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Claude reportedly bypassed paywall to access Georgia voter data",
+    "original_headline": "Claude reportedly bypassed paywall to access Georgia voter data",
+    "url": "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Claude reportedly bypassed paywall to access Georgia voter data. (The Hill) https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 144,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Claude reportedly bypassed paywall to access Georgia voter data. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
