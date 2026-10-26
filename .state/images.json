@@ -9021,7 +9021,7 @@
 "https://justthenews.com/index%2ephp/politics-policy/elections/brazil-votes-high-stakes-presidential-runoff-between-lula-and-bolsonaro": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T22:11:08.889752+00:00"
+"checked": "2026-10-26T10:12:50.389765+00:00"
 },
 "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo": {
 "v": 2,
@@ -10268,5 +10268,97 @@
 "via": "page"
 },
 "checked": "2026-10-26T09:28:38.756946+00:00"
+},
+"https://justthenews.com/index%2ephp/government/local/least-12-injured-after-shooting-near-football-stadium-tallahassee": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/final-stretch-border-completion-may-be-argument-investment-and-cost-saving": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.foxnews.com/us/teen-accused-stepsister-cruise-ship-murder-buys-time-consider-plea-wont-get-sweet-deal-expert": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Timothy-hudson-could-get-plea-deal-in-anna-kepner-case.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.foxnews.com/politics/candy-prices-surge-beyond-inflation-americans-still-plan-spend-billions-halloween-staples": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/halloween-candy-shopping.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-26/chinese-conglomerate-huafa-seeks-to-extend-some-debt-payments": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/iVwYcWWRqm8kkHtD4gyycE-1920-80.jpg",
+"w": 969,
+"h": 545,
+"credit": "NASA/Ames/JPL-Caltech",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/oct/26/democrats-win-victory-lessons": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/9a5ff7edf2cdcbbe60494faeebac3964907ca349/0_0_3167_2533/master/3167.jpg?width=700&quality=85&auto=format&fit=max&s=2653d9884fe0790d8ef4901dc8349a29",
+"w": 700,
+"h": 560,
+"credit": "Robin Buckson/Detroit News/AP",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108420161-1792163835646-Untitled-5.jpg?v=1792777161&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://www.thefp.com/p/a-freethinkers-guide-to-the-midterms": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!jiCr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f62e56e-b1cd-4695-968e-ed99a8858912_1024x683.jpeg",
+"w": 1024,
+"h": 683,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
+},
+"https://reason.com/2026/10/26/terrorists-are-winning-the-african-war-on-terror/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/topicsforeignpolicy.jpg",
+"w": 1161,
+"h": 653,
+"credit": "Iyad Ag Ghali; Patrick Robert/Corbis/Getty",
+"via": "feed"
+},
+"checked": "2026-10-26T10:12:50.389765+00:00"
 }
 }
