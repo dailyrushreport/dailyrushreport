@@ -9282,7 +9282,7 @@
 "https://justthenews.com/nation/states/center-square/everyday-economics-fed-can-pause-americans-still-wont-get-much-relief": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-26T00:12:47.930703+00:00"
+"checked": "2026-10-26T07:40:01.533746+00:00"
 },
 "https://www.jpost.com/international/article-912848": {
 "v": 2,
@@ -10003,5 +10003,102 @@
 "via": "page"
 },
 "checked": "2026-10-26T06:33:00.425820+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-26/uk-dealers-see-more-treasury-bills-coming-to-cut-debt-costs": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-26/banque-du-caire-says-ipo-priced-at-top-end-of-range": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nicki-minaj-donald-trump-michigan-campaign-rally.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-912789": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/712987",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-26/billionaire-villar-s-vista-land-profit-sinks-70-on-higher-costs": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://reason.com/volokh/2026/10/26/open-thread-369/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.jpost.com/defense-and-tech/article-912870": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727657",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8vgx5qyrl45o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c405/live/699a5480-d07c-11f1-a4ba-351760cfea6a.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://www.bbc.co.uk/sport/american-football/articles/c61wvzxjxnjxo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/43d3/live/49565450-d0f7-11f1-a701-fddedf244c16.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://nypost.com/2026/10/26/world-news/australian-parliament-pays-tribute-to-injured-lawmaker-helen-haines-as-it-resumes-work-under-increased-security/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-qou44lxsj-1792996656586.jpg?quality%3D90%26strip%3Dall%261792982316",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
+},
+"https://nypost.com/2026/10/26/lifestyle/dear-abby-should-i-tell-my-son-the-truth-about-his-beloved-grandma/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fasian-woman-white-hair-shows-146211177.jpg?quality%3D90%26strip%3Dall",
+"w": 6000,
+"h": 4000,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T07:40:01.533746+00:00"
 }
 }
