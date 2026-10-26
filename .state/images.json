@@ -8338,7 +8338,7 @@
 "https://justthenews.com/nation/states/center-square/shapiro-and-davis-kick-29-county-bus-tour-final-10-days-campaign": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-25T18:12:24.641907+00:00"
+"checked": "2026-10-26T04:01:33.425663+00:00"
 },
 "https://www.foxnews.com/us/5-victims-released-hospital-after-florida-am-university-shooting-1-remains-critical": {
 "v": 2,
@@ -9665,5 +9665,87 @@
 "via": "page"
 },
 "checked": "2026-10-26T03:00:49.986722+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-26/soybeans-hit-2-month-low-as-lula-s-win-lifts-china-trade-outlook": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://www.jpost.com/international/article-912854": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743553",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/89b341d0b2396e97094a59726d0a29af310e50b0/312_0_2413_1932/master/2413.jpg?width=700&quality=85&auto=format&fit=max&s=ce65226fe98caa0c7d9c822515d2fff4",
+"w": 700,
+"h": 560,
+"credit": "Kyle Phillips/AP",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://www.foxnews.com/outkick-sports/seattle-seahawks-dominate-chiefs-20-3-sam-darnold-silences-critics-potential-super-bowl-preview": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/nfl-seahawks-sam-darnold-012526-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmvg7p001qj9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2da7/live/54780d60-d0e8-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://nypost.com/2026/10/25/us-news/runaway-cow-sparks-police-chase-through-ny-town/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FUntitled-1-10.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://nypost.com/2026/10/25/sports/qb-bo-bryan-son-of-country-star-luke-bryan-commits-to-georgia/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146513417.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
+},
+"https://nypost.com/2026/10/25/sports/omar-cooper-jr-giving-jets-what-theyre-missing-in-garrett-wilson/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41513848.jpg?quality%3D90%26strip%3Dall",
+"w": 4169,
+"h": 2779,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-26T04:01:33.425663+00:00"
 }
 }

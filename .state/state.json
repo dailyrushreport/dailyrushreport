@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
   "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
   "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
   "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
-  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+  "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-  "since": "2026-10-26T00:12:47.930703+00:00"
+  "url": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
+  "since": "2026-10-26T04:01:33.425663+00:00"
  },
- "last_build": "2026-10-26T03:00:49.986722+00:00",
+ "last_build": "2026-10-26T04:01:33.425663+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -64,7 +64,7 @@
   "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
-  "Babylon Bee": "ok",
+  "Babylon Bee": "FAILED (ValueError: no items) - used cache from 2026-10-26T03:00Z",
   "The Onion": "ok",
   "Reductress": "ok",
   "The Hard Times": "ok",
@@ -103,6 +103,7 @@
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
-  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+  "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump"
  ]
 }
