@@ -9,11 +9,6 @@
 "photo": null,
 "checked": "2026-10-25T02:56:40.143352+00:00"
 },
-"https://justthenews.com/government/white-house/trump-expected-vote-early-florida": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-24T23:10:51.236552+00:00"
-},
 "https://justthenews.com/government/federal-agencies/fbi-arrests-former-cia-contractor-classified-information-leak-case": {
 "v": 2,
 "photo": null,
@@ -38,61 +33,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-25T07:09:39.502897+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T23:10:51.236552+00:00"
-},
-"https://nypost.com/2026/10/24/world-news/ex-soccer-player-arrested-in-el-salvador-for-dangling-dog-from-balcony/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146125306.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T23:10:51.236552+00:00"
-},
-"https://nypost.com/2026/10/24/us-news/25-people-hospitalized-after-bus-carrying-high-school-football-team-overturns-on-highway/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FCOMP-16.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T23:10:51.236552+00:00"
-},
-"https://nypost.com/2026/10/24/sports/valkyries-win-wnba-finals-game-4-rediscover-their-identity/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-xy5kg6oxs-1792878859757.jpg?quality%3D90%26strip%3Dall%261792864509",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T23:10:51.236552+00:00"
-},
-"https://nypost.com/2026/10/24/us-news/ilhan-omars-deleted-tweet-may-reveal-that-she-really-did-marry-her-brother/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146372062.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T23:10:51.236552+00:00"
 },
 "https://justthenews.com/index%2Ephp/world/middle-east/gunmen-attack-church-funeral-jordan-killing-7-injuring-dozens": {
 "v": 2,
@@ -9925,5 +9865,76 @@
 "via": "feed"
 },
 "checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.foxnews.com/politics/russian-diesel-tankers-close-us-ports-trump-putin-deal-triggers-legal-showdown": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ce4a5cc3-ce4a5cc3-vladimir-putin-donald-trump-2025-scaled.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://www.breitbart.com/politics/2026/10/27/democrat-rep-ro-khanna-defends-wealth-tax-on-california-billionaires-you-didnt-build-this-money-yourself/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/AP26279162649180-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP23037440354013-e1793142938576.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/4781171/watch-live-trump-texas-midterm-campaign-blitz/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/AP26059026729769-e1793117314597.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912957": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743923",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
+},
+"https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/On-the-Ballot_090226_AP_Julia-Demaree-Nikhinson.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T23:25:45.400445+00:00"
 }
 }
