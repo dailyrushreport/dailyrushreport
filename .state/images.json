@@ -4,61 +4,6 @@
 "photo": null,
 "checked": "2026-10-25T11:13:46.099707+00:00"
 },
-"https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d04/live/32f2daa0-cef2-11f1-accf-3309656ad0bb.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T05:54:24.425438+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck20rery78lro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T05:54:24.425438+00:00"
-},
-"https://www.jpost.com/international/article-912682": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730777",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T05:54:24.425438+00:00"
-},
-"https://nypost.com/2026/10/24/us-news/florida-judge-allison-gilman-under-fire-after-asking-domestic-violence-suspect-for-cooking-advice-in-court/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-i9tqx0kvo-1792818378319.jpg?quality%3D90%26strip%3Dall%261792804025",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T05:54:24.425438+00:00"
-},
-"https://nypost.com/2026/10/24/us-news/coast-guard-swimmer-josh-law-fought-waves-and-darkness-to-rescue-16-people-from-pacific-ocean/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146280944.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T05:54:24.425438+00:00"
-},
 "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan": {
 "v": 2,
 "photo": {
@@ -9960,5 +9905,47 @@
 "via": "page"
 },
 "checked": "2026-10-27T05:26:22.761641+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/park-event-raises-questions-over-race-restrictions-private-rentals": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/environment/vance-announces-agriculture-department-investing-57m-american": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-league/articles/crz65e9dng0wo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://nypost.com/2026/10/27/us-news/mom-told-ems-her-daughter-4-was-sick-from-drinking-milk-as-she-turned-blue-from-fentanyl-poisoning-prosecutors/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FUntitled-1-13-2.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T05:59:06.149665+00:00"
 }
 }
