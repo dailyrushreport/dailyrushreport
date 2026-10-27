@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-  "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl"
+  "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
+  "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
-  "since": "2026-10-27T17:33:20.624576+00:00"
+  "url": "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
+  "since": "2026-10-27T20:29:21.625473+00:00"
  },
- "last_build": "2026-10-27T19:58:43.847681+00:00",
+ "last_build": "2026-10-27T20:29:21.625473+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -117,6 +117,7 @@
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-  "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl"
+  "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
+  "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/"
  ]
 }

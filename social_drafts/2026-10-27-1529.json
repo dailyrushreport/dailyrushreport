@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-27-1529.json",
+  "created": "2026-10-27T20:29:21.625473+00:00",
+  "created_ct": "Tue Oct 27, 2026 3:29 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Jay-Z selected as Super Bowl LXI halftime performer",
+    "original_headline": "Jay-Z selected as Super Bowl LXI halftime performer",
+    "url": "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Jay-Z selected as Super Bowl LXI halftime performer. (The Hill) https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 132,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Jay-Z selected as Super Bowl LXI halftime performer. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
