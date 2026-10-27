@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
-  "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+  "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+  "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-  "since": "2026-10-27T11:58:33.409597+00:00"
+  "url": "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
+  "since": "2026-10-27T13:38:59.571414+00:00"
  },
- "last_build": "2026-10-27T12:32:25.540323+00:00",
+ "last_build": "2026-10-27T13:38:59.571414+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -66,7 +66,7 @@
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
-  "Reductress": "FAILED (ParseError: mismatched tag: line 93, column 2) - used cache from 2026-10-27T11:01Z",
+  "Reductress": "ok",
   "The Hard Times": "ok",
   "Duffel Blog": "ok",
   "ClickHole": "ok",
@@ -115,6 +115,7 @@
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
-  "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+  "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+  "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift"
  ]
 }
