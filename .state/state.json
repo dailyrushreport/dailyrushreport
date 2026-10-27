@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
   "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
@@ -19,13 +18,14 @@
   "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
-  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html"
+  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+  "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-  "since": "2026-10-27T06:32:13.340296+00:00"
+  "url": "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
+  "since": "2026-10-27T10:04:48.411920+00:00"
  },
- "last_build": "2026-10-27T09:09:49.566414+00:00",
+ "last_build": "2026-10-27T10:04:48.411920+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -113,6 +113,7 @@
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
   "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
-  "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/"
+  "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
+  "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application"
  ]
 }

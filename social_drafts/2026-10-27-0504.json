@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-27-0504.json",
+  "created": "2026-10-27T10:04:48.411920+00:00",
+  "created_ct": "Tue Oct 27, 2026 5:04 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Deported migrant who '60 Minutes' painted as sympathetic family man claimed he was gay on asylum application",
+    "original_headline": "Deported migrant who '60 Minutes' painted as sympathetic family man claimed he was gay on asylum application",
+    "url": "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Deported migrant who '60 Minutes' painted as sympathetic family man claimed he was gay on asylum application. (Fox News) https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 189,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Deported migrant who '60 Minutes' painted as sympathetic family man claimed he was gay on asylum application. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
