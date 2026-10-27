@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-27-1233.json",
+  "created": "2026-10-27T17:33:20.624576+00:00",
+  "created_ct": "Tue Oct 27, 2026 12:33 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Jay-Z's Super Bowl halftime show selection has more than 99 vulgarity and profanity problems for the NFL",
+    "original_headline": "Jay-Z's Super Bowl halftime show selection has more than 99 vulgarity and profanity problems for the NFL",
+    "url": "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Jay-Z's Super Bowl halftime show selection has more than 99 vulgarity and profanity problems for the NFL. (Fox News) https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 199,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Jay-Z's Super Bowl halftime show selection has more than 99 vulgarity and profanity problems for the NFL. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
