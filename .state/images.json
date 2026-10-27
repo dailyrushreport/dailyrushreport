@@ -14,11 +14,6 @@
 "photo": null,
 "checked": "2026-10-24T23:10:51.236552+00:00"
 },
-"https://justthenews.com/index%2ephp/government/white-house/trump-expected-vote-early-florida": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
 "https://justthenews.com/government/federal-agencies/fbi-arrests-former-cia-contractor-classified-information-leak-case": {
 "v": 2,
 "photo": null,
@@ -38,87 +33,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-25T06:16:55.672661+00:00"
-},
-"https://justthenews.com/index%2ephp/nation/technology/ukraine-says-starlink-speed-restrictions-lifted-after-disruptions-military-drones": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://justthenews.com/nation/states/minnesota-students-could-miss-out-millions-education-funding-walz-opts-out-program": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://www.washingtonexaminer.com/policy/national-security/4778652/jay-clayton-warns-rubio-of-rising-iranian-threats/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/rubio-absence-rnc-convention.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://dailycaller.com/2026/10/24/doj-charges-former-fbi-officials-lying-congress-hunter-biden": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2288940544_2.jpg",
-"w": 2801,
-"h": 1200,
-"credit": "(Photo by Kevin Carter/Getty Images)",
-"via": "feed"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/102935101-GettyImages-470787322.jpg?v=1532564265&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://www.bbc.co.uk/iplayer/episode/m0033jlx": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pj9gdl.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/194c/live/7fe6e240-cff9-11f1-b0ff-614e4f91e969.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
-},
-"https://nypost.com/2026/10/24/us-news/queens-coffee-shop-goes-viral-for-serving-pumpkin-spice-lattes-in-real-pumpkins/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fastoria-coffee-shop-going-viral-146213824.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T22:48:49.704995+00:00"
 },
 "https://justthenews.com/nation/states/center-square/attorneys-detail-tennessees-failed-execution": {
 "v": 2,
@@ -9907,5 +9821,109 @@
 "via": "feed"
 },
 "checked": "2026-10-27T22:28:09.716379+00:00"
+},
+"https://www.politico.com/news/2026/10/27/marco-rubio-texas-trump-midterms-01137437": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108470598-17931333942026-10-26t203636z_273947229_rc28boae0ddl_rtrmadp_0_anthropic-ipo.jpeg?v=1793133420&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.foxnews.com/outkick-sports/country-star-terri-clark-band-thinks-needs-therapy-fishing-addiction": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/terri-clark-performs-ryman-auditorium-fox-news_.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Apple",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Defense Intelligence Agency/Maxar Technologies",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+"w": 1152,
+"h": 648,
+"credit": "Getty | BSIP",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.foxnews.com/outkick-sports/dream-coach-karl-smesko-calls-wnba-finals-officiating-just-ridiculous-angel-reese-questions-refs": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Karl-Smesko-Angel-Reese.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.breitbart.com/politics/2026/10/27/nolte-fbi-raid-beverly-hills-mansion-reportedly-tied-to-eric-swalwell-investigation/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/GettyImages-2257621137-640x335.png",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
+"w": 1200,
+"h": 622,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
+},
+"https://nypost.com/2026/10/27/sports/the-satou-sabally-question-hanging-over-libertys-glaring-need-at-wing/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-j0cevtc1q-1793136708468.jpg?quality%3D90%26strip%3Dall%261793122382",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T22:59:28.728237+00:00"
 }
 }
