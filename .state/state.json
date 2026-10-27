@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-  "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/"
+  "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
+  "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
-  "since": "2026-10-26T22:23:36.558524+00:00"
+  "url": "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
+  "since": "2026-10-27T02:01:50.766026+00:00"
  },
- "last_build": "2026-10-27T01:14:04.255351+00:00",
+ "last_build": "2026-10-27T02:01:50.766026+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -111,6 +111,7 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-  "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/"
+  "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
+  "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/"
  ]
 }

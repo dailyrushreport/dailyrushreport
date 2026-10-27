@@ -1,17 +1,17 @@
-# Social drafts — Mon Oct 26, 2026 5:23 PM CT
+# Social drafts — Mon Oct 26, 2026 9:01 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-26-1723.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-26-2101.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Claude reportedly bypassed paywall to access Georgia voter data  
-Outlet: The Hill  
-Link: https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/  
+Lead: Ex-FBI Director James Comey Charged with Federal Crimes in New Case  
+Outlet: Breitbart  
+Link: https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 144/280 chars (X counting)
+## X — status: pending_approval · 149/280 chars (X counting)
 
 ```
-Claude reportedly bypassed paywall to access Georgia voter data. (The Hill) https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/
+Ex-FBI Director James Comey Charged with Federal Crimes in New Case. (Breitbart) https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Claude reportedly bypassed paywall to access Georgia voter data. Story via The Hill. Link in bio.
+Ex-FBI Director James Comey Charged with Federal Crimes in New Case. Story via Breitbart. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

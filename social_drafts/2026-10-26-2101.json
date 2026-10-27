@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-26-2101.json",
+  "created": "2026-10-27T02:01:50.766026+00:00",
+  "created_ct": "Mon Oct 26, 2026 9:01 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Ex-FBI Director James Comey Charged with Federal Crimes in New Case",
+    "original_headline": "Ex-FBI Director James Comey Charged with Federal Crimes in New Case",
+    "url": "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
+    "source": "Breitbart",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Ex-FBI Director James Comey Charged with Federal Crimes in New Case. (Breitbart) https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 149,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Ex-FBI Director James Comey Charged with Federal Crimes in New Case. Story via Breitbart. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
