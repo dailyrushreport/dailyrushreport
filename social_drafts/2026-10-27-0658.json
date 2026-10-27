@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-27-0658.json",
+  "created": "2026-10-27T11:58:33.409597+00:00",
+  "created_ct": "Tue Oct 27, 2026 6:58 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+    "original_headline": "Ex-FBI chief James Comey faces federal charges for third time",
+    "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Ex-FBI chief James Comey faces federal charges for third time. (BBC) https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 137,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Ex-FBI chief James Comey faces federal charges for third time. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
