@@ -1,25 +1,25 @@
-# Social drafts — Mon Oct 26, 2026 9:01 PM CT
+# Social drafts — Tue Oct 27, 2026 12:26 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-26-2101.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-27-0026.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Ex-FBI Director James Comey Charged with Federal Crimes in New Case  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/  
-Pinned by editor: no · BREAKING: no
+Lead: DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 149/280 chars (X counting)
+## X — status: pending_approval · 191/280 chars (X counting)
 
 ```
-Ex-FBI Director James Comey Charged with Federal Crimes in New Case. (Breitbart) https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/
+DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns. (NY Post) https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Ex-FBI Director James Comey Charged with Federal Crimes in New Case. Story via Breitbart. Link in bio.
+DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
