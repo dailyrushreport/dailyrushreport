@@ -4,61 +4,6 @@
 "photo": null,
 "checked": "2026-10-25T11:13:46.099707+00:00"
 },
-"https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Tan-Mom-accuses-ICE-of-allegedly-nearly-arresting-her.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T06:16:00.297565+00:00"
-},
-"https://www.jpost.com/international/article-912681": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743342",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T06:16:00.297565+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/131f/live/f29e9740-cd30-11f1-bc2e-018d645d8d21.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T06:16:00.297565+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33fd/live/3b76c3a0-cf6d-11f1-a98a-bb970bd2aa12.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-24T06:16:00.297565+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c5lyellrmlego": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc8f/live/d90737e0-cc8d-11f1-9a39-31b474234113.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-24T06:16:00.297565+00:00"
-},
 "https://www.jpost.com/international/article-912683": {
 "v": 2,
 "photo": {
@@ -9947,5 +9892,75 @@
 "via": "feed"
 },
 "checked": "2026-10-27T05:59:06.149665+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://justthenews.com/politics-policy/environment/vance-announces-agriculture-department-investing-57m-american": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/security/dhs-suspends-travel-program-chinese-nationals-amid-birth-tourism-concerns": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-912997": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735401",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://www.jpost.com/israel-news/article-912998": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743742",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck78px6glw3lo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cf0f/live/507a4be0-d135-11f1-be77-d1864d279cb0.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-27T06:32:13.340296+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-27T06:32:13.340296+00:00"
 }
 }

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
   "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
   "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
-  "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/"
+  "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
+  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
-  "since": "2026-10-27T05:26:22.761641+00:00"
+  "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+  "since": "2026-10-27T06:32:13.340296+00:00"
  },
- "last_build": "2026-10-27T05:59:06.149665+00:00",
+ "last_build": "2026-10-27T06:32:13.340296+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
