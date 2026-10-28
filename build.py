@@ -973,12 +973,24 @@ def render(lead, subleads, cols, feeds=(), S=None):
     upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
     c1 = column("NATION &amp; POLITICS", cols.get(1, []))
     c2 = column("MONEY &amp; WORLD", cols.get(2, []))
-    c3 = column("CULTURE", cols.get(3, []))
-    for g, conf in ((S or {}).get("lifestyle_sections") or {}).items():
-        if cols.get("life:" + g):
-            c3 += "\n<hr>\n" + column(html.escape(conf.get("label", g.upper())), cols["life:" + g], every=99)
-    if cols.get("laugh"):
-        c3 += "\n<hr>\n" + column("FOR LAUGHS", cols["laugh"], every=99)
+    # One Culture column, no subtitles: health, faith, general-interest and satire stories are mixed in among
+    # the regular culture stories (satire keeps its "SATIRE:" label). Extras are spread out, alternating
+    # between the lifestyle stories and the satire, one after every two regular stories.
+    base = list(cols.get(3, []))
+    life = [x for g in ((S or {}).get("lifestyle_sections") or {}) for x in cols.get("life:" + g, [])]
+    laugh = list(cols.get("laugh", []))
+    extras = []
+    while life or laugh:
+        if life: extras.append(life.pop(0))
+        if laugh: extras.append(laugh.pop(0))
+    tops_n = sum(1 for x in base if x.get("top") or x.get("pinned"))
+    mixed, k, pos = [], 0, tops_n + 2
+    for n, x in enumerate(base):
+        mixed.append(x)
+        if n + 1 >= pos and k < len(extras):
+            mixed.append(extras[k]); k += 1; pos = n + 3
+    mixed += extras[k:]
+    c3 = column("CULTURE", mixed)
     seen, srcs = set(), []
     for f in feeds:
         home = HOMES.get(f["name"])
