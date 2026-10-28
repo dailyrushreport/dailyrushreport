@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
   "since": "2026-10-28T16:15:00.671512+00:00"
  },
- "last_build": "2026-10-28T16:15:00.671512+00:00",
+ "last_build": "2026-10-28T17:14:09.178035+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-10-28T15:15Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
