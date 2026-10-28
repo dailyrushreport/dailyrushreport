@@ -942,7 +942,8 @@ def link(i, cls=""):
     sat = "SATIRE: " if i.get("column") == "laugh" else ""
     classes = " ".join(c for c in (cls, "red" if i.get("breaking") else "") if c)
     c = f' class="{classes}"' if classes else ""
-    return (f'<a{c} href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">{sat}{t}</a>'
+    gc = ' data-goatcounter-click="click/' + re.sub(r"[^a-z0-9]+", "-", (i.get("source") or "story").lower()).strip("-") + '"'
+    return (f'<a{c}{gc} href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">{sat}{t}</a>'
             + (f' <span class="src">({src})</span>' if src else ""))
 
 def photo(i, cls="ph", lazy=True):
@@ -1004,6 +1005,7 @@ def render(lead, subleads, cols, feeds=(), S=None):
 <title>Daily Rush Report</title>
 <meta name="description" content="The day's headlines, picked with common sense and served fast. Links go to the original publishers.">
 <meta http-equiv="refresh" content="900">
+<script data-goatcounter="https://dailyrushreport.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <style>
 :root{{--link-underline:underline;--red:#f00}}  /* set --link-underline:none to remove all underlines */
 html{{background:#fff;color:#000}}
