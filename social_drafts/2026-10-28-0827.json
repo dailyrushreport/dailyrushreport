@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-0827.json",
+  "created": "2026-10-28T13:27:15.465021+00:00",
+  "created_ct": "Wed Oct 28, 2026 8:27 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race",
+    "original_headline": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race",
+    "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race. (The Hill) https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 181,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
