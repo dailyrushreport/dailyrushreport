@@ -1,17 +1,17 @@
-# Social drafts — Wed Oct 28, 2026 1:05 PM CT
+# Social drafts — Wed Oct 28, 2026 2:18 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-28-1305.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-28-1418.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Fed holds rates steady despite concerns over inflation  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html  
+Lead: Brewers vs. Rays Game 5 prediction: MLB World Series picks, best bets, odds  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 131/280 chars (X counting)
+## X — status: pending_approval · 155/280 chars (X counting)
 
 ```
-Fed holds rates steady despite concerns over inflation. (CNBC) https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html
+Brewers vs. Rays Game 5 prediction: MLB World Series picks, best bets, odds. (NY Post) https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Fed holds rates steady despite concerns over inflation. Story via CNBC. Link in bio.
+Brewers vs. Rays Game 5 prediction: MLB World Series picks, best bets, odds. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
