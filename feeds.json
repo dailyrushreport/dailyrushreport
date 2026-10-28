@@ -320,7 +320,7 @@
       "url": "https://peterattiamd.com/feed/",
       "column": 3,
       "lifestyle": "health",
-      "max_age_hours": 336,
+      "max_age_hours": 72,
       "skip_if_title_starts_with": [
         "#"
       ],
@@ -334,7 +334,7 @@
       "url": "https://www.zoeharcombe.com/feed/",
       "column": 3,
       "lifestyle": "health",
-      "max_age_hours": 336,
+      "max_age_hours": 72,
       "_note": "PhD nutrition researcher, low-carb/real-food, critiques dietary guidelines; weekly. Most posts are member posts but the executive summary is free to read"
     },
     {
@@ -342,14 +342,14 @@
       "url": "https://religionnews.com/category/news/feed/",
       "column": 3,
       "lifestyle": "faith",
-      "max_age_hours": 48
+      "max_age_hours": 72
     },
     {
       "name": "Adventist News Network",
       "url": "https://news.google.com/rss/search?q=site:adventist.news+%22religious+liberty%22+OR+%22religious+freedom%22+when:60d&hl=en-US&gl=US&ceid=US:en",
       "column": 3,
       "lifestyle": "faith",
-      "max_age_hours": 336,
+      "max_age_hours": 72,
       "strip_title_suffix": " - Adventist News Network",
       "title_must_match": "religious (liberty|freedom)|\\bliberty\\b|freedom of (religion|conscience|worship)|conscience|sabbath|sunday law|church and state|persecut",
       "_note": "adventist.news has no public RSS (Vercel bot wall), so this uses Google News search, filtered to religious-liberty headlines"
