@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-1605.json",
+  "created": "2026-10-28T21:05:28.103866+00:00",
+  "created_ct": "Wed Oct 28, 2026 4:05 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+    "original_headline": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election. (BBC) https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 168,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

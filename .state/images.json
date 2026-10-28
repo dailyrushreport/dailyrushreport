@@ -14,168 +14,6 @@
 "photo": null,
 "checked": "2026-10-26T11:03:49.280919+00:00"
 },
-"https://justthenews.com/government/white-house/nicki-minaj-praises-trump-aboard-air-force-one-prompting-joke-about-her": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://www.politico.com/news/2026/10/25/iowa-senate-hinson-turek-independence-01134978": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://www.foxnews.com/tech/fake-social-security-statement-email-hides-scam": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/social-security-fraud.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://nypost.com/2026/10/25/sports/jets-lose-to-dolphins-at-home-as-season-takes-embarrassing-turn/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fjets-dolphins.jpg?quality%3D90%26strip%3Dall%261792943886",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://nypost.com/2026/10/25/betting/nfl-sunday-night-football-betting-promos-earn-over-5k-in-sportsbook-prediction-market-bonuses-for-chiefs-vs-seahawks/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41482306.jpg?quality%3D90%26strip%3Dall",
-"w": 3137,
-"h": 2090,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/las-iconic-dia-de-los-muertos-returns-to-hollywood-forever-cemetery/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146464391.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:08:55.831840+00:00"
-},
-"https://justthenews.com/nation/technology/musk-says-ukraine-military-violated-starlink-terms-service-leading-speed-limits": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://justthenews.com/index%2ephp/nation/states/center-square/shapiro-and-davis-kick-29-county-bus-tour-final-10-days-campaign": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-912841": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743535",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-25/brazil-court-extends-voting-by-two-hours-on-candidate-requests": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/6a854ec61351e6.96308264-e1792804457101.jpeg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-912842": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/670687",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108345671-1785965779136-gettyimages-2289241812-aw1a3883_5gheffuv.jpeg?v=1785965815&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0%2C29.064535392392%2C100%2C41.870929215215&w=1200",
-"w": 1200,
-"h": 614,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://nypost.com/2026/10/25/sports/garrett-wilson-yells-at-geno-smith-in-heated-jets-sideline-scene/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fjets-geno-wilson.jpg?quality%3D90%26strip%3Dall%261792945868",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://nypost.com/2026/10/25/sports/devin-singletary-cam-skattebo-power-giants-to-overtime-upset-of-texans/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-82790wo3g-1792960219744.jpg?quality%3D90%26strip%3Dall%261792945885",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/fur-covered-creep-in-skull-mask-stabs-man-in-trendy-nyc-nabe/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FComp-Skull-maked-stabbing.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T20:50:06.463660+00:00"
-},
 "https://justthenews.com/index%2Ephp/world/venezuelan-opposition-leader-returns-venezuela": {
 "v": 2,
 "photo": null,
@@ -9700,5 +9538,173 @@
 "via": "feed"
 },
 "checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.foxnews.com/politics/mary-peltola-campaign-dems-backed-covert-scheme-field-spoiler-candidates-alaska-senate-race-report": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://justthenews.com/politics-policy/health/new-study-estimates-nearly-3-out-4-nfl-players-who-died-over-15-year-span": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://justthenews.com/government/federal-agencies/fed-holds-rates-steady-last-meeting-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.bloomberg.com/news/features/2026-10-28/lula-s-brazil-election-win-deepens-latin-america-stock-fund-collapse": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://reason.com/volokh/2026/10/28/farewell-to-weil/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://thehill.com/homenews/campaign/6179351-gop-blasts-peltola-alaska-election-report/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Peltola_Sullivans_Oct28-1.png?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.jpost.com/international/article-913163": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743884",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913164": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744071",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Martin Lelievre",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Virgin Galactic",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.space.com/space-exploration/human-spaceflight/5-days-beneath-the-waves-what-its-like-to-live-in-an-underwater-space-station": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/WNLaUHkpQnQ3DjY2bvgruD-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://nypost.com/2026/10/28/us-news/mamdani-should-be-probed-for-using-taxpayer-money-to-push-political-agenda-pol/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fwong-hochul-james-mamdani-election-spending-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://nypost.com/2026/10/28/us-news/mary-peltolas-allies-exposed-trying-to-recruit-another-dan-sullivan-in-alaska-race-bombshell-report/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-zg7yj3rc8-1793214718930.jpg?quality%3D90%26strip%3Dall%261793200334",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T21:05:28.103866+00:00"
 }
 }
