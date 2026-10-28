@@ -14,77 +14,6 @@
 "photo": null,
 "checked": "2026-10-26T11:03:49.280919+00:00"
 },
-"https://justthenews.com/politics-policy/elections/brazil-votes-high-stakes-presidential-runoff-between-lula-and-bolsonaro": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://www.foxnews.com/outkick-sports/parker-mccollum-wants-sons-learn-lesson-hunting-ranch-life-taught-growing": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/parker-mccollum-guitar.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://www.theverge.com/tech/1018275/zen-browser-arc-replacement": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
-"w": 1198,
-"h": 620,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c64g14481n7qo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/23ad/live/af4a9e40-d09a-11f1-aeb2-977af36708cb.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146456320.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/novel-way-californians-are-scrimping-on-halloween-amid-cost-of-living-crisis-hanging-in-there/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146460736.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/disturbing-twist-involving-flock-database-and-women-seeking-abortions/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41409574.jpg?quality%3D90%26strip%3Dall",
-"w": 6000,
-"h": 3999,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T19:47:31.783791+00:00"
-},
 "https://justthenews.com/government/white-house/nicki-minaj-praises-trump-aboard-air-force-one-prompting-joke-about-her": {
 "v": 2,
 "photo": null,
@@ -9618,5 +9547,158 @@
 "via": "page"
 },
 "checked": "2026-10-28T19:18:50.150630+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/federal-agencies/fed-holds-rates-steady-last-meeting-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://justthenews.com/government/security/netanyahu-claims-arab-parties-stole-knesset-elections": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.foxnews.com/politics/dueling-rallies-thrust-deep-red-lone-star-town-center-political-universe": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/talarico-paxton-split.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108452225-1792771283223-gettyimages-2292365225-schneider-fordcomm260830_np9iA.jpeg?v=1792771304&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/8t5b8rkdDqK6rmfzeVT4bX-2292-80.jpg",
+"w": 2292,
+"h": 1289,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108304675-1778354492260-gettyimages-2253909846-260102_lax_109.jpeg?v=1778354555&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/BuDak7cvUqjKEVN6j4V3RC-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108475139-1793201034418-108475139-17932009712026-10-16t065944z_787534329_rc214oaeeu6h_rtrmadp_0_usa-election-alaska.jpg?v=1793201041&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c60e05yn3w9zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://nypost.com/2026/10/28/sports/breaking-down-jets-trade-options-before-deadline-the-most-likely-to-get-dealt/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-br32326o3-1793215509974.jpg?quality%3D90%26strip%3Dall%261793201216",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
+},
+"https://nypost.com/2026/10/28/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-world-series-game-5-on-wednesday/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-5s1xcn34d-1793205275732.jpg?quality%3D90%26strip%3Dall%261793190932",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T20:06:53.880795+00:00"
 }
 }

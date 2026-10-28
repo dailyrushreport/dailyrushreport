@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
   "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
   "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
   "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-  "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/"
+  "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
+  "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
-  "since": "2026-10-28T19:18:50.150630+00:00"
+  "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+  "since": "2026-10-28T20:06:53.880795+00:00"
  },
- "last_build": "2026-10-28T19:18:50.150630+00:00",
+ "last_build": "2026-10-28T20:06:53.880795+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -127,6 +127,7 @@
   "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
   "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
   "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-  "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/"
+  "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
+  "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html"
  ]
 }
