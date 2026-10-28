@@ -1,17 +1,17 @@
-# Social drafts — Wed Oct 28, 2026 2:29 AM CT
+# Social drafts — Wed Oct 28, 2026 4:13 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-28-0229.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-28-0413.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Federal grand jury declines to indict Cassidy Hutchinson  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/  
+Lead: Hasan Piker Hits Scott Jennings with $72.5 Million Defamation Suit over Black Lynching Accusations  
+Outlet: Breitbart  
+Link: https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 137/280 chars (X counting)
+## X — status: pending_approval · 180/280 chars (X counting)
 
 ```
-Federal grand jury declines to indict Cassidy Hutchinson. (The Hill) https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/
+Hasan Piker Hits Scott Jennings with $72.5 Million Defamation Suit over Black Lynching Accusations. (Breitbart) https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Federal grand jury declines to indict Cassidy Hutchinson. Story via The Hill. Link in bio.
+Hasan Piker Hits Scott Jennings with $72.5 Million Defamation Suit over Black Lynching Accusations. Story via Breitbart. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

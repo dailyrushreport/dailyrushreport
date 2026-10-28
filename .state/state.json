@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
   "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
@@ -19,24 +18,25 @@
   "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
   "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
-  "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/"
+  "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+  "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
-  "since": "2026-10-28T07:29:19.653425+00:00"
+  "url": "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/",
+  "since": "2026-10-28T09:13:34.709588+00:00"
  },
- "last_build": "2026-10-28T08:18:53.268697+00:00",
+ "last_build": "2026-10-28T09:13:34.709588+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
-  "Washington Examiner": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-10-28T07:29Z",
+  "Washington Examiner": "ok",
   "Axios": "ok",
   "The Hill": "ok",
   "Politico": "ok",
   "Daily Caller": "ok",
   "Daily Wire": "ok",
   "Free Beacon": "ok",
-  "Breitbart": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-10-28T07:29Z",
+  "Breitbart": "ok",
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Religion News Service": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-10-28T07:29Z",
+  "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
@@ -122,6 +122,7 @@
   "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
   "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
-  "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/"
+  "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+  "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/"
  ]
 }
