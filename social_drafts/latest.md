@@ -1,25 +1,25 @@
-# Social drafts — Wed Oct 28, 2026 8:27 AM CT
+# Social drafts — Wed Oct 28, 2026 11:15 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-28-0827.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-28-1115.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/  
-Pinned by editor: no · BREAKING: no
+Lead: At least 68 people dead in high-speed Spain train crash  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 181/280 chars (X counting)
+## X — status: pending_approval · 146/280 chars (X counting)
 
 ```
-Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race. (The Hill) https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/
+At least 68 people dead in high-speed Spain train crash. (CNBC) https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor’s race. Story via The Hill. Link in bio.
+At least 68 people dead in high-speed Spain train crash. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

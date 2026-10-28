@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-1115.json",
+  "created": "2026-10-28T16:15:00.671512+00:00",
+  "created_ct": "Wed Oct 28, 2026 11:15 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "At least 68 people dead in high-speed Spain train crash",
+    "original_headline": "At least 68 people dead in high-speed Spain train crash",
+    "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "At least 68 people dead in high-speed Spain train crash. (CNBC) https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "At least 68 people dead in high-speed Spain train crash. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

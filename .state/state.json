@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
   "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
   "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
   "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/",
-  "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
+  "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+  "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
-  "since": "2026-10-28T13:27:15.465021+00:00"
+  "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+  "since": "2026-10-28T16:15:00.671512+00:00"
  },
- "last_build": "2026-10-28T15:15:35.853775+00:00",
+ "last_build": "2026-10-28T16:15:00.671512+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-10-28T15:15Z",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
@@ -124,6 +124,7 @@
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
   "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
   "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/",
-  "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
+  "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+  "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
  ]
 }
