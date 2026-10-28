@@ -1,25 +1,25 @@
-# Social drafts — Tue Oct 27, 2026 8:27 PM CT
+# Social drafts — Wed Oct 28, 2026 12:08 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-27-2027.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-28-0008.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources  
-Outlet: Fox News  
-Link: https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources  
-Pinned by editor: no · BREAKING: yes
+Lead: Jay-Z shrugs off Super Bowl halftime pressure with bold response  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 198/280 chars (X counting)
+## X — status: pending_approval · 144/280 chars (X counting)
 
 ```
-Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources. (Fox News) https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources
+Jay-Z shrugs off Super Bowl halftime pressure with bold response. (NY Post) https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources. Story via Fox News. Link in bio.
+Jay-Z shrugs off Super Bowl halftime pressure with bold response. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

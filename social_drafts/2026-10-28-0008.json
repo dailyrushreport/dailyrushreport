@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-0008.json",
+  "created": "2026-10-28T05:08:40.271938+00:00",
+  "created_ct": "Wed Oct 28, 2026 12:08 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Jay-Z shrugs off Super Bowl halftime pressure with bold response",
+    "original_headline": "Jay-Z shrugs off Super Bowl halftime pressure with bold response",
+    "url": "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Jay-Z shrugs off Super Bowl halftime pressure with bold response. (NY Post) https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 144,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Jay-Z shrugs off Super Bowl halftime pressure with bold response. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
