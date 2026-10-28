@@ -25,7 +25,7 @@
   "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
   "since": "2026-10-28T13:27:15.465021+00:00"
  },
- "last_build": "2026-10-28T14:19:40.873184+00:00",
+ "last_build": "2026-10-28T15:15:35.853775+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -65,7 +65,7 @@
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
-  "The Onion": "FAILED (ParseError: not well-formed (invalid token): line 76, column 52) - used cache from 2026-10-28T12:05Z",
+  "The Onion": "ok",
   "Reductress": "ok",
   "The Hard Times": "ok",
   "Duffel Blog": "ok",
