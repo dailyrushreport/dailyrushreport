@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/index%2Ephp/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
 "https://justthenews.com/nation/states/center-square/shapiro-and-davis-kick-29-county-bus-tour-final-10-days-campaign": {
 "v": 2,
 "photo": null,
@@ -13,135 +8,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://justthenews.com/index%2Ephp/world/venezuelan-opposition-leader-returns-venezuela": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/states/center-square/california-pays-billions-affordable-student-housing": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://thehill.com/homenews/state-watch/6169587-democrats-attack-obbb-medicaid-cuts/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trumpdonald_whitehouse_AP_102026-e1792522014103.jpg?w=900",
-"w": 900,
-"h": 507,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/long-island-gop-pushes-for-govt-takeover-of-water-utility/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41470438.jpg?quality%3D90%26strip%3Dall",
-"w": 4032,
-"h": 2687,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://nypost.com/2026/10/25/us-news/scientists-trap-antimatter-particle-for-months-with-crazy-tech-to-avoid-blowing-up-lab/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41512134_510198.jpg?quality%3D90%26strip%3Dall",
-"w": 4501,
-"h": 3000,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T21:12:19.527461+00:00"
-},
-"https://justthenews.com/world/venezuelan-opposition-leader-returns-venezuela": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://justthenews.com/nation/states/center-square/poll-democrats-slightly-lead-republicans-economy-heading-midterms": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4779139/ousting-hegseth-priority-democrats-retake-majority-jason-crow/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26253636231764.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-"w": 1200,
-"h": 621,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://nypost.com/2026/10/25/sports/center-theo-edema-shines-for-st-johns-in-unexpected-minutes-versus-texas-star/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-411y3dtbm-1792964066289.jpg?quality%3D90%26strip%3Dall%261792949778",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-25T21:50:17.123019+00:00"
-},
-"https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108460992-1792964317207-gettyimages-2296895737-AFP_C9HA9GH.jpeg?v=1792964372&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-25T21:50:17.123019+00:00"
 },
 "https://justthenews.com/index%2ephp/government/white-house/nicki-minaj-praises-trump-aboard-air-force-one-prompting-joke-about-her": {
 "v": 2,
@@ -9706,5 +9572,136 @@
 "via": "feed"
 },
 "checked": "2026-10-28T21:05:28.103866+00:00"
+},
+"https://www.foxnews.com/outkick-sports/craig-carton-rips-chiefs-win-all-costs-approach-controversial-justin-tucker-signing": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/nfl-chiefs-andy-reid-092225-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://reason.com/volokh/2026/10/28/ice-is-now-even-more-unpopular-than-the-irs/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/01/Abolish-ICE-1.jpg",
+"w": 1175,
+"h": 658,
+"credit": "Reuters (2018)",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://thehill.com/policy/technology/6179588-fec-filing-system-restored/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2025/06/fec_111524gn04_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://thehill.com/video-clips/6178675-watch-live-donald-trump-ohio-campaign-rally-midterms/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26296012902823-e1792719356204.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1793222589&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://justthenews.com/government/security/iran-war-projected-cost-united-states-471-billion-new-pentagon-estimate": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+"w": 1080,
+"h": 563,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://www.theverge.com/tech/1021528/ice-cbp-data-leak": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0%2C2.8462472714856%2C100%2C78.524215886627&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://justthenews.com/index%2ephp/government/security/netanyahu-claims-arab-parties-stole-knesset-elections": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://nypost.com/2026/10/28/us-news/right-wing-activists-james-okeefe-cam-higby-charged-with-unlawfully-voting-in-minnesota/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FComp-Minnesota-Unlawful-Voting-02.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
+},
+"https://nypost.com/2026/10/28/lifestyle/3-california-restaurants-ranked-among-best-pasta-shops-in-us/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146779181.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-28T22:03:12.738197+00:00"
 }
 }
