@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-1305.json",
+  "created": "2026-10-28T18:05:36.815246+00:00",
+  "created_ct": "Wed Oct 28, 2026 1:05 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Fed holds rates steady despite concerns over inflation",
+    "original_headline": "Fed holds rates steady despite concerns over inflation",
+    "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Fed holds rates steady despite concerns over inflation. (CNBC) https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 131,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Fed holds rates steady despite concerns over inflation. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
