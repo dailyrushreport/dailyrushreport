@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
@@ -19,13 +18,14 @@
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
   "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
   "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
-  "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/"
+  "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
+  "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
-  "since": "2026-10-27T23:53:28.424851+00:00"
+  "url": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
+  "since": "2026-10-28T01:27:50.882517+00:00"
  },
- "last_build": "2026-10-28T00:22:01.799436+00:00",
+ "last_build": "2026-10-28T01:27:50.882517+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -119,6 +119,7 @@
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
   "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
   "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
-  "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/"
+  "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
+  "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources"
  ]
 }
