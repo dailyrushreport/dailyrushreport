@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-0229.json",
+  "created": "2026-10-28T07:29:19.653425+00:00",
+  "created_ct": "Wed Oct 28, 2026 2:29 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Federal grand jury declines to indict Cassidy Hutchinson",
+    "original_headline": "Federal grand jury declines to indict Cassidy Hutchinson",
+    "url": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Federal grand jury declines to indict Cassidy Hutchinson. (The Hill) https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 137,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Federal grand jury declines to indict Cassidy Hutchinson. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
