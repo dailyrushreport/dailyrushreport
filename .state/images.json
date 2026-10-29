@@ -8688,7 +8688,7 @@
 "https://justthenews.com/index%2Ephp/government/federal-agencies/treasury-department-sanctions-north-korean-it-workers-who-facilitated": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-29T01:45:07.545721+00:00"
+"checked": "2026-10-29T13:29:09.908631+00:00"
 },
 "https://justthenews.com/politics-policy/elections/you-vote-what-consequences-should-alaska-democrat-mary-peltola-face-dan": {
 "v": 2,
@@ -9948,5 +9948,202 @@
 "via": "feed"
 },
 "checked": "2026-10-29T12:09:11.637256+00:00"
+},
+"https://justthenews.com/politics-policy/elections/judge-rejects-doj-request-stop-california-counting-ballots-alleged": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://justthenews.com/index%2Ephp/world/europe/president-european-central-bank-christine-lagarde-stepping-down-next-year": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hegseth-sylvia.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.foxnews.com/politics/haley-stevens-fiancee-hammers-el-sayed-says-hell-vote-rogers": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-unity-rally-detroit.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://thehill.com/business/6179737-september-pce-inflation-data/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26296832852428-e1793225841876.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://thehill.com/homenews/campaign/6180417-steve-scalise-voter-turnout-boost-midterms-house-control/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26252768753544-e1793279601790.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.breitbart.com/economy/2026/10/29/gdp-q3/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/GettyImages-2302456111-e1793278008978-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "(Photo by Kevin Dietsch\\/Getty Images)",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.jpost.com/israel-news/article-913230": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728461",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108261646-1770242575552-gettyimages-2259952833-_73a9117_no72theq.jpeg?v=1780419344&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913238": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/704420",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/applemacbookprotouch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 623,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261028234238.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://reason.com/volokh/2026/10/29/israeli-jews-vote-by-economic-status-even-though-elections-turn-on-other-issues/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/election.png",
+"w": 740,
+"h": 413,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261028232659.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/translucent-glowing-human-brain-signals-waves.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261028232709.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/tools-uncovered-at-acheulian-site-north-of-gesher-benot-yaaqov.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/AjxLrgTioZbWTuu6knjwxP-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://www.cnbc.com/select/how-to-build-a-sinking-fund-for-holiday-shopping/": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108470339-1793129492047-gettyimages-1659939967-r5__6827.jpeg?v=1793129518&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
+},
+"https://nypost.com/2026/10/29/betting/valkyries-vs-dream-game-6-prediction-wnba-finals-picks-odds-best-bets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-zjvzyfqbw-1793213358279.jpg?quality%3D90%26strip%3Dall%261793199028",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T13:29:09.908631+00:00"
 }
 }

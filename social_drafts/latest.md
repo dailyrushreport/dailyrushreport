@@ -1,17 +1,17 @@
-# Social drafts — Thu Oct 29, 2026 7:09 AM CT
+# Social drafts — Thu Oct 29, 2026 8:29 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-29-0709.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-29-0829.json x` or `... instagram` (prints the final text to copy).
 
-Lead: A Finals game in the afternoon? How the WNBA got into this mess  
-Outlet: NY Post  
-Link: https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/  
+Lead: Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information  
+Outlet: Fox News  
+Link: https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 143/280 chars (X counting)
+## X — status: pending_approval · 178/280 chars (X counting)
 
 ```
-A Finals game in the afternoon? How the WNBA got into this mess. (NY Post) https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/
+Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. (Fox News) https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-A Finals game in the afternoon? How the WNBA got into this mess. Story via NY Post. Link in bio.
+Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

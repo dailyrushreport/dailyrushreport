@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
   "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
@@ -19,13 +18,14 @@
   "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/"
+  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
+  "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
-  "since": "2026-10-29T12:09:11.637256+00:00"
+  "url": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
+  "since": "2026-10-29T13:29:09.908631+00:00"
  },
- "last_build": "2026-10-29T12:09:11.637256+00:00",
+ "last_build": "2026-10-29T13:29:09.908631+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -133,6 +133,7 @@
   "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/"
+  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
+  "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-0829.json",
+  "created": "2026-10-29T13:29:09.908631+00:00",
+  "created_ct": "Thu Oct 29, 2026 8:29 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+    "original_headline": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+    "url": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. (Fox News) https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 178,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
