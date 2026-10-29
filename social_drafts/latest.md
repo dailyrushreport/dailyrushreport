@@ -1,17 +1,17 @@
-# Social drafts — Thu Oct 29, 2026 5:05 PM CT
+# Social drafts — Thu Oct 29, 2026 6:01 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-29-1705.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-29-1801.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Jeffery Simmons was stunned by blockbuster Bears trade: ‘Didn’t want to leave’  
-Outlet: NY Post  
-Link: https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/  
+Lead: Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 158/280 chars (X counting)
+## X — status: pending_approval · 172/280 chars (X counting)
 
 ```
-Jeffery Simmons was stunned by blockbuster Bears trade: ‘Didn’t want to leave’. (NY Post) https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/
+Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates. (CNBC) https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Jeffery Simmons was stunned by blockbuster Bears trade: ‘Didn’t want to leave’. Story via NY Post. Link in bio.
+Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

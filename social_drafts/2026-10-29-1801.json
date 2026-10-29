@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-1801.json",
+  "created": "2026-10-29T23:01:41.248518+00:00",
+  "created_ct": "Thu Oct 29, 2026 6:01 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "original_headline": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates. (CNBC) https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

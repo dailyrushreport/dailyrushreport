@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
   "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
   "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/",
   "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
   "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
   "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
-  "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/"
+  "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
+  "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
-  "since": "2026-10-29T22:05:24.577678+00:00"
+  "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+  "since": "2026-10-29T23:01:41.248518+00:00"
  },
- "last_build": "2026-10-29T22:05:24.577678+00:00",
+ "last_build": "2026-10-29T23:01:41.248518+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -140,6 +140,7 @@
   "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
   "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
   "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
-  "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/"
+  "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
+  "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
  ]
 }
