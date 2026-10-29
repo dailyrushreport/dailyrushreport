@@ -4,103 +4,6 @@
 "photo": null,
 "checked": "2026-10-26T11:03:49.280919+00:00"
 },
-"https://justthenews.com/index%2ephp/politics-policy/elections/brazil-votes-high-stakes-presidential-runoff-between-lula-and-bolsonaro": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://justthenews.com/index%2ephp/government/local/least-12-injured-after-shooting-near-football-stadium-tallahassee": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/white-house/final-stretch-border-completion-may-be-argument-investment-and-cost-saving": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.foxnews.com/us/teen-accused-stepsister-cruise-ship-murder-buys-time-consider-plea-wont-get-sweet-deal-expert": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Timothy-hudson-could-get-plea-deal-in-anna-kepner-case.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.foxnews.com/politics/candy-prices-surge-beyond-inflation-americans-still-plan-spend-billions-halloween-staples": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/halloween-candy-shopping.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-26/chinese-conglomerate-huafa-seeks-to-extend-some-debt-payments": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/iVwYcWWRqm8kkHtD4gyycE-1920-80.jpg",
-"w": 969,
-"h": 545,
-"credit": "NASA/Ames/JPL-Caltech",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.theguardian.com/commentisfree/2026/oct/26/democrats-win-victory-lessons": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/9a5ff7edf2cdcbbe60494faeebac3964907ca349/0_0_3167_2533/master/3167.jpg?width=700&quality=85&auto=format&fit=max&s=2653d9884fe0790d8ef4901dc8349a29",
-"w": 700,
-"h": 560,
-"credit": "Robin Buckson/Detroit News/AP",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108420161-1792163835646-Untitled-5.jpg?v=1792777161&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://www.thefp.com/p/a-freethinkers-guide-to-the-midterms": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!jiCr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f62e56e-b1cd-4695-968e-ed99a8858912_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
-"https://reason.com/2026/10/26/terrorists-are-winning-the-african-war-on-terror/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/topicsforeignpolicy.jpg",
-"w": 1161,
-"h": 653,
-"credit": "Iyad Ag Ghali; Patrick Robert/Corbis/Getty",
-"via": "feed"
-},
-"checked": "2026-10-26T10:12:50.389765+00:00"
-},
 "https://justthenews.com/nation/culture/monjust-news-parent-company-behind-new-comedy-series-returning-roseanne-barr-tv": {
 "v": 2,
 "photo": null,
@@ -9778,5 +9681,147 @@
 "via": "feed"
 },
 "checked": "2026-10-29T09:35:59.561288+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/oct/29/trump-ballot-midterms-voting": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d3a164988658587f9da9601da22c366bde3b0eeb/525_0_5254_4203/master/5254.jpg?width=700&quality=85&auto=format&fit=max&s=80d659a3c8792a8090c77c074e0e4d29",
+"w": 700,
+"h": 560,
+"credit": "Kent Nishimura/AFP/Getty Images",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.foxnews.com/politics/americas-enemies-prepare-take-next-major-war-outer-space": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/russia-space-nuclear-weapon-satellite-threat-us-warning-001.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.breitbart.com/midterm-election/2026/10/28/putting-country-before-party-haley-stevens-fiance-backs-mike-rogers-over-el-sayed/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/Mike-Rogers-Abdul-El-Sayed-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.foxnews.com/world/netanyahu-alleges-fraud-arab-parties-score-record-gains-emerge-potential-kingmakers": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/arab-list-israeli-elections.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-10-29/investors-may-have-bought-all-the-ai-bonds-they-can-handle": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://reason.com/2026/10/29/ai-is-unlocking-abundant-energy/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/AIUnlockingEnergy-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "zanskar.com/Zanskargeorthermal/Substack",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-29/cosco-profit-jumps-most-in-two-years-as-turmoil-supports-rates": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.foxnews.com/politics/actblues-woes-not-over-top-republican-predicts-potential-doj-charges-over-foreign-cash-controversy": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ActBlue-CEO-Regina-Wallace-Jones-House-hearing.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/mTE8iKszeLh7DcAapy5ni8-1920-80.jpg",
+"w": 1024,
+"h": 576,
+"credit": "AFRL/SpaceX",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://nypost.com/2026/10/29/health/breastfeeding-supplements-and-drinks-that-may-boost-milk-supply/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41556577_9fd402.jpg?quality%3D90%26strip%3Dall",
+"w": 5713,
+"h": 3807,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://nypost.com/2026/10/29/sports/the-nba-curse-the-knicks-have-sidestepped-into-sustained-contention/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FGettyImages-2251720596-1.jpg?quality%3D90%26strip%3Dall",
+"w": 5000,
+"h": 3333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw5ynxepy4gno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T10:32:14.752642+00:00"
 }
 }
