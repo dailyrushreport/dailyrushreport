@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
   "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
-  "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html"
+  "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-  "since": "2026-10-29T08:38:13.740704+00:00"
+  "url": "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
+  "since": "2026-10-29T12:09:11.637256+00:00"
  },
- "last_build": "2026-10-29T11:27:47.353920+00:00",
+ "last_build": "2026-10-29T12:09:11.637256+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -132,6 +132,7 @@
   "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
   "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
-  "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html"
+  "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/"
  ]
 }
