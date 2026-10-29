@@ -1,25 +1,25 @@
-# Social drafts — Thu Oct 29, 2026 8:29 AM CT
+# Social drafts — Thu Oct 29, 2026 9:23 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-29-0829.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-29-0923.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information  
-Outlet: Fox News  
-Link: https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information  
-Pinned by editor: no · BREAKING: no
+Lead: DoorDash buying Instacart for $17B  
+Outlet: The Hill  
+Link: https://thehill.com/business/6180612-doordash-to-acquire-instacart/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 178/280 chars (X counting)
+## X — status: pending_approval · 129/280 chars (X counting)
 
 ```
-Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. (Fox News) https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information
+DoorDash buying Instacart for $17B. (The Hill) https://thehill.com/business/6180612-doordash-to-acquire-instacart/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information. Story via Fox News. Link in bio.
+DoorDash buying Instacart for $17B. Story via The Hill. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

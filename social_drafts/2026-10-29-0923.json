@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-0923.json",
+  "created": "2026-10-29T14:23:38.662358+00:00",
+  "created_ct": "Thu Oct 29, 2026 9:23 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "DoorDash buying Instacart for $17B",
+    "original_headline": "DoorDash buying Instacart for $17B",
+    "url": "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "DoorDash buying Instacart for $17B. (The Hill) https://thehill.com/business/6180612-doordash-to-acquire-instacart/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 129,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "DoorDash buying Instacart for $17B. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
