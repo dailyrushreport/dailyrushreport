@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-28-1938.json",
+  "created": "2026-10-29T00:38:54.477293+00:00",
+  "created_ct": "Wed Oct 28, 2026 7:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Apple breaks with longtime MacBook policy, introduces touchscreen laptops at higher prices",
+    "original_headline": "Apple breaks with longtime MacBook policy, introduces touchscreen laptops at higher prices",
+    "url": "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
+    "source": "Fox Business",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Apple breaks with longtime MacBook policy, introduces touchscreen laptops at higher prices. (Fox Business) https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 175,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Apple breaks with longtime MacBook policy, introduces touchscreen laptops at higher prices. Story via Fox Business. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
