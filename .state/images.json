@@ -9,77 +9,6 @@
 "photo": null,
 "checked": "2026-10-27T02:01:50.766026+00:00"
 },
-"https://justthenews.com/index%2ephp/nation/crime/teen-arrested-shooting-occurred-after-florida-am-homecoming-game": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.jpost.com/international/article-912943": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743680",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.thefp.com/p/bernard-henri-levy-the-riots-in-france-protest-maga-israel": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!K45F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d0ffe71-79b9-4863-8fa1-950e83d1c95b_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-912960": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743693",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/70db/live/4cd23300-d157-11f1-9f24-99bf1cc18b1d.png",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T18:35:45.558538+00:00"
-},
 "https://justthenews.com/nation/religion/pope-leo-xiv-will-make-planned-latin-america-trip-after-doctors-clear-him-travel": {
 "v": 2,
 "photo": null,
@@ -10060,5 +9989,195 @@
 "via": "feed"
 },
 "checked": "2026-10-29T18:08:12.105166+00:00"
+},
+"https://justthenews.com/nation/crime/man-who-threw-molotov-cocktails-yelling-free-palestine-pleads-guilty-federal-hate": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://justthenews.com/politics-policy/all-things-trump/house-democrat-maneuvers-block-funding-trumps-east-potomac-golf": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://justthenews.com/nation/economy/gdp-increases-34-third-quarter-exceeding-wall-street-expectations": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4784816/west-virginia-sues-tiktok-safety-concerns-children/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/tiktok-sign.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.breitbart.com/latin-america/2026/10/29/judge-overseeing-nicolas-maduro-drug-trafficking-case-passed-away-at-92/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/08/maduro-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "@NicolasMaduroMoros",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-913287": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/704984",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://reason.com/2026/10/29/utah-files-criminal-charges-against-kalshi-co-founders/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Kalshi-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Illustration: raeme Sloan/Sipa USA/Thomas Fuller/ZUMAPRESS/Newscom",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg",
+"w": 1024,
+"h": 648,
+"credit": "KENT NISHIMURA / Contributor | AFP",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/54fSmWhNnaSojscHCvLYrh-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-ouyv8f5j1-1793297160443.jpg?quality%3D90%26strip%3Dall%261793282956",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108476463-1793218320762-gettyimages-2301920935-POLYMARKET_MIDTERMS.jpeg?v=1793218389&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.upi.com/Odd_News/2026/10/29/lotto-north-carolina-education-lottery-beginners-luck/9531793297438/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/nurse-killed-by-husband-in-murder-suicide-just-weeks-after-she-gushed-how-they-couldnt-be-happier-2/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146872417.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
+"w": 1152,
+"h": 648,
+"credit": "247Solar",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.cnbc.com/2026/10/29/west-pharma-earnings-growth-beyond-glp-1.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108341698-1785331124399-gettyimages-2286897890-img_2181.jpeg?v=1785855403&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1199,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
+},
+"https://nypost.com/2026/10/29/business/bay-area-store-to-shut-down-amid-california-grocery-store-closures/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcomp64.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T19:20:42.880999+00:00"
 }
 }

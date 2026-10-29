@@ -1,25 +1,25 @@
-# Social drafts — Thu Oct 29, 2026 11:17 AM CT
+# Social drafts — Thu Oct 29, 2026 2:20 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-29-1117.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-29-1420.json x` or `... instagram` (prints the final text to copy).
 
-Lead: DoorDash to acquire Instacart for $17 billion  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html  
-Pinned by editor: no · BREAKING: yes
+Lead: Bears’ Super Bowl odds jump after shocking Jeffery Simmons trade  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 136/280 chars (X counting)
+## X — status: pending_approval · 144/280 chars (X counting)
 
 ```
-DoorDash to acquire Instacart for $17 billion. (CNBC) https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html
+Bears’ Super Bowl odds jump after shocking Jeffery Simmons trade. (NY Post) https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-DoorDash to acquire Instacart for $17 billion. Story via CNBC. Link in bio.
+Bears’ Super Bowl odds jump after shocking Jeffery Simmons trade. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
