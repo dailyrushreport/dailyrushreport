@@ -9,202 +9,6 @@
 "photo": null,
 "checked": "2026-10-27T02:01:50.766026+00:00"
 },
-"https://justthenews.com/index%2Ephp/government/courts-law/judge-finds-trump-admin-illegally-fired-james-comeys-daughter": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/elections/alaska-democratic-senate-candidate-peltola-reschedules-campaign-events": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.foxbusiness.com/markets/microsoft-offers-voluntary-buyouts-60000-employees-tech-giant-reshapes-its-workforce": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/satya-nadella-microsoft-ceo-speech.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/M4aJKWHtaKQS6Er2Xiph3j-1920-80.jpg",
-"w": 516,
-"h": 516,
-"credit": "NASA/JPL/Space Science Institute",
-"via": "feed"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.jpost.com/israel-news/article-912963": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743695",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.jpost.com/international/article-912974": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743499",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.cnbc.com/2026/10/26/anthropic-ipo-filing-investor-reaction.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108463861-1793017404925-gettyimages-2297744238-2r1_4071_9tn6rdgd.jpeg?v=1793017658&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108463868-17930177542026-10-22t132024z_1161924906_rc2d8oa92yke_rtrmadp_0_energy-europe-batteries.jpeg?v=1793017796&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://nypost.com/2026/10/26/us-news/bargain-chain-faces-ftc-lawsuit-for-deceptive-practices/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146558406.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://nypost.com/2026/10/26/us-news/magnet-fisherman-makes-shocking-discovery-why-was-it-in-the-water/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-97lrtx90p-1793040889197.jpg?quality%3D90%26strip%3Dall%261793026499",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:18:55.158442+00:00"
-},
-"https://www.theguardian.com/sport/2026/oct/26/nfl-today-how-to-watch-cowboys-v-eagles-tv-channels-live-stream-monday-26-october": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/9c42fea3f1f7482b0077b03256eff7bca36de00a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=678fb01c1e0a3dd869f079e2d8cc54bf",
-"w": 700,
-"h": 560,
-"credit": "Sam Hodde/AP",
-"via": "feed"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-26/universal-music-group-discussed-going-private-with-buyout-firms": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://www.foxnews.com/us/illegal-immigrant-accused-beheading-iwo-jima-monument-granted-bond": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/iwo-jima-statue-marine-corps-base-quantico.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-26/whirlpool-plunges-after-cutting-outlook-for-third-time-this-year": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4780359/trump-offers-1000000-reward-for-tips-resulting-in-voter-fraud-convictions/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26299726980611.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108448316-1792700050649-gettyimages-2284742860-bb526758_s4vfzq1d_oq14lr5y.jpeg?v=1792700321&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://thehill.com/policy/technology/6173329-nba-partners-kalshi-polymarket/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2025/11/SilverNBA_Mastrangelo_AP_NateBillings.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/PentagonAnthropic_Timotija-Shapero_AdobeStock.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
-"https://nypost.com/2026/10/26/betting/cowboys-vs-eagles-betting-promos-collect-5k-in-sportsbook-prediction-market-bonuses-for-monday-night-football/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41523068.jpg?quality%3D90%26strip%3Dall",
-"w": 4692,
-"h": 3127,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T20:59:18.815847+00:00"
-},
 "https://justthenews.com/government/security/pentagon-calls-congress-make-department-war-name-change-permanent": {
 "v": 2,
 "photo": null,
@@ -9107,7 +8911,7 @@
 "https://justthenews.com/government/security/hegseth-fires-senior-pentagon-strategist-alleged-have-leaked-classified-iran": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-29T14:23:38.662358+00:00"
+"checked": "2026-10-29T21:08:39.815364+00:00"
 },
 "https://www.foxnews.com/media/speaker-johnson-rejects-nonsense-narrative-gop-refuse-seat-dem-winners": {
 "v": 2,
@@ -10136,5 +9940,168 @@
 "via": "feed"
 },
 "checked": "2026-10-29T20:08:51.712179+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/polling/california-gop-voters-overwhelmingly-support-voter-id-measure-not-enough": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://justthenews.com/government/congress/elizabeth-warren-calls-doj-investigate-bank-america-over-money-laundering": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://thehill.com/policy/healthcare/6182563-arizona-reports-new-world-screwworm/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26162674860122-e1786468851267.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.breitbart.com/midterm-election/2026/10/29/alaska-governor-orders-investigation-democrat-mary-peltolas-senate-campaign/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/Mary-Peltola-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.jpost.com/international/article-913298": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744262",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-913303": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744265",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c893zev54341o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/90d9/live/9f67d540-d3cb-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/2mYvy2KuahYGHkMXQdnVMe-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Bloomberg",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "FANUC America",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/hochul-says-nicki-minaj-was-poisoned-by-trump-after-rapper-called-her-evil-im-nice/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146884193.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/bullet-train-boss-makes-mad-dash-for-cigars-in-his-gym-gear-hours-after-quitting-his-231b-flop/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146876208.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/xavier-becerra-leans-on-identity-in-california-governor-race/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146886954.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T21:08:39.815364+00:00"
 }
 }
