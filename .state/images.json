@@ -1,112 +1,4 @@
 {
-"https://justthenews.com/government/local/least-12-injured-after-shooting-near-football-stadium-tallahassee": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://justthenews.com/nation/culture/monjust-news-parent-company-behind-new-comedy-series-returning-roseanne-barr-tv": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://justthenews.com/nation/states/center-square/economists-grand-canyon-flooding-could-leave-impacts": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-26/pick-n-pay-bets-on-springboks-rugby-to-win-back-shoppers": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.jpost.com/israel-news/crime-in-israel/article-912892": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743602",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.jpost.com/middle-east/article-912893": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743601",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4777911/candidates-facing-new-maps-redistricting/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/Alabamamapa-e1792796971562.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&strip=all&crop=0%2C10.737777045019%2C100%2C78.524445909961&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://www.cnbc.com/2026/10/26/tesla-spacex-merger-barclays.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108441931-1792588782202-gettyimages-2301241030-vcg111675843072.jpeg?v=1792588817&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://nypost.com/2026/10/26/us-news/japan-indicts-us-marine-lance-cpl-devin-jacob-ballard-over-okinawa-killing-media-say/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146531598.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://nypost.com/2026/10/26/world-news/israels-furious-arab-parties-could-oust-netanyahu/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146113123.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
-"https://nypost.com/2026/10/26/us-news/nycs-slanted-sidewalk-sheds-draw-ridicule-but-expert-wonders-who-will-pay/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FSIDEWALK-SHED.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T11:03:49.280919+00:00"
-},
 "https://justthenews.com/politics-policy/elections/alaska-democratic-senate-candidate-peltola-reschedules-campaign-events": {
 "v": 2,
 "photo": null,
@@ -9823,5 +9715,119 @@
 "via": "feed"
 },
 "checked": "2026-10-29T10:32:14.752642+00:00"
+},
+"https://justthenews.com/politics-policy/all-things-trump/veteran-groups-position-trumps-triumphal-arch-dc-mixed": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.foxnews.com/outkick-sports/chargers-jim-harbaugh-very-confident-mike-mcdaniel-winless-0-6-season-start": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Los-Angeles-Chargers-Mike-McDaniel.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.foxnews.com/outkick-sports/jake-paul-announces-christmas-eve-comeback-fight-dubai-broken-jaw-threatened-career": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/jake-paul-111825.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913206": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743816",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/elections/alaska-governor-orders-probe-democrat-nominee-over-alleged-senate-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/nevada-refuses-help-feds-find-noncitizen-voters": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107405221-1713892565815-gettyimages-1988355170-scooter262243_5r57gm4x.jpeg?v=1750955954&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108476436-1793217816361-gettyimages-523321650-_rez5647.jpeg?v=1793217820&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmdx3knq1xexo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146845143.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cky93127nyepo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/53e6/live/53a22db0-d383-11f1-b5f4-fd541fd21001.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T11:27:47.353920+00:00"
 }
 }
