@@ -19,132 +19,6 @@
 "photo": null,
 "checked": "2026-10-26T07:40:01.533746+00:00"
 },
-"https://www.foxnews.com/politics/ninth-circuit-questions-trump-doj-emergency-request-set-aside-20000-california-mail-ballots": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/California-Gov-Gavin-Newsom-ai-law.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.foxnews.com/us/college-homecoming-party-turns-chaos-deck-collapses-leaving-28-people-injured": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/william-mary-campus-porch-collapse-homecoming.png?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108369227-1790676623367-gettyimages-2296657759-AFP_C9FF2FP.jpeg?v=1790676649&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c16e/live/016ed620-cde2-11f1-8443-776dd2459391.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4779311/trump-people-dont-talk-democrat-strongest-2028-candidate/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26299011676716.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.jpost.com/international/article-912852": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/703689",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://www.thefp.com/p/whos-really-trying-to-rig-the-alaska": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!2xeh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3dbcc74-5fe4-4756-a7e6-2e4b55cc40a5_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://nypost.com/2026/10/25/sports/the-aaron-glenn-watch-has-begun-as-embattled-coach-defends-jets-direction/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-kyvq75srh-1792977300722.jpg?quality%3D90%26strip%3Dall%261792962968",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://nypost.com/2026/10/25/sports/49ers-injury-nightmare-leaves-george-kittle-defending-kyle-shanahans-game-plan/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-lvr5wdv6a-1792978801708.jpg?quality%3D90%26strip%3Dall%261792964430",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
-"https://nypost.com/2026/10/25/sports/knicks-blow-10-point-lead-late-to-magic-to-fall-to-0-3/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-tqehakel1-1792979753550.jpg?quality%3D90%26strip%3Dall%261792965424",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-26T02:03:29.554209+00:00"
-},
 "https://justthenews.com/government/federal-agencies/netanyahu-faces-election-test-israelis-weigh-years-war": {
 "v": 2,
 "photo": null,
@@ -9833,5 +9707,90 @@
 "via": "feed"
 },
 "checked": "2026-10-29T01:45:07.545721+00:00"
+},
+"https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-10-29/jio-breaks-the-mega-ipo-jinx-with-record-delivery-volumes-to-boot": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://justthenews.com/government/federal-agencies/treasury-department-sanctions-north-korean-it-workers-who-facilitated": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://justthenews.com/government/federal-agencies/emergency-declared-after-fire-breaks-out-department-energy-nuclear-site": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://justthenews.com/government/federal-agencies/three-arrested-after-fbi-foils-planned-shooting-georgia-high-school": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image2-5.jpeg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108129020-17442031072025-04-09t123941z_1563710510_rc2auda4lwqg_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1744203134&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+"w": 1200,
+"h": 621,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-29T02:34:38.975040+00:00"
+},
+"https://nypost.com/2026/10/28/us-news/final-texts-of-long-island-mom-of-four-who-died-after-driving-suv-into-pool-revealed/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fhusband-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-29T02:34:38.975040+00:00"
 }
 }
