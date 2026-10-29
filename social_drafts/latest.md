@@ -1,17 +1,17 @@
-# Social drafts — Wed Oct 28, 2026 11:32 PM CT
+# Social drafts — Thu Oct 29, 2026 3:38 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-28-2332.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-29-0338.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Haley Stevens’s Democratic fiance backs Mike Rogers, says el Sayed imperils Jewish community  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/  
+Lead: Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 184/280 chars (X counting)
+## X — status: pending_approval · 163/280 chars (X counting)
 
 ```
-Haley Stevens’s Democratic fiance backs Mike Rogers, says el Sayed imperils Jewish community. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/
+Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks. (CNBC) https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Haley Stevens’s Democratic fiance backs Mike Rogers, says el Sayed imperils Jewish community. Story via Washington Examiner. Link in bio.
+Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

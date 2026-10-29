@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-0338.json",
+  "created": "2026-10-29T08:38:13.740704+00:00",
+  "created_ct": "Thu Oct 29, 2026 3:38 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+    "original_headline": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+    "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks. (CNBC) https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 163,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
