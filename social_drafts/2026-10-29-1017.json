@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-1017.json",
+  "created": "2026-10-29T15:17:48.045530+00:00",
+  "created_ct": "Thu Oct 29, 2026 10:17 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "US GDP grew by 3.4 percent in third quarter amid AI investment boom",
+    "original_headline": "US GDP grew by 3.4 percent in third quarter amid AI investment boom",
+    "url": "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "US GDP grew by 3.4 percent in third quarter amid AI investment boom. (The Hill) https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "US GDP grew by 3.4 percent in third quarter amid AI investment boom. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
