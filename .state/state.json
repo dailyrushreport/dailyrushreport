@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
   "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
   "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
   "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
   "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
-  "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/"
+  "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
+  "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
-  "since": "2026-10-29T15:17:48.045530+00:00"
+  "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+  "since": "2026-10-29T16:17:35.154565+00:00"
  },
- "last_build": "2026-10-29T15:17:48.045530+00:00",
+ "last_build": "2026-10-29T16:17:35.154565+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -136,6 +136,7 @@
   "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
   "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
-  "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/"
+  "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
+  "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html"
  ]
 }

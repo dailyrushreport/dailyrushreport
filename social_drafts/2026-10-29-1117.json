@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-29-1117.json",
+  "created": "2026-10-29T16:17:35.154565+00:00",
+  "created_ct": "Thu Oct 29, 2026 11:17 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "DoorDash to acquire Instacart for $17 billion",
+    "original_headline": "DoorDash to acquire Instacart for $17 billion",
+    "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "DoorDash to acquire Instacart for $17 billion. (CNBC) https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 136,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "DoorDash to acquire Instacart for $17 billion. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
