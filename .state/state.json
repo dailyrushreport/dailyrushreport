@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
   "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
   "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-  "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices"
+  "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/"
  ],
  "current_lead": {
-  "url": "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
-  "since": "2026-10-29T00:38:54.477293+00:00"
+  "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
+  "since": "2026-10-29T04:31:57.035948+00:00"
  },
- "last_build": "2026-10-29T03:31:16.434623+00:00",
+ "last_build": "2026-10-29T04:31:57.035948+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -130,6 +130,7 @@
   "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
   "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
   "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-  "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices"
+  "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/"
  ]
 }
