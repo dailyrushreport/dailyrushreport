@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
   "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
   "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
   "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
-  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge"
+  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+  "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"
  ],
  "current_lead": {
-  "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
-  "since": "2026-10-30T10:14:33.165791+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
+  "since": "2026-10-30T13:25:38.720886+00:00"
  },
- "last_build": "2026-10-30T12:05:19.534103+00:00",
+ "last_build": "2026-10-30T13:25:38.720886+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -145,6 +145,7 @@
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
-  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge"
+  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+  "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"
  ]
 }

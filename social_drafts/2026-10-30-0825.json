@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-30-0825.json",
+  "created": "2026-10-30T13:25:38.720886+00:00",
+  "created_ct": "Fri Oct 30, 2026 8:25 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "China denies allegations of spy operation targeting Nvidia CEO",
+    "original_headline": "China denies allegations of spy operation targeting Nvidia CEO",
+    "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "China denies allegations of spy operation targeting Nvidia CEO. (BBC) https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 138,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "China denies allegations of spy operation targeting Nvidia CEO. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
