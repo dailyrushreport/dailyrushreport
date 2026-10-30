@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-30-0321.json",
+  "created": "2026-10-30T08:21:36.372789+00:00",
+  "created_ct": "Fri Oct 30, 2026 3:21 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Ramaswamy pulls controversial ad featuring Amy Acton’s estranged mother",
+    "original_headline": "Ramaswamy pulls controversial ad featuring Amy Acton’s estranged mother",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Ramaswamy pulls controversial ad featuring Amy Acton’s estranged mother. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 163,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Ramaswamy pulls controversial ad featuring Amy Acton’s estranged mother. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

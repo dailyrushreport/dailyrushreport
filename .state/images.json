@@ -4,82 +4,6 @@
 "photo": null,
 "checked": "2026-10-27T13:38:59.571414+00:00"
 },
-"https://justthenews.com/government/security/dhs-suspends-travel-program-chinese-nationals-amid-birth-tourism-concerns": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-10-27/hsbc-earnings-profit-jump-and-1-billion-buyback-fall-short-of-investors-hopes": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913003": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743762",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108466792-1793068403464-gettyimages-2227552756-img_1075.jpeg?v=1793068426&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba2d/live/b62c2930-d1d6-11f1-b98e-83cc843f0a81.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://nypost.com/2026/10/27/us-news/trump-admin-slams-cbs-for-leaving-out-absurd-bit-of-fraud-from-60-minutes-profile-of-deported-husband-and-father/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ftrump-administration-disputed-60-minutes-146597738.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://nypost.com/2026/10/27/lifestyle/dear-abby-my-friend-is-reselling-the-expensive-birthday-gifts-i-give-her-son/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fyoung-happy-boy-group-friends-142186301.jpg?quality%3D90%26strip%3Dall",
-"w": 5000,
-"h": 3337,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
-"https://nypost.com/2026/10/27/world-news/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41533452.jpg?quality%3D90%26strip%3Dall",
-"w": 8640,
-"h": 5758,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T07:35:46.738056+00:00"
-},
 "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know": {
 "v": 2,
 "photo": {
@@ -9915,5 +9839,97 @@
 "via": "feed"
 },
 "checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.foxnews.com/politics/resurfaced-peltola-criminal-offense-quote-comes-back-haunt-her-after-explosive-report-turn-yourself-in": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mary-peltola-alaska-senate-race.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/tesco-strikes-deal-to-sell-czech-slovakia-unit-for-1-7-billion": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://reason.com/2026/10/30/brickbat-home-sweet-chicago/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/reynaldo-guevara-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Terrence Antonio James/TNS/Newscom",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-union/articles/cmrry1rgzd4zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/59d0/live/824cf990-d3da-11f1-9c32-1532a6164171.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/38340cfed51c97772110a19139f035123c63862a/0_58_3765_3012/master/3765.jpg?width=700&quality=85&auto=format&fit=max&s=fc2ee31844762414319156b4c4dac5c7",
+"w": 700,
+"h": 560,
+"credit": "Composite: Rita Liu/The Guardian/Getty Images",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://nypost.com/2026/10/30/sports/green-bay-packers-running-back-josh-jacobs-says-td-celebration-that-drew-criticism-was-modeled-after-a-gospel-song/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146945627.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://nypost.com/2026/10/30/us-news/bear-family-raids-pickup-truck-in-tennessee-helping-themselves-to-six-pack-of-beer/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146948940.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
+},
+"https://nypost.com/2026/10/30/lifestyle/skechers-drops-limited-edition-harry-kane-collab-cleats-and-they-wont-last-long/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fskechers-x-harry-kane-harry-146779169.jpg?quality%3D90%26strip%3Dall",
+"w": 5348,
+"h": 8018,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T08:21:36.372789+00:00"
 }
 }
