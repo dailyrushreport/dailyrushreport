@@ -4,76 +4,6 @@
 "photo": null,
 "checked": "2026-10-27T13:38:59.571414+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://justthenews.com/politics-policy/environment/vance-announces-agriculture-department-investing-57m-american": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/security/dhs-suspends-travel-program-chinese-nationals-amid-birth-tourism-concerns": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-912997": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735401",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://www.jpost.com/israel-news/article-912998": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743742",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck78px6glw3lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cf0f/live/507a4be0-d135-11f1-be77-d1864d279cb0.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T06:32:13.340296+00:00"
-},
 "https://justthenews.com/government/security/dhs-suspends-travel-program-chinese-nationals-amid-birth-tourism-concerns": {
 "v": 2,
 "photo": null,
@@ -9870,5 +9800,120 @@
 "via": "feed"
 },
 "checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.jpost.com/american-politics/article-913329": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723384",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.breitbart.com/politics/2026/10/29/former-hhs-senior-adviser-calley-means-iowa-ground-zero-maha/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/calley-means-jordan-bbn-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Jasmyn Jordan\\/Breitbart News",
+"via": "page"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.jpost.com/israel-news/article-913330": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744286",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793336240&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/92f8/live/fbb3c410-d39b-11f1-a012-7186932b0251.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a1e/live/75fdda30-d2cf-11f1-b677-b762d2f83f6e.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ffb/live/ed9301c0-d42c-11f1-95ab-29e198572168.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://nypost.com/2026/10/30/lifestyle/ebola-sparks-new-cdc-rule-for-us-bound-flyers-as-major-airlines-seek-delay/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fdeadly-disease-sparks-new-cdc-146939879.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://nypost.com/2026/10/30/lifestyle/amsterdams-new-art-zoo-puts-visitors-in-cages-among-dramatic-taxidermy-by-artists-sinke-and-van-tongeren/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-7vjmtpb09-1793342359996.jpg?quality%3D90%26strip%3Dall%261793328046",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
+},
+"https://nypost.com/2026/10/30/lifestyle/dear-abby-i-chose-an-italy-trip-over-my-nieces-wedding-and-im-starting-to-feel-remorse/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41541708.jpg?quality%3D90%26strip%3Dall",
+"w": 4444,
+"h": 2962,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T07:29:52.531460+00:00"
 }
 }
