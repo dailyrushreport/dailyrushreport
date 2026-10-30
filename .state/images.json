@@ -14,77 +14,6 @@
 "photo": null,
 "checked": "2026-10-28T03:07:17.421960+00:00"
 },
-"https://www.foxnews.com/politics/russian-diesel-tankers-close-us-ports-trump-putin-deal-triggers-legal-showdown": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ce4a5cc3-ce4a5cc3-vladimir-putin-donald-trump-2025-scaled.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://www.breitbart.com/politics/2026/10/27/democrat-rep-ro-khanna-defends-wealth-tax-on-california-billionaires-you-didnt-build-this-money-yourself/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/AP26279162649180-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://thehill.com/newsletters/defense-national-security/6176571-pentagon-picks-poland-missile-facility/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP23037440354013-e1793142938576.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/4781171/watch-live-trump-texas-midterm-campaign-blitz/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/02/AP26059026729769-e1793117314597.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-912957": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743923",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
-"https://thehill.com/regulation/court-battles/6176566-piker-defamation-lawsuit-jennings/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/On-the-Ballot_090226_AP_Julia-Demaree-Nikhinson.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:25:45.400445+00:00"
-},
 "https://justthenews.com/index%2Ephp/government/courts-law/manhattan-brothers-each-sentenced-30-years-prison-sex-trafficking": {
 "v": 2,
 "photo": null,
@@ -8471,7 +8400,7 @@
 "https://justthenews.com/politics-policy/elections/pope-leo-vote-mail-illinois-midterm-election-vatican": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-30T16:11:06.133191+00:00"
+"checked": "2026-10-30T23:28:32.871989+00:00"
 },
 "https://thehill.com/homenews/campaign/6183683-pope-leo-xiv-votes-early-midterms-historical/": {
 "v": 2,
@@ -8580,7 +8509,7 @@
 "https://justthenews.com/nation/culture/harassed-red-baron-worker-thanks-supporters-fundraiser-clears-500k": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-30T17:07:29.589167+00:00"
+"checked": "2026-10-30T23:28:32.871989+00:00"
 },
 "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html": {
 "v": 2,
@@ -9652,5 +9581,49 @@
 "via": "feed"
 },
 "checked": "2026-10-30T23:00:05.178262+00:00"
+},
+"https://www.jpost.com/middle-east/article-913369": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/609632",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T23:28:32.871989+00:00"
+},
+"https://www.jpost.com/international/article-913365": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744322",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T23:28:32.871989+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1d3/live/db4d7920-d4b6-11f1-93e1-3b657b665bcf.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T23:28:32.871989+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T23:28:32.871989+00:00"
 }
 }

@@ -25,7 +25,7 @@
   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "since": "2026-10-30T21:57:47.742333+00:00"
  },
- "last_build": "2026-10-30T23:00:05.178262+00:00",
+ "last_build": "2026-10-30T23:28:32.871989+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-10-30T22:27Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
