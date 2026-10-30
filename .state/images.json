@@ -1,102 +1,4 @@
 {
-"https://justthenews.com/index%2ephp/government/security/houthis-test-trump-ramping-attacks-saudi-arabia-developing-ballistic-missile": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-27/why-indonesia-is-reducing-gas-exports-to-singapore": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-back-on-track-expense-reeling-eagles-key-nfc-east-win": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dak-prescott-cowboys-warmup-philadelphia.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c5rmy84np001o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/26da/live/6256a960-ad33-11f1-bc1f-3f186ca4140c.jpg",
-"w": 976,
-"h": 650,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108464021-1793019612215-gettyimages-2298823965-ALASKA_MIDTERMS.jpeg?v=1793029082&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.jpost.com/international/internationalrussia-ukraine-war/article-912989": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743729",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-912988": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741568",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://nypost.com/2026/10/26/sports/university-of-utah-responds-to-pat-mcafees-scathing-rebuke/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-b283ky2t4-1793072232241.jpg?quality%3D90%26strip%3Dall%261793057891",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://nypost.com/2026/10/26/sports/brewers-dominance-hits-whole-new-level-in-game-3-rays-rout/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41532724.jpg?quality%3D90%26strip%3Dall",
-"w": 5217,
-"h": 3477,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
-"https://nypost.com/2026/10/27/sports/valkyries-one-win-away-from-wnba-title-after-big-win-over-dream/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41532828.jpg?quality=75&strip=all&w=1200",
-"w": 1200,
-"h": 799,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T04:02:37.955135+00:00"
-},
 "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide": {
 "v": 2,
 "photo": null,
@@ -9941,5 +9843,85 @@
 "via": "feed"
 },
 "checked": "2026-10-30T03:30:49.136163+00:00"
+},
+"https://justthenews.com/government/security/crypto-giant-binance-reports-63-billion-potential-security-incident": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.foxnews.com/outkick-sports/packers-top-panthers-brewers-storm-lambeau-christian-watson-returns-hospital": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Tucker-Kraft-touchdown-Lambeau-Leap.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://nypost.com/2026/10/30/us-news/former-councilman-arrested-for-making-sick-little-girls-rape-threats-to-hooters-employee/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/african-export-import-bank-mulls-first-offshore-yuan-loan": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://thehill.com/policy/technology/6183131-binance-hack-crypto-firms-freeze-assets/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2023/06/6485e2cf49b220.36183602-e1700923981109.jpeg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.breitbart.com/clips/2026/10/29/sherrill-on-high-costs-causing-people-to-leave-nj-every-step-i-take-federal-government-takes-ten-back/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/Sherrill-1029-Thumbnail-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Screenshot\\/MS NOW",
+"via": "page"
+},
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913320": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732795",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/ahead-second-china-trip-trump-administration-cracks-down-chinese": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T04:31:49.296492+00:00"
+},
+"https://www.jpost.com/international/article-913321": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743724",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T04:31:49.296492+00:00"
 }
 }
