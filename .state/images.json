@@ -4,48 +4,6 @@
 "photo": null,
 "checked": "2026-10-27T13:38:59.571414+00:00"
 },
-"https://justthenews.com/index%2Ephp/nation/states/center-square/park-event-raises-questions-over-race-restrictions-private-rentals": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/environment/vance-announces-agriculture-department-investing-57m-american": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
-"https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
-"https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-league/articles/crz65e9dng0wo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
-"https://nypost.com/2026/10/27/us-news/mom-told-ems-her-daughter-4-was-sick-from-drinking-milk-as-she-turned-blue-from-fentanyl-poisoning-prosecutors/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FUntitled-1-13-2.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T05:59:06.149665+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts": {
 "v": 2,
 "photo": null,
@@ -9831,5 +9789,86 @@
 "via": "feed"
 },
 "checked": "2026-10-30T05:29:28.352422+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://justthenews.com/nation/states/center-square/ahead-second-china-trip-trump-administration-cracks-down-chinese": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmn4egvez1yzo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6gr8l15k744o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a5c/live/1c953ab0-d3fb-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.jpost.com/middle-east/article-913325": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741370",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-913326": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743280",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://nypost.com/2026/10/30/us-news/arizona-man-zarian-dyer-recruited-creep-to-sexually-assault-his-fiancee-before-she-fought-off-attacker-police/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-bsu0p4kbv-1793337737147.jpg?quality%3D90%26strip%3Dall%261793323452",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
+},
+"https://nypost.com/2026/10/30/us-news/texas-man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-ow3cj63n4-1793339790154.jpg?quality%3D90%26strip%3Dall%261793325421",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T06:11:14.981629+00:00"
 }
 }
