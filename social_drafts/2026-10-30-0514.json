@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-30-0514.json",
+  "created": "2026-10-30T10:14:33.165791+00:00",
+  "created_ct": "Fri Oct 30, 2026 5:14 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
+    "original_headline": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
+    "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti. (Axios) https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 143,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

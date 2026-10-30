@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
   "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
   "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
   "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
-  "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/"
+  "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
+  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
-  "since": "2026-10-30T08:21:36.372789+00:00"
+  "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+  "since": "2026-10-30T10:14:33.165791+00:00"
  },
- "last_build": "2026-10-30T09:15:39.723513+00:00",
+ "last_build": "2026-10-30T10:14:33.165791+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -144,6 +144,7 @@
   "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
-  "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/"
+  "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
+  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge"
  ]
 }
