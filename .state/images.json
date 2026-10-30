@@ -19,102 +19,10 @@
 "photo": null,
 "checked": "2026-10-28T11:07:32.807824+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-10-27/bolsonaro-arrives-in-miami-after-fleeing-brazil-o-globo-says": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/federal-agencies/cdcs-deputy-director-and-chief-medical-officer-leaving-administration": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
 "https://justthenews.com/government/courts-law/justice-department-fails-secure-grand-jury-indictment-against-cassidy": {
 "v": 2,
 "photo": null,
 "checked": "2026-10-28T08:18:53.268697+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/8add0b4439634e50fc9736af68743c5c156b3183/272_0_2705_2165/master/2705.jpg?width=700&quality=85&auto=format&fit=max&s=9a42fe42175dad5db1fa748939de333f",
-"w": 700,
-"h": 560,
-"credit": "Jacquelyn Martin/AP",
-"via": "feed"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://www.thefp.com/p/italy-protesters-colosseum-giorgia-meloni": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!NkG2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad1efda4-9f0f-42b8-bc86-77021703e747_4769x3179.jpeg",
-"w": 4769,
-"h": 3179,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26277064880362-e1793144504806.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://nypost.com/2026/10/27/us-news/king-tides-flood-socal-coast-shut-down-pacific-coast-highway/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-zrargd76j-1793144229776.jpg?quality%3D90%26strip%3Dall%261793129891",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
-},
-"https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41547361.jpg?quality%3D90%26strip%3Dall",
-"w": 4971,
-"h": 3313,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T23:53:28.424851+00:00"
 },
 "https://www.foxnews.com/outkick-sports/alabama-dismisses-defensive-back-dre-kirkpatrick-jr-team-arrested-second-time": {
 "v": 2,
@@ -8547,7 +8455,7 @@
 "https://justthenews.com/politics-policy/elections/ramaswamy-attack-ad-against-acton-air-after-spending-fraction-original": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-30T17:07:29.589167+00:00"
+"checked": "2026-10-30T23:59:53.211502+00:00"
 },
 "https://www.washingtonexaminer.com/policy/defense/4785886/military-investigating-refrigerator-outages-cyberattack/": {
 "v": 2,
@@ -9625,5 +9533,54 @@
 "via": "page"
 },
 "checked": "2026-10-30T23:28:32.871989+00:00"
+},
+"https://justthenews.com/politics-policy/all-things-trump/watch-live-trump-speaks-florida-rally-final-sprint-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T23:59:53.211502+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T23:59:53.211502+00:00"
+},
+"https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a5d1/live/6f7d0770-d4b5-11f1-a58c-6d26609b0a57.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T23:59:53.211502+00:00"
+},
+"https://nypost.com/2026/10/30/business/nearly-6-million-coffee-makers-recalled-as-cracked-glass-poses-burn-risk/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147020140.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T23:59:53.211502+00:00"
+},
+"https://nypost.com/2026/10/30/sports/david-bailey-likely-to-miss-chance-at-sacking-fernando-mendoza-in-jets-raiders-meeting/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-cs8ohjsv7-1793400707007.jpg?quality%3D90%26strip%3Dall%261793386401",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T23:59:53.211502+00:00"
 }
 }
