@@ -4,88 +4,6 @@
 "photo": null,
 "checked": "2026-10-27T02:01:50.766026+00:00"
 },
-"https://justthenews.com/nation/culture/eric-bauza-modern-voice-behind-many-iconic-looney-tune-characters-dies-age-46": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://www.washingtonexaminer.com/policy/defense/4780624/us-military-space-based-logistics-dan-caine/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/DIU-Space.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108154240-108154240-1748998400275-gettyimages-2216643487-JAPAN_BOJ.jpeg?v=1748998448&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cw78pe7vlej5o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 667,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmx235r9wr3yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://nypost.com/2026/10/26/sports/thunder-lose-injured-jalen-williams-cason-wallace-for-months/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-p1qarj9t0-1793058880482.jpg?quality%3D90%26strip%3Dall%261793044547",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146576729.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
-"https://nypost.com/2026/10/26/sports/everything-plaguing-winless-knicks-so-far-with-one-worrisome-area/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41530425.jpg?quality%3D90%26strip%3Dall",
-"w": 4798,
-"h": 3197,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T00:16:14.937631+00:00"
-},
 "https://justthenews.com/government/congress/randy-fine-says-he-will-introduce-resolution-expel-omar-if-she-lied-immigration": {
 "v": 2,
 "photo": null,
@@ -9974,5 +9892,108 @@
 "via": "feed"
 },
 "checked": "2026-10-29T23:57:29.312408+00:00"
+},
+"https://www.foxnews.com/media/nancy-pelosi-calls-mamdani-el-sayed-past-comments-israel-concerning-wrong": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nancy-pelosi-democratic-convention.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/google-ceo-sundar-pichai-google-io-ai-event.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://justthenews.com/politics-policy/elections/conservative-nonprofit-finds-25-non-us-citizens-maryland-town-voted": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-913312": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744275",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.jpost.com/international/article-913313": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734796",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://nypost.com/2026/10/29/us-news/tough-new-yorker-walks-2500-miles-out-of-nys-grittiest-boro-only-to-get-robbed-twice-in-lawless-california/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146902189.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://nypost.com/2026/10/29/tech/high-flying-past-of-alleged-spy-with-close-relationship-to-nvidia-tycoon-jensen-huang-tv-banking-and-billions/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-b076w70h0-1793317253037.jpg?quality%3D90%26strip%3Dall%261793302922",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
+},
+"https://nypost.com/2026/10/29/sports/jets-frank-reich-admits-he-must-do-better-getting-garrett-wilson-involved-as-frustrations-mount/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-qisamr68c-1793318560720.jpg?quality%3D90%26strip%3Dall%261793304174",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T00:31:41.637311+00:00"
 }
 }
