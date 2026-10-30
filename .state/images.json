@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/nation/crime/fbi-raids-beverly-hills-mansion-owned-swalwell-donor-cnn": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
 "https://justthenews.com/politics-policy/flavio-bolsonaro-leaves-brazil-us-after-disputed-election-report": {
 "v": 2,
 "photo": null,
@@ -18,110 +13,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-28T03:07:17.421960+00:00"
-},
-"https://www.foxnews.com/us/venezuelan-illegal-immigrant-killed-fbi-agent-chicaghttps-cms-foxnews-com-wp-wp-admin-post-phppost7484305actionedito-caught-released-biden-sources": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/fbi-chicago-division-office.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.foxnews.com/health/simple-exercise-done-once-week-help-lower-blood-pressure": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/adults-squatting.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/trump-blasts-talarico-during-texas-midterm-tour": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.foxnews.com/tech/campaign-merch-store-official-how-tell": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/wisconsin-primary-voters.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/1qOrq96BCQohk2qsgSAjj1gWnXE=/0x113:6267x3638/1366x768/2026/10/27/1793135819212.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckx2qgjd0w3no": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a23/live/de64f8b0-d24d-11f1-8ba3-9fd3e261415f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/107081985-1656438324079-cass.jpg?v=1656438387&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://nypost.com/2026/10/27/sports/one-mlb-division-could-unlock-looming-competitive-balance-debate/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-b5k2kioql-1793135893423.jpg?quality%3D90%26strip%3Dall%261793121576",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
-},
-"https://nypost.com/2026/10/27/us-news/plenty-of-hell-still-ahead-for-alexander-brothers/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Falexander-brothers-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-27T21:58:08.703315+00:00"
 },
 "https://www.foxnews.com/media/viral-massachusetts-lesbian-bar-announces-soft-closing-after-easing-mask-rules": {
 "v": 2,
@@ -9779,5 +9670,91 @@
 "via": "feed"
 },
 "checked": "2026-10-30T21:57:47.742333+00:00"
+},
+"https://justthenews.com/government/courts-law/texas-judge-ordered-undergo-psychiatric-testing-after-racial-rant-accusing": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/culture/harassed-red-baron-worker-thanks-supporters-fundraiser-clears-500k": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/elections/election-integrity-group-claims-have-found-thousands-potentially-deceased": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298060374440-e1792944824162.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmd6dp2y576do": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
+},
+"https://nypost.com/2026/10/30/betting/why-chargers-could-be-fantasy-footballs-biggest-buy-low-opportunity/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41339172.jpg?quality%3D90%26strip%3Dall",
+"w": 3000,
+"h": 1999,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-30T22:27:09.338194+00:00"
 }
 }
