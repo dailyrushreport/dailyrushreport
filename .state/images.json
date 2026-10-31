@@ -8029,7 +8029,7 @@
 "https://justthenews.com/government/diplomacy/trump-admin-approves-21-billion-sale-patriot-interceptors-ukraine": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T02:33:25.037462+00:00"
+"checked": "2026-10-31T14:57:29.613041+00:00"
 },
 "https://www.bbc.co.uk/news/articles/crm941n0413o": {
 "v": 2,
@@ -9314,5 +9314,70 @@
 "via": "feed"
 },
 "checked": "2026-10-31T14:23:54.433679+00:00"
+},
+"https://justthenews.com/government/white-house/hezbollaah": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03cf/live/b873d9f0-d531-11f1-866a-b522399149a0.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://nypost.com/2026/10/31/lifestyle/devil-wears-prada-chanel-jacket-surfaces-for-resale-for-10k/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-39166513.jpg?quality%3D90%26strip%3Dall",
+"w": 3060,
+"h": 2040,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/towns-hit-by-teen-mob-violence-lock-down-halloween-with-curfews-and-extra-officers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-r5pr2trsw-1793458224698.jpg?quality%3D90%26strip%3Dall%261793443870",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://nypost.com/2026/10/31/sports/michelle-beadle-says-women-in-sports-media-cant-be-as-soft-as-pat-mcafee-after-utah-drama/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-gzcgs31ri-1793456651977.jpg?quality%3D90%26strip%3Dall%261793442323",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T14:57:29.613041+00:00"
 }
 }
