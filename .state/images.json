@@ -8180,7 +8180,7 @@
 "https://justthenews.com/nation/states/center-square/feds-target-37b-research-funds-part-dei-crackdown": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T08:09:16.853548+00:00"
+"checked": "2026-10-31T16:59:42.207517+00:00"
 },
 "https://www.jpost.com/israel-election-2026/article-913383": {
 "v": 2,
@@ -9299,5 +9299,82 @@
 "via": "feed"
 },
 "checked": "2026-10-31T16:25:48.231604+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckpdg3ql4169o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/Feat.Winner2.070126-e1793465177274.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://www.theguardian.com/sport/live/2026/oct/31/breeders-cup-2026-day-two-live": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/b9b07c5a273d37ed53c0729a504b4b8deafa0694/174_0_3631_2905/master/3631.jpg?width=700&quality=85&auto=format&fit=max&s=fc8e9807edb77bfa10868b57ef7ee967",
+"w": 700,
+"h": 560,
+"credit": "Michael Reaves/Getty Images",
+"via": "feed"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf18/live/aba32670-d542-11f1-b69a-cfba30d5f3d4.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3453/live/944e8ae0-d53e-11f1-93e1-3b657b665bcf.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://nypost.com/2026/10/31/sports/college-football-player-tyler-ulrichs-cause-of-death-revealed-after-helmet-to-helmet-hit-during-game/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-7uohumzb4-1793465408439.jpg?quality%3D90%26strip%3Dall%261793451146",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/new-details-emerge-in-shooting-at-spirit-halloween-store-in-california-that-left-1-dead-6-injured/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcomp-17-2.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T16:59:42.207517+00:00"
 }
 }
