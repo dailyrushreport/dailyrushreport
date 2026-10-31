@@ -25,7 +25,7 @@
   "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "since": "2026-10-31T11:23:12.742982+00:00"
  },
- "last_build": "2026-10-31T11:23:12.742982+00:00",
+ "last_build": "2026-10-31T11:57:20.000694+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -63,7 +63,7 @@
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-10-31T10:57Z",
+  "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
   "Reductress": "ok",
