@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
   "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
   "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
-  "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/"
+  "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
+  "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
-  "since": "2026-10-31T08:09:16.853548+00:00"
+  "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
+  "since": "2026-10-31T11:23:12.742982+00:00"
  },
- "last_build": "2026-10-31T10:57:03.518426+00:00",
+ "last_build": "2026-10-31T11:23:12.742982+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -63,7 +63,7 @@
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-10-31T10:57Z",
   "Babylon Bee": "ok",
   "The Onion": "ok",
   "Reductress": "ok",
@@ -152,6 +152,7 @@
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
-  "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/"
+  "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
+  "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto"
  ]
 }
