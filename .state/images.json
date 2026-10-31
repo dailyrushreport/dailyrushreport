@@ -14,102 +14,6 @@
 "photo": null,
 "checked": "2026-10-28T12:05:42.515799+00:00"
 },
-"https://justthenews.com/index%2ephp/government/courts-law/new-federal-case-against-james-comey-centers-again-leak-classified": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://justthenews.com/index%2ephp/government/courts-law/justice-department-fails-secure-grand-jury-indictment-against-cassidy": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://justthenews.com/index%2ephp/nation/states/center-square/watch-washington-gop-chair-400-suspected-noncitizen-voters-tip-iceberg": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-28/anthropic-ipo-shutout-sends-asia-s-investors-into-proxy-bets": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913080": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726250",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-913082": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743945",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://nypost.com/2026/10/28/lifestyle/dear-abby-even-though-im-still-with-my-unfaithful-husband-my-past-flings-are-sending-me-dms/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F1ekedke.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
-"https://nypost.com/2026/10/28/sports/karl-anthony-towns-responds-to-mike-browns-knicks-challenge/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41549992.jpg?quality%3D90%26strip%3Dall",
-"w": 5250,
-"h": 3499,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T07:29:19.653425+00:00"
-},
 "https://www.bloomberg.com/news/newsletters/2026-10-28/uk-budget-tests-bond-markets-as-fed-ecb-and-oil-risks-loom": {
 "v": 2,
 "photo": null,
@@ -9518,5 +9422,76 @@
 "via": "feed"
 },
 "checked": "2026-10-31T07:23:56.429222+00:00"
+},
+"https://justthenews.com/nation/states/center-square/feds-target-37b-research-funds-part-dei-crackdown": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913383": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744122",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913382": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743733",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108469976-1793123070639-gettyimages-2149414808-engcon_1121.jpeg?v=1793397004&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://nypost.com/2026/10/31/world-news/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-erupt-across-europe/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-p57als1pf-1793430732887.jpg?quality%3D90%26strip%3Dall%261793416417",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
+},
+"https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-d72kch3v8-1793428246254.jpg?quality%3D90%26strip%3Dall%261793413889",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T08:09:16.853548+00:00"
 }
 }
