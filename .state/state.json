@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
   "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/"
+  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
+  "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
-  "since": "2026-10-31T01:44:20.667564+00:00"
+  "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
+  "since": "2026-10-31T05:06:12.496802+00:00"
  },
- "last_build": "2026-10-31T04:13:13.218709+00:00",
+ "last_build": "2026-10-31T05:06:12.496802+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-10-31T03:29Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
@@ -150,6 +150,7 @@
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/"
+  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
+  "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
  ]
 }

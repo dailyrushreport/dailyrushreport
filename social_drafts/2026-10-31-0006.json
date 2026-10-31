@@ -1,0 +1,26 @@
+{
+  "file": "2026-10-31-0006.json",
+  "created": "2026-10-31T05:06:12.496802+00:00",
+  "created_ct": "Sat Oct 31, 2026 12:06 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+    "original_headline": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+    "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge blocks DOJ from threatening election officials over noncitizen voting claims. (The Hill) https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 163,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge blocks DOJ from threatening election officials over noncitizen voting claims. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

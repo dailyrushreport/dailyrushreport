@@ -8486,7 +8486,7 @@
 "https://justthenews.com/government/courts-law/tn-death-row-inmate-christa-pike-describes-constant-pain-first-statement": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-30T21:03:16.197474+00:00"
+"checked": "2026-10-31T05:06:12.496802+00:00"
 },
 "https://thehill.com/policy/international/6185283-g20-foreign-ministers-skip-russia-photo/": {
 "v": 2,
@@ -9441,5 +9441,81 @@
 "via": "feed"
 },
 "checked": "2026-10-31T04:13:13.218709+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/elections/us-attorney-investigating-three-groups-reportedly-registering-non": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-913373": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744332",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://www.jpost.com/international/article-913375": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743373",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cr3wv311dwnlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://nypost.com/2026/10/31/sports/luka-doncic-joins-kobe-bryant-in-lakers-history/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-o5egz8lfi-1793420185730.jpg?quality%3D90%26strip%3Dall%261793405826",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://nypost.com/2026/10/31/sports/lebron-james-delivers-in-the-clutch-as-knicks-fail-to-stop-him/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-ws4ojocgr-1793420657379.jpg?quality%3D90%26strip%3Dall%261793406281",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
+},
+"https://nypost.com/2026/10/31/sports/kobe-bryants-high-school-jersey-sells-for-record-breaking-2-2-million/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-11pdtdi2v-1793423084196.jpg?quality%3D90%26strip%3Dall%261793408701",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T05:06:12.496802+00:00"
 }
 }
