@@ -1,217 +1,4 @@
 {
-"https://justthenews.com/world/europe/least-30-dead-high-spreed-train-crash-spain": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://justthenews.com/government/courts-law/progressive-influencer-hasan-piker-files-defamation-lawsuit-against-cnns": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26301084653261-e1793191386365.jpg?w=900",
-"w": 900,
-"h": 506,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300714202176-e1793189391410.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cjy561y4pl56o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c2b/live/e44a9b80-d299-11f1-b255-6fc3b99d1334.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4782338/voters-helped-trump-michigan-second-thoughts/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image0-15.jpeg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108473872-1793186573376-gettyimages-2301851494-AFP_D4MR6AR.jpeg?v=1793186581&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/28/rfk-jr-michigan-arabs-comment": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/87f7c4ead0d4812ccbb304ca9af32cc0da89b74d/0_0_5604_4482/master/5604.jpg?width=700&quality=85&auto=format&fit=max&s=8e232519c1e7759f92c70a7dc2c33f30",
-"w": 700,
-"h": 560,
-"credit": "Mark Schiefelbein/AP",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913122": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743733",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.jpost.com/israel-news/crime-in-israel/article-913121": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743620",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.upi.com/Odd_News/2026/10/28/five-spooky-odd-news-mysteries-for-Halloween-listicle/1711793118549/": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108326731-1782390659037-gettyimages-2271879687-campbell-notitle260421_npenB.jpeg?v=1782390834&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6lykg0nkll0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cca8/live/97946e70-d2ca-11f1-8e79-5381b0a9d682.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/5UR38v6ujvUPE5EBEzvts3-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://nypost.com/2026/10/28/us-news/single-mom-found-dead-at-bottom-of-kansas-bridge-feared-to-have-suffered-shocking-tragic-accident/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146729857-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-"w": 1200,
-"h": 625,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261027063707.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/fire-salamander-salamandra-salamandra.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://nypost.com/2026/10/28/us-news/twisted-special-ed-teacher-booked-hotels-for-sex-with-teenage-student/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146726628.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261026225615.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/deep-earthquake-magma-fissures.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T13:27:15.465021+00:00"
-},
 "https://justthenews.com/government/courts-law/federal-judge-disqualifies-trump-appointed-prosecutor-bill-essayli-unlawfully": {
 "v": 2,
 "photo": null,
@@ -8718,7 +8505,7 @@
 "https://justthenews.com/index%2ephp/government/diplomacy/trump-admin-approves-21-billion-sale-patriot-interceptors-ukraine": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T07:23:56.429222+00:00"
+"checked": "2026-10-31T13:35:32.513795+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-10-31/swiss-firms-plan-investment-boost-in-china-drug-finance-sectors": {
 "v": 2,
@@ -9416,5 +9203,114 @@
 "via": "feed"
 },
 "checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/states/michigan-islamic-centers-receiving-government-funds-spewed-anti-american-anti-jewish": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://justthenews.com/index%2ephp/government/white-house/hezbollaah": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghanistan/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Elsewhere-DHS_021326_AP_Cliff-Owen.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/WdEASeZ9Gk8VNeT4dNV93G-1920-80.jpg",
+"w": 620,
+"h": 620,
+"credit": "NAIC-Arecibo/NSF",
+"via": "feed"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108487952-1793387914781-gettyimages-1390191632-vegf05455.jpeg?v=1793387981&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108415076-1792082517141-gettyimages-2222660126-dsc09410.jpeg?v=1792082538&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/tkuSdzmgxQzkixeXhxY3ph-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "Right: NASA Scientific Visualization Studio. Left: Starry Night Pro 8",
+"via": "feed"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.cnbc.com/2026/10/31/bank-of-america-stocks-to-buy-into-earnings.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/106242939-15736620570943l8a0284r.jpg?v=1733935165&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2690/live/86db81e0-d518-11f1-a701-fddedf244c16.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://nypost.com/2026/10/31/betting/the-posts-expert-nfl-week-8-grid-picks-best-bets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnfl-week-8-grid-picks.jpg?quality%3D90%26strip%3Dall%261793365992",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/la-voters-criticize-karen-bass-policies-without-knowing-theyre-hers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147012772.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T13:35:32.513795+00:00"
 }
 }
