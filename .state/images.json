@@ -1,172 +1,4 @@
 {
-"https://justthenews.com/government/congress/house-demands-records-probe-smithsonian-exhibit-suggesting-us-military-engaged": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://justthenews.com/government/courts-law/federal-trade-commission-and-20-states-sue-dollar-general-alleging-deceptive": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://justthenews.com/world/middle-east/senior-iranian-official-disputes-qatar-offered-new-peace-proposal": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.foxnews.com/outkick-sports/boxing-fan-favorite-amanda-serrano-announces-last-walk-fight-home-country-puerto-rico": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/serrano-flex.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913130": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743862",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913131": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744023",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://thehill.com/policy/energy-environment/6177305-mv-odyssey-stranded-cambodia/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26301154243130-e1793196627927.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108470180-1793127449553-gettyimages-2301317478-AA_24102026_3007843.jpeg?v=1793127493&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.upi.com/Odd_News/2026/10/28/marwell-zoo-samba-capybara-sighting/1521793199576/": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.upi.com/Odd_News/2026/10/28/guinness-world-records-spreadsheet-software/4681793200201/": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cq2d6z36pp53o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/93a7/live/fad24eb0-d2e0-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
-"w": 1024,
-"h": 648,
-"credit": "Mario Tama/Getty",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/8BitDo-Ultimate3E-review-7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0%2C10.738447150137%2C100%2C78.523105699726&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://nypost.com/2026/10/28/ticket-sales/iron-maiden-announces-2027-tour-we-found-the-cheapest-tickets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FBruce-Dickinson.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://nypost.com/2026/10/28/sports/colgate-lacrosse-team-suspended-over-mysterious-electronic-communications/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-tz6cnheqs-1793197006160.jpg?quality%3D90%26strip%3Dall%261793182629",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
-"https://nypost.com/2026/10/28/lifestyle/fda-recalls-plant-based-miyoko-butter-due-to-e-coli-mold-and-yeast/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41552131.jpg?quality%3D90%26strip%3Dall",
-"w": 6720,
-"h": 4478,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T15:15:35.853775+00:00"
-},
 "https://justthenews.com/politics-policy/elections/peltola-campaign-recruited-2nd-dan-sullivan-spoil-senate-race-nyt": {
 "v": 2,
 "photo": null,
@@ -8220,7 +8052,7 @@
 "https://justthenews.com/index%2ephp/politics-policy/elections/us-attorney-investigating-three-groups-reportedly-registering-non": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T05:06:12.496802+00:00"
+"checked": "2026-10-31T15:23:59.418120+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue": {
 "v": 2,
@@ -8306,7 +8138,7 @@
 "https://justthenews.com/index%2ephp/government/courts-law/doj-asks-federal-judge-separate-certain-ballots-alaska-senate-race-halt": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T06:01:47.822223+00:00"
+"checked": "2026-10-31T15:23:59.418120+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk": {
 "v": 2,
@@ -9379,5 +9211,109 @@
 "via": "feed"
 },
 "checked": "2026-10-31T14:57:29.613041+00:00"
+},
+"https://www.foxnews.com/food-drink/daily-coffee-habit-affect-brain-mood-unexpected-ways-study-finds": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/gettyimages-1394603045.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.jpost.com/international/article-913400": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744356",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-913399": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744355",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.axios.com/2026/10/31/trump-arch-dc-virginia": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/-ry2y29qtKSiLbU2YsRLHpRXBTA=/0x308:3840x2468/1366x768/2026/10/31/1793459331903.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cj5ynryyep2yo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.foxnews.com/tech/identity-thieves-dont-need-password-6-new-account-takeover-threats": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Identity-Thief-Photo-3.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0%2C8.2713403922147%2C100%2C83.457319215571&w=1200",
+"w": 1198,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/ilhan-omar-case-is-large-and-targeting-multiple-people-reveals-dhs-secretary-markwayne-mullin/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147084447.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:23:59.418120+00:00"
 }
 }
