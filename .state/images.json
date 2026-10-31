@@ -1,168 +1,4 @@
 {
-"https://justthenews.com/index%2ephp/government/courts-law/manhattan-brothers-each-sentenced-30-years-prison-sex-trafficking": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://justthenews.com/politics-policy/elections/gop-sen-murkowski-endorses-democrat-alaskas-governors-race-says-hell-be": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.foxnews.com/politics/watchdog-accuses-dsa-candidate-blurring-charity-business-campaign-what-happened-all-that-money": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/angie-nixon-speaking-at-event.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.foxnews.com/media/apple-news-pushed-84-negative-headlines-gop-priorities-ahead-midterms-zero-positive-study-finds": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/apple4.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.jpost.com/middle-east/article-913106": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732006",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-913105": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728242",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108363926-1793187988419-108363926-1789584267133-gettyimages-2295044524-WARSH_FOMC.jpg?v=1793187996&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108474033-1793187729456-gettyimages-2301860667-AFP_D4NM8Q6.jpeg?v=1793187757&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108470092-1793125612888-image_2.png?v=1793125669&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108301661-1777909643686-gettyimages-2273969235-US_STOCKS.jpeg?v=1777909675&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50b8/live/582b77b0-d2c5-11f1-8e79-5381b0a9d682.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
-"w": 1071,
-"h": 648,
-"credit": "China Strategic Risks Institute",
-"via": "feed"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/vuFrKMvC6jeb9yBXDmRXhd-1920-80.jpg",
-"w": 1600,
-"h": 900,
-"credit": "Virgin Galactic",
-"via": "feed"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
-"https://www.washingtonexaminer.com/policy/immigration/4782216/trump-border-cbp-defends-big-bend-wall-construction/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26273528102830.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T12:05:42.515799+00:00"
-},
 "https://justthenews.com/world/europe/least-30-dead-high-spreed-train-crash-spain": {
 "v": 2,
 "photo": null,
@@ -9471,5 +9307,114 @@
 "via": "feed"
 },
 "checked": "2026-10-31T11:57:20.000694+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/bac613825f54e0bbb2c3f46c0caaccdeedf16d8a/403_0_4033_3226/master/4033.jpg?width=700&quality=85&auto=format&fit=max&s=2d99e5ac593d0eb06f2dcf55da2694f1",
+"w": 700,
+"h": 560,
+"credit": "Aaron Schwartz-Pool/CNP/Shutterstock",
+"via": "feed"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.jpost.com/archaeology/article-913349": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744303",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108491532-1793445317575-gettyimages-2302114677-nikoubazl-antiusai261029_npfpi.jpeg?v=1793445335&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/683621ac4a4ee446b8926e80cf097232749d7009/1490_894_5711_4570/master/5711.jpg?width=700&quality=85&auto=format&fit=max&s=9c2e9f9792b6718b8008aa3fd3305966",
+"w": 700,
+"h": 560,
+"credit": "Genaro Molina/Los Angeles Times/Getty Images",
+"via": "feed"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
+"w": 1200,
+"h": 628,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://reason.com/volokh/2026/10/31/american-cities-population-50k-named-after-foreign-excluding-british-political-figures/": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.theverge.com/policy/1023899/political-texts-midterm-elections": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-2000-80.png",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/adriana-aviles-says-her-son-was-given-phony-grades-is-behind-in-math/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-18dypotpf-1793401069853.jpg?quality%3D90%26strip%3Dall%261793386704",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T12:30:26.372026+00:00"
 }
 }
