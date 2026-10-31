@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
   "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
   "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
   "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
@@ -19,13 +18,14 @@
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
   "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
-  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/"
+  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
+  "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
-  "since": "2026-10-31T17:55:58.001537+00:00"
+  "url": "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
+  "since": "2026-10-31T20:57:42.040265+00:00"
  },
- "last_build": "2026-10-31T20:20:18.725030+00:00",
+ "last_build": "2026-10-31T20:57:42.040265+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-10-31T20:20Z",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
@@ -156,6 +156,7 @@
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
   "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
-  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/"
+  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
+  "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/"
  ]
 }
