@@ -25,7 +25,7 @@
   "url": "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "since": "2026-10-31T22:23:36.443514+00:00"
  },
- "last_build": "2026-10-31T22:23:36.443514+00:00",
+ "last_build": "2026-10-31T22:56:30.105222+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -63,7 +63,7 @@
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-10-31T21:56Z",
+  "Adventist News Network": "ok",
   "Babylon Bee": "ok",
   "The Onion": "ok",
   "Reductress": "ok",

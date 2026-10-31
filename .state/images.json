@@ -9028,5 +9028,75 @@
 "via": "feed"
 },
 "checked": "2026-10-31T22:23:36.443514+00:00"
+},
+"https://justthenews.com/politics-policy/elections/democrat-clark-county-da-endorses-nevada-gop-governor": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.jpost.com/international/article-913423": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744386",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-913420": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744380",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.foxnews.com/politics/trump-prosecutions-biden-set-precedent-doj-alaska-decoy-dan-probe-ex-fec-chair-says": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mary-peltola-senate-campaign-anchorage.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108271643-1772399859612-gettyimages-2263738665-raa-opeciran260301_npbBX.jpeg?v=1777379102&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T22:56:30.105222+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787189/alaska-trump-demand-set-aside-senate-ballots/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26303582384376-e1793485021617.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T22:56:30.105222+00:00"
 }
 }
