@@ -7856,7 +7856,7 @@
 "https://justthenews.com/index%2Ephp/government/courts-law/doj-asks-federal-judge-separate-certain-ballots-alaska-senate-race-halt": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T02:33:25.037462+00:00"
+"checked": "2026-10-31T15:57:24.282167+00:00"
 },
 "https://justthenews.com/government/diplomacy/trump-admin-approves-21-billion-sale-patriot-interceptors-ukraine": {
 "v": 2,
@@ -9315,5 +9315,54 @@
 "via": "feed"
 },
 "checked": "2026-10-31T15:23:59.418120+00:00"
+},
+"https://justthenews.com/politics-policy/elections/clintons-former-top-strategist-expresses-concerns-alaska-two-sullivan": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T15:57:24.282167+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26264499190048.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T15:57:24.282167+00:00"
+},
+"https://nypost.com/2026/10/31/sports/yankees-dump-omar-minaya-brian-sabean-in-front-office-shakeup/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-8z80kwez6-1793460916974.jpg?quality%3D90%26strip%3Dall%261793446569",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:57:24.282167+00:00"
+},
+"https://nypost.com/2026/10/31/lifestyle/onlyfans-twins-julia-and-lauren-burch-help-their-mom-launch-account/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fi-honestly-don-t-know-146218723.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:57:24.282167+00:00"
+},
+"https://nypost.com/2026/10/31/sports/warriors-nba-record-comeback-lakers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-r9a7xjie3-1793459740593.jpg?quality%3D90%26strip%3Dall%261793445387",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T15:57:24.282167+00:00"
 }
 }
