@@ -24,120 +24,6 @@
 "photo": null,
 "checked": "2026-10-28T08:18:53.268697+00:00"
 },
-"https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/cassidy-hutchinson-001.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.jpost.com/israel-news/article-913073": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743935",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/security/russia-ukraine-implement-melania-trumps-local-humanitarian-ceasefire": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/flavio-bolsonaro-leaves-brazil-us-after-disputed-election-report": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/27/bill-essayli-disqualified-overstay-role": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/26b8cb8c9079adef6ba50922d9d62a8d4538b945/542_0_5417_4335/master/5417.jpg?width=700&quality=85&auto=format&fit=max&s=6609fb916c88218db617a8507627af27",
-"w": 700,
-"h": 560,
-"credit": "Daniel Cole/Reuters",
-"via": "feed"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/992a/live/0b7a58c0-d1fb-11f1-8c9f-8d21fef6ffad.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=700&quality=85&auto=format&fit=max&s=a1a523fed66165a57f8960fdffb1f0f9",
-"w": 700,
-"h": 560,
-"credit": "Kent Nishimura/AFP/Getty Images",
-"via": "feed"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://reason.com/volokh/2026/10/27/1000000-miles-on-united/": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
-"https://nypost.com/2026/10/27/sports/alabamas-dre-kirkpatrick-jr-kicked-off-team-after-arrest-for-alleged-harassment-doxxing-of-cops-family/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-ijfc6cpw0-1793149228794.jpg?quality%3D90%26strip%3Dall%261793134894",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-28T01:27:50.882517+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-10-28/india-s-record-bank-cash-surplus-fades-as-rbi-curbs-rupee-bets": {
 "v": 2,
 "photo": null,
@@ -8661,7 +8547,7 @@
 "https://justthenews.com/politics-policy/elections/election-integrity-group-claims-have-found-thousands-potentially-deceased": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-30T18:37:55.502232+00:00"
+"checked": "2026-10-31T01:44:20.667564+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-10-30/colombia-pauses-interest-rate-rises-as-economy-starts-to-weaken": {
 "v": 2,
@@ -9604,5 +9490,81 @@
 "via": "feed"
 },
 "checked": "2026-10-31T00:46:41.184436+00:00"
+},
+"https://justthenews.com/government/courts-law/ninth-circuit-revives-first-amendment-challenge-californias-employer-law": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/all-things-trump/watch-live-trump-speaks-florida-rally-final-sprint-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckreypn92w49o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.foxnews.com/us/california-woman-accused-killing-trans-son-in-law-blames-husband-new-docs-reports": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/McKinsey-and-Inlaws-Split.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.jpost.com/history/article-913203": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744132",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/mcdonalds-3.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
+},
+"https://www.jpost.com/diaspora/article-913371": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735026",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T01:44:20.667564+00:00"
 }
 }

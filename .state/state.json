@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
   "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
-  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-  "since": "2026-10-30T21:57:47.742333+00:00"
+  "url": "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
+  "since": "2026-10-31T01:44:20.667564+00:00"
  },
- "last_build": "2026-10-31T00:46:41.184436+00:00",
+ "last_build": "2026-10-31T01:44:20.667564+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -149,6 +149,7 @@
   "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
-  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/"
  ]
 }
