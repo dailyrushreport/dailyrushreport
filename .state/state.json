@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "since": "2026-10-31T20:57:42.040265+00:00"
  },
- "last_build": "2026-10-31T20:57:42.040265+00:00",
+ "last_build": "2026-10-31T21:25:11.170104+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-10-31T20:20Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
