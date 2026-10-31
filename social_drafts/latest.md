@@ -1,25 +1,25 @@
-# Social drafts — Sat Oct 31, 2026 3:57 PM CT
+# Social drafts — Sat Oct 31, 2026 5:23 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-31-1557.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-31-1723.json x` or `... instagram` (prints the final text to copy).
 
-Lead: NFL responds to more allegations emerging against Josh Jacobs as his attorneys push back  
-Outlet: NY Post  
-Link: https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/  
-Pinned by editor: no · BREAKING: yes
+Lead: Binance recovers 90 percent of stolen assets from hack  
+Outlet: The Hill  
+Link: https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 182/280 chars (X counting)
+## X — status: pending_approval · 135/280 chars (X counting)
 
 ```
-NFL responds to more allegations emerging against Josh Jacobs as his attorneys push back. (NY Post) https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/
+Binance recovers 90 percent of stolen assets from hack. (The Hill) https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-NFL responds to more allegations emerging against Josh Jacobs as his attorneys push back. Story via NY Post. Link in bio.
+Binance recovers 90 percent of stolen assets from hack. Story via The Hill. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
