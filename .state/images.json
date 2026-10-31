@@ -9273,5 +9273,71 @@
 "via": "feed"
 },
 "checked": "2026-10-31T18:25:12.663327+00:00"
+},
+"https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
+},
+"https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
+},
+"https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108493302-1793473349646-gettyimages-2302160151-20090101261030-99-117403.jpeg?v=1793473391&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
+},
+"https://thehill.com/blogs/in-the-know/6186292-ramaswamy-donates-red-baron/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Ramaswamy_Mueller_AP_SamuelCorum.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
+},
+"https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7580/live/d2a756e0-d553-11f1-bcb7-8f812b44c2e5.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
+},
+"https://nypost.com/2026/10/31/sports/three-sirens-stars-make-roster-for-usas-iihf-world-championship-team/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-yihfaeo0a-1793472261403.jpg?quality%3D90%26strip%3Dall%261793457892",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-10-31T19:11:42.865648+00:00"
 }
 }
