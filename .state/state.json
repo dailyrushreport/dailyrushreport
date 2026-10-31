@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
   "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
   "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
   "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-  "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/"
+  "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
+  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
-  "since": "2026-10-31T15:57:24.282167+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
+  "since": "2026-10-31T17:55:58.001537+00:00"
  },
- "last_build": "2026-10-31T17:26:44.755081+00:00",
+ "last_build": "2026-10-31T17:55:58.001537+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -155,6 +155,7 @@
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-  "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/"
+  "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
+  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/"
  ]
 }
