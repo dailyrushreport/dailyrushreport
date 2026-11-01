@@ -8789,5 +8789,31 @@
 "via": "feed"
 },
 "checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://justthenews.com/government/congress/staff-members-rep-stevens-resign-after-her-endorsement-gop-senate-hopeful": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T21:58:52.003213+00:00"
+},
+"https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T21:58:52.003213+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T21:58:52.003213+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/6b98eb6ba8db5d985571296e8bcfa0fd6065e89d/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=8b7fd9e8a220ad7446cb8f5c63d9a02b",
+"w": 700,
+"h": 560,
+"credit": "Mark Elias/AP",
+"via": "feed"
+},
+"checked": "2026-11-01T21:58:52.003213+00:00"
 }
 }
