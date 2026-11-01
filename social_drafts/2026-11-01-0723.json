@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-01-0723.json",
+  "created": "2026-11-01T13:23:33.004821+00:00",
+  "created_ct": "Sun Nov 1, 2026 7:23 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "original_headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack. (BBC) https://www.bbc.co.uk/news/articles/ckpdg3ql4169o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 134,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
