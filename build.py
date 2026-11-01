@@ -817,7 +817,8 @@ def build(args):
         c = r["column"]
         if c == "laugh" or r.get("lifestyle"):
             continue                                   # For Laughs / lifestyle sections are filled below
-        limit = S["laugh_count"] if c == "laugh" else S["per_column"]
+        # Culture can run longer than the news columns (per_column_culture) to fill the space satire used to take
+        limit = S.get("per_column_culture", S["per_column"]) if c == 3 else S["per_column"]
         k = (c, r["source"])
         if len(cols[c]) >= limit or per_src.get(k, 0) >= src_cap.get(r["source"], S["max_per_source_per_column"]):
             continue
@@ -847,6 +848,8 @@ def build(args):
     random.Random(datetime.now(TZ).strftime("%Y-%m-%d %H")).shuffle(outlets)
     cols["laugh"] = [p for p in cols["laugh"] if p.get("pinned")]
     cols["laugh"] += [newest[o] for o in outlets][:max(0, S["laugh_count"] - len(cols["laugh"]))]
+    if not S.get("show_satire", False):
+        cols["laugh"] = []                         # satire switched off (Oct 31 2026): never shown, not even pins
 
     # keep a fixed order within columns: pinned first, then editor-voiced, then newest
     for c in (1, 2, 3):
@@ -974,9 +977,9 @@ def render(lead, subleads, cols, feeds=(), S=None):
     upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
     c1 = column("NATION &amp; POLITICS", cols.get(1, []))
     c2 = column("MONEY &amp; WORLD", cols.get(2, []))
-    # One Culture column, no subtitles: health, faith, general-interest and satire stories are mixed in among
-    # the regular culture stories (satire keeps its "SATIRE:" label). Extras are spread out, alternating
-    # between the lifestyle stories and the satire, one after every two regular stories.
+    # One Culture column, no subtitles: health and faith (lifestyle) stories are mixed in among the regular
+    # culture stories, one after every two regular stories. Satire is off (show_satire=false); if it is ever
+    # switched back on, it alternates with the lifestyle extras and keeps its "SATIRE:" label.
     base = list(cols.get(3, []))
     life = [x for g in ((S or {}).get("lifestyle_sections") or {}) for x in cols.get("life:" + g, [])]
     laugh = list(cols.get("laugh", []))
