@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
   "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
   "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
   "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
   "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
-  "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/"
+  "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
+  "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
-  "since": "2026-11-01T07:44:18.908281+00:00"
+  "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+  "since": "2026-11-01T11:01:23.773690+00:00"
  },
- "last_build": "2026-11-01T10:09:56.679604+00:00",
+ "last_build": "2026-11-01T11:01:23.773690+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -154,6 +154,7 @@
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
   "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
   "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
-  "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/"
+  "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
+  "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
  ]
 }

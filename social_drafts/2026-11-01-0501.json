@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-01-0501.json",
+  "created": "2026-11-01T11:01:23.773690+00:00",
+  "created_ct": "Sun Nov 1, 2026 5:01 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+    "original_headline": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+    "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered. (CNBC) https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 176,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 1, 2026 1:44 AM CT
+# Social drafts — Sun Nov 1, 2026 5:01 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-01-0144.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-01-0501.json x` or `... instagram` (prints the final text to copy).
 
-Lead: FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/  
+Lead: Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 177/280 chars (X counting)
+## X — status: pending_approval · 176/280 chars (X counting)
 
 ```
-FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate. (NY Post) https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/
+Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered. (CNBC) https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate. Story via NY Post. Link in bio.
+Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
