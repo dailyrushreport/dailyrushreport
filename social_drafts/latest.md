@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 31, 2026 8:36 PM CT
+# Social drafts — Sat Oct 31, 2026 9:35 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-31-2036.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-31-2135.json x` or `... instagram` (prints the final text to copy).
 
-Lead: AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack  
+Lead: Valkyries beat Dream in Game 7 thriller to win WNBA Finals in just their second season  
 Outlet: NY Post  
-Link: https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/  
+Link: https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 154/280 chars (X counting)
+## X — status: pending_approval · 166/280 chars (X counting)
 
 ```
-AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack. (NY Post) https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/
+Valkyries beat Dream in Game 7 thriller to win WNBA Finals in just their second season. (NY Post) https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack. Story via NY Post. Link in bio.
+Valkyries beat Dream in Game 7 thriller to win WNBA Finals in just their second season. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
