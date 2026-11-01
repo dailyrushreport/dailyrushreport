@@ -25,7 +25,7 @@
   "url": "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "since": "2026-10-31T22:23:36.443514+00:00"
  },
- "last_build": "2026-10-31T23:55:10.346112+00:00",
+ "last_build": "2026-11-01T00:25:51.377849+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-10-31T23:22Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Babylon Bee": "ok",
