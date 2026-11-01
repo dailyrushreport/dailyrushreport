@@ -8726,5 +8726,65 @@
 "via": "feed"
 },
 "checked": "2026-11-01T16:27:55.831738+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmqln14rrzxvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T17:00:58.025114+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/local/least-seven-injured-shooting-near-indiana-university-during-homecoming-weekend": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T17:00:58.025114+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913495": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744387",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T17:00:58.025114+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-913497": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744485",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T17:00:58.025114+00:00"
+},
+"https://www.foxbusiness.com/media/trump-media-debuts-first-national-television-ad-during-college-basketball-game-rome": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/x-social-media-app-iphone-screen.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T17:00:58.025114+00:00"
+},
+"https://nypost.com/2026/11/01/sports/jets-david-bailey-breece-hall-inactive-for-game-vs-raiders/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjets-inactives-raiders.jpg?quality%3D90%26strip%3Dall%261793534051",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T17:00:58.025114+00:00"
 }
 }
