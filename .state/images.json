@@ -4,93 +4,6 @@
 "photo": null,
 "checked": "2026-10-29T13:29:09.908631+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-10-29/-free-the-onions-rally-sparks-debate-on-68-year-old-trading-ban": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqwy78elyrlzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913196": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744122",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://www.axios.com/2026/10/29/republicans-trump-husted-ass": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/_8RnXWkBxQfNTOCRlPVVlfJukPw=/1366x768/smart/2021/01/05/005841-1609808321967.jpg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://www.cnbc.com/2026/10/29/france-protests-riots-cost-damages-law.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108431381-1792392946630-gettyimages-2300139173-HL_ECABANE_3342782.jpeg?v=1792392954&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://nypost.com/2026/10/29/lifestyle/nevada-water-park-cowabunga-bays-shuts-down-after-12-years-leaving-locals-furious/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146836235.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/minnesota-safari-restaurant-fraudster-salim-said-sentenced-to-30-years-in-prison-for-somali-food-fraud/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146838528.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/the-post-tracked-down-graham-platner-after-his-disgraced-maine-senate-campaign/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-graham-platner-seen-first-146776776.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T09:35:59.561288+00:00"
-},
 "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ballot-midterms-voting": {
 "v": 2,
 "photo": {
@@ -7713,7 +7626,7 @@
 "https://justthenews.com/politics-policy/elections/michigan-senate-democrat-candidate-abdul-el-sayed-disinvites-haley": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T21:56:33.733261+00:00"
+"checked": "2026-11-01T10:09:56.679604+00:00"
 },
 "https://justthenews.com/index%2Ephp/government/courts-law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein": {
 "v": 2,
@@ -8818,5 +8731,86 @@
 "via": "feed"
 },
 "checked": "2026-11-01T09:28:45.878277+00:00"
+},
+"https://justthenews.com/nation/states/center-square/prediction-markets-missed-brazil-us-midterms-are-big-test": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913448": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743936",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8qln1539y37o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://freebeacon.com/culture/can-nice-guys-win/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/maryland-gov-moore-and-utah-gov-cox-speak-at-national-press-club-on-bi-4-scaled-e1793023890682.jpg",
+"w": 736,
+"h": 495,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bc83/live/ab6f0590-d5db-11f1-a25d-8f13519027da.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://freebeacon.com/culture/a-not-so-alien-idea/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-26-Oct-2026-10-30-AM-788.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
+},
+"https://freebeacon.com/culture/raised-to-be-resilient/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-26-Oct-2026-10-48-AM-4541-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T10:09:56.679604+00:00"
 }
 }
