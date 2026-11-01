@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/government/security/hegseth-fires-senior-pentagon-strategist-alleged-have-leaked-classified-iran": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
 "https://justthenews.com/politics-policy/elections/doj-confirms-ice-agents-wont-participate-poll-monitoring": {
 "v": 2,
 "photo": null,
@@ -14,168 +9,10 @@
 "photo": null,
 "checked": "2026-10-29T23:57:29.312408+00:00"
 },
-"https://justthenews.com/index%2Ephp/politics-policy/polling/california-gop-voters-overwhelmingly-support-voter-id-measure-not-enough": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://justthenews.com/government/congress/elizabeth-warren-calls-doj-investigate-bank-america-over-money-laundering": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://thehill.com/policy/healthcare/6182563-arizona-reports-new-world-screwworm/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26162674860122-e1786468851267.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.breitbart.com/midterm-election/2026/10/29/alaska-governor-orders-investigation-democrat-mary-peltolas-senate-campaign/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/Mary-Peltola-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.jpost.com/international/article-913298": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744262",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-913303": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744265",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c893zev54341o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/90d9/live/9f67d540-d3cb-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/2mYvy2KuahYGHkMXQdnVMe-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
 "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/": {
 "v": 2,
 "photo": null,
 "checked": "2026-10-30T03:30:49.136163+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty Images | Bloomberg",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "FANUC America",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/hochul-says-nicki-minaj-was-poisoned-by-trump-after-rapper-called-her-evil-im-nice/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146884193.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/bullet-train-boss-makes-mad-dash-for-cigars-in-his-gym-gear-hours-after-quitting-his-231b-flop/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146876208.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/xavier-becerra-leans-on-identity-in-california-governor-race/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146886954.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T21:08:39.815364+00:00"
 },
 "https://justthenews.com/politics-policy/elections/doj-issues-new-wave-subpoenas-alaska-democrat-mary-peltolas-alleged-dan": {
 "v": 2,
@@ -8854,5 +8691,103 @@
 "via": "feed"
 },
 "checked": "2026-11-01T20:58:08.750801+00:00"
+},
+"https://justthenews.com/politics-policy/elections/pelosi-says-stevens-chose-dangerously-betray-michigan-crossing-party": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://justthenews.com/index%2ephp/government/congress/sen-chris-murphy-hospitalized-after-suffering-stroke-office-says": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://reason.com/volokh/2026/11/01/federal-court-rejects-trump-lawsuit-seeking-to-block-certification-of-alaska-senate-election-results/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/08/Dan-Sullivan-1161x675.jpg",
+"w": 1161,
+"h": 675,
+"credit": "US Senate",
+"via": "feed"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/01/democrat-haley-stevens-says-her-vote-in-michigan-u-s-senate-race-is-with-mike-rogers-cant-stand-with-hate/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/GettyImages2302570659-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.jpost.com/business-and-innovation/banking-and-finance/article-913489": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744477",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.jpost.com/international/article-913515": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744499",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/42439b0539cb73ee4d2bde455a05ca0b24f8a53a/358_0_2084_1667/master/2084.jpg?width=700&quality=85&auto=format&fit=max&s=731f4f5bd08139e4c9cc1965230e00d0",
+"w": 700,
+"h": 560,
+"credit": "Avi Adelman/ZUMA Press Wire/Shutterstock",
+"via": "feed"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787443/democrats-reactions-haley-stevens-mike-rogers-endorsement/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26305699870754.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 623,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
+},
+"https://nypost.com/2026/11/01/us-news/college-halloween-mass-shootings-leave-3-dead-30-wounded-across-us/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147228812.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T21:26:46.509082+00:00"
 }
 }
