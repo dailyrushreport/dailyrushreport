@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-01-0144.json",
+  "created": "2026-11-01T07:44:18.908281+00:00",
+  "created_ct": "Sun Nov 1, 2026 1:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
+    "original_headline": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
+    "url": "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate. (NY Post) https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 177,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
