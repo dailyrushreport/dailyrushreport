@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/politics-policy/all-things-trump/watch-live-trump-holds-midterm-rally-ohio": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
 "https://justthenews.com/index%2Ephp/government/federal-agencies/treasury-department-sanctions-north-korean-it-workers-who-facilitated": {
 "v": 2,
 "photo": null,
@@ -13,77 +8,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-29T08:38:13.740704+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://thehill.com/business/6174753-fed-interest-rates-decision-inflation/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6aafcb63962369.82144389-e1793110152157.jpeg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6ly3027820lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cd23/live/24913c10-d323-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://www.cnbc.com/2026/10/29/trump-california-election-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108452834-1792783760393-gettyimages-2301160095-sut-l-voting.jpeg?v=1792783828&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://nypost.com/2026/10/29/sports/steph-curry-ties-lebron-james-with-15th-40-point-game-since-turning-35/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-uhkycqg73-1793251127895.jpg?quality%3D90%26strip%3Dall%261793236805",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
-},
-"https://nypost.com/2026/10/29/us-news/california-man-ismael-pinedalopez-kills-wifes-lover-after-finding-him-in-bed-with-her-at-their-home-da/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146820453.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T06:11:47.534848+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record": {
 "v": 2,
@@ -8851,5 +8775,60 @@
 "via": "feed"
 },
 "checked": "2026-11-01T05:30:30.054809+00:00"
+},
+"https://www.jpost.com/archaeology/article-913213": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744148",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T06:32:32.616823+00:00"
+},
+"https://www.jpost.com/international/article-913429": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744392",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T06:32:32.616823+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c617kvqjd81jo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/be44/live/3aea5d10-d2d9-11f1-b677-b762d2f83f6e.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T06:32:32.616823+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T06:32:32.616823+00:00"
+},
+"https://nypost.com/2026/11/01/sports/uscs-lincoln-riley-cant-handle-winning-right-after-epic-upset/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-yr37th0vi-1793512660875.jpg?quality%3D90%26strip%3Dall%261793498297",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T06:32:32.616823+00:00"
 }
 }
