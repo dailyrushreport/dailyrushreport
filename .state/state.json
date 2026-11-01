@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
   "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-  "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/"
+  "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
+  "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
-  "since": "2026-11-01T16:27:55.831738+00:00"
+  "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+  "since": "2026-11-01T19:57:08.574924+00:00"
  },
- "last_build": "2026-11-01T19:11:45.234824+00:00",
+ "last_build": "2026-11-01T19:57:08.574924+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -157,6 +157,7 @@
   "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
   "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-  "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/"
+  "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
+  "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
  ]
 }
