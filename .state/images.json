@@ -4,104 +4,6 @@
 "photo": null,
 "checked": "2026-10-29T06:11:47.534848+00:00"
 },
-"https://justthenews.com/index%2Ephp/politics-policy/elections/kamala-harris-urges-democrats-not-try-and-impeach-trump-if-they-win": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/courts-law/james-okeefe-charged-over-viral-voting-video-minnesota": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.thefp.com/p/the-crime-problem-that-new-york-city": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!DJIL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F109a3157-db40-458f-8227-389279c379a5_1024x684.jpeg",
-"w": 1024,
-"h": 684,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.foxnews.com/outkick-sports/mark-walter-keep-dodgers-despite-federal-investigation-businesses": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/GettyImages-2268085899-1_copy.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://nypost.com/2026/10/28/sports/nets-get-encouraging-injury-updates-on-egor-demin-nolan-traore-after-backcourt-scare/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-xfz7x2pyf-1793229754661.jpg?quality%3D90%26strip%3Dall%261793215383",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmr4y51gd5yro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e53/live/5b4a4ea0-d2eb-11f1-8d86-83eebc838351.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c98rz45yjyvgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d5e1/live/2afb1230-d2ef-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
-"https://nypost.com/2026/10/28/sports/yankees-should-repair-relationship-with-jorge-posada/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41567541.jpg?quality%3D90%26strip%3Dall",
-"w": 5250,
-"h": 3499,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-29T00:38:54.477293+00:00"
-},
 "https://www.jpost.com/international/article-913175": {
 "v": 2,
 "photo": {
@@ -8216,7 +8118,7 @@
 "https://justthenews.com/world/evacuees-russian-occupied-ukrainian-city-reach-ukraine-territory": {
 "v": 2,
 "photo": null,
-"checked": "2026-10-31T18:25:12.663327+00:00"
+"checked": "2026-11-01T01:36:50.894563+00:00"
 },
 "https://justthenews.com/index%2ephp/nation/states/center-square/mamdani-walks-back-plan-oust-nyc-racial-equity-leader": {
 "v": 2,
@@ -8999,5 +8901,87 @@
 "via": "feed"
 },
 "checked": "2026-11-01T00:25:51.377849+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c893z699q401o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-913424": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744387",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce06/live/9f389c10-d585-11f1-a701-fddedf244c16.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://nypost.com/2026/10/31/us-news/woman-who-claimed-boyfriend-set-her-on-fire-in-pine-barrens-fabricated-story-prosecutors/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146762192.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://nypost.com/2026/10/31/sports/the-draft-quirk-that-became-a-relic-of-the-first-years-of-mlbs-free-agency/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-vgoexg16t-1793494929450.jpg?quality%3D90%26strip%3Dall%261793480572",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
+},
+"https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146895229.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T01:36:50.894563+00:00"
 }
 }

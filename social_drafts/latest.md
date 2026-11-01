@@ -1,17 +1,17 @@
-# Social drafts — Sat Oct 31, 2026 5:23 PM CT
+# Social drafts — Sat Oct 31, 2026 8:36 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-10-31-1723.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-10-31-2036.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Binance recovers 90 percent of stolen assets from hack  
-Outlet: The Hill  
-Link: https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/  
+Lead: AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack  
+Outlet: NY Post  
+Link: https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 135/280 chars (X counting)
+## X — status: pending_approval · 154/280 chars (X counting)
 
 ```
-Binance recovers 90 percent of stolen assets from hack. (The Hill) https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/
+AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack. (NY Post) https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Binance recovers 90 percent of stolen assets from hack. Story via The Hill. Link in bio.
+AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
