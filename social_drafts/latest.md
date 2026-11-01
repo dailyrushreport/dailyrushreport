@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 1, 2026 4:58 PM CT
+# Social drafts — Sun Nov 1, 2026 5:56 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-01-1658.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-01-1756.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Lions’ Jack Campbell carted off field, taken to hospital with scary neck injury  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/  
+Lead: Democrats Melt Down After Haley Stevens Endorses Republican Mike Rogers: 'Despicable Betrayal'  
+Outlet: Breitbart  
+Link: https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 159/280 chars (X counting)
+## X — status: pending_approval · 176/280 chars (X counting)
 
 ```
-Lions’ Jack Campbell carted off field, taken to hospital with scary neck injury. (NY Post) https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/
+Democrats Melt Down After Haley Stevens Endorses Republican Mike Rogers: 'Despicable Betrayal'. (Breitbart) https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Lions’ Jack Campbell carted off field, taken to hospital with scary neck injury. Story via NY Post. Link in bio.
+Democrats Melt Down After Haley Stevens Endorses Republican Mike Rogers: 'Despicable Betrayal'. Story via Breitbart. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

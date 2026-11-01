@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-  "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/"
+  "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
+  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
-  "since": "2026-11-01T22:58:31.462275+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
+  "since": "2026-11-01T23:56:45.956245+00:00"
  },
- "last_build": "2026-11-01T23:26:56.241204+00:00",
+ "last_build": "2026-11-01T23:56:45.956245+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -159,6 +159,7 @@
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-  "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/"
+  "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
+  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/"
  ]
 }
