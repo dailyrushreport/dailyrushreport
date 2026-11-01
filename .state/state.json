@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
-  "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/"
+  "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
+  "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
-  "since": "2026-11-01T02:34:59.596322+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
+  "since": "2026-11-01T03:36:11.147227+00:00"
  },
- "last_build": "2026-11-01T02:34:59.596322+00:00",
+ "last_build": "2026-11-01T03:36:11.147227+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -152,6 +152,7 @@
   "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
-  "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/"
+  "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
+  "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship"
  ]
 }
