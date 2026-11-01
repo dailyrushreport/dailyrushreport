@@ -7263,7 +7263,7 @@
 "https://justthenews.com/nation/states/center-square/key-wisconsin-race-predictions-have-shifted-left": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-01T02:34:59.596322+00:00"
+"checked": "2026-11-01T15:58:16.247805+00:00"
 },
 "https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays": {
 "v": 2,
@@ -8671,5 +8671,104 @@
 "via": "feed"
 },
 "checked": "2026-11-01T15:27:07.544336+00:00"
+},
+"https://www.jpost.com/middle-east/article-913486": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719020",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://www.jpost.com/israel-news/article-913487": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743937",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/802c/live/e0b8cef0-c403-11f1-a64c-550be9e3c66b.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/905c40bae467f184fb98410952a04dd275140865/379_0_4588_3668/master/4588.jpg?width=700&quality=85&auto=format&fit=max&s=e6a876a7f109e18698ab0e5a6c32b626",
+"w": 700,
+"h": 560,
+"credit": "Kerry Tasker/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/085e/live/c9ed5c80-d606-11f1-a790-6f04ef4f8c74.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1882/live/eccbb630-d605-11f1-a790-6f04ef4f8c74.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://thehill.com/homenews/administration/6186601-live-updates-trump-kansas-iowa-democrats-unity-rally/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trump_donald_south-carolina_10292026_AP26302626232051-2.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://nypost.com/2026/11/01/world-news/gen-z-takes-charge-protests-across-germany-turn-violent/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147203357.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
+},
+"https://nypost.com/2026/11/01/us-news/katie-zacharia-advises-fans-to-dress-up-like-her-for-halloween-while-touting-natural-hair-and-fitness/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147196768.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-01T15:58:16.247805+00:00"
 }
 }
