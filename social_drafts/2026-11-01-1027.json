@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-01-1027.json",
+  "created": "2026-11-01T16:27:55.831738+00:00",
+  "created_ct": "Sun Nov 1, 2026 10:27 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge dismisses Trump’s defamation suit against WSJ a second time",
+    "original_headline": "Judge dismisses Trump’s defamation suit against WSJ a second time",
+    "url": "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge dismisses Trump’s defamation suit against WSJ a second time. (The Hill) https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge dismisses Trump’s defamation suit against WSJ a second time. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
