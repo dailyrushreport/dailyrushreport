@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/index%2Ephp/politics-policy/elections/pope-leo-vote-mail-illinois-midterm-election-vatican": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
 "https://justthenews.com/politics-policy/elections/pope-leo-vote-mail-illinois-midterm-election-vatican": {
 "v": 2,
 "photo": null,
@@ -33,126 +28,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-31T05:06:12.496802+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/federal-agencies/federal-prosecutor-alaska-confirms-criminal-investigation-senate": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/culture/harassed-red-baron-worker-thanks-supporters-fundraiser-clears-500k": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/Pk-wW-lPRjUbnZctTG7_JCE9a2Y=/0x495:8192x5103/1366x768/2026/10/30/1793387706377.jpg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://reason.com/2026/10/30/5th-circuit-judge-james-ho-says-a-presidentially-declared-invasion-overrides-birthright-citizenship/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/James-Ho-Newscom-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "Tom Williams/CQ Roll Call/Newscom",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
-"w": 1024,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty | AnnaStills",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://www.thefp.com/p/the-exorcists-warned-me-about-halloween-ghosts-demons-religion": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!p4vS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78fce1f5-7c3c-49d8-81bc-1b72064ce2d8_2600x1463.jpeg",
-"w": 2600,
-"h": 1463,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108487110-1793379149259-gettyimages-2302659444-gdp_9888_nekmmzmv.jpeg?v=1793380486&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4786807/doj-insist-alaska-ballot-preserve-not-change-vote/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26303764351399.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://nypost.com/2026/10/30/tech/influx-of-foreign-workers-at-ai-firms-poses-national-security-threat-advocates-warn/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-x39ymwbch-1793395315693.jpg?quality%3D90%26strip%3Dall%261793380931",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
-},
-"https://nypost.com/2026/10/30/ticket-sales/get-tickets-for-metallica-final-2026-las-vegas-sphere-concerts/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FJames-Hetfield_a76047.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T21:57:47.742333+00:00"
 },
 "https://justthenews.com/government/courts-law/texas-judge-ordered-undergo-psychiatric-testing-after-racial-rant-accusing": {
 "v": 2,
@@ -8608,5 +8483,146 @@
 "via": "feed"
 },
 "checked": "2026-11-02T21:29:45.154496+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/02/democrats-alaska-ballot-operation-went-beyond-decoy-dan-candidate/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/GettyImages-2302778640-640x335.png",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26306705767311-e1793648364712.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108475925-1793211754814-gettyimages-2302414749-_24a1213_yjobienl.jpeg?v=1793211775&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/courts-law/judge-dismisses-complaint-against-ex-fbi-officials-over-hunter-biden": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/9c5da6a800f911ba1211d54f7b544ad7cc23653a/340_0_2660_2128/master/2660.jpg?width=700&quality=85&auto=format&fit=max&s=563386248e05d124e6ce26cbdb245e38",
+"w": 700,
+"h": 560,
+"credit": "Greg Derr/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107302543-1695064884369-gettyimages-1689118846-01-dsc_0027-_tthnmmp0.jpeg?v=1793656572&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-02/leaked-file-put-lenders-in-bind-before-acrisure-s-earnings-win": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/van-jones-says-stevens-flushed-herself-down-toilet-rogers-endorsement": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://reason.com/2026/11/02/d-c-regulators-shut-down-a-halloween-bar-crawl-under-the-districts-public-nuisance-order/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/barcrawl-2-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "crawlwith.us",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.thefp.com/p/how-american-politics-became-a-tower-of-babel-midterms-democrats-republicans": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!zroX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf0d7695-8809-4ea6-9aca-44ba8287ed03_1613x1075.jpeg",
+"w": 1613,
+"h": 1075,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm5ynve7q1zdo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/701f/live/c835bf90-d705-11f1-ac17-5d3d5470aaba.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck0e0jpww9wro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e2e5/live/b74e3400-d705-11f1-ac17-5d3d5470aaba.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
+},
+"https://nypost.com/2026/11/02/business/data-center-fury-is-a-campaign-dud/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-j9vruiav1-1793656364835.jpg?quality%3D90%26strip%3Dall%261793638376",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T22:11:51.301260+00:00"
 }
 }

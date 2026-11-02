@@ -1,25 +1,25 @@
-# Social drafts — Mon Nov 2, 2026 1:41 PM CT
+# Social drafts — Mon Nov 2, 2026 4:11 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-02-1341.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-02-1611.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html  
-Pinned by editor: no · BREAKING: yes
+Lead: Reflecting Pool dominates Trump’s closing midterm speech  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 179/280 chars (X counting)
+## X — status: pending_approval · 137/280 chars (X counting)
 
 ```
-Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. (CNBC) https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html
+Reflecting Pool dominates Trump’s closing midterm speech. (The Hill) https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. Story via CNBC. Link in bio.
+Reflecting Pool dominates Trump’s closing midterm speech. Story via The Hill. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
