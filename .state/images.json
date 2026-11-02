@@ -24,91 +24,10 @@
 "photo": null,
 "checked": "2026-10-31T01:44:20.667564+00:00"
 },
-"https://justthenews.com/government/courts-law/appeals-court-again-rejects-trump-admins-bid-separate-20k-ca-ballots": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
 "https://justthenews.com/world/europe/constitutional-crisis-poland-pm-sends-police-storm-top-court": {
 "v": 2,
 "photo": null,
 "checked": "2026-10-31T10:57:03.518426+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/marshall-says-trump-canceled-kansas-rally-because-hes-winning": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-30/stock-volatility-surges-as-plunge-has-investors-seeking-cover": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://www.breitbart.com/health/2026/10/30/watch-president-trump-and-first-lady-welcome-6000-guests-for-halloween-at-the-white-house-no-tricks-just-treats/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/AP26302797381858-640x335.png",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://dailycaller.com/2026/10/30/hackers-steal-63-billion-from-binance-in-record-breaking-heist-linked-to-north-korea": {
-"v": 2,
-"photo": {
-"img": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/04/crypto-1.jpg",
-"w": 1280,
-"h": 549,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://www.cnbc.com/select/bilt-rewards-program-changes-2027/": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108486879-1793375557136-gettyimages-1631440866-026a5733.jpeg?v=1793375584&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://nypost.com/2026/10/30/sports/steph-curry-wife-ayesha-on-screen-romance/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-enk4og8k8-1793386944521.jpg?quality%3D90%26strip%3Dall%261793372563",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://nypost.com/2026/10/30/health/microplastics-showing-up-in-2-breakfast-foods-stunning-scientists/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-g7ghatb69-1793387391729.jpg?quality%3D90%26strip%3Dall%261793373008",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
-},
-"https://nypost.com/article/best-greens-powders-review/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F03%2Fgreenspowders.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T20:25:24.753120+00:00"
 },
 "https://justthenews.com/government/courts-law/tn-death-row-inmate-christa-pike-describes-constant-pain-first-statement": {
 "v": 2,
@@ -8532,5 +8451,185 @@
 "via": "feed"
 },
 "checked": "2026-11-02T19:41:49.054490+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/congress/sen-chris-murphy-awake-and-alert-after-stroke": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/crime/prosecutors-say-they-will-pursue-retrial-lindsay-clancy-are-still-working-out-details": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/van-jones-says-stevens-flushed-herself-down-toilet-rogers-endorsement": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://thehill.com/policy/transportation/6189823-florida-plane-crash-jet-copilot/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/jet-crash-florida-AP26306601321530-e1793647236240.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913626": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744281",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c9j346xg0mkvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.foxnews.com/outkick-sports/lions-preliminary-indications-positive-linebacker-jack-campbell-neck-injury": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tj-hockenson-vikings-lions-tackle-ford-field.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108505677-1793648203497-gettyimages-2303173670-ah800934_n41gt6qw.jpeg?v=1793651228&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cked3j229j43o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b427/live/5b5c5f40-d689-11f1-b7fe-13bd08d80ad6.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108477596-1793228649614-gettyimages-2298424248-JAPAN_INTEL.jpeg?v=1793228835&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Eoneren",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Google",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.cnbc.com/2026/11/02/the-midterms-are-here-how-jpmorgan-expects-the-market-to-react.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108442148-1792592625195-gettyimages-2301313256-mms16768_htmhluen.jpeg?v=1792592667&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://nypost.com/2026/11/02/sports/the-demon-finn-balors-sensational-wwe-return-doesnt-come-without-issues/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-e2d348f0m-1793566345375.jpg?quality%3D90%26strip%3Dall%261793548583",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://nypost.com/2026/11/02/us-news/lifelong-democrat-teamsters-president-sean-obrien-stuns-with-major-republican-endorsement-as-election-nears/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147317476.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&strip=all&crop=0%2C10.752704075093%2C100%2C78.494591849814&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
+},
+"https://nypost.com/2026/11/02/betting/bet365-bonus-code-bet-10-get-200-in-bonus-bets-for-bears-vs-seahawks/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41622388.jpg?quality%3D90%26strip%3Dall",
+"w": 4150,
+"h": 2765,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T20:32:19.120438+00:00"
 }
 }
