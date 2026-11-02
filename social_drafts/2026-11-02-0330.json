@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-02-0330.json",
+  "created": "2026-11-02T09:30:08.267305+00:00",
+  "created_ct": "Mon Nov 2, 2026 3:30 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
+    "original_headline": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
+    "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20. (NY Post) https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 160,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
