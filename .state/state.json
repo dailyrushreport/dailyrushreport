@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "since": "2026-11-02T09:30:08.267305+00:00"
  },
- "last_build": "2026-11-02T10:28:28.436428+00:00",
+ "last_build": "2026-11-02T11:20:30.544360+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -63,7 +63,7 @@
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-02T09:30Z"
+  "Adventist News Network": "ok"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
