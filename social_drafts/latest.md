@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 1, 2026 6:33 PM CT
+# Social drafts — Sun Nov 1, 2026 7:50 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-01-1833.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-01-1950.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump rips ex-lawyer Alina Habba’s ‘obnoxious’ $50M deal with pardoned Venezuelan banker’s family  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/  
+Lead: Bernie Sanders says alleged Democratic ballot-stacking in Alaska was ‘pretty dumb’  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 177/280 chars (X counting)
+## X — status: pending_approval · 174/280 chars (X counting)
 
 ```
-Trump rips ex-lawyer Alina Habba’s ‘obnoxious’ $50M deal with pardoned Venezuelan banker’s family. (NY Post) https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/
+Bernie Sanders says alleged Democratic ballot-stacking in Alaska was ‘pretty dumb’. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump rips ex-lawyer Alina Habba’s ‘obnoxious’ $50M deal with pardoned Venezuelan banker’s family. Story via NY Post. Link in bio.
+Bernie Sanders says alleged Democratic ballot-stacking in Alaska was ‘pretty dumb’. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

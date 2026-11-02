@@ -14,87 +14,6 @@
 "photo": null,
 "checked": "2026-10-30T10:14:33.165791+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26301863095730.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cye0l23lx15o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adc6/live/62ea9ce0-d3ff-11f1-b497-e5f21e10c3e0.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/252c7bbb703e56cbe48c4284bdf9bf9a135b2eee/685_0_6848_5479/master/6848.jpg?width=700&quality=85&auto=format&fit=max&s=dfc17a1ad525a0ea726e112d7a91c9a9",
-"w": 700,
-"h": 560,
-"credit": "Godofredo A V\u00e1squez/AP",
-"via": "feed"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://www.foxnews.com/tech/millions-students-caught-california-data-breach": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/california-school-bus.jpg?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
-"https://nypost.com/2026/10/29/sports/ryan-pulock-exits-early-in-latest-islanders-injury-worry/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41588157.jpg?quality=75&strip=all&w=1200",
-"w": 1200,
-"h": 799,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T01:46:20.121853+00:00"
-},
 "https://justthenews.com/government/courts-law/judicial-watch-sues-fbi-records-recalled-chinese-2020-election-interference": {
 "v": 2,
 "photo": null,
@@ -7618,7 +7537,7 @@
 "https://justthenews.com/politics-policy/elections/democrat-haley-stevens-appears-republican-mike-rogers-amid-michigan": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-01T17:55:51.314604+00:00"
+"checked": "2026-11-02T01:50:12.708266+00:00"
 },
 "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913502": {
 "v": 2,
@@ -7749,7 +7668,7 @@
 "https://justthenews.com/government/congress/sen-chris-murphy-hospitalized-after-suffering-stroke-office-says": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-01T18:24:41.029676+00:00"
+"checked": "2026-11-02T01:50:12.708266+00:00"
 },
 "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate": {
 "v": 2,
@@ -8674,5 +8593,87 @@
 "via": "feed"
 },
 "checked": "2026-11-02T00:33:40.302839+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://www.jpost.com/diaspora/article-913520": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744510",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-f3qn2h433-1793568489182-e1793568814610.jpg?1793550805&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwvg05z184j0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://www.jpost.com/israel-news/article-913521": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/685590",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://www.thefp.com/p/florida-frannie-block-grady-judd-tax-police": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!6MSY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01da6d7-93fe-493b-9e15-df5089c24f92_6720x4235.jpeg",
+"w": 6720,
+"h": 4235,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://nypost.com/2026/11/01/sports/aaron-donald-blunder-rams-laughing-hysterically/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1aasrsbcp-1793584160460.jpg?quality%3D90%26strip%3Dall%261793566179",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
+},
+"https://nypost.com/2026/11/01/us-news/ghastly-thieves-forcibly-stole-candybags-from-trick-or-treaters-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41625619.jpg?quality%3D90%26strip%3Dall",
+"w": 6720,
+"h": 4478,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T01:50:12.708266+00:00"
 }
 }
