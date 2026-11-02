@@ -1,25 +1,25 @@
-# Social drafts — Mon Nov 2, 2026 10:47 AM CT
+# Social drafts — Mon Nov 2, 2026 12:40 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-02-1047.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-02-1240.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Lions coach leads locker room prayer for Jack Campbell after linebacker hospitalized with neck injury  
-Outlet: Fox News  
-Link: https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury  
-Pinned by editor: no · BREAKING: no
+Lead: New cyberattack on supermarket fridges sweeps across Europe  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 182/280 chars (X counting)
+## X — status: pending_approval · 150/280 chars (X counting)
 
 ```
-Lions coach leads locker room prayer for Jack Campbell after linebacker hospitalized with neck injury. (Fox News) https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury
+New cyberattack on supermarket fridges sweeps across Europe. (CNBC) https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Lions coach leads locker room prayer for Jack Campbell after linebacker hospitalized with neck injury. Story via Fox News. Link in bio.
+New cyberattack on supermarket fridges sweeps across Europe. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

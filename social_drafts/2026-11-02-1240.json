@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-02-1240.json",
+  "created": "2026-11-02T18:40:29.986319+00:00",
+  "created_ct": "Mon Nov 2, 2026 12:40 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "New cyberattack on supermarket fridges sweeps across Europe",
+    "original_headline": "New cyberattack on supermarket fridges sweeps across Europe",
+    "url": "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "New cyberattack on supermarket fridges sweeps across Europe. (CNBC) https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 150,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "New cyberattack on supermarket fridges sweeps across Europe. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

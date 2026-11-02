@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
   "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
   "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury"
+  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
+  "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
-  "since": "2026-11-02T16:47:45.464779+00:00"
+  "url": "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
+  "since": "2026-11-02T18:40:29.986319+00:00"
  },
- "last_build": "2026-11-02T17:44:13.444813+00:00",
+ "last_build": "2026-11-02T18:40:29.986319+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -167,6 +167,7 @@
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
   "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury"
+  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
+  "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html"
  ]
 }
