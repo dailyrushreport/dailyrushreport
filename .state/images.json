@@ -19,121 +19,6 @@
 "photo": null,
 "checked": "2026-10-30T16:11:06.133191+00:00"
 },
-"https://www.jpost.com/american-politics/article-913329": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723384",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.breitbart.com/politics/2026/10/29/former-hhs-senior-adviser-calley-means-iowa-ground-zero-maha/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/calley-means-jordan-bbn-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "Jasmyn Jordan\\/Breitbart News",
-"via": "page"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.jpost.com/israel-news/article-913330": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744286",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793336240&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/92f8/live/fbb3c410-d39b-11f1-a012-7186932b0251.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a1e/live/75fdda30-d2cf-11f1-b677-b762d2f83f6e.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ffb/live/ed9301c0-d42c-11f1-95ab-29e198572168.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://nypost.com/2026/10/30/lifestyle/ebola-sparks-new-cdc-rule-for-us-bound-flyers-as-major-airlines-seek-delay/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fdeadly-disease-sparks-new-cdc-146939879.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://nypost.com/2026/10/30/lifestyle/amsterdams-new-art-zoo-puts-visitors-in-cages-among-dramatic-taxidermy-by-artists-sinke-and-van-tongeren/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-7vjmtpb09-1793342359996.jpg?quality%3D90%26strip%3Dall%261793328046",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
-"https://nypost.com/2026/10/30/lifestyle/dear-abby-i-chose-an-italy-trip-over-my-nieces-wedding-and-im-starting-to-feel-remorse/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41541708.jpg?quality%3D90%26strip%3Dall",
-"w": 4444,
-"h": 2962,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T07:29:52.531460+00:00"
-},
 "https://www.foxnews.com/politics/resurfaced-peltola-criminal-offense-quote-comes-back-haunt-her-after-explosive-report-turn-yourself-in": {
 "v": 2,
 "photo": {
@@ -8729,5 +8614,108 @@
 "via": "feed"
 },
 "checked": "2026-11-02T06:53:33.827130+00:00"
+},
+"https://justthenews.com/nation/states/center-square/report-author-illinois-has-unique-debt-problem": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/pollsters-gov-katie-hobbs-opening-lead-biggs": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.jpost.com/american-politics/article-913530": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742709",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787543/stevens-el-sayed-split-broader-point-party/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26189067784672-1.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.jpost.com/defense-and-tech/article-913472": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744455",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-02/ryanair-slashes-costs-after-2-billion-fuel-charge-increase": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cr0qkve1x224o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmjwe9nggp60o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6df4/live/dcb768a0-d693-11f1-8f56-0b6ab08f384e.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://nypost.com/2026/11/02/us-news/missing-utah-teen-kylie-arellano-found-safe-in-oregon-after-500-day-search/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FKylie-Arellano-2.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://nypost.com/2026/11/02/us-news/university-of-michigan-student-arrested-after-attacking-conservative-influencer-lizzy-benichou-on-ann-arbor-campus/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-jdz73e7mi-1793604079597.jpg?quality%3D90%26strip%3Dall%261793586117",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
+},
+"https://nypost.com/2026/11/02/lifestyle/dear-abby-we-are-not-over-the-elderly-neighbors-neglectful-caregiver-who-holds-his-power-of-attorney/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41520996.jpg?quality%3D90%26strip%3Dall",
+"w": 4609,
+"h": 3072,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T08:13:58.593182+00:00"
 }
 }
