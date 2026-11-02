@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-02-1341.json",
+  "created": "2026-11-02T19:41:49.054490+00:00",
+  "created_ct": "Mon Nov 2, 2026 1:41 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+    "original_headline": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+    "url": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. (CNBC) https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 179,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

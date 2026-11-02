@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 2, 2026 12:40 PM CT
+# Social drafts — Mon Nov 2, 2026 1:41 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-02-1240.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-02-1341.json x` or `... instagram` (prints the final text to copy).
 
-Lead: New cyberattack on supermarket fridges sweeps across Europe  
+Lead: Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe  
 Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html  
+Link: https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 150/280 chars (X counting)
+## X — status: pending_approval · 179/280 chars (X counting)
 
 ```
-New cyberattack on supermarket fridges sweeps across Europe. (CNBC) https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html
+Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. (CNBC) https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-New cyberattack on supermarket fridges sweeps across Europe. Story via CNBC. Link in bio.
+Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
