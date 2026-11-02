@@ -1,199 +1,8 @@
 {
-"https://justthenews.com/government/security/crypto-giant-binance-reports-63-billion-potential-security-incident": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
 "https://justthenews.com/nation/states/center-square/ahead-second-china-trip-trump-administration-cracks-down-chinese": {
 "v": 2,
 "photo": null,
 "checked": "2026-10-30T16:11:06.133191+00:00"
-},
-"https://justthenews.com/nation/technology/north-korean-unit-likely-behind-63-billion-hack-binance-blockchain-intelligence": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.foxnews.com/politics/unhinged-judge-called-latino-attorney-white-savior-ordered-undergo-psychiatric-examination": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Judge-Ada-Brown.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-913343": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744297",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.jpost.com/israel-news/culture/article-913346": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741048",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-30/milan-football-clubs-unveil-2-3-billion-stadium-plan-for-2031": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.washingtonexaminer.com/policy/energy-and-environment/4785703/chevron-exxon-profits-diesel-prices-iran-russia-conflicts/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/iStock-1349712689.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Nissan",
-"via": "feed"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261028234703.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/glowing-mini-universe.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
-"w": 1200,
-"h": 625,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://nypost.com/2026/10/30/sports/nfl-refs-abruptly-yanked-from-snf-after-disaster-performance/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-c8pw6ilmq-1793361654829.jpg?quality%3D90%26strip%3Dall%261793347289",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108486124-1793363752484-gettyimages-2302646792-vcg111678111007.jpeg?v=1793363814&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.cnbc.com/2026/10/30/intel-guidance-analyst-price-targets.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
-},
-"https://www.cnbc.com/2026/10/30/rivians-stock-correction-allows-an-entry-point-following-q3-earnings-jefferies-says-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108481489-1793291467037-gettyimages-2297385025-20090101260930-99-816235.jpeg?v=1793291580&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T13:25:38.720886+00:00"
 },
 "https://justthenews.com/index%2Ephp/government/security/crypto-giant-binance-reports-63-billion-potential-security-incident": {
 "v": 2,
@@ -8567,5 +8376,135 @@
 "via": "feed"
 },
 "checked": "2026-11-02T12:16:01.922113+00:00"
+},
+"https://justthenews.com/nation/crime/police-say-theyve-recovered-handgun-used-killing-congressional-intern-last-year": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://justthenews.com/world/middle-east/draft-proposal-end-war-iran-reportedly-circulating-after-peace-talks": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://justthenews.com/politics-policy/all-things-trump/trump-deliver-closing-midterm-election-message-reflecting-pool": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://thehill.com/homenews/6188072-ddhq-senate-forecast-texas-alaska-maine/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26261579308574-e1793391793516.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913566": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/519558",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqn06n30l406o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e32/live/fa815d50-d6b6-11f1-aacc-5b5f23abff4b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.jpost.com/us-elections/article-913575": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744554",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787612/democrats-lead-seven-senate-battlegrounds-trump-approval-rating/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/Senate_control-e1793626228379.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq1kd1nee80eo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b784/live/f4fabf40-d6be-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Nick Indge",
+"via": "feed"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://nypost.com/2026/11/02/us-news/apocalyptic-video-shows-fiery-crater-after-deadly-florida-plane-crash/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-awk14is6l-1793625344951.jpg?quality%3D90%26strip%3Dall%261793607353",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
+},
+"https://www.cnbc.com/2026/11/02/biggest-stocks-by-analyst-calls-on-wall-street.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107374298-17080156132024-02-13t213505z_2053127690_rc2yd5ahg93e_rtrmadp_0_usa-stocks-nvidia.jpeg?v=1709923894&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T13:37:29.723005+00:00"
 }
 }
