@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-02-0616.json",
+  "created": "2026-11-02T12:16:01.922113+00:00",
+  "created_ct": "Mon Nov 2, 2026 6:16 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+    "original_headline": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+    "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says. (CNBC) https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 153,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
   "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
   "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
-  "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/"
+  "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
-  "since": "2026-11-02T09:30:08.267305+00:00"
+  "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+  "since": "2026-11-02T12:16:01.922113+00:00"
  },
- "last_build": "2026-11-02T11:20:30.544360+00:00",
+ "last_build": "2026-11-02T12:16:01.922113+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -164,6 +164,7 @@
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
-  "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/"
+  "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
  ]
 }
