@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-01-2346.json",
+  "created": "2026-11-02T05:46:20.340650+00:00",
+  "created_ct": "Sun Nov 1, 2026 11:46 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Sen. Chris Murphy hospitalized after suffering stroke",
+    "original_headline": "Sen. Chris Murphy hospitalized after suffering stroke",
+    "url": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Sen. Chris Murphy hospitalized after suffering stroke. (Axios) https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 131,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Sen. Chris Murphy hospitalized after suffering stroke. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

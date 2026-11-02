@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
   "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/"
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
+  "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
-  "since": "2026-11-02T01:50:12.708266+00:00"
+  "url": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+  "since": "2026-11-02T05:46:20.340650+00:00"
  },
- "last_build": "2026-11-02T04:45:02.309575+00:00",
+ "last_build": "2026-11-02T05:46:20.340650+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -162,6 +162,7 @@
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
   "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/"
+  "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
+  "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized"
  ]
 }
