@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
@@ -19,13 +18,14 @@
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
-  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/"
+  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
+  "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
-  "since": "2026-11-01T23:56:45.956245+00:00"
+  "url": "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
+  "since": "2026-11-02T00:33:40.302839+00:00"
  },
- "last_build": "2026-11-01T23:56:45.956245+00:00",
+ "last_build": "2026-11-02T00:33:40.302839+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -160,6 +160,7 @@
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
-  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/"
+  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
+  "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/"
  ]
 }
