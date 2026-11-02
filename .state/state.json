@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
   "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
   "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
@@ -19,13 +18,14 @@
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
+  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-  "since": "2026-11-02T15:44:02.411623+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
+  "since": "2026-11-02T16:47:45.464779+00:00"
  },
- "last_build": "2026-11-02T15:44:02.411623+00:00",
+ "last_build": "2026-11-02T16:47:45.464779+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -166,6 +166,7 @@
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
+  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury"
  ]
 }
