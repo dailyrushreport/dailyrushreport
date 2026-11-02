@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
   "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
   "https://www.washingtonexaminer.com/news/world/4787117/iran-supreme-leader-vow-unrestricted-response-strike/",
   "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
-  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
+  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-  "since": "2026-11-02T12:16:01.922113+00:00"
+  "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+  "since": "2026-11-02T15:44:02.411623+00:00"
  },
- "last_build": "2026-11-02T14:46:44.446551+00:00",
+ "last_build": "2026-11-02T15:44:02.411623+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -165,6 +165,7 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
-  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
+  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
  ]
 }
