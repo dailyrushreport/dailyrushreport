@@ -1,14 +1,4 @@
 {
-"https://justthenews.com/politics-policy/elections/pope-leo-vote-mail-illinois-midterm-election-vatican": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T23:28:32.871989+00:00"
-},
-"https://justthenews.com/nation/culture/harassed-red-baron-worker-thanks-supporters-fundraiser-clears-500k": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T23:28:32.871989+00:00"
-},
 "https://justthenews.com/politics-policy/elections/ramaswamy-attack-ad-against-acton-air-after-spending-fraction-original": {
 "v": 2,
 "photo": null,
@@ -28,50 +18,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-31T05:06:12.496802+00:00"
-},
-"https://www.jpost.com/middle-east/article-913369": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/609632",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T23:28:32.871989+00:00"
-},
-"https://www.jpost.com/international/article-913365": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744322",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T23:28:32.871989+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1d3/live/db4d7920-d4b6-11f1-93e1-3b657b665bcf.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T23:28:32.871989+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T23:28:32.871989+00:00"
 },
 "https://justthenews.com/politics-policy/all-things-trump/watch-live-trump-speaks-florida-rally-final-sprint-midterms": {
 "v": 2,
@@ -8532,5 +8478,86 @@
 "via": "feed"
 },
 "checked": "2026-11-02T23:02:19.264860+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/judge-dismisses-complaint-against-ex-fbi-officials-over-hunter-biden": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/crime/prosecutors-say-they-will-pursue-retrial-lindsay-clancy-are-still-working-out-details": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://justthenews.com/government/courts-law/scotus-rejects-trump-admins-attempt-set-aside-california-ballots-it-believes": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4788717/boasberg-doj-stop-demanding-california-set-aside-ballots/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/AP25107249849236.webp?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108503920-1793626236128-gettyimages-2302713434-AFP_D66N3CZ.jpeg?v=1793626603&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck79py02p1jlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://nypost.com/2026/11/02/sports/college-basketball-nyc-area-preview-all-area-teams-and-local-predictions/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-lajqq4ile-1793661925095.jpg?quality%3D90%26strip%3Dall%261793643960",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T23:55:51.955512+00:00"
 }
 }
