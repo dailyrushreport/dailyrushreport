@@ -1,14 +1,4 @@
 {
-"https://justthenews.com/politics-policy/finance/shares-google-parent-company-alphabet-plunges-500-billion-value-amid-ai": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://justthenews.com/nation/culture/legendary-actor-patrick-stewart-dies-86": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
 "https://justthenews.com/government/security/crypto-giant-binance-reports-63-billion-potential-security-incident": {
 "v": 2,
 "photo": null,
@@ -18,137 +8,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-30T16:11:06.133191+00:00"
-},
-"https://www.foxnews.com/food-drink/halloween-candy-favorites-could-leave-adults-cracked-teeth-far-worse-says-dentist": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/woman-eating-halloween-candy.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.foxnews.com/politics/rnc-rejects-narrative-spoiler-candidates-both-sides-calls-alaska-scheme-fraudulent": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sullivan-peltola-sullivan.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://justthenews.com/politics-policy/elections/woman-shot-outside-virginia-gop-hq-no-indication-it-was-related-party": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-10-30/signs-of-a-tech-slowdown-are-the-last-thing-this-market-needs": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/E0WnBaPzhpLeQfGuBUnXPdbMfrU=/0x0:1920x1080/1366x768/2026/10/29/1793309129253.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.jpost.com/international/article-913335": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/502490",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-913337": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744288",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.thefp.com/p/tgif-fake-and-gay": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!MjQu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32d965e6-9077-4eb4-bc17-f55b82e62b83_1024x682.jpeg",
-"w": 1024,
-"h": 682,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.cnbc.com/select/homebuilder-rate-buydowns-can-help-you-buy-a-home/": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108481759-1793296689050-gettyimages-2007021494-3z6a17474.jpeg?v=1793296714&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108481335-17932881682026-10-29t153441z_649909291_rc2zcoadjax6_rtrmadp_0_global-forex.jpeg?v=1793288201&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
-"w": 1600,
-"h": 900,
-"credit": "Robert Lea",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
-},
-"https://www.bbc.co.uk/weather/articles/c6ly075l742ro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/ec46/live/44508980-d435-11f1-b441-2b33b063138f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T10:14:33.165791+00:00"
 },
 "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic": {
 "v": 2,
@@ -8642,5 +8501,114 @@
 "via": "feed"
 },
 "checked": "2026-11-02T09:30:08.267305+00:00"
+},
+"https://www.axios.com/2026/11/02/apple-iphone-duo-foldable-review": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/q3tMWjha5n1td_rlLQ5WPlNjDN4=/0x902:5712x4115/1366x768/2026/11/01/1793567932207.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.axios.com/2026/11/02/republicans-senate-red-states-finger-pointing": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/cmw7BrQ_jtzeF5UUahJTZ3xjuP0=/0x0:1920x1080/1366x768/2025/10/27/1761586748592.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.axios.com/2026/11/02/el-nino-us-power-grid-winter-2026": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/0GbHwrjDq7Q2JhPGEN7LRDRu2mE=/0x162:3600x2187/1366x768/2026/09/27/1790542415953.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.jpost.com/us-elections/article-913533": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744533",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/02/kamala-harris-campaign-midterms": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/138558be062436be84a1fcb8f6583c19614fc190/500_138_4828_3862/master/4828.jpg?width=700&quality=85&auto=format&fit=max&s=a9b8ca2ae27b5efa49ec615686a0cb26",
+"w": 700,
+"h": 560,
+"credit": "Megan Varner/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/90b26cc0029b66531dae2762ccecf33f64baf017/582_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=b0a8b958443362e149b9945c853fcd7f",
+"w": 700,
+"h": 560,
+"credit": "Jeenah Moon/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-02/ubs-s-fowler-says-market-is-underpricing-the-length-of-ai-cycle": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107067762-1653585429081-gettyimages-1240916823-gun_safety589_052622.jpeg?v=1653585503&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-913536": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744524",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
+},
+"https://freebeacon.com/democrats/abdul-el-sayeds-bagmen-inside-the-shadowy-network-of-anti-israel-donors-pacs-and-super-pacs-funding-his-grassroots-campaign/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/senate-candidate-abdul-el-sayed-campaigns-across-michigan-ahead-of-mid-scaled-e1793572581452.jpg",
+"w": 1643,
+"h": 1110,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-02T10:28:28.436428+00:00"
 }
 }
