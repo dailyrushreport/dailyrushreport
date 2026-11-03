@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
   "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/"
+  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
+  "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
-  "since": "2026-11-03T18:32:14.310488+00:00"
+  "url": "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
+  "since": "2026-11-03T19:38:52.383545+00:00"
  },
- "last_build": "2026-11-03T18:45:18.987240+00:00",
+ "last_build": "2026-11-03T19:38:52.383545+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-03T18:44Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -182,6 +182,7 @@
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/"
+  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
+  "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/"
  ]
 }

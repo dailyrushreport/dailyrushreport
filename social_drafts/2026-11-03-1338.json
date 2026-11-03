@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-03-1338.json",
+  "created": "2026-11-03T19:38:52.383545+00:00",
+  "created_ct": "Tue Nov 3, 2026 1:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Oklahoma man charged over mailing letters with powder to lawmakers",
+    "original_headline": "Oklahoma man charged over mailing letters with powder to lawmakers",
+    "url": "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Oklahoma man charged over mailing letters with powder to lawmakers. (The Hill) https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 161,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Oklahoma man charged over mailing letters with powder to lawmakers. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

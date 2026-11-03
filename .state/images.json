@@ -14,72 +14,6 @@
 "photo": null,
 "checked": "2026-11-01T01:36:50.894563+00:00"
 },
-"https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
-"https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
-"https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108493302-1793473349646-gettyimages-2302160151-20090101261030-99-117403.jpeg?v=1793473391&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
-"https://thehill.com/blogs/in-the-know/6186292-ramaswamy-donates-red-baron/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Ramaswamy_Mueller_AP_SamuelCorum.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
-"https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7580/live/d2a756e0-d553-11f1-bcb7-8f812b44c2e5.png",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
-"https://nypost.com/2026/10/31/sports/three-sirens-stars-make-roster-for-usas-iihf-world-championship-team/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-yihfaeo0a-1793472261403.jpg?quality%3D90%26strip%3Dall%261793457892",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T19:11:42.865648+00:00"
-},
 "https://justthenews.com/index%2Ephp/government/white-house/trump-fires-back-obama-life-obama-post": {
 "v": 2,
 "photo": null,
@@ -8833,5 +8767,151 @@
 "via": "feed"
 },
 "checked": "2026-11-03T18:44:05.921626+00:00"
+},
+"https://justthenews.com/politics-policy/elections/republicans-democrats-dispatch-watchers-legal-teams-election-day-and": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://justthenews.com/government/courts-law/supreme-court-hear-case-over-state-funding-catholic-preschools-colorado": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://justthenews.com/nation/crime/authorities-capture-convicted-murderer-who-escaped-tennessee-prison": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-1184836915-e1748974716160.jpg?w=900",
+"w": 900,
+"h": 506,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://reason.com/2026/11/03/the-housing-ballot-initiatives-to-watch/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/VotingandHousing-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Adani Samat/Midjourney",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.jpost.com/american-politics/article-913743": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736229",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-913745": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744776",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/03/lotto-Virginia-Lottery-powerball-brothers/6371793731943/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://reason.com/volokh/2026/11/03/court-orders-plaintiff-to-file-handwritten-opposition/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/Q2DCkvNTr6bm6kNaLG5Hbk-2546-80.jpg",
+"w": 2546,
+"h": 1432,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108504877-1793637178383-Traders-Photo-20261102-KK-PRESS-008.jpg?v=1793637286&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | SOPA Images",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Nissan",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://www.cnbc.com/2026/11/03/this-gold-miner-is-a-cash-machine-why-i-think-the-sell-off-is-an-opportunity.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108511269-1793717941589-gettyimages-1172552151-CANADA_ARCTIC.jpeg?v=1793718015&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/ilhan-omar-claims-trump-has-a-creepy-obsession-with-her-like-birther-claims-against-obama/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vq1bl962p-1793731920150.jpg?quality%3D90%26strip%3Dall%261793713928",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
+},
+"https://nypost.com/2026/11/03/sports/jeremiyah-love-suffers-another-significant-setback-in-cardinals-nightmare/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjeremiyah-love-injury.jpg?quality%3D90%26strip%3Dall%261793714766",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T19:38:52.383545+00:00"
 }
 }
