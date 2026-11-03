@@ -34,115 +34,6 @@
 "photo": null,
 "checked": "2026-10-31T16:59:42.207517+00:00"
 },
-"https://justthenews.com/index%2ephp/nation/states/michigan-islamic-centers-receiving-government-funds-spewed-anti-american-anti-jewish": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://justthenews.com/index%2ephp/government/white-house/hezbollaah": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghanistan/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Elsewhere-DHS_021326_AP_Cliff-Owen.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/WdEASeZ9Gk8VNeT4dNV93G-1920-80.jpg",
-"w": 620,
-"h": 620,
-"credit": "NAIC-Arecibo/NSF",
-"via": "feed"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108487952-1793387914781-gettyimages-1390191632-vegf05455.jpeg?v=1793387981&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108415076-1792082517141-gettyimages-2222660126-dsc09410.jpeg?v=1792082538&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/tkuSdzmgxQzkixeXhxY3ph-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "Right: NASA Scientific Visualization Studio. Left: Starry Night Pro 8",
-"via": "feed"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.cnbc.com/2026/10/31/bank-of-america-stocks-to-buy-into-earnings.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/106242939-15736620570943l8a0284r.jpg?v=1733935165&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2690/live/86db81e0-d518-11f1-a701-fddedf244c16.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://nypost.com/2026/10/31/betting/the-posts-expert-nfl-week-8-grid-picks-best-bets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnfl-week-8-grid-picks.jpg?quality%3D90%26strip%3Dall%261793365992",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/la-voters-criticize-karen-bass-policies-without-knowing-theyre-hers/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147012772.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T13:35:32.513795+00:00"
-},
 "https://justthenews.com/world/polish-president-calls-emergency-talks-amid-escalating-constitutional-court-crisis": {
 "v": 2,
 "photo": null,
@@ -8631,5 +8522,162 @@
 "via": "page"
 },
 "checked": "2026-11-03T12:43:02.095808+00:00"
+},
+"https://justthenews.com/politics-policy/elections/doj-charges-63-people-including-4-illegal-immigrants-election-related": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://justthenews.com/world/middle-east/us-launches-strikes-against-iranian-targets-strait-hormuz-official-says": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/scotus-rejects-trump-admins-attempt-set-aside-california-ballots-it-believes": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.axios.com/2026/11/03/election-night-midterms-energy": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/7cFZPQe0G08HnD_6cApx6-ULmQc=/0x0:1920x1080/1366x768/2026/10/05/1791227951829.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://thehill.com/policy/international/6191288-icc-judge-donald-trump-sanctions/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26282341220095-1-e1791577492601.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.jpost.com/international/article-913711": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.jpost.com/israel-news/article-913709": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744271",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm9wz01dx8xro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://reason.com/volokh/2026/11/03/citys-using-meta-moderation-assist-feature-for-facebook-comments-doesnt-violate-first-amendment/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108294489-1776771976272-gettyimages-2264522575-APPLE_LAUNCH.jpeg?v=1776962019&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261102202833.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/intense-fear-evil-paranormal-face-close-up.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/Nu5bWDwZmhSzFr3qifWiqj-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261102202838.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/clay-robber-frog.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261102202845.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/happy-girl-reading-book.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
+},
+"https://nypost.com/2026/11/03/sports/espn-cuts-away-during-mnf-to-let-marcus-spears-watch-his-son-debut-for-texas-basketball/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-qoce2yw23-1793712250917.jpg?quality%3D90%26strip%3Dall%261793694304",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T13:58:01.102250+00:00"
 }
 }
