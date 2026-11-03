@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 3, 2026 12:44 AM CT
+# Social drafts — Tue Nov 3, 2026 4:43 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-03-0044.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-03-0443.json x` or `... instagram` (prints the final text to copy).
 
-Lead: US strikes Iran ahead of midterm elections  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cx240mrm3g8vo  
+Lead: Oil prices climb after U.S. strikes Iran's Qeshm Island  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 118/280 chars (X counting)
+## X — status: pending_approval · 132/280 chars (X counting)
 
 ```
-US strikes Iran ahead of midterm elections. (BBC) https://www.bbc.co.uk/news/articles/cx240mrm3g8vo
+Oil prices climb after U.S. strikes Iran's Qeshm Island. (CNBC) https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-US strikes Iran ahead of midterm elections. Story via BBC. Link in bio.
+Oil prices climb after U.S. strikes Iran's Qeshm Island. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
