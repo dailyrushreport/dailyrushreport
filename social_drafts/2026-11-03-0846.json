@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-03-0846.json",
+  "created": "2026-11-03T14:46:08.501530+00:00",
+  "created_ct": "Tue Nov 3, 2026 8:46 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+    "original_headline": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+    "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening. (CNBC) https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 158,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

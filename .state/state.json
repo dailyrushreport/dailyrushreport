@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-  "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
+  "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-  "since": "2026-11-03T11:38:46.069531+00:00"
+  "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+  "since": "2026-11-03T14:46:08.501530+00:00"
  },
- "last_build": "2026-11-03T13:58:01.102250+00:00",
+ "last_build": "2026-11-03T14:46:08.501530+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -175,6 +175,7 @@
   "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-  "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
+  "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
  ]
 }
