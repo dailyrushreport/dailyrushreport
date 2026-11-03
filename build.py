@@ -129,6 +129,7 @@ def parse_feed(raw, feed):
                 link = g if g.startswith("http") else ""
             date = it.findtext("pubDate") or it.findtext("{http://purl.org/dc/elements/1.1/}date")
             cats = [c.text or "" for c in it.findall("category")]
+            pub = clean_text(it.findtext("source") or "")      # Google News: the real publisher
         elif tag == ATOM + "entry":
             title = it.findtext(ATOM + "title")
             link = ""
@@ -137,13 +138,14 @@ def parse_feed(raw, feed):
                     link = l.get("href", ""); break
             date = it.findtext(ATOM + "published") or it.findtext(ATOM + "updated")
             cats = [c.get("term", "") or c.get("label", "") for c in it.findall(ATOM + "category")]
+            pub = ""
         else:
             continue
         title = clean_text(title)
         if not title or not link.strip().startswith("http"):
             continue
         im = feed_image(it)
-        out.append({**({"image": im} if im else {}),
+        out.append({**({"image": im} if im else {}), **({"pub": pub} if pub else {}),
                     "title": title, "url": canonical_url(link), "source": feed["name"],
                     "published": (parse_date(date) or NOW).isoformat(),
                     "column": feed.get("column", 1), "lead_ok": bool(feed.get("lead")),
@@ -665,15 +667,26 @@ def feed_filter(f, items):
     skip_if_url_contains / skip_if_title_starts_with / skip_categories: drop matching items from this feed only;
     title_must_match: regex, keep only matching headlines (e.g. religious-liberty stories from a church news feed);
     strip_title_suffix: text removed from the end of headlines (Google News adds " - Publisher");
+    allowed_sources: list of publisher names (Google News <source>); items from any other publisher are dropped;
+    use_item_source: show the real publisher (Google News <source>) instead of the feed name, and strip its
+      " - Publisher" title suffix; the feed name is still used for lifestyle per-source caps;
     lifestyle: section name ("health", "faith") - see lifestyle_sections in settings."""
     urls = [p.lower() for p in f.get("skip_if_url_contains", [])]
     starts = [p.lower() for p in f.get("skip_if_title_starts_with", [])]
     cats = {c.lower() for c in f.get("skip_categories", [])}
     must = re.compile(f["title_must_match"], re.I) if f.get("title_must_match") else None
     suf = f.get("strip_title_suffix")
+    allow = {a.lower() for a in f.get("allowed_sources", [])}
     out = []
     for i in items:
         i = dict(i)
+        if allow and i.get("pub", "").lower() not in allow:
+            continue
+        if f.get("use_item_source") and i.get("pub"):
+            i["cap_key"] = i["source"]
+            if i["title"].endswith(" - " + i["pub"]):
+                i["title"] = i["title"][:-len(" - " + i["pub"])].rstrip()
+            i["source"] = i["pub"]
         if suf and i["title"].endswith(suf):
             i["title"] = i["title"][:-len(suf)].rstrip()
         if (any(p in i["url"].lower() for p in urls) or any(i["title"].lower().startswith(p) for p in starts)
@@ -831,8 +844,9 @@ def build(args):
         for r in sorted((r for r in reps if r.get("lifestyle") == g), key=lambda r: r["published"], reverse=True):
             if len(lst) >= conf.get("max", 2): break
             per = conf.get("max_per_source", S["max_per_source_per_column"])
-            if n_src.get(r["source"], 0) >= per: continue
-            n_src[r["source"]] = n_src.get(r["source"], 0) + 1
+            k = r.get("cap_key", r["source"])
+            if n_src.get(k, 0) >= per: continue
+            n_src[k] = n_src.get(k, 0) + 1
             lst.append(r)
         cols[key] = cols.get(key, []) + lst          # editor pins with column "life:<name>" go first
     # ---- For Laughs: rotate across satire outlets so no single one dominates. Take each outlet's newest
@@ -933,7 +947,7 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax
          "The Jerusalem Post": "https://www.jpost.com/", "The Times of Israel": "https://www.timesofisrael.com/",
          "Fox News Health": "https://www.foxnews.com/health", "Peter Attia MD": "https://peterattiamd.com/",
          "Zoe Harcombe": "https://www.zoeharcombe.com/", "Religion News Service": "https://religionnews.com/",
-         "Adventist News Network": "https://adventist.news/",
+         "Adventist News Network": "https://adventist.news/", "Liberty Magazine": "https://www.libertymagazine.org/",
          "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
          "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",
          "Duffel Blog": "https://www.duffelblog.com/", "ClickHole": "https://clickhole.com/",
