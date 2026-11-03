@@ -29,118 +29,10 @@
 "photo": null,
 "checked": "2026-10-31T15:23:59.418120+00:00"
 },
-"https://justthenews.com/index%2Ephp/nation/states/center-square/mamdani-walks-back-plan-oust-nyc-racial-equity-leader": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
 "https://justthenews.com/index%2ephp/government/diplomacy/trump-admin-approves-21-billion-sale-patriot-interceptors-ukraine": {
 "v": 2,
 "photo": null,
 "checked": "2026-10-31T21:25:11.170104+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-31/swiss-firms-plan-investment-boost-in-china-drug-finance-sectors": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-10-31/india-496-million-escape-poverty-since-2011-world-bank": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.jpost.com/health-and-wellness/article-913210": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744330",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913374": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744335",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ae4/live/0c76f010-d2de-11f1-b677-b762d2f83f6e.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://reason.com/volokh/2026/10/31/open-thread-374/": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://nypost.com/2026/10/31/sports/mike-brown-irked-by-knicks-turnovers-and-sloppy-play/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-s7tvvnluk-1793431004579.jpg?quality%3D90%26strip%3Dall%261793416613",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147060515.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
-},
-"https://nypost.com/2026/10/31/lifestyle/dear-abby-our-niece-keeps-leaving-us-hanging-because-she-cant-stay-on-schedule/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41561173.jpg?quality%3D90%26strip%3Dall",
-"w": 8256,
-"h": 5502,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T07:23:56.429222+00:00"
 },
 "https://justthenews.com/nation/states/center-square/feds-target-37b-research-funds-part-dei-crackdown": {
 "v": 2,
@@ -8714,5 +8606,76 @@
 "via": "feed"
 },
 "checked": "2026-11-03T06:44:40.229729+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://www.foxnews.com/politics/mamdani-threatens-sue-trump-admin-ices-use-city-owned-lots-immigration-enforcement": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/zohran-mamdani-october-8-2026-scaled.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://www.jpost.com/israel-news/article-913659": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744666",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-913661": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/631870",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/1e8f9b2593e2553ba85b5f08c026ee4a75bd54ac/179_0_2280_1825/master/2280.jpg?width=700&quality=85&auto=format&fit=max&s=eb4ba2bebbbb358d90a84871df032c29",
+"w": 700,
+"h": 560,
+"credit": "Sarah Yenesel/EPA",
+"via": "feed"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/18be/live/41bac5d0-d6da-11f1-b2be-0146bf989691.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/nfl-star-joe-mixon-devastated-after-learning-he-flew-on-doomed-learjet-with-same-pilots-weeks-before-deadly-crash/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-k62uxa8lf-1793687667087.jpg?quality%3D90%26strip%3Dall%261793669724",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T07:58:16.863516+00:00"
 }
 }
