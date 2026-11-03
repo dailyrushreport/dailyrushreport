@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-03-0044.json",
+  "created": "2026-11-03T06:44:40.229729+00:00",
+  "created_ct": "Tue Nov 3, 2026 12:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "US strikes Iran ahead of midterm elections",
+    "original_headline": "US strikes Iran ahead of midterm elections",
+    "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "US strikes Iran ahead of midterm elections. (BBC) https://www.bbc.co.uk/news/articles/cx240mrm3g8vo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 118,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "US strikes Iran ahead of midterm elections. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

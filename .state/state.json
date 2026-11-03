@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
   "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
   "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-  "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
+  "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+  "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-  "since": "2026-11-03T04:38:40.474285+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+  "since": "2026-11-03T06:44:40.229729+00:00"
  },
- "last_build": "2026-11-03T05:40:09.009725+00:00",
+ "last_build": "2026-11-03T06:44:40.229729+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-03T04:38Z",
+  "Zoe Harcombe": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok"
  },
@@ -172,6 +172,7 @@
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-  "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
+  "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+  "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
  ]
 }
