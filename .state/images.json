@@ -24,119 +24,10 @@
 "photo": null,
 "checked": "2026-11-01T08:33:41.295983+00:00"
 },
-"https://www.bbc.co.uk/news/articles/cq398y0zj9rpo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a11/live/9a9071c0-d57a-11f1-be5a-4bb1a466c469.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmq5npz5l5geo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://www.jpost.com/archaeology/article-913134": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744028",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://justthenews.com/index%2ephp/government/courts-law/judge-orders-trump-admin-pull-3-taxpayer-funded-ads": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/texas-judge-suspended-ordered-to-ungergo-mental-evaluation-after-making-racial-remarks-against-latino-lawyer/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146975924.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://nypost.com/2026/10/31/sports/how-giants-became-true-playoff-contenders-entering-bye-week/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-mbnfmw48d-1793486549896.jpg?quality%3D90%26strip%3Dall%261793472184",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:22:29.276892+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/elections/democrat-clark-county-da-endorses-nevada-gop-governor": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T23:55:10.346112+00:00"
-},
 "https://justthenews.com/government/federal-agencies/rfk-jr-defends-remarks-about-arabs-lengthy-social-media-post": {
 "v": 2,
 "photo": null,
 "checked": "2026-11-01T19:11:45.234824+00:00"
-},
-"https://www.jpost.com/history/article-913208": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744139",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-31T23:55:10.346112+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/si-judge-candidate-was-nypd-narcos-cop-who-busted-500-dealers/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146109689.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:55:10.346112+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/9-unclaimed-homeless-new-yorkers-who-froze-to-death-last-winter-to-get-funeral/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fst-thomas-church-fifth-avenue-147018688.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:55:10.346112+00:00"
-},
-"https://nypost.com/2026/10/31/sports/undefeated-ucla-dominant-defense-nevada/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-mwfojtlnp-1793484470948.jpg?quality%3D90%26strip%3Dall%261793470118",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T23:55:10.346112+00:00"
 },
 "https://justthenews.com/nation/states/paxtons-office-announces-arrests-convicted-felons-accused-voting-illegally-texas": {
 "v": 2,
@@ -9018,5 +8909,135 @@
 "via": "feed"
 },
 "checked": "2026-11-03T23:08:27.728499+00:00"
+},
+"https://justthenews.com/politics-policy/elections/michigan-officials-say-doj-election-monitors-overstepped-dearborn-flint": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://justthenews.com/politics-policy/elections/several-states-report-technical-issues-polls-election-day": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://justthenews.com/politics-policy/elections/paxton-says-review-claims-felons-voted-texas-will-not-be-done-elections": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/e7VUXyx34efeyW5pB13fl1RwEMM=/1366x768/smart/2022/10/24/205151-1666644711814.jpg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.jpost.com/american-politics/article-913759": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744800",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-after-hours-anet-amd-smci-swks.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108302225-1777987368584-gettyimages-2254257193-AFP_89QD2TJ.jpeg?v=1777987486&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Yuichiro Chino",
+"via": "feed"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.foxnews.com/outkick-sports/spanish-soccer-player-jesus-de-miguel-dies-after-on-field-collision-authorities-open-investigation": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jesus-de-Miguel.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
+"w": 1200,
+"h": 625,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35ad/live/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/socal-strawberry-grower-announces-farm-closures-hundreds-of-layoffs/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-nel1fdalk-1793750145471.jpg?quality%3D90%26strip%3Dall%261793732266",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://nypost.com/2026/11/03/sports/yankees-are-staring-down-a-david-bednar-conundrum/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41661022.jpg?quality%3D90%26strip%3Dall",
+"w": 5250,
+"h": 3499,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T23:58:42.146410+00:00"
 }
 }
