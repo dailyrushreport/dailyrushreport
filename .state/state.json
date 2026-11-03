@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
   "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
-  "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+  "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-  "since": "2026-11-03T20:31:19.874756+00:00"
+  "url": "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
+  "since": "2026-11-03T22:13:42.785428+00:00"
  },
- "last_build": "2026-11-03T21:28:56.040427+00:00",
+ "last_build": "2026-11-03T22:13:42.785428+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -184,6 +184,7 @@
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
   "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
-  "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+  "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/"
  ]
 }

@@ -24,44 +24,6 @@
 "photo": null,
 "checked": "2026-11-01T08:33:41.295983+00:00"
 },
-"https://reason.com/volokh/2026/10/31/sir-patrick-stewart-rip/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/Picard-1161x675.jpg",
-"w": 1161,
-"h": 675,
-"credit": "CBS",
-"via": "feed"
-},
-"checked": "2026-10-31T21:56:33.733261+00:00"
-},
-"https://thehill.com/homenews/campaign/6186460-rogers-claims-early-ballot-lead/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281848490049-e1792331994553.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T21:56:33.733261+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/courts-law/judge-orders-trump-admin-pull-3-taxpayer-funded-ads": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-31T21:56:33.733261+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/86-year-old-sailor-and-dog-rescued-nearly-500-miles-off-san-diego-after-months-missing-at-sea/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-r6tn52v8r-1793483638752.jpg?quality%3D90%26strip%3Dall%261793469282",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T21:56:33.733261+00:00"
-},
 "https://justthenews.com/government/courts-law/judge-orders-trump-admin-pull-3-taxpayer-funded-ads": {
 "v": 2,
 "photo": null,
@@ -8919,5 +8881,125 @@
 "via": "page"
 },
 "checked": "2026-11-03T21:28:56.040427+00:00"
+},
+"https://justthenews.com/politics-policy/voters-head-polls-decide-key-ballot-initiatives": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.foxnews.com/travel/two-helicopters-collide-mount-everest-during-rescue-flight-killing-one-injuring-others": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/nepal-helicopter-crash.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://thehill.com/homenews/campaign/6194159-crockett-says-stevens-boosted-el-sayed/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26063132565668-e1772636806486.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/EKqZZcpMeKzaDib4vuvNpS-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26301649071113.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://nypost.com/2026/11/03/sports/why-espn-will-have-trouble-landing-peyton-manning-to-replace-troy-aikman-on-mnf/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-u8tw4cxeq-1793737581013.jpg?quality%3D90%26strip%3Dall%261793719604",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/elementary-school-teacher-smacked-6-students-with-straightedge-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41659268.jpg?quality%3D90%26strip%3Dall",
+"w": 3500,
+"h": 2332,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
+},
+"https://nypost.com/2026/11/03/tech/meta-responds-as-women-in-politics-demand-action-against-online-abuse/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41658983.jpg?quality%3D90%26strip%3Dall",
+"w": 4063,
+"h": 2708,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T22:13:42.785428+00:00"
 }
 }
