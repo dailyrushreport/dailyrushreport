@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
   "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
   "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
   "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/"
+  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
+  "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
-  "since": "2026-11-02T22:11:51.301260+00:00"
+  "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+  "since": "2026-11-03T01:49:23.923900+00:00"
  },
- "last_build": "2026-11-03T00:30:56.857762+00:00",
+ "last_build": "2026-11-03T01:49:23.923900+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -170,6 +170,7 @@
   "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/"
+  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
+  "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
  ]
 }
