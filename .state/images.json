@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/politics-policy/elections/ramaswamy-attack-ad-against-acton-air-after-spending-fraction-original": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T23:59:53.211502+00:00"
-},
 "https://justthenews.com/politics-policy/elections/election-integrity-group-claims-have-found-thousands-potentially-deceased": {
 "v": 2,
 "photo": null,
@@ -18,55 +13,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-10-31T05:06:12.496802+00:00"
-},
-"https://justthenews.com/politics-policy/all-things-trump/watch-live-trump-speaks-florida-rally-final-sprint-midterms": {
-"v": 2,
-"photo": null,
-"checked": "2026-10-30T23:59:53.211502+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T23:59:53.211502+00:00"
-},
-"https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a5d1/live/6f7d0770-d4b5-11f1-a58c-6d26609b0a57.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-10-30T23:59:53.211502+00:00"
-},
-"https://nypost.com/2026/10/30/business/nearly-6-million-coffee-makers-recalled-as-cracked-glass-poses-burn-risk/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147020140.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T23:59:53.211502+00:00"
-},
-"https://nypost.com/2026/10/30/sports/david-bailey-likely-to-miss-chance-at-sacking-fernando-mendoza-in-jets-raiders-meeting/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-cs8ohjsv7-1793400707007.jpg?quality%3D90%26strip%3Dall%261793386401",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-30T23:59:53.211502+00:00"
 },
 "https://justthenews.com/government/courts-law/doj-asks-federal-judge-separate-certain-ballots-alaska-senate-race-halt": {
 "v": 2,
@@ -8559,5 +8505,81 @@
 "via": "feed"
 },
 "checked": "2026-11-02T23:55:51.955512+00:00"
+},
+"https://www.bloomberg.com/news/live-blog/2026-11-03/goldman-morgan-stanley-finance-ceos-speak-at-hong-kong-investment-summit": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://www.breitbart.com/health/2026/11/02/democrat-senator-chris-murphy-awake-and-alert-after-experiencing-stroke/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/10/yuhe4455-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Screenshot",
+"via": "page"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://www.jpost.com/international/article-913640": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744640",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Charlie Leight, Arizona State University",
+"via": "feed"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Smithsonian National Air and Space Museum",
+"via": "feed"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://www.jpost.com/american-politics/article-913639": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744638",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm3wv085ne6po": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T00:30:56.857762+00:00"
 }
 }
