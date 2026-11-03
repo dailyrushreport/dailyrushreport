@@ -667,6 +667,8 @@ def feed_filter(f, items):
     skip_if_url_contains / skip_if_title_starts_with / skip_categories: drop matching items from this feed only;
     title_must_match: regex, keep only matching headlines (e.g. religious-liberty stories from a church news feed);
     strip_title_suffix: text removed from the end of headlines (Google News adds " - Publisher");
+    strip_title_regex: regex removed from headlines (e.g. podcast episode numbers "201. ");
+    max_per_source: (lifestyle feeds) per-feed cap in its lifestyle list, overriding the section's max_per_source;
     allowed_sources: list of publisher names (Google News <source>); items from any other publisher are dropped;
     use_item_source: show the real publisher (Google News <source>) instead of the feed name, and strip its
       " - Publisher" title suffix; the feed name is still used for lifestyle per-source caps;
@@ -676,6 +678,7 @@ def feed_filter(f, items):
     cats = {c.lower() for c in f.get("skip_categories", [])}
     must = re.compile(f["title_must_match"], re.I) if f.get("title_must_match") else None
     suf = f.get("strip_title_suffix")
+    rx = re.compile(f["strip_title_regex"]) if f.get("strip_title_regex") else None
     allow = {a.lower() for a in f.get("allowed_sources", [])}
     out = []
     for i in items:
@@ -689,6 +692,8 @@ def feed_filter(f, items):
             i["source"] = i["pub"]
         if suf and i["title"].endswith(suf):
             i["title"] = i["title"][:-len(suf)].rstrip()
+        if rx:
+            i["title"] = rx.sub("", i["title"]).strip()
         if (any(p in i["url"].lower() for p in urls) or any(i["title"].lower().startswith(p) for p in starts)
                 or cats & {c.lower() for c in i.get("cats") or []} or (must and not must.search(i["title"]))):
             continue
@@ -839,12 +844,13 @@ def build(args):
         cols[c].append(r)
     # ---- lifestyle sections (health, faith): their own small, capped lists under the Culture column, newest
     # first, at most max_per_source_per_column per outlet. They never lead or turn red (treated as opinion).
+    life_cap = {f["name"]: f["max_per_source"] for f in feeds if f.get("lifestyle") and "max_per_source" in f}
     for g, conf in (S.get("lifestyle_sections") or {}).items():
         key, lst, n_src = "life:" + g, [], {}
         for r in sorted((r for r in reps if r.get("lifestyle") == g), key=lambda r: r["published"], reverse=True):
             if len(lst) >= conf.get("max", 2): break
-            per = conf.get("max_per_source", S["max_per_source_per_column"])
             k = r.get("cap_key", r["source"])
+            per = life_cap.get(k, conf.get("max_per_source", S["max_per_source_per_column"]))
             if n_src.get(k, 0) >= per: continue
             n_src[k] = n_src.get(k, 0) + 1
             lst.append(r)
@@ -946,7 +952,9 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax
          "UPI Odd News": "https://www.upi.com/Odd_News/", "Space.com": "https://www.space.com/",
          "The Jerusalem Post": "https://www.jpost.com/", "The Times of Israel": "https://www.timesofisrael.com/",
          "Fox News Health": "https://www.foxnews.com/health", "Peter Attia MD": "https://peterattiamd.com/",
-         "Zoe Harcombe": "https://www.zoeharcombe.com/", "Religion News Service": "https://religionnews.com/",
+         "Zoe Harcombe": "https://www.zoeharcombe.com/",
+         "Dr. Ken Berry": "https://www.youtube.com/@KenDBerryMD", "Keto Carnivore (Dr. Kiltz)": "https://www.doctorkiltz.com/",
+         "MAHA / HHS": "https://www.hhs.gov/about/news/index.html", "Religion News Service": "https://religionnews.com/",
          "Adventist News Network": "https://adventist.news/", "Liberty Magazine": "https://www.libertymagazine.org/",
          "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
          "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",

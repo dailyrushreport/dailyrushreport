@@ -315,7 +315,8 @@
       "url": "https://moxie.foxnews.com/google-publisher/health.xml",
       "column": 3,
       "lifestyle": "health",
-      "max_age_hours": 72
+      "max_age_hours": 72,
+      "max_per_source": 1
     },
     {
       "name": "Peter Attia MD",
@@ -329,7 +330,8 @@
       "skip_categories": [
         "Premium Articles"
       ],
-      "_note": "longevity/strength/metabolic health articles; podcast episodes (#NNN) and paywalled Premium Articles skipped"
+      "_note": "longevity/strength/metabolic health articles; podcast episodes (#NNN) and paywalled Premium Articles skipped",
+      "max_per_source": 1
     },
     {
       "name": "Zoe Harcombe",
@@ -337,7 +339,41 @@
       "column": 3,
       "lifestyle": "health",
       "max_age_hours": 72,
-      "_note": "PhD nutrition researcher, low-carb/real-food, critiques dietary guidelines; weekly. Most posts are member posts but the executive summary is free to read"
+      "_note": "PhD nutrition researcher, low-carb/real-food, critiques dietary guidelines; weekly. Most posts are member posts but the executive summary is free to read",
+      "max_per_source": 1
+    },
+    {
+      "name": "Dr. Ken Berry",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIma2WOQs1Mz2AuOt6wRSUw",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 72,
+      "skip_if_url_contains": [
+        "/shorts/"
+      ],
+      "_note": "family physician, real-food/low-carb/carnivore YouTube (@KenDBerryMD); Shorts skipped so only full videos show",
+      "max_per_source": 1
+    },
+    {
+      "name": "Keto Carnivore (Dr. Kiltz)",
+      "url": "https://anchor.fm/s/93697768/podcast/rss",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 72,
+      "strip_title_regex": "^\\d+\\.\\s*",
+      "_note": "Dr. Robert Kiltz's Keto/Carnivore Conversations podcast, twice weekly; episode numbers stripped from titles",
+      "max_per_source": 1
+    },
+    {
+      "name": "MAHA / HHS",
+      "url": "https://news.google.com/rss/search?q=site:hhs.gov+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "column": 3,
+      "lifestyle": "health",
+      "max_age_hours": 72,
+      "strip_title_suffix": " - HHS.gov",
+      "title_must_match": "MAHA|Make America Healthy|Kennedy|food|nutrition|diet|formula|dye|additive|sugar|chronic|processed|seafood|healthy|obesity|wellness|fluoride|menopause",
+      "_note": "Official HHS press releases (RFK Jr.'s MAHA beat) via Google News - hhs.gov blocks direct fetches; filtered to food/nutrition/MAHA headlines",
+      "max_per_source": 1
     },
     {
       "name": "Religion News Service",
