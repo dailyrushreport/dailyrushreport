@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 3, 2026 8:46 AM CT
+# Social drafts — Tue Nov 3, 2026 12:32 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-03-0846.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-03-1232.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Supermarket fridges hit with cyberattacks across Europe — here's what's happening  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html  
-Pinned by editor: no · BREAKING: no
+Lead: Alaska Senate candidate ‘Decoy’ Dan Sullivan missing on Election Day as Trump alleges ‘criminal act’  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 158/280 chars (X counting)
+## X — status: pending_approval · 194/280 chars (X counting)
 
 ```
-Supermarket fridges hit with cyberattacks across Europe — here's what's happening. (CNBC) https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html
+Alaska Senate candidate ‘Decoy’ Dan Sullivan missing on Election Day as Trump alleges ‘criminal act’. (NY Post) https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Supermarket fridges hit with cyberattacks across Europe — here's what's happening. Story via CNBC. Link in bio.
+Alaska Senate candidate ‘Decoy’ Dan Sullivan missing on Election Day as Trump alleges ‘criminal act’. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

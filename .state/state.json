@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
   "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
+  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-  "since": "2026-11-03T14:46:08.501530+00:00"
+  "url": "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
+  "since": "2026-11-03T18:32:14.310488+00:00"
  },
- "last_build": "2026-11-03T17:38:11.298139+00:00",
+ "last_build": "2026-11-03T18:32:14.310488+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -176,6 +176,7 @@
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
+  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/"
  ]
 }
