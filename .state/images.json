@@ -24,61 +24,6 @@
 "photo": null,
 "checked": "2026-10-31T14:57:29.613041+00:00"
 },
-"https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26289523858830-e1793415686286.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T04:13:13.218709+00:00"
-},
-"https://www.foxnews.com/outkick-sports/thunder-lose-chet-holmgren-least-2-months-knee-injury-amid-string-early-season-nba-injuries": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Chet-Holmgren-OKC.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T04:13:13.218709+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/0335a1833425e9c9cbea5d82dbb76888d662896a/641_0_5417_4335/master/5417.jpg?width=700&quality=85&auto=format&fit=max&s=e3b0619698dcd4c54f2480fae09feb31",
-"w": 700,
-"h": 560,
-"credit": "Daniel Cole/Reuters",
-"via": "feed"
-},
-"checked": "2026-10-31T04:13:13.218709+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/woman-28-stabbed-in-neck-while-jogging-in-nyc/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcomp-stabbing.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T04:13:13.218709+00:00"
-},
-"https://nypost.com/2026/10/31/sports/unc-staffers-had-no-idea-about-bill-belichicks-reported-breakup-with-jordon-hudson/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-41608329.jpg?quality%3D90%26strip%3Dall",
-"w": 4235,
-"h": 2822,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-10-31T04:13:13.218709+00:00"
-},
 "https://justthenews.com/index%2ephp/politics-policy/elections/us-attorney-investigating-three-groups-reportedly-registering-non": {
 "v": 2,
 "photo": null,
@@ -8569,5 +8514,168 @@
 "via": "feed"
 },
 "checked": "2026-11-03T03:37:03.644573+00:00"
+},
+"https://justthenews.com/nation/states/center-square/ex-chicago-fbi-chief-sues-feds-alleging-defamation-led-forced": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://justthenews.com/nation/states/center-square/ntsb-jet-may-have-broken-apart-palm-beach-county-crash": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://justthenews.com/politics-policy/tuehere-are-races-watch-battle-senate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26294404896713-e1792591755361.jpg?w=900",
+"w": 900,
+"h": 507,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm5ynekkn5qko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cx240mrm3g8vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.jpost.com/israel-news/article-913647": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744653",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://reason.com/volokh/2026/11/02/the-logic-of-voting-for-a-lesser-evil-and-other-writings-on-the-ethics-of-voting/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/08/Sauron-1161x675.jpg",
+"w": 1161,
+"h": 675,
+"credit": "NA",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-913648": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744654",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261102075806.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261101010525.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/black-holes-split-apart-merger.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/10/261031221211.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/quark-gluon-plasma-formation.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://nypost.com/2026/11/02/us-news/stanford-university-drops-term-survivor-for-sexual-assault-cases-due-to-bias-as-victims-erupt/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147356327.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108507465-1793670073249-gettyimages-2302761658-tbdc_8152.jpeg?v=1793670124&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://nypost.com/2026/11/02/sports/nets-push-knicks-before-fourth-quarter-collapse-in-missed-chance-to-earn-respect/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41646043.jpg?quality%3D90%26strip%3Dall",
+"w": 2477,
+"h": 1650,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
+},
+"https://nypost.com/2026/11/02/sports/rick-pitino-surprisingly-sits-theo-edema-in-st-johns-opener/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41646065.jpg?quality%3D90%26strip%3Dall",
+"w": 3229,
+"h": 2152,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-03T04:38:40.474285+00:00"
 }
 }
