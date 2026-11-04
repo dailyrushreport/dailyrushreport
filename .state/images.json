@@ -39,99 +39,6 @@
 "photo": null,
 "checked": "2026-11-01T11:01:23.773690+00:00"
 },
-"https://www.foxnews.com/outkick-sports/bill-belichick-unc-tar-heels-nearly-upset-top-ranked-miami-costly-strip-sack": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bill-belichick-north-carolina-tar-heels.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261031221201.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261030003006.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/forest-in-alps.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://www.jpost.com/international/article-913427": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744390",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://nypost.com/2026/11/01/tech/north-korea-blamed-by-fbi-for-hacking-binance-in-biggest-crypto-heist/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147165134.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://nypost.com/2026/11/01/media/kid-rock-reveals-what-he-told-french-president-macron-after-trump-unexpectedly-handed-him-phone/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147165225.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://nypost.com/2026/11/01/us-news/fire-rips-through-mississippi-police-department-that-fatally-shot-1-year-old-kohen-wiley/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FMississippi-police-comp-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
-"https://nypost.com/2026/11/01/sports/emil-heineman-booted-from-islanders-loss-after-big-hit/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41617279.jpg?quality%3D90%26strip%3Dall",
-"w": 6131,
-"h": 4086,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T04:36:53.178944+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost": {
 "v": 2,
 "photo": null,
@@ -9086,5 +8993,185 @@
 "via": "feed"
 },
 "checked": "2026-11-04T03:36:26.664530+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4776122/kansas-senate-race-results-roger-marshall-adam-hamilton/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image-collage-xk8xdgs51-1792696282909-e1792696673942.jpg?1792682263&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/state/4770743/wisconsin-governor-race-results-david-crowley-tom-tiffany/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image-collage-p70hgor8i-1792426825427-e1792426966915.jpg?1792417288&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://thehill.com/homenews/campaign/6181972-sherrod-brown-wins-ohio-senate-race/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26297745502375-e1793300523979.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26307796239216.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://freebeacon.com/elections/momma-we-made-it-james-talarico-wins-texas-senate-race/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/09/democratic-senate-candidate-james-talarico-holds-rally-day-after-gop-p-scaled-e1788988404468.jpg",
+"w": 736,
+"h": 491,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/03/republican-byron-donalds-wins-in-floridas-nail-biter-governors-race/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/Gov.-Byron-Donalds-640x335.jpeg",
+"w": 640,
+"h": 335,
+"credit": "Kevin Lamarque-Pool\\/Getty Images",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-04/india-s-dollar-hedging-slumps-as-rbi-cracks-down-on-speculation": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-913772": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/489953",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/sherrod-brown-jon-husted-ohio-senate": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/5b10bddd3fdd0549934b56a6d099f38b8ff242e8/378_0_3247_2598/master/3247.jpg?width=700&quality=85&auto=format&fit=max&s=9202e8256b6d1d0beeb64326a2f2fa38",
+"w": 700,
+"h": 560,
+"credit": "Shannon Stapleton/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://reason.com/2026/11/03/quacks-vote-to-approve-duck-bills-in-d-c-and-denver/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/FoieGras-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Igor Cynoclub/Aleksandar Todorovic/Dreamstime/Fatima Ruiz",
+"via": "feed"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://reason.com/volokh/2026/11/03/choosin-texas-i-can-tell/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261101010552.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/cancer-killing-drug-made-inside-tumor-cells.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261102202829.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/genetic-editing-glowing-dna-tweezers.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://reason.com/2026/11/03/indiana-republican-who-said-undocumented-immigrants-shouldnt-get-due-process-has-lost-reelection-to-congress/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Victoria-Spartz-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "ANNABELLE GORDON/UPI/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261103003149.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/betegeuses-haunted-atmosphere.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4771048/josh-turek-flips-iowa-democrats-senate-majority/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26287083435806-1.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-pslmpz46q-1793161258657.jpg?quality%3D90%26strip%3Dall%261793146883",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T04:41:14.415273+00:00"
 }
 }
