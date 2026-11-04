@@ -1,9 +1,4 @@
 {
-"https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
 "https://justthenews.com/government/courts-law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein": {
 "v": 2,
 "photo": null,
@@ -24,66 +19,6 @@
 "photo": null,
 "checked": "2026-11-01T19:11:45.234824+00:00"
 },
-"https://www.washingtonexaminer.com/news/white-house/4787198/trump-grant-visa-mother-teen-bronx-shooting-mamdani/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26265150234959-e1792700234405.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T01:51:55.260284+00:00"
-},
-"https://nypost.com/2026/10/31/sports/minnesota-indiana-trade-60-yard-field-goals-in-19-second-span/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-dejsma7cb-1793497067501.jpg?quality%3D90%26strip%3Dall%261793482694",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:51:55.260284+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cje36degrgv5o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:51:55.260284+00:00"
-},
-"https://nypost.com/2026/10/31/business/west-coast-favorite-ice-cream-chain-opens-new-bay-area-store/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147003175.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:51:55.260284+00:00"
-},
-"https://nypost.com/2026/10/31/business/trumps-tariff-craze-has-derailed-the-gops-hopes-to-maintain-their-authority-after-the-2026-midterms/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F112DOELDLE.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:51:55.260284+00:00"
-},
-"https://justthenews.com/nation/states/center-square/multiple-twin-cities-locations-raided-amid-minnesota-fraud": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
 "https://justthenews.com/nation/states/center-square/qatarenergy-signs-second-deal-week-buy-us-lng": {
 "v": 2,
 "photo": null,
@@ -93,83 +28,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-01T15:58:16.247805+00:00"
-},
-"https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mlb-paul-skenes-livvy-dunne-030926-1.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqkgl4nmp8lyo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1efa/live/218efa90-d57e-11f1-ab63-077ce6c8a12a.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqj34gnd3n30o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/21-men-busted-in-place-county-prostitution-sting/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-e87la98cr-1793498535030.jpg?quality%3D90%26strip%3Dall%261793484198",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://nypost.com/2026/10/31/lifestyle/women-may-have-a-biological-edge-over-men-when-tasting-bourbon-experts-say/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147107063.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-jt27norgq-1793499357138.jpg?quality%3D90%26strip%3Dall%261793484983",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
-},
-"https://nypost.com/2026/10/31/world-news/ancient-rusty-treasure-emerges-from-river-with-enough-iron-to-forge-500-swords/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147100986.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T02:34:59.596322+00:00"
 },
 "https://justthenews.com/politics-policy/elections/election-integrity-efforts-trump-admin-purify-midterms-poll-watchers": {
 "v": 2,
@@ -9120,5 +8978,93 @@
 "via": "page"
 },
 "checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/rMnSBmFw9MXNazCxH95btPgKCTc=/0x0:1920x1080/1366x768/2026/10/07/1791384871867.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm8ezneewr9lo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/775f/live/b94b9cb0-d7ec-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.jpost.com/american-politics/article-913768": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744810",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d427/live/a1cf3100-d7ec-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.jpost.com/israel-news/article-913769": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688860",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4787812/andy-barr-charles-booker-kentucky-senate-results/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-ka3oi9nir-1793636971384-e1793639911933.jpg?1793619095&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/ae004033dfd56bf1055b749d65ddb5db89611bee/5_0_2849_2280/master/2849.png?width=700&quality=85&auto=format&fit=max&s=d6350346d863557ae7d3e781a56ef436",
+"w": 700,
+"h": 560,
+"credit": "Illustration: Rita Liu/Guardian Design",
+"via": "feed"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcomp-31.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T02:35:12.597025+00:00"
 }
 }
