@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 3, 2026 7:46 PM CT
+# Social drafts — Tue Nov 3, 2026 9:36 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-03-1946.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-03-2136.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Live updates: Cooper flips North Carolina Senate seat blue  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/  
-Pinned by editor: no · BREAKING: no
+Lead: Annie Andrews upsets Darline Graham in South Carolina  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 139/280 chars (X counting)
+## X — status: pending_approval · 159/280 chars (X counting)
 
 ```
-Live updates: Cooper flips North Carolina Senate seat blue. (The Hill) https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/
+Annie Andrews upsets Darline Graham in South Carolina. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Live updates: Cooper flips North Carolina Senate seat blue. Story via The Hill. Link in bio.
+Annie Andrews upsets Darline Graham in South Carolina. Story via Washington Examiner. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-03-2136.json",
+  "created": "2026-11-04T03:36:26.664530+00:00",
+  "created_ct": "Tue Nov 3, 2026 9:36 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Annie Andrews upsets Darline Graham in South Carolina",
+    "original_headline": "Annie Andrews upsets Darline Graham in South Carolina",
+    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Annie Andrews upsets Darline Graham in South Carolina. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 159,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Annie Andrews upsets Darline Graham in South Carolina. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
