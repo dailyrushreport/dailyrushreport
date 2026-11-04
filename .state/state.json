@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
   "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
-  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026"
+  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
+  "https://www.breitbart.com/politics/2026/11/03/iasen/"
  ],
  "current_lead": {
-  "url": "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
-  "since": "2026-11-04T06:49:15.559329+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/03/iasen/",
+  "since": "2026-11-04T08:05:41.444600+00:00"
  },
- "last_build": "2026-11-04T06:49:15.559329+00:00",
+ "last_build": "2026-11-04T08:05:41.444600+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-03T22:13Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -190,6 +190,7 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
-  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026"
+  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
+  "https://www.breitbart.com/politics/2026/11/03/iasen/"
  ]
 }
