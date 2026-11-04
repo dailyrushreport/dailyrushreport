@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
   "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
   "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
   "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
-  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+  "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-  "since": "2026-11-04T15:41:47.003627+00:00"
+  "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+  "since": "2026-11-04T16:41:16.319057+00:00"
  },
- "last_build": "2026-11-04T15:41:47.003627+00:00",
+ "last_build": "2026-11-04T16:41:16.319057+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -194,6 +194,7 @@
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
   "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
   "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
-  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+  "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election"
  ]
 }

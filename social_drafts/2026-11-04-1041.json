@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-1041.json",
+  "created": "2026-11-04T16:41:16.319057+00:00",
+  "created_ct": "Wed Nov 4, 2026 10:41 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Vance says the Iran war cost Republicans the midterms",
+    "original_headline": "Vance says the Iran war cost Republicans the midterms",
+    "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Vance says the Iran war cost Republicans the midterms. (Axios) https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 131,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Vance says the Iran war cost Republicans the midterms. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
