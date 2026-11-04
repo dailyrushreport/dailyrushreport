@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
   "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
-  "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived"
+  "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
+  "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
-  "since": "2026-11-04T20:38:25.679288+00:00"
+  "url": "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
+  "since": "2026-11-04T21:37:29.061292+00:00"
  },
- "last_build": "2026-11-04T20:38:25.679288+00:00",
+ "last_build": "2026-11-04T21:37:29.061292+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -196,6 +196,7 @@
   "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
   "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
   "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
-  "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived"
+  "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
+  "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/"
  ]
 }
