@@ -25,7 +25,7 @@
   "url": "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
   "since": "2026-11-04T21:37:29.061292+00:00"
  },
- "last_build": "2026-11-04T22:34:38.330422+00:00",
+ "last_build": "2026-11-04T23:29:59.761882+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,8 +61,8 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "ok",
+  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-04T22:34Z",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-04T22:34Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
