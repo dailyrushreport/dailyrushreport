@@ -39,55 +39,6 @@
 "photo": null,
 "checked": "2026-11-01T11:01:23.773690+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T05:30:30.054809+00:00"
-},
-"https://www.foxnews.com/outkick-sports/ohio-state-national-title-hopes-rightfully-fading-usc-delivers-reality-check-shocking-upset": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/luke-fahey-ohio-state-usc-coliseum.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T05:30:30.054809+00:00"
-},
-"https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/253d405840173ebdf67082205ca9f9953db824d7/829_0_5034_4028/master/5034.jpg?width=700&quality=85&auto=format&fit=max&s=c458e594f73518ed4e8293722d69687e",
-"w": 700,
-"h": 560,
-"credit": "Illustration: Ben Denzer/The Guardian",
-"via": "feed"
-},
-"checked": "2026-11-01T05:30:30.054809+00:00"
-},
-"https://nypost.com/2026/11/01/sports/lincoln-riley-curses-at-ohio-state-coaches-in-confrontation-after-usc-upset/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-s6vx79641-1793509255939.jpg?quality%3D90%26strip%3Dall%261793494888",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T05:30:30.054809+00:00"
-},
-"https://nypost.com/2026/11/01/lifestyle/new-york-and-la-didnt-win-americas-best-mega-airport-title-but-one-midwest-hub-did/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-10972t1ak-1793509952558.jpg?quality%3D90%26strip%3Dall%261793495585",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T05:30:30.054809+00:00"
-},
 "https://www.jpost.com/archaeology/article-913213": {
 "v": 2,
 "photo": {
@@ -9173,5 +9124,119 @@
 "via": "feed"
 },
 "checked": "2026-11-04T04:41:14.415273+00:00"
+},
+"https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4785682/max-miller-brian-poindexter-ohio-house-race-result/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26218000042398.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://freebeacon.com/elections/walzs-wingwoman-peggy-flanagan-prevails-in-minnesota-senate-race/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/peggy-flanagan-campaigns-for-senate-in-minnesota-with-amy-klobuchar-an-scaled.jpg",
+"w": 2560,
+"h": 1718,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.axios.com/local/des-moines/2026/11/04/iowa-senate-election-win-hinson-turek": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/Hw3yBfu1zCvop64ldgVtG_RJMkE=/0x728:6980x4654/1366x768/2026/11/04/1793766996636.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://reason.com/2026/11/04/trump-should-not-get-credit-for-the-recent-drop-in-violent-crime/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Todd-Blanche-crime-numbers-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Samuel Corum/CNP/Polaris/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://reason.com/2026/11/03/voters-pick-james-talarico-to-mess-with-texas-and-the-u-s-senate/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/BothBad-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Bob Daemmrich/ZUMAPRESS/Laura Brett/ZUMAPRESS/Newscom/Fatima Ruiz",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/ashley-hinson-josh-turek-iowa-us-senate": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/a145a30c792dc542965f30fd461834d51b6e1a4e/519_0_5001_4002/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=6bfdb530ceb920833a98faf7ad5e3650",
+"w": 700,
+"h": 560,
+"credit": "Scott Olson/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-dnd1upy3m-1793215077327.jpg?quality%3D90%26strip%3Dall%261793200690",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T05:43:33.535395+00:00"
 }
 }
