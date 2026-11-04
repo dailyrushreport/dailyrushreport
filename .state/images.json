@@ -29,93 +29,6 @@
 "photo": null,
 "checked": "2026-11-01T19:11:45.234824+00:00"
 },
-"https://justthenews.com/nation/states/paxtons-office-announces-arrests-convicted-felons-accused-voting-illegally-texas": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/caeaea960a76da981f528171c51ccb376fbd0424/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=0d3736c98236df14becd6b55be0a2d6b",
-"w": 700,
-"h": 560,
-"credit": "Composite: Robin Buckson/The Detroit News via AP",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c60qk92dvlwgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://thehill.com/homenews/campaign/6186552-clyburn-rally-el-sayed-stevens/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26231678858038-e1792615938951.jpg?w=900",
-"w": 900,
-"h": 507,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://justthenews.com/index%2ephp/world/evacuees-russian-occupied-ukrainian-city-reach-ukraine-territory": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://nypost.com/2026/10/31/sports/referee-injures-eastern-carolinas-david-coleman-jr-in-collision/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F147138193.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
-"https://nypost.com/2026/10/31/sports/ucla-bob-chesney-reaction-lack-rose-bowl-crowd/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-g412mtb8e-1793492386000.jpg?quality%3D90%26strip%3Dall%261793478020",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T00:25:51.377849+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections": {
 "v": 2,
 "photo": null,
@@ -9039,5 +8952,85 @@
 "via": "feed"
 },
 "checked": "2026-11-03T23:58:42.146410+00:00"
+},
+"https://justthenews.com/government/courts-law/kansas-postal-worker-accused-stealing-thousands-pieces-mail-including-gop": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://justthenews.com/nation/religion/supreme-court-skeptical-colorados-lgbtq-requirements-catholic-schools-tuition": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://www.bloomberg.com/news/live-blog/2026-11-04/hkma-investment-summit-day-2": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://thehill.com/homenews/campaign/6134077-shelley-moore-capito-wins-west-virginia-senate-reelection/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26175754782343-e1791390691251.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://thehill.com/homenews/campaign/6163101-joe-strada-republican-florida-11th-congressional-district/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP25120420604383-e1793752566797.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm9qz93ew22no": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e57b/live/5bce4a50-d78e-11f1-9440-953b82c8f55a.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/supreme-court-hear-case-over-state-funding-catholic-preschools-colorado": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://nypost.com/2026/11/03/us-news/bay-area-assistant-stole-18m-from-boss-to-fund-lavish-lifestyle/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147469967.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T00:41:26.786598+00:00"
 }
 }
