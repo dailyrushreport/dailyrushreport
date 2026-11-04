@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
-  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/"
+  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
+  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
-  "since": "2026-11-04T11:30:30.237641+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
+  "since": "2026-11-04T14:47:22.052457+00:00"
  },
- "last_build": "2026-11-04T13:55:46.519423+00:00",
+ "last_build": "2026-11-04T14:47:22.052457+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -192,6 +192,7 @@
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
-  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/"
+  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
+  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/"
  ]
 }

@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 4, 2026 5:30 AM CT
+# Social drafts — Wed Nov 4, 2026 8:47 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-04-0530.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-04-0847.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/  
+Lead: Nevada enshrines abortion rights in state constitution in final statewide vote  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 148/280 chars (X counting)
+## X — status: pending_approval · 170/280 chars (X counting)
 
 ```
-Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race. (Breitbart) https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/
+Nevada enshrines abortion rights in state constitution in final statewide vote. (Washington Examiner) https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race. Story via Breitbart. Link in bio.
+Nevada enshrines abortion rights in state constitution in final statewide vote. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
