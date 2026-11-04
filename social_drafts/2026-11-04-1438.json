@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-1438.json",
+  "created": "2026-11-04T20:38:25.679288+00:00",
+  "created_ct": "Wed Nov 4, 2026 2:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "DeSantis calls GOP midterm losses 'extinction-level event' — and explains why Florida survived",
+    "original_headline": "DeSantis calls GOP midterm losses 'extinction-level event' — and explains why Florida survived",
+    "url": "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "DeSantis calls GOP midterm losses 'extinction-level event' — and explains why Florida survived. (Fox News) https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 175,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "DeSantis calls GOP midterm losses 'extinction-level event' — and explains why Florida survived. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
