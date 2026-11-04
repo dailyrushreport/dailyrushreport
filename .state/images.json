@@ -1,14 +1,4 @@
 {
-"https://justthenews.com/government/courts-law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://justthenews.com/politics-policy/elections/michigan-senate-democrat-candidate-abdul-el-sayed-disinvites-haley": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
 "https://justthenews.com/government/federal-agencies/rfk-jr-defends-remarks-about-arabs-lengthy-social-media-post": {
 "v": 2,
 "photo": null,
@@ -23,211 +13,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-01T15:58:16.247805+00:00"
-},
-"https://justthenews.com/politics-policy/elections/election-integrity-efforts-trump-admin-purify-midterms-poll-watchers": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://justthenews.com/nation/states/congressional-republicans-open-probe-alleged-democratic-decoy-dan-sullivan-scheme": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/states/center-square/prediction-markets-missed-brazil-us-midterms-are-big-test": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://www.foxnews.com/politics/toxic-cocktail-seattle-renter-protections-destroyed-39m-affordable-housing-investment-dem-cities-follow-suit": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/931/523/Seattle-1.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-913438": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/704154",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://www.jpost.com/business-and-innovation/article-913440": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/536525",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://nypost.com/2026/11/01/us-news/wyoming-mom-kandice-gunter-vanishes-after-failing-to-pick-up-kids-from-youth-club/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147177914.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T09:28:45.878277+00:00"
-},
-"https://justthenews.com/nation/states/center-square/prediction-markets-missed-brazil-us-midterms-are-big-test": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913448": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743936",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://justthenews.com/index%2ephp/government/courts-law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c8qln1539y37o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://freebeacon.com/culture/can-nice-guys-win/": {
-"v": 2,
-"photo": {
-"img": "https://freebeacon.com/wp-content/uploads/2026/10/maryland-gov-moore-and-utah-gov-cox-speak-at-national-press-club-on-bi-4-scaled-e1793023890682.jpg",
-"w": 736,
-"h": 495,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bc83/live/ab6f0590-d5db-11f1-a25d-8f13519027da.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://freebeacon.com/culture/a-not-so-alien-idea/": {
-"v": 2,
-"photo": {
-"img": "https://freebeacon.com/wp-content/uploads/2026/10/MixCollage-26-Oct-2026-10-30-AM-788.jpg",
-"w": 736,
-"h": 514,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://freebeacon.com/culture/raised-to-be-resilient/": {
-"v": 2,
-"photo": {
-"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-26-Oct-2026-10-48-AM-4541-scaled.jpg",
-"w": 2560,
-"h": 1810,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T10:09:56.679604+00:00"
-},
-"https://www.foxnews.com/us/shooting-after-magic-city-classic-alabama-leaves-1-dead-8-injured": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/birmingham-legion-field-fatal-shooting.jpg?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-01/serbia-s-banks-urged-to-scrutinize-money-flows-amid-power-shift": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://www.washingtonexaminer.com/policy/finance-and-economy/4759014/first-round-november-social-security-payments-goes-out-9-days/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/03/SSI-money-1-3-e1774365174354.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://www.washingtonexaminer.com/in_focus/4786725/affordable-care-act-made-healthcare-unaffordable/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/iStock-2197444848-e1793455766250.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T11:01:23.773690+00:00"
-},
-"https://nypost.com/2026/11/01/betting/nfl-week-8-predictions-best-bets-picks-against-the-spread-for-every-game-2/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-xrghu62pb-1793473280983.jpg?quality%3D90%26strip%3Dall%261793459292",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T11:01:23.773690+00:00"
 },
 "https://justthenews.com/index%2ephp/nation/states/center-square/iowa-ag-asks-epa-if-taxpayer-funds-supported-environmental-groups-work": {
 "v": 2,
@@ -9407,5 +9192,102 @@
 "via": "feed"
 },
 "checked": "2026-11-04T09:20:24.455799+00:00"
+},
+"https://justthenews.com/government/state-houses/democrat-unseats-republican-incumbent-pennsylvanias-7th-district": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.axios.com/2026/11/04/hakeem-jeffries-democrats-left-majority-win": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/Q4C7SRGcsPJNRQhprk2VVDKOxYI=/0x350:3600x2375/1366x768/2026/11/04/1793780641010.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.jpost.com/history/article-913788": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688321",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-04/stock-bulls-are-glad-this-election-is-finally-over": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/03/abdul-el-sayed-projected-to-win-michigan-race-will-become-first-muslim-elected-to-u-s-senate/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913793": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740824",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/UyHFJpp3BWEoFpwKbQ5uzQ-2121-80.jpg",
+"w": 2121,
+"h": 1193,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c893z55pxrewo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/faef/live/63616d10-d83d-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://nypost.com/2026/11/04/us-news/washington-dad-who-exploded-after-finding-christian-pamphlets-in-sons-trick-or-treat-bag-now-accuses-neighbors-of-grooming/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fseattle-dad-goes-ballistic-son-147509693.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
+},
+"https://nypost.com/2026/11/04/sports/the-giants-2026-roster-resource-that-has-propelled-surge/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ww168ie81-1793760452176.jpg?quality%3D90%26strip%3Dall%261793742568",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T11:30:30.237641+00:00"
 }
 }

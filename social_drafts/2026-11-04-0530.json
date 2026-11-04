@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-0530.json",
+  "created": "2026-11-04T11:30:30.237641+00:00",
+  "created_ct": "Wed Nov 4, 2026 5:30 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race",
+    "original_headline": "Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race",
+    "url": "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
+    "source": "Breitbart",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race. (Breitbart) https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 148,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Democrat Amy Acton Defeats Vivek Ramaswamy in Ohio Governor’s Race. Story via Breitbart. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

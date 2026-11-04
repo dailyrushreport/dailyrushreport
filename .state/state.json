@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
-  "https://www.breitbart.com/politics/2026/11/03/iasen/"
+  "https://www.breitbart.com/politics/2026/11/03/iasen/",
+  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/03/iasen/",
-  "since": "2026-11-04T08:05:41.444600+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
+  "since": "2026-11-04T11:30:30.237641+00:00"
  },
- "last_build": "2026-11-04T09:20:24.455799+00:00",
+ "last_build": "2026-11-04T11:30:30.237641+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -36,7 +36,7 @@
   "Daily Caller": "ok",
   "Daily Wire": "ok",
   "Free Beacon": "ok",
-  "Breitbart": "ok",
+  "Breitbart": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-04T09:20Z",
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
@@ -64,11 +64,11 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "ok",
+  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-04T09:20Z",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
-  "Religious Liberty": "ok"
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-04T09:20Z",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-04T09:20Z",
+  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-04T09:20Z"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
@@ -191,6 +191,7 @@
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
-  "https://www.breitbart.com/politics/2026/11/03/iasen/"
+  "https://www.breitbart.com/politics/2026/11/03/iasen/",
+  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/"
  ]
 }
