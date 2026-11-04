@@ -39,61 +39,6 @@
 "photo": null,
 "checked": "2026-11-01T11:01:23.773690+00:00"
 },
-"https://www.jpost.com/archaeology/article-913213": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744148",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T06:32:32.616823+00:00"
-},
-"https://www.jpost.com/international/article-913429": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744392",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T06:32:32.616823+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c617kvqjd81jo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/be44/live/3aea5d10-d2d9-11f1-b677-b762d2f83f6e.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T06:32:32.616823+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T06:32:32.616823+00:00"
-},
-"https://nypost.com/2026/11/01/sports/uscs-lincoln-riley-cant-handle-winning-right-after-epic-upset/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-yr37th0vi-1793512660875.jpg?quality%3D90%26strip%3Dall%261793498297",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T06:32:32.616823+00:00"
-},
 "https://www.jpost.com/israel-election-2026/article-913432": {
 "v": 2,
 "photo": {
@@ -9238,5 +9183,147 @@
 "via": "feed"
 },
 "checked": "2026-11-04T05:43:33.535395+00:00"
+},
+"https://justthenews.com/politics-policy/all-things-trump/trump-concedes-iran-war-gas-prices-played-role-election-rout-vows": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://justthenews.com/nation/states/center-square/blackburn-wins-tennessee-governors-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-913780": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743769",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4784797/control-of-congress-house-majority-2026-elections/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/Sad-Johnson-Happy-Jeffries.png?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.jpost.com/american-politics/article-913770": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744809",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!sHqA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa582b316-5bc0-4596-bd45-85145e7249f5_1024x689.jpeg",
+"w": 1024,
+"h": 689,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/03/iasen/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/AP26308209183580-crop-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/bc1d16b6af52207f57dcde8388b8470ecc0bb132/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=f67307b307ea66700592c0a9ba9f134d",
+"w": 700,
+"h": 560,
+"credit": "Illustration: Guardian Design / Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/ohio-governor-amy-acton-vivek-ramaswamy": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/9a8d502cc0112cf3cd26294d0656c2db7b009637/1144_0_2856_2284/master/2856.jpg?width=700&quality=85&auto=format&fit=max&s=0d6df699f43aea864a52e4426c1d54db",
+"w": 700,
+"h": 560,
+"credit": "Dustin Franz/Bloomberg via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmr4y92rgd9po": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/878f/live/f3346690-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6y93pgydvzdo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/31e0/live/7b5d81c0-ce05-11f1-bc2e-018d645d8d21.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c69qz9jzq4jro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/799a/live/4864f4f0-d6d5-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
+},
+"https://nypost.com/2026/11/04/us-news/ilhan-omar-cruises-back-to-congress-despite-trump-feds-threatening-to-deport-her/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146865264.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T06:49:15.559329+00:00"
 }
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-0049.json",
+  "created": "2026-11-04T06:49:15.559329+00:00",
+  "created_ct": "Wed Nov 4, 2026 12:49 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "It’s Talarico Time in Texas",
+    "original_headline": "It’s Talarico Time in Texas",
+    "url": "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
+    "source": "The Free Press",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "It’s Talarico Time in Texas. (The Free Press) https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 114,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "It’s Talarico Time in Texas. Story via The Free Press. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
   "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
   "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
-  "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/"
+  "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
+  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
-  "since": "2026-11-04T05:43:33.535395+00:00"
+  "url": "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
+  "since": "2026-11-04T06:49:15.559329+00:00"
  },
- "last_build": "2026-11-04T05:43:33.535395+00:00",
+ "last_build": "2026-11-04T06:49:15.559329+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -189,6 +189,7 @@
   "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
-  "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/"
+  "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
+  "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026"
  ]
 }

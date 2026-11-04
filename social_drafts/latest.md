@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 3, 2026 11:43 PM CT
+# Social drafts — Wed Nov 4, 2026 12:49 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-03-2343.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-04-0049.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/  
-Pinned by editor: no · BREAKING: yes
+Lead: It’s Talarico Time in Texas  
+Outlet: The Free Press  
+Link: https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 175/280 chars (X counting)
+## X — status: pending_approval · 114/280 chars (X counting)
 
 ```
-Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas. (NY Post) https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/
+It’s Talarico Time in Texas. (The Free Press) https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas. Story via NY Post. Link in bio.
+It’s Talarico Time in Texas. Story via The Free Press. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
