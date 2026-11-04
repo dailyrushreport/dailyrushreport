@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 4, 2026 8:47 AM CT
+# Social drafts — Wed Nov 4, 2026 9:41 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-04-0847.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-04-0941.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nevada enshrines abortion rights in state constitution in final statewide vote  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/  
-Pinned by editor: no · BREAKING: no
+Lead: Midterm elections 2026 live updates: House Speaker Mike Johnson says he won't run for minority leader after Democrats flip Congress  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 170/280 chars (X counting)
+## X — status: pending_approval · 222/280 chars (X counting)
 
 ```
-Nevada enshrines abortion rights in state constitution in final statewide vote. (Washington Examiner) https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/
+Midterm elections 2026 live updates: House Speaker Mike Johnson says he won't run for minority leader after Democrats flip Congress. (CNBC) https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Nevada enshrines abortion rights in state constitution in final statewide vote. Story via Washington Examiner. Link in bio.
+Midterm elections 2026 live updates: House Speaker Mike Johnson says he won't run for minority leader after Democrats flip Congress. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

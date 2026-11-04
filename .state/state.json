@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
   "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
@@ -19,13 +18,14 @@
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
   "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
-  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/"
+  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
+  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
-  "since": "2026-11-04T14:47:22.052457+00:00"
+  "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+  "since": "2026-11-04T15:41:47.003627+00:00"
  },
- "last_build": "2026-11-04T14:47:22.052457+00:00",
+ "last_build": "2026-11-04T15:41:47.003627+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -193,6 +193,7 @@
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
   "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
-  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/"
+  "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
+  "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
  ]
 }
