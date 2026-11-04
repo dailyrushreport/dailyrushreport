@@ -14,66 +14,6 @@
 "photo": null,
 "checked": "2026-11-01T18:24:41.029676+00:00"
 },
-"https://www.bbc.co.uk/news/articles/cmqln14rrzxvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/local/least-seven-injured-shooting-near-indiana-university-during-homecoming-weekend": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913495": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744387",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
-"https://www.jpost.com/business-and-innovation/article-913497": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744485",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
-"https://www.foxbusiness.com/media/trump-media-debuts-first-national-television-ad-during-college-basketball-game-rome": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/x-social-media-app-iphone-screen.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
-"https://nypost.com/2026/11/01/sports/jets-david-bailey-breece-hall-inactive-for-game-vs-raiders/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjets-inactives-raiders.jpg?quality%3D90%26strip%3Dall%261793534051",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T17:00:58.025114+00:00"
-},
 "https://justthenews.com/politics-policy/elections/democrat-haley-stevens-appears-republican-mike-rogers-amid-michigan": {
 "v": 2,
 "photo": null,
@@ -9150,5 +9090,151 @@
 "via": "page"
 },
 "checked": "2026-11-04T16:41:16.319057+00:00"
+},
+"https://justthenews.com/politics-policy/trump-jr-backs-vance-vp-calls-pivot-wake-midterm-rebuke": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://justthenews.com/politics-policy/health/cvs-splitting-two-companies-bucking-trend-toward-mergers-healthcare-industry": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.jpost.com/us-elections/article-913853": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744906",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.jpost.com/israel-news/article-913852": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737933",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/69lvWNS5bfrepZXwlh4qTrtqSZI=/0x0:1920x1080/1366x768/2026/05/08/1778256748115.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/economy/stocks-tick-higher-following-midterms-weight-uncertainty-lifts-investors": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108249978-1767887539173-gettyimages-2255246069-kd1_7832_9ex7rskv.jpeg?v=1767887586&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/04/deer-pool-livonia-michigan/3761793811639/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/04/pasadena-humane-glendale-park-trash-python/1001793810636/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/jCTxGyAkTNHDNQViyQuhVj-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "NASA/Michael DeMocker",
+"via": "feed"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.cnbc.com/2026/11/04/global-payments-buyout-cdr-gtcr.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108174175-1752872221762-gettyimages-2198692690-TFSPI_12022025-4503.jpeg?v=1773770960&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4792442/chuck-schumer-social-media-grilling-republicans-midterm-elections/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/Dem-Gov-Gain-Graphic.png?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c51kdx83y11lo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed99/live/16936510-34ec-11f0-8947-7d6241f9fce9.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://nypost.com/2026/11/04/sports/jack-campbell-reveals-encouraging-update-in-first-words-since-injury/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjack-campbell.jpg?quality%3D90%26strip%3Dall%261793796172",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
+},
+"https://nypost.com/2026/11/04/lifestyle/keeping-quiet-about-your-finances-can-put-your-dating-life-in-danger-new-survey-suggests/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41672784.jpg?quality%3D90%26strip%3Dall",
+"w": 6720,
+"h": 4478,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T17:47:37.971823+00:00"
 }
 }
