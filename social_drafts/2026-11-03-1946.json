@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-03-1946.json",
+  "created": "2026-11-04T01:46:41.419315+00:00",
+  "created_ct": "Tue Nov 3, 2026 7:46 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Live updates: Cooper flips North Carolina Senate seat blue",
+    "original_headline": "Live updates: Cooper flips North Carolina Senate seat blue",
+    "url": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Live updates: Cooper flips North Carolina Senate seat blue. (The Hill) https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 139,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Live updates: Cooper flips North Carolina Senate seat blue. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

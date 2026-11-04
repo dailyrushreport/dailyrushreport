@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/world/evacuees-russian-occupied-ukrainian-city-reach-ukraine-territory": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
 "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/": {
 "v": 2,
 "photo": null,
@@ -28,88 +23,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-01T19:11:45.234824+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c893z699q401o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913424": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744387",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/cje36e0gze4ko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce06/live/9f389c10-d585-11f1-a701-fddedf244c16.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://nypost.com/2026/10/31/us-news/woman-who-claimed-boyfriend-set-her-on-fire-in-pine-barrens-fabricated-story-prosecutors/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146762192.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://nypost.com/2026/10/31/sports/the-draft-quirk-that-became-a-relic-of-the-first-years-of-mlbs-free-agency/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-vgoexg16t-1793494929450.jpg?quality%3D90%26strip%3Dall%261793480572",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
-},
-"https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146895229.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-01T01:36:50.894563+00:00"
 },
 "https://www.washingtonexaminer.com/news/white-house/4787198/trump-grant-visa-mother-teen-bronx-shooting-mamdani/": {
 "v": 2,
@@ -9032,5 +8945,180 @@
 "via": "feed"
 },
 "checked": "2026-11-04T00:41:26.786598+00:00"
+},
+"https://justthenews.com/government/state-houses/democrat-incumbent-florida-holds-after-republican-redistricting": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=41351ccf79fcec997861f582e2f74b1d",
+"w": 700,
+"h": 560,
+"credit": "Illustration: Guardian Design",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/ebcadb1f5fa44acb2d793c8523d7a859472caa55/127_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=0441668c05c5a7551678fffe8e97bbc4",
+"w": 700,
+"h": 560,
+"credit": "Al Drago/Bloomberg via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/7041c3748784bc7c306e4c2cc584762b51c6afb9/458_0_4568_3655/master/4568.jpg?width=700&quality=85&auto=format&fit=max&s=8dad5ca4e71d971c2576e3bc3321ec89",
+"w": 700,
+"h": 560,
+"credit": "Kylie Cooper/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-913766": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744623",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4782143/florida-14th-kathy-castor-mike-beltran-tampa-election/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image-collage-ido3nruhk-1793145136996-e1793145391900.jpg?1793372961&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2025/08/AP24366741026051-e1756482709184.jpg?w=900",
+"w": 900,
+"h": 599,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4770171/ashley-moody-angie-nixon-florida-2026-senate-race/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image-collage-2272u7ild-1792351074148-e1792351184215.jpg?1793209571&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.bbc.co.uk/weather/articles/cqr7yk19l41no": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e0eb/live/d96c4fe0-d791-11f1-801d-cf196dc7232c.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+"w": 1199,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-913765": {
+"v": 2,
+"photo": {
+"img": "https://www.jpost.com/httphandlers/showimage.ashx?id=390823",
+"w": 898,
+"h": 628,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
+},
+"https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-04T01:46:41.419315+00:00"
 }
 }

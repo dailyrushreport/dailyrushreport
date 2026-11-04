@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
   "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/"
+  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
+  "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
-  "since": "2026-11-03T22:13:42.785428+00:00"
+  "url": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+  "since": "2026-11-04T01:46:41.419315+00:00"
  },
- "last_build": "2026-11-04T00:41:26.786598+00:00",
+ "last_build": "2026-11-04T01:46:41.419315+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -185,6 +185,7 @@
   "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
   "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/"
+  "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
+  "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/"
  ]
 }
