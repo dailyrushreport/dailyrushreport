@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-2244.json",
+  "created": "2026-11-05T04:44:30.423206+00:00",
+  "created_ct": "Wed Nov 4, 2026 10:44 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    "original_headline": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    "url": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "LIV Golf faces liquidation after BC Partners scraps rescue plan. (CNBC) https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 140,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "LIV Golf faces liquidation after BC Partners scraps rescue plan. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

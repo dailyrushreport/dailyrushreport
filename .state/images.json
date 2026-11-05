@@ -9192,5 +9192,102 @@
 "via": "feed"
 },
 "checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://justthenews.com/nation/states/center-square/lombardo-concedes-ford-nevada-gubernatorial-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://justthenews.com/nation/states/center-square/billionaire-tax-fails-bond-measures-pass-california": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-05/china-bank-funding-costs-hit-record-low-on-pboc-rate-shift": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4793571/ted-cruz-cost-of-living-blue-wave-midterms/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26253809514467.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.jpost.com/middle-east/article-913883": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742056",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.jpost.com/american-politics/article-913882": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744943",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://justthenews.com/nation/states/center-square/los-angeles-mayoral-race-still-undecided": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107148343-1667945833040-gettyimages-1244618007-22madisonwigeneralvoting11-8-22jimvondruska.jpeg?v=1668025814&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://nypost.com/2026/11/04/us-news/longtime-abc7-news-anchor-harold-greene-dies-at-82/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147592477.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://nypost.com/2026/11/04/sports/ucla-womens-basketball-wants-to-see-you-in-leather/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-916xxvp8y-1793851175848.jpg?quality%3D90%26strip%3Dall%261793833422",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T04:44:30.423206+00:00"
 }
 }
