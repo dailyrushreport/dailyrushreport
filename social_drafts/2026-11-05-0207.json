@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-0207.json",
+  "created": "2026-11-05T08:07:23.370702+00:00",
+  "created_ct": "Thu Nov 5, 2026 2:07 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+    "original_headline": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+    "url": "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison. (NY Post) https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 161,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

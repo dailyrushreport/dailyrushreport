@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 4, 2026 10:44 PM CT
+# Social drafts — Thu Nov 5, 2026 2:07 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-04-2244.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-0207.json x` or `... instagram` (prints the final text to copy).
 
-Lead: LIV Golf faces liquidation after BC Partners scraps rescue plan  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html  
-Pinned by editor: no · BREAKING: no
+Lead: Hong Kong activist Joshua Wong sentenced to 10 more years in prison  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 140/280 chars (X counting)
+## X — status: pending_approval · 161/280 chars (X counting)
 
 ```
-LIV Golf faces liquidation after BC Partners scraps rescue plan. (CNBC) https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html
+Hong Kong activist Joshua Wong sentenced to 10 more years in prison. (NY Post) https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-LIV Golf faces liquidation after BC Partners scraps rescue plan. Story via CNBC. Link in bio.
+Hong Kong activist Joshua Wong sentenced to 10 more years in prison. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
