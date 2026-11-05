@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-1341.json",
+  "created": "2026-11-05T19:41:37.871510+00:00",
+  "created_ct": "Thu Nov 5, 2026 1:41 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
+    "original_headline": "Hoax bomb threats target European airlines and airports for second time in a week",
+    "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hoax bomb threats target European airlines and airports for second time in a week. (BBC) https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 157,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hoax bomb threats target European airlines and airports for second time in a week. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

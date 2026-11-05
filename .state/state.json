@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.breitbart.com/politics/2026/11/03/iasen/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
   "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
   "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down"
+  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+  "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
  ],
  "current_lead": {
-  "url": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
-  "since": "2026-11-05T18:36:47.825743+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
+  "since": "2026-11-05T19:41:37.871510+00:00"
  },
- "last_build": "2026-11-05T18:36:47.825743+00:00",
+ "last_build": "2026-11-05T19:41:37.871510+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -206,6 +206,7 @@
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
   "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
   "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down"
+  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+  "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
  ]
 }

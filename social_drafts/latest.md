@@ -1,25 +1,25 @@
-# Social drafts — Thu Nov 5, 2026 12:36 PM CT
+# Social drafts — Thu Nov 5, 2026 1:41 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-1236.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-1341.json x` or `... instagram` (prints the final text to copy).
 
-Lead: DOJ's Harmeet Dhillon resigns  
-Outlet: Axios  
-Link: https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down  
-Pinned by editor: no · BREAKING: yes
+Lead: Hoax bomb threats target European airlines and airports for second time in a week  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 121/280 chars (X counting)
+## X — status: pending_approval · 157/280 chars (X counting)
 
 ```
-DOJ's Harmeet Dhillon resigns. (Axios) https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down
+Hoax bomb threats target European airlines and airports for second time in a week. (BBC) https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-DOJ's Harmeet Dhillon resigns. Story via Axios. Link in bio.
+Hoax bomb threats target European airlines and airports for second time in a week. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
