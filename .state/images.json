@@ -1,119 +1,4 @@
 {
-"https://www.jpost.com/middle-east/iran-news/article-913522": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735054",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://www.jpost.com/international/article-913524": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731699",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108500793-1793588022824-gettyimages-2281428105-TSCHNEIDER_67778_Fairfax_Financial_P8630152.jpeg?v=1793588035&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4787536/late-deciders-favor-republicans-despite-democratic-lead/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26167741226593.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://thehill.com/homenews/6187789-debbie-dingell-says-stevens-defending-rogers-endorsement-on-cnn-painful-interview/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-16.png?w=900",
-"w": 898,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://nypost.com/2026/11/01/us-news/james-carville-slammed-for-vulgar-used-condom-remarks-on-rep-haley-stevens-endorsing-gop-candidate-over-dem-abdul-el-sayed/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FJames-Carville-comp-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://nypost.com/2026/11/01/us-news/outgoing-republican-rep-don-bacon-suggests-trump-should-not-be-leader-of-gop-if-he-loses-big-in-midterms/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcomp-outgoing-republican-rep-suggests-147221293.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c3j47gjx29vro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb59/live/6d764030-d650-11f1-ada6-c195ef2b6417.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://nypost.com/2026/11/01/sports/gotham-fc-far-from-satisfied-after-claiming-first-nwsl-shield/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41627243.jpg?quality%3D90%26strip%3Dall",
-"w": 4053,
-"h": 2701,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
-"https://nypost.com/2026/11/01/sports/garrett-wilsons-reintroduction-to-jets-offense-didnt-end-as-anyone-hoped/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41626798.jpg?quality%3D90%26strip%3Dall",
-"w": 4567,
-"h": 3043,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T04:45:02.309575+00:00"
-},
 "https://justthenews.com/politics-policy/elections/race-house-democrats-and-republicans-face-high-stakes-fight-control": {
 "v": 2,
 "photo": null,
@@ -9289,5 +9174,75 @@
 "via": "feed"
 },
 "checked": "2026-11-05T04:44:30.423206+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-05/wheat-climbs-as-weak-russian-export-outlook-fans-supply-concerns": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108309757-1779284560057-gettyimages-2276638145-RUS_Russian_President_Putin_Visits_China.jpeg?v=1779284591&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/04/muslim-brotherhood-official-hails-el-sayed-senate-win-model/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/Abdul-El-Sayed-November4-2026-Detroit-Michigan-getty-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/powerball-847-million-jackpot-winning-ticket-sold-in-new-jersey-results-numbers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-0uc8y6ahc-1793245021305.jpg?quality%3D90%26strip%3Dall%261793230627",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://nypost.com/2026/11/05/sports/tyler-kolek-gets-backup-point-guard-nod-in-knicks-dominant-win/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-e0gsglmsi-1793853771966.jpg?quality%3D90%26strip%3Dall%261793835782",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T05:46:00.463126+00:00"
+},
+"https://nypost.com/2026/11/05/sports/charles-barkley-wasnt-impressed-with-heated-76ers-pistons-scuffle/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-gp46eo46q-1793854768219.jpg?quality%3D90%26strip%3Dall%261793836829",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T05:46:00.463126+00:00"
 }
 }
