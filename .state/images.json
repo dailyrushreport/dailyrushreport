@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/government/courts-law/judge-dismisses-complaint-against-ex-fbi-officials-over-hunter-biden": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
 "https://justthenews.com/politics-policy/van-jones-says-stevens-flushed-herself-down-toilet-rogers-endorsement": {
 "v": 2,
 "photo": null,
@@ -18,115 +13,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://justthenews.com/nation/states/family-members-id-victims-florida-plane-crash": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4788730/trump-not-hurried-end-iran-war-oil-prices-midterms-when-president-indicates-peace-talks-may-end/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26306154593328.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.breitbart.com/health/2026/11/02/video-co-pilot-in-deadly-florida-crash-was-young-woman-who-earned-flying-license-at-17-living-her-dream/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/AP26305832255814-640x335.png",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.jpost.com/middle-east/article-913631": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744625",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913632": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734266",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108505413-1793645268295-gettyimages-2277851569-240808_JFEA_PHT7092.jpeg?v=1793645304&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://nypost.com/2026/11/02/sports/nba-missed-out-on-natalie-nakase-who-just-made-wnba-history-with-valkyries/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1obrjwsop-1793659177937.jpg?quality%3D90%26strip%3Dall%261793641200",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cjg47dq6q775o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4228/live/040f9890-d6bd-11f1-aacc-5b5f23abff4b.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T23:02:19.264860+00:00"
 },
 "https://justthenews.com/index%2ephp/government/courts-law/judge-dismisses-complaint-against-ex-fbi-officials-over-hunter-biden": {
 "v": 2,
@@ -9367,5 +9253,163 @@
 "via": "feed"
 },
 "checked": "2026-11-05T22:34:33.096094+00:00"
+},
+"https://justthenews.com/index%2ephp/government/courts-law/justice-department-pursuing-investigation-2022-supreme-court-abortion-ruling": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/BV7Jka20NtPBBYroDuBQNQ7RE_s=/0x0:8452x4754/1366x768/2026/11/05/1793920302034.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://justthenews.com/index%2ephp/nation/culture/liv-golf-announces-it-will-shutter-league-after-failing-secure-enough-backing": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.thefp.com/p/so-americans-hate-data-centers-tech-business": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!YuE-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52a95ad-bf38-4937-8e2f-33d202806fee_1957x1305.jpeg",
+"w": 1957,
+"h": 1305,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.jpost.com/us-elections/article-914026": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741297",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/progressive-nithya-raman-unseats-karen-bass-la-mayors-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108304012-1778187024448-gettyimages-2218742796-TFSPI_08062025-8041.jpeg?v=1778187094&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/mexican-judge-arrested-in-2m-ryan-wedding-drug-cartel-case/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147688459.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108528042-1793920438163-108528042-17939129802026-11-05t204858z_1374152639_rc2vhoaebaza_rtrmadp_0_usa-stocks.jpeg?v=1793920470&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm78p0n09q3xo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://nypost.com/2026/11/05/sports/retired-umpires-including-joe-west-sue-mlb-for-2-million/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1x77pkcbo-1793920268366.jpg?quality%3D90%26strip%3Dall%261793902292",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/girl-2-who-tumbled-to-death-from-fifth-floor-nyc-apartment-window-was-super-energetic-kid-who-loved-to-climb-dad/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147695906.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://nypost.com/2026/11/05/sports/lebron-james-luka-doncic-send-cease-desist-letter-to-bron-ai/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-9dzoloyx4-1793920339232.jpg?quality%3D90%26strip%3Dall%261793902453",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
+},
+"https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&strip=all&crop=0%2C8.4168746032444%2C100%2C83.166250793511&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T23:30:48.729818+00:00"
 }
 }

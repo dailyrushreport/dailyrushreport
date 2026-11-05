@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-1730.json",
+  "created": "2026-11-05T23:30:48.729818+00:00",
+  "created_ct": "Thu Nov 5, 2026 5:30 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "California governor commutes sentences for state's 548 death row inmates",
+    "original_headline": "California governor commutes sentences for state's 548 death row inmates",
+    "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "California governor commutes sentences for state's 548 death row inmates. (BBC) https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "California governor commutes sentences for state's 548 death row inmates. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
