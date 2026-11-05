@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-1236.json",
+  "created": "2026-11-05T18:36:47.825743+00:00",
+  "created_ct": "Thu Nov 5, 2026 12:36 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "DOJ's Harmeet Dhillon resigns",
+    "original_headline": "DOJ's Harmeet Dhillon resigns",
+    "url": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "DOJ's Harmeet Dhillon resigns. (Axios) https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 121,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "DOJ's Harmeet Dhillon resigns. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

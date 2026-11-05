@@ -1,25 +1,25 @@
-# Social drafts — Thu Nov 5, 2026 11:45 AM CT
+# Social drafts — Thu Nov 5, 2026 12:36 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-1145.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-1236.json x` or `... instagram` (prints the final text to copy).
 
-Lead: California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html  
-Pinned by editor: no · BREAKING: no
+Lead: DOJ's Harmeet Dhillon resigns  
+Outlet: Axios  
+Link: https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 166/280 chars (X counting)
+## X — status: pending_approval · 121/280 chars (X counting)
 
 ```
-California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy. (CNBC) https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html
+DOJ's Harmeet Dhillon resigns. (Axios) https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy. Story via CNBC. Link in bio.
+DOJ's Harmeet Dhillon resigns. Story via Axios. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

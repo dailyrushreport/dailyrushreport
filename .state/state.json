@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4777909/darline-graham-south-carolina-senate-race-annie-andrews/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4755771/greg-abbott-texas-gubernatorial-race-results/",
   "https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
   "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-  "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html"
+  "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
+  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-  "since": "2026-11-05T17:45:40.994014+00:00"
+  "url": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+  "since": "2026-11-05T18:36:47.825743+00:00"
  },
- "last_build": "2026-11-05T17:45:40.994014+00:00",
+ "last_build": "2026-11-05T18:36:47.825743+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-05T16:52Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -205,6 +205,7 @@
   "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
   "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-  "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html"
+  "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
+  "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down"
  ]
 }
