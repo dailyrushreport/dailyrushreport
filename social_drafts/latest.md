@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 5, 2026 10:52 AM CT
+# Social drafts — Thu Nov 5, 2026 11:45 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-1052.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-1145.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Bomb threats disrupt flights across Europe for the second time. Here’s what we know  
+Lead: California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy  
 Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html  
+Link: https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 160/280 chars (X counting)
+## X — status: pending_approval · 166/280 chars (X counting)
 
 ```
-Bomb threats disrupt flights across Europe for the second time. Here’s what we know. (CNBC) https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html
+California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy. (CNBC) https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Bomb threats disrupt flights across Europe for the second time. Here’s what we know. Story via CNBC. Link in bio.
+California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
