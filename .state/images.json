@@ -1,64 +1,4 @@
 {
-"https://www.bloomberg.com/news/articles/2026-11-02/millennium-s-raiskin-says-asia-markets-enjoying-regulatory-aid": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
-"https://www.thefp.com/p/haley-stevens-abdul-el-sayed-michigan": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!bQWH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f66acc1-75c9-45f3-b91b-9a72c1e5160b_1024x682.jpeg",
-"w": 1024,
-"h": 682,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
-"https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108369615-1790702844864-Sam2.jpg?v=1790702914&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
-"https://thehill.com/homenews/6187749-democrats-edge-out-gop-senate-poll/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-14.png?w=900",
-"w": 898,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
-"https://nypost.com/2026/11/01/sports/mike-mcdaniels-surprising-role-after-rams-debacle-unveiled/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-rwf33n68l-1793587484229.jpg?quality%3D90%26strip%3Dall%261793569509",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
-"https://nypost.com/2026/11/01/us-news/dad-whose-13-month-old-daughter-died-in-freezing-room-charged-with-manslaughter/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-eq8qh8288-1793590259076.jpg?quality%3D90%26strip%3Dall%261793572330",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-02T03:39:44.322767+00:00"
-},
 "https://www.jpost.com/middle-east/iran-news/article-913522": {
 "v": 2,
 "photo": {
@@ -9182,5 +9122,75 @@
 "via": "feed"
 },
 "checked": "2026-11-05T02:43:18.753109+00:00"
+},
+"https://reason.com/volokh/2026/11/04/the-time-the-opportunity-and-the-need-to-reclaim-the-republican-party-from-trump-and-trumpism/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://justthenews.com/government/federal-agencies/justice-department-declines-give-update-alaska-probes-senate-race-too": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108360037-1788900131079-gettyimages-2291856689-livmsm08232026_1013.jpeg?v=1788900333&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e011/live/65561fb0-d812-11f1-bc0e-b5a9e0785e4b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://nypost.com/2026/11/04/sports/reporter-asks-commanders-coach-how-hell-stop-injured-davante-adams/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-fod0v2s62-1793849176681.jpg?quality%3D90%26strip%3Dall%261793831214",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://nypost.com/2026/11/04/sports/knicks-explode-in-beatdown-of-bulls-to-reach-500-mark/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-krlw8jqov-1793848931014.jpg?quality%3D90%26strip%3Dall%261793830969",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T03:40:29.049030+00:00"
+},
+"https://nypost.com/2026/11/04/us-news/doctor-who-botched-christa-pikes-execution-had-not-placed-iv-line-since-2013-report/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fchrista-pike-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-05T03:40:29.049030+00:00"
 }
 }

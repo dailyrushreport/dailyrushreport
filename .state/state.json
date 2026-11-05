@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "since": "2026-11-05T01:37:09.476171+00:00"
  },
- "last_build": "2026-11-05T02:43:18.753109+00:00",
+ "last_build": "2026-11-05T03:40:29.049030+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -64,11 +64,11 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-04T22:34Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "ok",
+  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-05T02:43Z",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
-  "Religious Liberty": "ok"
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-05T02:43Z",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-05T02:43Z",
+  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-05T02:43Z"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
