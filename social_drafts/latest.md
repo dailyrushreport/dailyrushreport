@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 5, 2026 7:40 AM CT
+# Social drafts — Thu Nov 5, 2026 9:44 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-0740.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-0944.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Flights diverted in Europe after multiple bomb threats  
+Lead: Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan  
 Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/  
+Link: https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 160/280 chars (X counting)
+## X — status: pending_approval · 196/280 chars (X counting)
 
 ```
-Flights diverted in Europe after multiple bomb threats. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/
+Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Flights diverted in Europe after multiple bomb threats. Story via Washington Examiner. Link in bio.
+Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

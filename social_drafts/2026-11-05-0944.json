@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-0944.json",
+  "created": "2026-11-05T15:44:18.124623+00:00",
+  "created_ct": "Thu Nov 5, 2026 9:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan",
+    "original_headline": "Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 196,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump says votes for ‘Fake Dan Sullivan’ and other ‘slug’ should be given to Sen. Sullivan. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
