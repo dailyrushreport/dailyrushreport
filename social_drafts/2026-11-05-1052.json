@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-1052.json",
+  "created": "2026-11-05T16:52:37.732760+00:00",
+  "created_ct": "Thu Nov 5, 2026 10:52 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+    "original_headline": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+    "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know. (CNBC) https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 160,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
