@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-04-1937.json",
+  "created": "2026-11-05T01:37:09.476171+00:00",
+  "created_ct": "Wed Nov 4, 2026 7:37 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+    "original_headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+    "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "What Wall Street billionaires are saying about Democrats' midterm sweep. (CNBC) https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 148,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "What Wall Street billionaires are saying about Democrats' midterm sweep. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
