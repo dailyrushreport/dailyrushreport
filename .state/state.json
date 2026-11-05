@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
   "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
   "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
   "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
-  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+  "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-  "since": "2026-11-05T09:25:04.800573+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
+  "since": "2026-11-05T13:40:42.618773+00:00"
  },
- "last_build": "2026-11-05T12:17:17.495453+00:00",
+ "last_build": "2026-11-05T13:40:42.618773+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -201,6 +201,7 @@
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
-  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+  "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/"
  ]
 }
