@@ -25,11 +25,11 @@
   "url": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "since": "2026-11-05T04:44:30.423206+00:00"
  },
- "last_build": "2026-11-05T05:46:00.463126+00:00",
+ "last_build": "2026-11-05T06:51:20.719330+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
-  "Washington Examiner": "ok",
+  "Washington Examiner": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-05T05:46Z",
   "Axios": "ok",
   "The Hill": "ok",
   "Politico": "ok",
@@ -65,7 +65,7 @@
   "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-04T22:34Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
-  "Religion News Service": "ok",
+  "Religion News Service": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-05T05:46Z",
   "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
   "Religious Liberty": "ok"
