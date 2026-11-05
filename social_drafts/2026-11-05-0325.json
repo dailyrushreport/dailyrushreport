@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-0325.json",
+  "created": "2026-11-05T09:25:04.800573+00:00",
+  "created_ct": "Thu Nov 5, 2026 3:25 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "original_headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years. (BBC) https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 166,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

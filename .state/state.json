@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
   "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
   "https://www.washingtonexaminer.com/news/justice/4789916/doj-sends-target-letters-to-marc-elias-and-more-democrats-over-second-dan-sullivan-candidacy/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
-  "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/"
+  "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
+  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
-  "since": "2026-11-05T08:07:23.370702+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+  "since": "2026-11-05T09:25:04.800573+00:00"
  },
- "last_build": "2026-11-05T08:07:23.370702+00:00",
+ "last_build": "2026-11-05T09:25:04.800573+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -200,6 +200,7 @@
   "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
-  "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/"
+  "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
+  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
  ]
 }
