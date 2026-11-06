@@ -1,112 +1,4 @@
 {
-"https://justthenews.com/politics-policy/van-jones-says-stevens-flushed-herself-down-toilet-rogers-endorsement": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/02/red-shouldered-hawk-too-fat-to-fly/8221793653698/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.breitbart.com/local/2026/11/02/victims-fatal-palm-beach-plane-crash-identified/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Florida-plane-crash-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://justthenews.com/government/congress/lawler-says-fbi-and-doj-are-investigating-group-he-claims-violating-election": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.washingtonexaminer.com/policy/healthcare/4788960/new-york-first-measles-death-child-hochul/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP25163567146030-e1791484103409.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108369166-1790657472823-gettyimages-2274092462-AUSTRALIA_RBA_BULLOCK.jpeg?v=1793661981&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/106499002-15874838120502019-03-02t052208z_863148038_rc137238e550_rtrmadp_3_vietnam-northkorea.jpg?v=1587483883&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108504881-1793637178383-Traders-Photo-20261102-KK-PRESS-016.jpg?v=1793637286&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwly3jd27m9xo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.thefp.com/p/ice-is-set-to-deport-dozens-of-afghans": {
-"v": 2,
-"photo": {
-"img": "https://substack-post-media.s3.amazonaws.com/public/images/5daff2a9-1cd7-4254-8dbc-8e40f801e9f2_1900x1069.jpeg",
-"w": 1900,
-"h": 1069,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
-"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/a507f65a0fdc95194e0fcde19ff9269175f70390/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1adf312aefb9ea2a14412c6a54d37753",
-"w": 700,
-"h": 560,
-"credit": "Nicolas Economou/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-03T03:37:03.644573+00:00"
-},
 "https://justthenews.com/nation/states/center-square/ex-chicago-fbi-chief-sues-feds-alleging-defamation-led-forced": {
 "v": 2,
 "photo": null,
@@ -9396,5 +9288,75 @@
 "via": "feed"
 },
 "checked": "2026-11-06T02:42:32.973354+00:00"
+},
+"https://justthenews.com/politics-policy/elections/national-republican-senatorial-committee-asks-mississippi-preserve": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108516527-1793779326191-gettyimages-2303389650-_62a2700.jpeg?v=1793779356&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://www.jpost.com/us-elections/article-914033": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745164",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://nypost.com/2026/11/05/sports/lakers-forward-could-make-season-debut-vs-trail-blazers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-sppni23bz-1793934757365.jpg?quality%3D90%26strip%3Dall%261793916802",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://nypost.com/2026/11/05/sports/nets-danny-wolf-makes-most-of-long-awaited-opportunity-with-big-performance/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41704405.jpg?quality%3D90%26strip%3Dall",
+"w": 3665,
+"h": 2442,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/nithya-raman-sidesteps-questions-on-ousting-lapd-chief-mcdonnell/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41704626.jpg?quality%3D90%26strip%3Dall",
+"w": 7180,
+"h": 4786,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T03:39:47.810558+00:00"
 }
 }
