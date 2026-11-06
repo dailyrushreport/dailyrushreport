@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
   "https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/",
   "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
   "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
   "https://www.breitbart.com/politics/2026/11/05/president-trump-votes-for-alaskas-fake-dan-sullivan-should-go-to-real-dan-sullivan-no-other-fair-solution/",
   "https://www.washingtonexaminer.com/news/supreme-court/4794552/pirro-office-investigation-supreme-court-dobbs-leak/",
-  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo"
+  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+  "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-  "since": "2026-11-05T23:30:48.729818+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/",
+  "since": "2026-11-06T02:42:32.973354+00:00"
  },
- "last_build": "2026-11-06T01:55:28.130900+00:00",
+ "last_build": "2026-11-06T02:42:32.973354+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -210,6 +210,7 @@
   "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
   "https://www.breitbart.com/politics/2026/11/05/president-trump-votes-for-alaskas-fake-dan-sullivan-should-go-to-real-dan-sullivan-no-other-fair-solution/",
   "https://www.washingtonexaminer.com/news/supreme-court/4794552/pirro-office-investigation-supreme-court-dobbs-leak/",
-  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo"
+  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+  "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/"
  ]
 }
