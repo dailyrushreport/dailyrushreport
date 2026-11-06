@@ -1,25 +1,25 @@
-# Social drafts — Fri Nov 6, 2026 1:40 PM CT
+# Social drafts — Fri Nov 6, 2026 4:06 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-06-1340.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-06-1606.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump says Stephen Miller to replace Susie Wiles as White House chief of staff  
+Lead: Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs  
 Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html  
-Pinned by editor: no · BREAKING: no
+Link: https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 155/280 chars (X counting)
+## X — status: pending_approval · 194/280 chars (X counting)
 
 ```
-Trump says Stephen Miller to replace Susie Wiles as White House chief of staff. (CNBC) https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html
+Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs. (CNBC) https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Trump says Stephen Miller to replace Susie Wiles as White House chief of staff. Story via CNBC. Link in bio.
+Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

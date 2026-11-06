@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-1606.json",
+  "created": "2026-11-06T22:06:21.513295+00:00",
+  "created_ct": "Fri Nov 6, 2026 4:06 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+    "original_headline": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+    "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs. (CNBC) https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 194,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

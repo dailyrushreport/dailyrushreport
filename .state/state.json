@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-  "since": "2026-11-06T19:40:33.703828+00:00"
+  "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+  "since": "2026-11-06T22:06:21.513295+00:00"
  },
- "last_build": "2026-11-06T21:27:42.372586+00:00",
+ "last_build": "2026-11-06T22:06:21.513295+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "ok",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-06T21:27Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -216,6 +216,7 @@
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html"
  ]
 }
