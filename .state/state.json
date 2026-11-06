@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
   "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
   "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
@@ -19,13 +18,14 @@
   "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
-  "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+  "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-  "since": "2026-11-06T16:37:41.562280+00:00"
+  "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+  "since": "2026-11-06T19:40:33.703828+00:00"
  },
- "last_build": "2026-11-06T18:36:38.682651+00:00",
+ "last_build": "2026-11-06T19:40:33.703828+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -215,6 +215,7 @@
   "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
-  "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+  "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+  "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
  ]
 }

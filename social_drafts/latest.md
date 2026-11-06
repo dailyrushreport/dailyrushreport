@@ -1,25 +1,25 @@
-# Social drafts — Fri Nov 6, 2026 10:37 AM CT
+# Social drafts — Fri Nov 6, 2026 1:40 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-06-1037.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-06-1340.json x` or `... instagram` (prints the final text to copy).
 
-Lead: U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%  
+Lead: Trump says Stephen Miller to replace Susie Wiles as White House chief of staff  
 Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html  
-Pinned by editor: no · BREAKING: yes
+Link: https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 190/280 chars (X counting)
+## X — status: pending_approval · 155/280 chars (X counting)
 
 ```
-U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. (CNBC) https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html
+Trump says Stephen Miller to replace Susie Wiles as White House chief of staff. (CNBC) https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. Story via CNBC. Link in bio.
+Trump says Stephen Miller to replace Susie Wiles as White House chief of staff. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
