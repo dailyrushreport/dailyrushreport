@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 5, 2026 11:45 PM CT
+# Social drafts — Fri Nov 6, 2026 3:19 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-2345.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-06-0319.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Hegseth not in consideration for Tennessee Senate: Report  
-Outlet: The Hill  
-Link: https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/  
+Lead: Wisconsin infant dies of measles as state sees first death from disease since 1990  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 138/280 chars (X counting)
+## X — status: pending_approval · 162/280 chars (X counting)
 
 ```
-Hegseth not in consideration for Tennessee Senate: Report. (The Hill) https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/
+Wisconsin infant dies of measles as state sees first death from disease since 1990. (NY Post) https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Hegseth not in consideration for Tennessee Senate: Report. Story via The Hill. Link in bio.
+Wisconsin infant dies of measles as state sees first death from disease since 1990. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

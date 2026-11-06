@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-0319.json",
+  "created": "2026-11-06T09:19:24.495502+00:00",
+  "created_ct": "Fri Nov 6, 2026 3:19 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+    "original_headline": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+    "url": "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Wisconsin infant dies of measles as state sees first death from disease since 1990. (NY Post) https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Wisconsin infant dies of measles as state sees first death from disease since 1990. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
