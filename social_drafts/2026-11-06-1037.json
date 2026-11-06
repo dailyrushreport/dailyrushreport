@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-1037.json",
+  "created": "2026-11-06T16:37:41.562280+00:00",
+  "created_ct": "Fri Nov 6, 2026 10:37 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    "original_headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. (CNBC) https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 190,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

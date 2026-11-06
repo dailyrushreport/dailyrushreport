@@ -1,25 +1,25 @@
-# Social drafts — Fri Nov 6, 2026 7:34 AM CT
+# Social drafts — Fri Nov 6, 2026 10:37 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-06-0734.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-06-1037.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o  
-Pinned by editor: no · BREAKING: no
+Lead: U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 153/280 chars (X counting)
+## X — status: pending_approval · 190/280 chars (X counting)
 
 ```
-Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race. (BBC) https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o
+U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. (CNBC) https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race. Story via BBC. Link in bio.
+U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
