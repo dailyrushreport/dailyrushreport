@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/ntsb-jet-may-have-broken-apart-palm-beach-county-crash": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
 "https://justthenews.com/index%2Ephp/nation/states/center-square/los-angeles-mayoral-candidates-clash-over-crises-leadership": {
 "v": 2,
 "photo": null,
@@ -23,148 +18,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-03T21:28:56.040427+00:00"
-},
-"https://justthenews.com/politics-policy/energy/nj-gov-sherrill-warns-port-operators-not-take-russian-diesel-or-face-severe": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://reason.com/2026/11/03/americans-would-rather-win-the-midterms-than-a-sports-title-heres-why-that-might-be/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/MilwWin-4-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "TANNEN MAURY/UPI/Newscom",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.jpost.com/health-and-wellness/article-913710": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/654847",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.jpost.com/american-politics/article-913724": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744757",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108486127-1793363861367-gettyimages-2302646786-vcg111678111006.jpeg?v=1793363876&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/03/escaped-alpacas-scarborough-maine/3171793722729/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.breitbart.com/europe/2026/11/03/steve-witkoff-says-u-s-will-mediate-russia-ukraine-talks-next-week/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Steve-Witkoff-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqglwjdgg045o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Aurich Lawson | Getty Images | Minh Connors | Alex Wong",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-"w": 1000,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://nypost.com/2026/11/03/us-news/melania-trump-will-host-russia-ukraine-peace-talks-at-white-house-in-hopes-of-brokering-new-agreement/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-xada055ob-1793717438480.jpg?quality%3D90%26strip%3Dall%261793699460",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/jn7RUmgebdybs9i4hyLD8M-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "Chiara Salvadori via Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://nypost.com/2026/11/03/sports/jack-campbell-wife-welcomed-first-child-months-before-horrifying-injury/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-967eg378j-1793721492212.jpg?quality%3D90%26strip%3Dall%261793703605",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
-},
-"https://nypost.com/2026/11/03/us-news/learjet-expert-reveals-crucial-mistake-learjet-pilots-made-before-horrific-florida-crash/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147334235.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T16:39:45.136093+00:00"
 },
 "https://justthenews.com/politics-policy/elections/ballot-machines-westchester-county-new-york-wont-accept-paper-ballots": {
 "v": 2,
@@ -9334,5 +9187,179 @@
 "via": "feed"
 },
 "checked": "2026-11-06T16:37:41.562280+00:00"
+},
+"https://justthenews.com/government/congress/former-us-senator-west-virginia-gov-jay-rockefeller-dies-89": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://justthenews.com/politics-policy/defeated-gop-senate-candidate-blames-trump": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.foxnews.com/politics/democrat-who-toppled-gop-incumbent-head-court-felony-charge-just-days-after-election-upset": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lakesha-womack-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://reason.com/2026/11/06/america-did-not-vote-for-woke-2-0/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/WokeWave-1-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Merly69/Mariia Shapilova/Ricochet69/Dreamstime/Fatima Ruiz",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-06/canada-to-give-200-000-temporary-residents-permanent-status-as-one-time-measure": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://thehill.com/homenews/media/6204486-watters-warns-gop-future/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP25287000312960-e1793985908564.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.jpost.com/international/article-914073": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744382",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty | Jan Sonnenmair",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kobo1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+"w": 900,
+"h": 468,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-914074": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/715756",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c93d59d4zy1o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/17e4/live/12a747d0-d9ca-11f1-bb8e-efaa31738708.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a7d4/live/77b64d80-d78e-11f1-9440-953b82c8f55a.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-2000-80.png",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/girl-10-abused-in-dungeon-step-mom-charged-with-her-murder-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147767824.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
+},
+"https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T17:37:14.124122+00:00"
 }
 }
