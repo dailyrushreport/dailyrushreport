@@ -14,92 +14,6 @@
 "photo": null,
 "checked": "2026-11-03T03:37:03.644573+00:00"
 },
-"https://justthenews.com/government/security/us-investigators-record-iranian-ghost-fleet-evading-naval-blockade-route-china": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/china-s-he-says-will-support-free-open-economy-in-hong-kong": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6rey4v53exgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913644": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744648",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.thefp.com/p/why-trump-must-bring-israels-rivals-together-bibi-election": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!rrGE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53a5a610-0af1-4332-a3ef-40c5de6c1e4a_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm86zdp2ygqno": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2fcb/live/1bb38aa0-d6d7-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://nypost.com/2026/11/02/us-news/sonja-shaw-vows-academic-focus-in-california-superintendent-race/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-6a8k7zyns-1793670174727.jpg?quality%3D90%26strip%3Dall%261793652209",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
-"https://nypost.com/2026/11/02/sports/st-johns-cruises-to-season-opening-win-over-monmouth/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-e9nwleir8-1793669194947.jpg?quality%3D90%26strip%3Dall%261793651247",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T01:49:23.923900+00:00"
-},
 "https://www.bloomberg.com/news/newsletters/2026-11-03/reliance-s-record-19-billion-surge-lifts-nifty-keeps-india-bulls-in-the-game": {
 "v": 2,
 "photo": null,
@@ -9406,5 +9320,125 @@
 "via": "feed"
 },
 "checked": "2026-11-06T00:32:13.061600+00:00"
+},
+"https://justthenews.com/politics-policy/elections/new-york-republican-bruce-blakeman-blasts-stefanik-selfish-not-being-more": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://justthenews.com/government/white-house/president-trump-signs-proclamation-designating-oval-office-national-monument": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/Harmeet-Dhillon-1-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b37/live/0e287b40-d96e-11f1-9fd0-cdf612d1539f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmy0eeg101djo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.jpost.com/international/article-914031": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745162",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108256608-1769204635647-gettyimages-1237668341-TAIWAN_TSMC.jpeg?v=1775649989&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+"w": 1152,
+"h": 648,
+"credit": "Blue Origin",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/woman-claims-obsessed-stepdad-made-shrine-with-her-underwear-raped-her-before-he-killed-her-mom-in-murder-suicide/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FObsessed-Stepdad-vid.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://nypost.com/2026/11/05/sports/bryson-dechambeau-gets-path-back-to-pga-tour-after-liv-golf-collapse/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41701826.jpg?quality%3D90%26strip%3Dall",
+"w": 4635,
+"h": 3089,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
+},
+"https://nypost.com/2026/11/05/sports/max-scherzers-lockout-plan-at-42-and-if-season-20-is-in-cards/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41703639.jpg?quality%3D90%26strip%3Dall",
+"w": 4503,
+"h": 3001,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T01:55:28.130900+00:00"
 }
 }
