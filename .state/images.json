@@ -9,159 +9,6 @@
 "photo": null,
 "checked": "2026-11-03T16:39:45.136093+00:00"
 },
-"https://justthenews.com/politics-policy/tuehere-are-races-watch-battle-senate": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26294404896713-e1792591755361.jpg?w=900",
-"w": 900,
-"h": 507,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm5ynekkn5qko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cx240mrm3g8vo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.jpost.com/israel-news/article-913647": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744653",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://reason.com/volokh/2026/11/02/the-logic-of-voting-for-a-lesser-evil-and-other-writings-on-the-ethics-of-voting/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/08/Sauron-1161x675.jpg",
-"w": 1161,
-"h": 675,
-"credit": "NA",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913648": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744654",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261102075806.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261101010525.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/black-holes-split-apart-merger.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/10/261031221211.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/quark-gluon-plasma-formation.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://nypost.com/2026/11/02/us-news/stanford-university-drops-term-survivor-for-sexual-assault-cases-due-to-bias-as-victims-erupt/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147356327.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108507465-1793670073249-gettyimages-2302761658-tbdc_8152.jpeg?v=1793670124&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://nypost.com/2026/11/02/sports/nets-push-knicks-before-fourth-quarter-collapse-in-missed-chance-to-earn-respect/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41646043.jpg?quality%3D90%26strip%3Dall",
-"w": 2477,
-"h": 1650,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
-"https://nypost.com/2026/11/02/sports/rick-pitino-surprisingly-sits-theo-edema-in-st-johns-opener/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41646065.jpg?quality%3D90%26strip%3Dall",
-"w": 3229,
-"h": 2152,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T04:38:40.474285+00:00"
-},
 "https://justthenews.com/index%2ephp/nation/states/center-square/ex-chicago-fbi-chief-sues-feds-alleging-defamation-led-forced": {
 "v": 2,
 "photo": null,
@@ -8416,7 +8263,7 @@
 "https://justthenews.com/nation/states/gavin-newsom-commutes-all-california-death-sentences-life-prison-without-parole": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-05T21:31:20.436532+00:00"
+"checked": "2026-11-06T04:43:29.763435+00:00"
 },
 "https://justthenews.com/index%2ephp/politics-policy/bernie-sanders-pushes-medicare-all-after-dem-senate-landslide": {
 "v": 2,
@@ -9358,5 +9205,97 @@
 "via": "feed"
 },
 "checked": "2026-11-06T03:39:47.810558+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/courts-law/after-girls-sports-ballot-wins-parents-defeat-school-district-banned-xx": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/elections/new-york-republican-bruce-blakeman-blasts-stefanik-selfish-not-being-more": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq99zd93ryvko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-06/zhuhai-huafa-selling-marriott-branded-hotel-to-bolster-liquidity": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://www.jpost.com/international/article-914035": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/676910",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://www.jpost.com/israel-news/article-914036": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743829",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c301/live/0662a3f0-d968-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://nypost.com/2026/11/05/sports/bob-igers-son-revealed-as-lakers-g-league-broadcaster/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-6mht00ajk-1793938622697.jpg?quality%3D90%26strip%3Dall%261793920680",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://nypost.com/2026/11/05/sports/anthony-santander-under-fire-for-controversial-abdul-el-sayed-posts/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCOMP-ANTHONY.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
+},
+"https://nypost.com/2026/11/05/us-news/north-carolina-dem-lakesha-womack-has-court-appearance-for-car-theft-after-midterm-win/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F10239419897629665-set-pb-1654068275-147716263.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T04:43:29.763435+00:00"
 }
 }
