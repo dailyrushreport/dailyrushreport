@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 5, 2026 8:42 PM CT
+# Social drafts — Thu Nov 5, 2026 11:45 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-05-2042.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-05-2345.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Harmeet Dhillon Resigns as Head of DOJ's Civil Rights Division, More Departures Expected to Follow  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/  
+Lead: Hegseth not in consideration for Tennessee Senate: Report  
+Outlet: The Hill  
+Link: https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 180/280 chars (X counting)
+## X — status: pending_approval · 138/280 chars (X counting)
 
 ```
-Harmeet Dhillon Resigns as Head of DOJ's Civil Rights Division, More Departures Expected to Follow. (Breitbart) https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/
+Hegseth not in consideration for Tennessee Senate: Report. (The Hill) https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Harmeet Dhillon Resigns as Head of DOJ's Civil Rights Division, More Departures Expected to Follow. Story via Breitbart. Link in bio.
+Hegseth not in consideration for Tennessee Senate: Report. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

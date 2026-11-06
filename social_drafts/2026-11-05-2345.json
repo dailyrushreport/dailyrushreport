@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-05-2345.json",
+  "created": "2026-11-06T05:45:05.484632+00:00",
+  "created_ct": "Thu Nov 5, 2026 11:45 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth not in consideration for Tennessee Senate: Report",
+    "original_headline": "Hegseth not in consideration for Tennessee Senate: Report",
+    "url": "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth not in consideration for Tennessee Senate: Report. (The Hill) https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 138,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth not in consideration for Tennessee Senate: Report. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
