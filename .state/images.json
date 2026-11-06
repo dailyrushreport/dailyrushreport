@@ -9,77 +9,6 @@
 "photo": null,
 "checked": "2026-11-03T16:39:45.136093+00:00"
 },
-"https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://www.foxnews.com/politics/mamdani-threatens-sue-trump-admin-ices-use-city-owned-lots-immigration-enforcement": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/zohran-mamdani-october-8-2026-scaled.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://www.jpost.com/israel-news/article-913659": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744666",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913661": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/631870",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/1e8f9b2593e2553ba85b5f08c026ee4a75bd54ac/179_0_2280_1825/master/2280.jpg?width=700&quality=85&auto=format&fit=max&s=eb4ba2bebbbb358d90a84871df032c29",
-"w": 700,
-"h": 560,
-"credit": "Sarah Yenesel/EPA",
-"via": "feed"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/18be/live/41bac5d0-d6da-11f1-b2be-0146bf989691.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
-"https://nypost.com/2026/11/03/us-news/nfl-star-joe-mixon-devastated-after-learning-he-flew-on-doomed-learjet-with-same-pilots-weeks-before-deadly-crash/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-k62uxa8lf-1793687667087.jpg?quality%3D90%26strip%3Dall%261793669724",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T07:58:16.863516+00:00"
-},
 "https://justthenews.com/index%2Ephp/nation/states/center-square/ex-chicago-fbi-chief-sues-feds-alleging-defamation-led-forced": {
 "v": 2,
 "photo": null,
@@ -9259,5 +9188,113 @@
 "via": "feed"
 },
 "checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/security/after-midterm-rebuke-trump-faces-choices-ongoing-iran-war": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/epa-approves-arizona-countys-first-nation-emissions-rule": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/watch-live-trump-signs-proclamation-white-house": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-06/uk-markets-join-global-rout": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914040": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745169",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://www.jpost.com/international/article-914039": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688661",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmd9343z3zw2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/rosie-odonnell-considers-return-to-new-york-from-dublin-after-blue-wave-of-midterm-election-wins/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-j1g75dr8f-1793944963650.jpg?quality%3D90%26strip%3Dall%261793927004",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/trumps-250-foot-triumphal-arch-gets-greenlight-from-key-federal-panel/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-xruga36jd-1793946266855.jpg?quality%3D90%26strip%3Dall%261793928325",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/child-molester-leomar-alexander-lopez-zambranos-looming-prison-release-reignites-sanctuary-in-wake-of-dem-election-sweep/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-d0520u9jc-1793947903232.jpg?quality%3D90%26strip%3Dall%261793929950",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
+},
+"https://nypost.com/2026/11/06/lifestyle/dear-abby-ive-spoiled-my-grown-kids-for-decades-they-cant-even-send-a-thank-you-card/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Funhappy-elderly-caucasian-60s-woman-142773520-e1793058892375.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T08:02:11.983379+00:00"
 }
 }
