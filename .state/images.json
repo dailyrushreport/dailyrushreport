@@ -9,109 +9,6 @@
 "photo": null,
 "checked": "2026-11-03T16:39:45.136093+00:00"
 },
-"https://justthenews.com/world/middle-east/arab-parties-surge-leaves-israel-deadlock-trump-weighs-renewing-iran-strikes": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/abu-dhabi-state-oil-producer-xrg-buy-shell-stake-australian-natural-gas-project": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-03/india-tax-hike-drives-illegal-gold-imports-to-three-year-high": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.cnbc.com/2026/11/03/goldman-sachs-favorite-stocks-bank-beer.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108271051-17722088882026-02-27t161126z_2021603882_rc2dujae1vmc_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.jpost.com/us-elections/article-913656": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744660",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-913658": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736925",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eca0/live/1ab4cfb0-d2ef-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/59aa/live/3c6b64a0-cc7f-11f1-9a39-31b474234113.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://nypost.com/2026/11/03/sports/stephen-curry-goes-bonkers-in-second-half-to-lead-warriors-over-suns/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1qiz6jahp-1793685852185.jpg?quality%3D90%26strip%3Dall%261793667887",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
-"https://nypost.com/2026/11/03/us-news/haley-stevens-says-decision-to-withdraw-support-for-el-sayed-was-not-made-for-me-by-anyone-else/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147365416.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-03T06:44:40.229729+00:00"
-},
 "https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike": {
 "v": 2,
 "photo": null,
@@ -9275,5 +9172,92 @@
 "via": "feed"
 },
 "checked": "2026-11-06T05:45:05.484632+00:00"
+},
+"https://justthenews.com/nation/states/center-square/mississippi-senate-race-could-head-court": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/2025-03-14t190045z_1786195902_rc20ddas7n8v_rtrmadp_3_usa-health-measles-new-york.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-06/zambian-budget-gets-copper-boost-with-el-nino-threatening-crops": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/n3-6FomeEGxQ2NFTZ-gjcyVZQMU=/0x99:5136x2988/1366x768/2026/11/05/1793903847233.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.jpost.com/international/article-914037": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745167",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmx23zzlezp8o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2f95/live/0ad4e410-d919-11f1-ad94-e17fee4cd332.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg?width=700&quality=85&auto=format&fit=max&s=300c5e81b655f63a75e90b1aed008e8f",
+"w": 700,
+"h": 560,
+"credit": "Allison Bailey/NurPhoto/Shutterstock",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/michigan-nephew-4-others-convicted-for-abducting-beating-uncle-curtis-dixon-who-was-gifted-100k-in-viral-video/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147724858.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-06T06:50:58.440449+00:00"
 }
 }
