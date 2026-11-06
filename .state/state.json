@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
   "https://www.thefp.com/p/its-talarico-time-in-texas-midterms-democrats-2026",
   "https://www.foxnews.com/politics/desantis-calls-gop-midterm-losses-extinction-level-event-explains-why-florida-survived",
   "https://www.breitbart.com/tech/2026/11/04/binance-north-korea-stole-6-3-billion-in-crypto-using-elaborate-fake-interview-scheme/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
   "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/",
   "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
-  "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/"
+  "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
+  "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
-  "since": "2026-11-06T09:19:24.495502+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
+  "since": "2026-11-06T13:34:46.763023+00:00"
  },
- "last_build": "2026-11-06T12:11:24.966684+00:00",
+ "last_build": "2026-11-06T13:34:46.763023+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -213,6 +213,7 @@
   "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
   "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/",
   "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
-  "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/"
+  "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
+  "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o"
  ]
 }

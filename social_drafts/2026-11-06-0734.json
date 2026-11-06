@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-0734.json",
+  "created": "2026-11-06T13:34:46.763023+00:00",
+  "created_ct": "Fri Nov 6, 2026 7:34 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+    "original_headline": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+    "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race. (BBC) https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 153,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
