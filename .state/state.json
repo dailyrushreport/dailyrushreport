@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
   "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
   "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
   "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
-  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/"
+  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
+  "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
-  "since": "2026-11-07T07:46:16.682837+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/",
+  "since": "2026-11-07T11:09:04.680328+00:00"
  },
- "last_build": "2026-11-07T10:28:09.993109+00:00",
+ "last_build": "2026-11-07T11:09:04.680328+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -220,6 +220,7 @@
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
   "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
-  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/"
+  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
+  "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/"
  ]
 }
