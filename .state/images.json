@@ -1,156 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/blackburn-wins-tennessee-governors-race": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://justthenews.com/politics-policy/elections/democrat-challenging-lauren-boebert-colorado-us-house-race-holds-slight": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://thehill.com/homenews/campaign/6197101-susie-lee-reelection-nevada-2026-midterms/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26255721952085-e1793798374740.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.washingtonexaminer.com/policy/healthcare/4772390/nevada-vote-abortion-rights-state-constitution/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP24166482893831.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-04/stock-market-gains-are-weakest-after-midterm-results-like-these": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-913826": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734684",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.jpost.com/international/article-913830": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744872",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/elections/democratic-socialist-janeese-lewis-george-wins-bid-mayor-washington-dc": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261103003157.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/school-bus-driving-on-highway-at-dawn.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108476512-1793219404860-gettyimages-2301922154-US_JOBLESS_CLAIMS.jpeg?v=1793219480&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108432659-1792419598569-gettyimages-2286884558-dellatorre-notitle260724_npv3F.jpeg?v=1792419632&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261103003146.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/human-nervous-system-brain-anatomy.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/G4KVmbJJX3AvYGnif8MRQZ-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261101010541.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/neutron-diffraction-patterns.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://nypost.com/2026/11/04/lifestyle/diner-fumes-over-sneaky-admin-fee-on-earls-kitchen-bill/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147438119.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
-"https://nypost.com/2026/11/04/world-news/mom-and-daughter-killed-in-suspected-bear-attack-on-casual-walk-minutes-from-home/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147518124.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T13:55:46.519423+00:00"
-},
 "https://justthenews.com/index%2ephp/politics-policy/transportation/pieces-tail-learjet-crashed-florida-found-miles-crash-ntsb-says": {
 "v": 2,
 "photo": null,
@@ -9113,5 +8961,130 @@
 "via": "feed"
 },
 "checked": "2026-11-07T13:39:26.148021+00:00"
+},
+"https://justthenews.com/government/state-houses/democrats-win-arizona-house-senate-and-governor-first-time-1966": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://justthenews.com/government/federal-agencies/us-carries-out-new-strikes-iran-tehran-negotiates-nuclear-proposals": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.jpost.com/international/article-914123": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734078",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914130": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745286",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/JASON-ANDERSON-SAN-BERNADINO-DISTRICT-ATTORNEY.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.foxnews.com/travel/11-night-caribbean-cruise-abruptly-canceled-coast-guard-detains-ship": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/msc-gratuity-charges.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108301130-1777738005974-Greg_Abel.jpg?v=1777738060&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108335257-1784117182377-OEZO09jg.jpg?v=1784127953&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108534980-1794001515091-gettyimages-2283247090-img_2649-0987.jpeg?v=1794001549&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Mississippi_110626_Fortinsky_Illo-CJ-AP_Eric-Shelton-and-Rogelio-V-Solis1.png?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
+"w": 1200,
+"h": 628,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
+},
+"https://nypost.com/2026/11/07/us-news/illegal-immigrant-from-ecuador-arrested-for-multiple-rapes-in-east-hampton-long-island/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147861560.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T14:29:54.048092+00:00"
 }
 }
