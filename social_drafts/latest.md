@@ -1,25 +1,25 @@
-# Social drafts — Sat Nov 7, 2026 8:29 AM CT
+# Social drafts — Sat Nov 7, 2026 11:55 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-07-0829.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-07-1155.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight  
+Lead: Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded  
 Outlet: Fox News  
-Link: https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight  
-Pinned by editor: no · BREAKING: no
+Link: https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 163/280 chars (X counting)
+## X — status: pending_approval · 196/280 chars (X counting)
 
 ```
-Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight. (Fox News) https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight
+Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded. (Fox News) https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight. Story via Fox News. Link in bio.
+Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded. Story via Fox News. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
