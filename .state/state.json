@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
   "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
   "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
   "https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
-  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/"
+  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
+  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
-  "since": "2026-11-07T04:36:53.277837+00:00"
+  "url": "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
+  "since": "2026-11-07T07:46:16.682837+00:00"
  },
- "last_build": "2026-11-07T06:35:44.960311+00:00",
+ "last_build": "2026-11-07T07:46:16.682837+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -219,6 +219,7 @@
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
-  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/"
+  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
+  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/"
  ]
 }
