@@ -9052,5 +9052,87 @@
 "via": "feed"
 },
 "checked": "2026-11-07T19:59:20.240532+00:00"
+},
+"https://www.foxnews.com/outkick-sports/lane-kiffin-hits-death-valley-shaq-paul-skenes-angel-reese-kevin-costner": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kiffin-costner-fox-news_.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26311653576916-e1794082128326.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108520320-17938216482026-11-04t171726z_612909176_rc2ufoaxm75b_rtrmadp_0_usa-election-europe-farright.jpeg?v=1794004884&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://nypost.com/2026/11/07/sports/jets-facing-uphill-battle-against-chiefs-in-important-get-right-game/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-i9267q7n9-1794082373823.jpg?quality%3D90%26strip%3Dall%261794064396",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://nypost.com/2026/11/07/us-news/navy-veteran-blindsided-as-rapist-could-land-parole-hearing-months-after-sentencing/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147869410.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://nypost.com/2026/11/07/sports/hs-football-scandal-explodes-over-secret-recording-of-players-grandfather/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffootball-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T20:29:38.019151+00:00"
 }
 }
