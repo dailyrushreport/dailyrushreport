@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-07-1313.json",
+  "created": "2026-11-07T19:13:13.499516+00:00",
+  "created_ct": "Sat Nov 7, 2026 1:13 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump offers UFC boss Dana White role of White House press secretary: ‘Please take the job!’",
+    "original_headline": "Trump offers UFC boss Dana White role of White House press secretary: ‘Please take the job!’",
+    "url": "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump offers UFC boss Dana White role of White House press secretary: ‘Please take the job!’. (NY Post) https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 186,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump offers UFC boss Dana White role of White House press secretary: ‘Please take the job!’. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
