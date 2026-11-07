@@ -1,140 +1,4 @@
 {
-"https://justthenews.com/politics-policy/elections/maine-gop-sen-susan-collins-loses-bid-sixth-term": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://thehill.com/homenews/campaign/6186326-democrats-flip-amodei-nevada-seat/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26163105719521-e1793474543562.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://justthenews.com/politics-policy/transportation/pieces-tail-learjet-crashed-florida-found-miles-crash-ntsb-says": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.jpost.com/israel-news/article-913842": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744604",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.breitbart.com/politics/2026/11/03/democrat-peggy-flanagan-beats-republican-michele-tafoya-minnesota-senate-seat/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/AP26224150277748-640x335.png",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://thehill.com/homenews/6197337-iran-midterm-election-loss-trump-war/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26232551190673-e1787316042522.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/101742989-94863062.jpg?v=1532564475&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5caa/live/138c7900-d85c-11f1-94f3-cf7d1e52bb8c.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&strip=all&crop=0%2C10.772212081113%2C100%2C78.455575837775&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://thehill.com/homenews/campaign/6197851-ford-ousts-lombardo-nevada-governor/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308288905025.jpg?w=900",
-"w": 900,
-"h": 599,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
-"https://nypost.com/2026/11/04/us-news/etan-c-harris-defeats-susan-lieberman-to-become-first-gop-8th-district-municipal-court-civil-court-judge-in-100-years/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjudge-etan-harris-susan-lieberman-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T15:41:47.003627+00:00"
-},
 "https://justthenews.com/politics-policy/jim-jordan-steve-scalise-jump-race-replace-mike-johnson": {
 "v": 2,
 "photo": null,
@@ -7617,7 +7481,7 @@
 "https://justthenews.com/government/white-house/you-vote-stephen-miller-replacing-susie-wiles-wh-chief-staff-what-will-be": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-07T07:46:16.682837+00:00"
+"checked": "2026-11-07T15:59:07.029369+00:00"
 },
 "https://www.washingtonexaminer.com/news/crime/4796235/armed-migrant-arrest-white-house-threat-assassinate-trump/": {
 "v": 2,
@@ -9092,5 +8956,92 @@
 "via": "feed"
 },
 "checked": "2026-11-07T15:10:05.823857+00:00"
+},
+"https://reason.com/volokh/2026/11/07/november-7-as-victims-of-communism-day-2026/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2019/11/KolymaBones.jpg",
+"w": 1164,
+"h": 654,
+"credit": "NA",
+"via": "feed"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://justthenews.com/world/europe/gunman-kills-five-people-shooting-market-square-poland": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/federal-agencies/us-carries-out-new-strikes-iran-tehran-negotiates-nuclear-proposals": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c9kgjj206nzpo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://www.jpost.com/international/article-914135": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745288",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://nypost.com/2026/11/07/sports/the-best-and-worst-from-first-half-of-nfl-season/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmeets-head-coach-joe-brady-147229044.jpg?quality%3D90%26strip%3Dall",
+"w": 2917,
+"h": 1945,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
+},
+"https://nypost.com/2026/11/07/health/troubling-new-nyc-nail-salon-air-quality-findings/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-sfd9g9z2r-1794066879737.jpg?quality%3D90%26strip%3Dall%261794048894",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T15:59:07.029369+00:00"
 }
 }
