@@ -1,17 +1,17 @@
-# Social drafts — Fri Nov 6, 2026 7:45 PM CT
+# Social drafts — Fri Nov 6, 2026 10:36 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-06-1945.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-06-2236.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/  
+Lead: Houston mayor limits police cooperation with ICE after blue wave  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 168/280 chars (X counting)
+## X — status: pending_approval · 156/280 chars (X counting)
 
 ```
-Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas. (The Hill) https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/
+Houston mayor limits police cooperation with ICE after blue wave. (Washington Examiner) https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas. Story via The Hill. Link in bio.
+Houston mayor limits police cooperation with ICE after blue wave. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
   "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
   "https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/"
+  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
+  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
-  "since": "2026-11-07T01:45:53.218736+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
+  "since": "2026-11-07T04:36:53.277837+00:00"
  },
- "last_build": "2026-11-07T03:34:42.328744+00:00",
+ "last_build": "2026-11-07T04:36:53.277837+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-06T21:27Z",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 500: Internal Server Error) - used cache from 2026-11-06T21:27Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -218,6 +218,7 @@
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/"
+  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
+  "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/"
  ]
 }

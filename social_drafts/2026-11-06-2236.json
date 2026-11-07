@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-2236.json",
+  "created": "2026-11-07T04:36:53.277837+00:00",
+  "created_ct": "Fri Nov 6, 2026 10:36 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Houston mayor limits police cooperation with ICE after blue wave",
+    "original_headline": "Houston mayor limits police cooperation with ICE after blue wave",
+    "url": "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Houston mayor limits police cooperation with ICE after blue wave. (Washington Examiner) https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 156,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Houston mayor limits police cooperation with ICE after blue wave. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
