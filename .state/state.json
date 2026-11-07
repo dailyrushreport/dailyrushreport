@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
   "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
   "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
   "https://www.breitbart.com/politics/2026/11/05/president-trump-votes-for-alaskas-fake-dan-sullivan-should-go-to-real-dan-sullivan-no-other-fair-solution/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/",
   "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
   "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
-  "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/"
+  "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/",
+  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/",
-  "since": "2026-11-07T19:13:13.499516+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+  "since": "2026-11-07T19:59:20.240532+00:00"
  },
- "last_build": "2026-11-07T19:13:13.499516+00:00",
+ "last_build": "2026-11-07T19:59:20.240532+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -224,6 +224,7 @@
   "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/",
   "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
   "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
-  "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/"
+  "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/",
+  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
  ]
 }
