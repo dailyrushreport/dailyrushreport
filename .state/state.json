@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
   "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
   "https://nypost.com/2026/11/05/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison/",
   "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html"
+  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-  "since": "2026-11-06T22:06:21.513295+00:00"
+  "url": "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
+  "since": "2026-11-07T01:45:53.218736+00:00"
  },
- "last_build": "2026-11-07T00:37:54.486183+00:00",
+ "last_build": "2026-11-07T01:45:53.218736+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -217,6 +217,7 @@
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html"
+  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/"
  ]
 }

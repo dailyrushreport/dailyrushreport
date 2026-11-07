@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-06-1945.json",
+  "created": "2026-11-07T01:45:53.218736+00:00",
+  "created_ct": "Fri Nov 6, 2026 7:45 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas",
+    "original_headline": "Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas",
+    "url": "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas. (The Hill) https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 168,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Houston mayor looks to limit city’s cooperation with ICE after Democrats’ wins in Texas. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
