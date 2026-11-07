@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
   "since": "2026-11-07T07:46:16.682837+00:00"
  },
- "last_build": "2026-11-07T07:46:16.682837+00:00",
+ "last_build": "2026-11-07T08:37:19.314860+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-06T21:27Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
