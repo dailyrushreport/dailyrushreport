@@ -4,94 +4,6 @@
 "photo": null,
 "checked": "2026-11-04T03:36:26.664530+00:00"
 },
-"https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/rMnSBmFw9MXNazCxH95btPgKCTc=/0x0:1920x1080/1366x768/2026/10/07/1791384871867.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm8ezneewr9lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/775f/live/b94b9cb0-d7ec-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.jpost.com/american-politics/article-913768": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744810",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d427/live/a1cf3100-d7ec-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.jpost.com/israel-news/article-913769": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688860",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4787812/andy-barr-charles-booker-kentucky-senate-results/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-ka3oi9nir-1793636971384-e1793639911933.jpg?1793619095&resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/ae004033dfd56bf1055b749d65ddb5db89611bee/5_0_2849_2280/master/2849.png?width=700&quality=85&auto=format&fit=max&s=d6350346d863557ae7d3e781a56ef436",
-"w": 700,
-"h": 560,
-"credit": "Illustration: Rita Liu/Guardian Design",
-"via": "feed"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
-"https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcomp-31.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T02:35:12.597025+00:00"
-},
 "https://justthenews.com/government/state-houses/dem-challenger-unseats-new-jersey-republican-following-unexplained-health": {
 "v": 2,
 "photo": null,
@@ -9196,5 +9108,103 @@
 "via": "feed"
 },
 "checked": "2026-11-07T02:34:32.212721+00:00"
+},
+"https://justthenews.com/government/federal-agencies/justice-department-drops-attempt-set-aside-california-ballots-it": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://www.foxnews.com/outkick-sports/rams-safety-quentin-lake-apologized-justin-herbert-deli-meat-comment-even-though-he-has-point": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/quentin-lake.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2022/04/f3bbf0ac1c854fe4880633d82d86a9b9-e1794019325238.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://www.jpost.com/american-politics/article-914106": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742709",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914105": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727641",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://nypost.com/2026/11/06/us-news/urgent-weather-warning-as-socal-fire-risk-intensifies-and-power-shutoffs-loom/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147827547.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://nypost.com/2026/11/06/sports/doc-rivers-explains-lead-up-to-giannis-bucks-exit-and-why-he-was-not-easy-to-coach/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-k6qkq7gys-1794019733500.jpg?quality%3D90%26strip%3Dall%261794001768",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
+},
+"https://nypost.com/2026/11/06/sports/malik-nabers-makes-his-status-clear-after-giants-injury-scare-i-practiced/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41721832.jpg?quality%3D90%26strip%3Dall",
+"w": 4947,
+"h": 3297,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T03:34:42.328744+00:00"
 }
 }
