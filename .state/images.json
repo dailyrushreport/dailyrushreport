@@ -4,114 +4,6 @@
 "photo": null,
 "checked": "2026-11-05T02:43:18.753109+00:00"
 },
-"https://justthenews.com/index%2Ephp/politics-policy/trump-touts-white-house-ballroom-after-midterm-loss": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/elections/voters-dozens-local-jurisdictions-back-bans-and-restrictions-data-centers": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/jim-jordan-steve-scalise-jump-race-replace-mike-johnson": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4792501/red-state-us-house-delegations-lose-ground-2026-elections/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26281709790291.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.jpost.com/israel-news/article-913866": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744919",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://reason.com/volokh/2026/11/04/the-birds-arent-real-guy-was-just-a-little-ahead-of-the-curve/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c98rz6penv86o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108346896-1793796413973-108346896-17861348392026-08-07t202833z_1590292382_rc2wtma8ju17_rtrmadp_0_usa-trump.jpg?v=1793796434&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497",
-"w": 1200,
-"h": 626,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/107357642-1705003996598-gettyimages-1793633699-1006_48_fl231031070.jpeg?v=1705004048&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://nypost.com/2026/11/04/lifestyle/deep-in-the-heart-rustic-yet-refinery-in-texas-hill-country/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-p6b9djmcp-1793733359034.jpg?quality%3D90%26strip%3Dall%261793715452",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
-"https://nypost.com/2026/11/04/world-news/hackers-crack-french-blood-banks-attempt-to-boil-blood/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147533945.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-04T20:38:25.679288+00:00"
-},
 "https://justthenews.com/nation/states/desantis-claims-midterms-were-close-extinction-level-event-republican-party": {
 "v": 2,
 "photo": null,
@@ -9134,5 +9026,103 @@
 "via": "feed"
 },
 "checked": "2026-11-07T20:29:38.019151+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/trump-calls-democrats-extortionists-says-they-should-be-held-accountable": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/trump-offers-white-house-press-secretary-job-ufc-ceo-dana-white": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://www.jpost.com/travel/article-914087": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745227",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d5c4/live/71103a00-dae9-11f1-aac9-0789014bcc48.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a242/live/05b66270-dae9-11f1-aac9-0789014bcc48.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://nypost.com/2026/11/07/world-news/shocking-footage-shows-moment-krakow-police-shot-maniac-who-opened-fire-on-town-square/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147891888.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://nypost.com/2026/11/07/us-news/gov-gavin-newsom-reveals-the-moment-he-decided-to-spare-all-of-californias-548-death-row-inmates/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147889094.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://nypost.com/2026/11/07/sports/ucla-football-minnesota-cfp-big-ten/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-7ajhefq0e-1794078049672.jpg?quality%3D90%26strip%3Dall%261794060090",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
+},
+"https://nypost.com/2026/11/07/betting/knicks-vs-cavaliers-prediction-nba-saturday-player-props-picks-odds/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41715888.jpg?quality%3D90%26strip%3Dall",
+"w": 4806,
+"h": 3203,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-07T21:06:12.646483+00:00"
 }
 }
