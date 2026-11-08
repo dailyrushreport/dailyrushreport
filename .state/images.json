@@ -4,110 +4,6 @@
 "photo": null,
 "checked": "2026-11-05T02:43:18.753109+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Kyle Orland",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
-"w": 1000,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4793420/doj-quiet-alaska-investigation-senate-peltola-sullivan/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26303582384376-e1793485021617.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
-"w": 1152,
-"h": 648,
-"credit": "ohn T. Consoli, University of Maryland College Park",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=700&quality=85&auto=format&fit=max&s=e322b5ccf0dab3038c5c3392cb7aca3d",
-"w": 700,
-"h": 560,
-"credit": "Sue Dorfman/ZUMA Press Wire/Shutterstock",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108280427-1786124614115-108280427-1773939285477-gettyimages-2267401098-kd1_7891_8uve28ro.jpeg?v=1786124639&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://nypost.com/2026/11/04/sports/the-jets-need-aaron-glenn-to-channel-his-inner-rex-ryan/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4iw5b5d7i-1793835741854.jpg?quality%3D90%26strip%3Dall%261793817778",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
-"https://nypost.com/2026/11/04/us-news/2-arrested-including-boy-13-in-gang-fueled-stray-bullet-nyc-shooting-that-wounded-girl-12/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147563459.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T00:07:31.588016+00:00"
-},
 "https://justthenews.com/government/federal-agencies/mullin-vows-deportations-will-continue-after-republicans-lose-midterm": {
 "v": 2,
 "photo": null,
@@ -9053,5 +8949,124 @@
 "via": "feed"
 },
 "checked": "2026-11-07T23:58:22.276143+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/democrats-midterm-gains-complicate-path-forward-permitting-bill": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-dana-white-fox-news-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/presidential/4796638/hillary-clinton-democrats-prioritize-passing-legislation/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26266818147112.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.jpost.com/business-and-innovation/all-news/article-914156": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/713768",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.jpost.com/history/article-913954": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/548723",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://nypost.com/2026/11/07/sports/luka-doncic-40-point-season-average/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Flukawiltkee.jpg?quality%3D90%26strip%3Dall%261794080280",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cvze47p9jeexo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://nypost.com/2026/11/07/sports/wwe-crown-jewel-review-grades-roman-reigns-wins-tiffany-stratton-cashes-in/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-bn2i90kit-1794084265847.jpg?quality%3D90%26strip%3Dall%261794066321",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://nypost.com/2026/11/07/us-news/daughter-claims-witch-house-feud-behind-dads-arrest-in-halloween-mushroom-gummy-case/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCOMP-34.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T00:40:50.662059+00:00"
 }
 }
