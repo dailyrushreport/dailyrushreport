@@ -9014,5 +9014,86 @@
 "via": "feed"
 },
 "checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://justthenews.com/index%2ephp/government/white-house/trump-offers-white-house-press-secretary-job-ufc-ceo-dana-white": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://justthenews.com/index%2ephp/government/white-house/trump-calls-democrats-extortionists-says-they-should-be-held-accountable": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/elections/gop-succeeds-transgender-ballot-questions-four-states-posing-2028": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://www.jpost.com/aliyah/article-913963": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745063",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://www.jpost.com/american-politics/article-914158": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/691089",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/Eisenkot-and-Netanyahu-640x335.jpeg",
+"w": 640,
+"h": 335,
+"credit": "Jack GUEZ \\/ AFP via Getty Images",
+"via": "page"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://nypost.com/2026/11/07/sports/landry-shamet-revels-in-return-to-place-he-became-knicks-playoff-folk-hero/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4awwo6loc-1794102441032.jpg?quality%3D90%26strip%3Dall%261794084462",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://nypost.com/2026/11/07/sports/nba-fans-wife-speaks-of-viral-moment-where-luka-doncic-had-him-ejected/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-5dxll209t-1794104424067.jpg?quality%3D90%26strip%3Dall%261794086464",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://nypost.com/2026/11/07/us-news/miami-ranked-americas-rudest-city-dethroning-new-york-study/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41688541.jpg?quality%3D90%26strip%3Dall",
+"w": 7008,
+"h": 4670,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T02:38:36.143863+00:00"
 }
 }
