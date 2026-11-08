@@ -7716,7 +7716,7 @@
 "https://justthenews.com/nation/states/center-square/victims-advocates-slam-newsoms-decision-commute-death-sentences": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-07T23:58:22.276143+00:00"
+"checked": "2026-11-08T13:38:19.381121+00:00"
 },
 "https://justthenews.com/politics-policy/elections/gop-succeeds-transgender-ballot-questions-four-states-posing-2028": {
 "v": 2,
@@ -8981,5 +8981,136 @@
 "via": "feed"
 },
 "checked": "2026-11-08T12:38:38.883930+00:00"
+},
+"https://justthenews.com/world/middle-east/missile-interceptions-damage-saudi-aramco-building-riyadh": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://justthenews.com/nation/culture/comedian-dave-chappelle-says-he-feels-better-after-charlie-kirk-assassination": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.washingtonexaminer.com/news/4796630/jon-ossoff-wins-2028-straw-poll-at-progressive-conference/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26308116414530.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26311039691200-e1794090085929.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/06/Closer-White_061426_AP_Julia-Demaree-Nikhinson.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108545232-1794142173109-gettyimages-2303515540-AFP_D6RL9WE.jpeg?v=1794142207&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108534206-1793992677011-Amazon_Fauna_Humanoid_Robot-26083751190117-AP.jpg?v=1793992738&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108520320-17938216482026-11-04t171726z_612909176_rc2ufoaxm75b_rtrmadp_0_usa-election-europe-farright.jpeg?v=1794004884&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+"w": 884,
+"h": 648,
+"credit": "Science & Society Picture Library",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.cnbc.com/2026/11/08/scott-colom-and-blacks-on-cusp-of-history-as-mississippi-votes-are-counted.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108522047-1793835691360-gettyimages-2303031468-msrs101.jpeg?v=1793835729&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://nypost.com/2026/11/08/betting/giants-vs-eagles-prediction-nfl-week-9-picks-odds-best-bets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cne5htmj2-1793831634697.jpg?quality%3D90%26strip%3Dall%261793813839",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://nypost.com/2026/11/08/betting/browns-vs-saints-prediction-nfl-week-9-picks-odds-best-bet-sunday/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vusr0yp3i-1794073315083.jpg?quality%3D90%26strip%3Dall%261794055509",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T13:38:19.381121+00:00"
 }
 }

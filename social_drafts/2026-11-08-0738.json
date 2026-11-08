@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-08-0738.json",
+  "created": "2026-11-08T13:38:19.381121+00:00",
+  "created_ct": "Sun Nov 8, 2026 7:38 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Dana White says he will meet with Trump to discuss White House press secretary role",
+    "original_headline": "Dana White says he will meet with Trump to discuss White House press secretary role",
+    "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Dana White says he will meet with Trump to discuss White House press secretary role. (The Hill) https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 164,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Dana White says he will meet with Trump to discuss White House press secretary role. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

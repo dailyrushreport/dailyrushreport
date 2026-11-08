@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
   "https://www.breitbart.com/politics/2026/11/05/harmeet-dhillon-resigns-as-head-dojs-civil-rights-division-more-departures-expected-to-follow/",
   "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
   "https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/",
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
-  "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/"
+  "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
+  "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
-  "since": "2026-11-08T10:28:36.100397+00:00"
+  "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+  "since": "2026-11-08T13:38:19.381121+00:00"
  },
- "last_build": "2026-11-08T12:38:38.883930+00:00",
+ "last_build": "2026-11-08T13:38:19.381121+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -229,6 +229,7 @@
   "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
   "https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/",
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
-  "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/"
+  "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
+  "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/"
  ]
 }
