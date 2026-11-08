@@ -9,170 +9,6 @@
 "photo": null,
 "checked": "2026-11-05T13:40:42.618773+00:00"
 },
-"https://www.politico.com/news/2026/11/05/bernie-sanders-midterms-2028-01151185": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-05/the-case-for-a-year-end-us-stocks-rally": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theguardian.com/global/6aebba638f08a66ebb9275a3": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/c38fdda580cd24d0aba4f136cafe5afcf2d72702/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=eac2d275c764f33e018ab2ddfad74994",
-"w": 700,
-"h": 560,
-"credit": "Grid",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/05/progressives-democrats-midterm-elections": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/7176bcffb455242dc78d3a3b3916c5a268e4917b/0_0_824_664/master/824.jpg?width=700&quality=85&auto=format&fit=max&s=f4296be67814efbd3532a7bf3f21c585",
-"w": 700,
-"h": 564,
-"credit": "Composite: Mic Smith/ Brian Snyder/ Troy Jackson",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108334751-1784039074271-gettyimages-1060884260-MCP_5888.jpeg?v=1784039218&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-913922": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744713",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108519919-1793817749322-gettyimages-2303490577-gina_hinojosa_election_night_mlc_1598.jpeg?v=1793817767&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.jpost.com/american-politics/article-913923": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745007",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theguardian.com/commentisfree/2026/nov/05/democrats-corruption-money-private-donations": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/de2a01f88a7d256a63eb3ea20c9fafbfbf01caf8/367_0_2614_2092/master/2614.jpg?width=700&quality=85&auto=format&fit=max&s=ee718c0b4b7fb7bd2c98348269354f8c",
-"w": 700,
-"h": 560,
-"credit": "Eric Lee/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&strip=all&crop=6.6632575757576%2C0%2C86.673484848485%2C100&w=1200",
-"w": 1199,
-"h": 633,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://www.thefp.com/p/the-highway-that-explains-the-blue": {
-"v": 2,
-"photo": {
-"img": "https://substack-post-media.s3.amazonaws.com/public/images/2f8e6577-d4cd-4a23-9099-1457508d17ce_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://nypost.com/2026/11/05/world-news/multiple-flights-in-europe-diverted-because-of-bomb-threats/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147624591.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/lance-cpl-devin-j-hernandez-25-identified-as-marine-killed-during-fast-rope-training-at-camp-schwab-in-okinawa-japan/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41687357.jpg?quality%3D90%26strip%3Dall",
-"w": 5472,
-"h": 3647,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T11:23:44.818372+00:00"
-},
 "https://justthenews.com/world/europe/multiple-flights-europe-diverted-and-made-emergency-landings-response-bomb-threats": {
 "v": 2,
 "photo": null,
@@ -9083,5 +8919,93 @@
 "via": "feed"
 },
 "checked": "2026-11-08T11:10:24.715750+00:00"
+},
+"https://www.nationalreview.com/2026/11/newsrooms-made-a-dumb-bet-on-gambling-partnerships/": {
+"v": 2,
+"photo": {
+"img": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/11/fox-news-poll.jpg?fit=617%2C360&ssl=1",
+"w": 617,
+"h": 360,
+"credit": "Jamie McCarthy/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alon-oren-alexander-miami-florida-court_03.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.foxnews.com/health/struggling-depression-psychiatrist-says-6-habits-making-worse": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-dealing-with-depression.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.cnbc.com/2026/11/08/autocallable-etfs-tech-income-risks.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108062214-1731507675284-gettyimages-1635986351-fel01229.jpeg?v=1790863465&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108482019-1793299528384-gettyimages-2258329555-EXXON_MOBIL_EARNS.jpeg?v=1793299550&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ffbd/live/32a8d350-db69-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 650,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://thehill.com/homenews/education/6205094-texas-iowa-georgia-schools-classrooms-students/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Education-states_Lonas-Cochran_Illo_CJ-Adobe.png?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f033/live/d703ada0-db5d-11f1-adda-c54f54e3ce6a.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T11:59:59.482979+00:00"
 }
 }
