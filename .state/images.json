@@ -1,167 +1,4 @@
 {
-"https://justthenews.com/politics-policy/progressive-nithya-raman-unseats-karen-bass-la-mayors-race": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://justthenews.com/nation/crime/mexican-judge-charged-accepting-bribe-alleged-traffickers-release-us-seek-extradition": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://justthenews.com/politics-policy/bernie-sanders-pushes-medicare-all-after-dem-senate-landslide": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-914020": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745154",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://thehill.com/homenews/state-watch/6202199-california-gov-gavin-newsom-to-commute-all-death-sentences-in-state/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Closer-Newsom-Davos_012026_AP_Markus-Schreiber-e1793909247647.jpg?w=900",
-"w": 900,
-"h": 506,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/41e76ef1bc2ae200f96fadb04c77189ecf78c655/366_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=5febc90e545345f4187e87757bb19b3c",
-"w": 700,
-"h": 560,
-"credit": "Chris Torres/EPA",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/60f5d5f536db0ab81d9193a6e43495824b0fd9c1/304_0_3040_2432/master/3040.jpg?width=700&quality=85&auto=format&fit=max&s=a2d9cdeb901e28f7ec8075e55fdee243",
-"w": 700,
-"h": 560,
-"credit": "Shawn Thew-Pool/CNP/Shutterstock",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-05/now-the-market-is-selling-off-for-real": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c9p8g085mz07o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.jpost.com/middle-east/article-914015": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745149",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108363195-1789494139297-gettyimages-2294931488-AFP_C8EA8N2.jpeg?v=1789494213&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c60meenj1ke8o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9283/live/10208510-d94a-11f1-b2ee-87d22b17ac74.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee88/live/57121fe0-d951-11f1-b2ee-87d22b17ac74.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://nypost.com/2026/11/05/sports/erin-andrews-was-really-emotional-reporting-on-jack-campbell-injury/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-um2bdzthf-1793907241496.jpg?quality%3D90%26strip%3Dall%261793889281",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/retired-nypd-inspector-marine-vet-known-as-american-hero-dies-at-79/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147675770.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T20:34:14.473119+00:00"
-},
 "https://justthenews.com/nation/states/gavin-newsom-commutes-all-california-death-sentences-life-prison-without-parole": {
 "v": 2,
 "photo": null,
@@ -8899,5 +8736,142 @@
 "via": "feed"
 },
 "checked": "2026-11-08T20:02:05.963677+00:00"
+},
+"https://www.foxnews.com/politics/deputy-white-house-chief-staff-richard-walters-exits-job-ahead-stephen-miller-takeover": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/richard-walters-white-house.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.foxnews.com/outkick-sports/jj-mccarthy-left-giants-game-hip-injury-jameis-winston-lineup-isnt-whole-story": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jj-mccarthy-hands-up.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4796859/cairo-giza-egypt-train-crash-collision/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26312485394808.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.jpost.com/international/article-914271": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745448",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-914253": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745437",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1794168955&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://reason.com/volokh/2026/11/08/impeach-pete-hegseth/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/pete-hegseth-10-9-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Daniel Torok / B66 / Avalon/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmg476w7wnl2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/28ee/live/18b61b60-dbb4-11f1-b35d-8ff000e4934a.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://nypost.com/2026/11/08/sports/taylor-swift-celebrates-travis-kelces-touchdown-against-jets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-266un0978-1794169768099.jpg?quality%3D90%26strip%3Dall%261794151829",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/hakeem-jeffries-gloats-that-hes-a-hard-yes-on-another-trump-impeachment/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-za4cklax5-1794169801259.jpg?quality%3D90%26strip%3Dall%261794151844",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4796849/bernie-sanders-trump-investigations-congress/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26298066211433.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T20:59:25.440196+00:00"
 }
 }
