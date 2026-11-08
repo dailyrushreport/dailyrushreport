@@ -25,7 +25,7 @@
   "url": "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "since": "2026-11-08T22:57:37.835276+00:00"
  },
- "last_build": "2026-11-08T23:26:05.436374+00:00",
+ "last_build": "2026-11-08T23:57:27.442239+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 500: Internal Server Error) - used cache from 2026-11-08T22:57Z",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-08T22:57Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
