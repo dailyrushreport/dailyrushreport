@@ -1,106 +1,4 @@
 {
-"https://justthenews.com/nation/economy/private-sector-employment-86000-jobs-october-earnings-growth-highest-two-years": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://justthenews.com/nation/crime/four-dead-domestic-call-shooting-including-one-washington-deputy-one-deputy-life": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://justthenews.com/nation/culture/nasa-space-telescope-falls-earth-marking-end-its-22-year-mission": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.jpost.com/international/article-913878": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737783",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4793513/leon-black-robert-garcia-defamation-lawsuit-epstein/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26246480870989.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.bbc.co.uk/news/articles/crz98zqkz7z0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.thefp.com/p/the-interstate-where-the-midterms-were-won": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!ET9s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8da3af1-e2d8-4629-b7d0-a0778e0d54d2_1800x2250.jpeg",
-"w": 1800,
-"h": 2250,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://reason.com/volokh/2026/11/04/dont-expect-a-lame-duck-supreme-court-vacancy-but-there-are-other-nominations-to-consider/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-913879": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732275",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://www.thefp.com/p/rod-dreher-to-win-again-republicans": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!bV3h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7be36fde-eccd-4ddd-892b-32cbf7b6b47b_4800x2700.jpeg",
-"w": 4800,
-"h": 2700,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
-"https://nypost.com/2026/11/04/sports/liv-golf-2-0-never-stood-a-chance/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-52akbc2fc-1793843006477.jpg?quality%3D90%26strip%3Dall%261793825129",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T02:43:18.753109+00:00"
-},
 "https://reason.com/volokh/2026/11/04/the-time-the-opportunity-and-the-need-to-reclaim-the-republican-party-from-trump-and-trumpism/": {
 "v": 2,
 "photo": null,
@@ -9095,5 +8993,43 @@
 "via": "feed"
 },
 "checked": "2026-11-08T02:38:36.143863+00:00"
+},
+"https://www.foxnews.com/outkick-sports/matt-rhule-says-nebraska-due-change-coaching-staff-shakeup-following-loss-illinois": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Matt-Rhule-Nebraska-Cornhuskers.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T03:38:53.148935+00:00"
+},
+"https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T03:38:53.148935+00:00"
+},
+"https://nypost.com/2026/11/07/sports/islanders-blow-late-lead-and-fall-to-devils-on-jack-hughes-ot-goal/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-8080gcu35-1794107690722.jpg?quality%3D90%26strip%3Dall%261794089703",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T03:38:53.148935+00:00"
+},
+"https://nypost.com/2026/11/07/sports/shaquille-oneal-hits-the-too-small-celebration-at-angel-reese/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-8sq6eksqs-1794106711767.jpg?quality%3D90%26strip%3Dall%261794088740",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T03:38:53.148935+00:00"
 }
 }
