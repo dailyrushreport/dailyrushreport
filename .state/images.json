@@ -1,184 +1,4 @@
 {
-"https://justthenews.com/politics-policy/trump-calls-declaring-dan-sullivan-victor-alaska-senate-race": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://justthenews.com/politics-policy/elections/maga-warrior-lauren-boeberts-house-reelection-bid-colorado-still-too": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.jpost.com/diaspora/article-913969": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/553502",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://thehill.com/homenews/administration/6200360-donald-trump-pete-hegseth-defense-department-midterms-congress/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26254545480814-e1793888277874.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913935": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/508037",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://thehill.com/blogs/in-the-know/6200298-cristiano-ronaldo-retires-from-portugal-national-team/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26276444206208-e1793886967463.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.washingtonexaminer.com/policy/healthcare/4793736/nathan-johnson-stop-sue-doctor-mail-abortion-pill/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26099558539961.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.cnbc.com/2026/11/05/cnbcs-robert-frank-talks-with-brown-harris-stevens-ceo-bess-freedman.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108062640-1731530831033-IMG_3737.jpg?v=1731530901&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261103003207.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.cnbc.com/investingclub/2026/11/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108302255-1777989618743-gettyimages-2235601629-AXIOS_MEDIA_TRENDS.jpeg?v=1778105147&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Motorola",
-"via": "feed"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261102202836.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/homo-erectus-skull.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nasa-x-70-image.webp?quality=90&strip=all&crop=0%2C3.4860430309741%2C100%2C93.027913938052&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&strip=all&crop=0%2C10.752726382539%2C100%2C78.494547234923&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/uc-berkeley-faces-federal-civil-rights-probe-over-race-based-programs/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147551455.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T14:44:44.169162+00:00"
-},
 "https://justthenews.com/nation/crime/russell-brand-found-guilty-rape-and-sexual-assault-uk": {
 "v": 2,
 "photo": null,
@@ -9051,5 +8871,108 @@
 "via": "feed"
 },
 "checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://justthenews.com/government/courts-law/sotomayor-hopes-high-court-reverses-crazy-presidential-immunity-ruling": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/trump-s-1-5-trillion-defense-budget-to-be-blocked-by-democrats": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://thehill.com/policy/international/6206505-meloni-blames-russian-hackers-tajani/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/06/6a3571838f6027.96676387-e1794143532347.jpeg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914237": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743758",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.politico.com/news/2026/11/08/texas-hinojosa-beshear-2028-01155434": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914218": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745381",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.foxnews.com/tech/tesla-plans-wind-down-cybertruck-production-after-sales-slump": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tesla-cybertrucks-starbase-texas.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm70pdwz122ro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8b73/live/64aba5a0-db85-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+"w": 1199,
+"h": 621,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/86-year-old-sailor-rescued-off-san-diego-after-months-lost-at-sea-says-pacific-voyage-was-bucket-list-dream/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-xles6ezpp-1794109227908.jpg?quality%3D90%26strip%3Dall%261794091252",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://nypost.com/2026/11/08/betting/kalshi-promo-code-nypmax55-trade-25-get-up-to-55-bonus-for-rams-vs-commanders/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41700360.jpg?quality%3D90%26strip%3Dall",
+"w": 3786,
+"h": 2523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:05:52.924000+00:00"
 }
 }
