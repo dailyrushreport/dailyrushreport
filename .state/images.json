@@ -1,173 +1,4 @@
 {
-"https://justthenews.com/government/courts-law/harmeet-dhillon-resigns-doj-report": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://justthenews.com/politics-policy/greg-steube-joins-leadership-fight-demands-real-conservative-options": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ecb3/live/33e07d40-d92a-11f1-af74-e735e628ea98.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108526742-17938969962026-04-19t020525z_78488080_rc21ska1w4d0_rtrmadp_0_space-blue-origin-new-glenn.jpeg?v=1793899626&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.jpost.com/israel-news/article-913960": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745120",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108519701-1793815278119-gettyimages-2298276919-573140-pol-anti-prop-40-rally-eat-0005.jpeg?v=1793815283&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-913998": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745121",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6p9g39vln3yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://dailycaller.com/2026/11/05/runaway-healthcare-costs-midterms-democrats-republicans-fraud-trump-administration": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2234897486%20(1).jpg",
-"w": 3500,
-"h": 1500,
-"credit": "by Jemal Countess / Getty Images for Economic Security Project",
-"via": "feed"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.theverge.com/tech/1027772/tiktok-shop-app": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/unnamed-4.png?quality=90&strip=all&crop=0,26.055193890804,100,29.450310432426",
-"w": 1080,
-"h": 557,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/U2PDPzZUMVdreB2FZaWuRe-2000-80.jpg",
-"w": 2000,
-"h": 1125,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embercupsixouncewithtea_c325e7.png?quality=90&strip=all&crop=0,11.978036010727,100,76.043927978547",
-"w": 1191,
-"h": 623,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/tampa-citibank-shooting-bodycam-footage-shows-hunt-for-gunman/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41692179.jpg?quality%3D90%26strip%3Dall",
-"w": 2072,
-"h": 1381,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
-"https://nypost.com/2026/11/05/lifestyle/gen-z-millennials-say-morning-debrief-more-exciting-than-night-out-survey/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-kz5fs5lag-1793900444063.jpg?quality%3D90%26strip%3Dall%261793882463",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T17:45:40.994014+00:00"
-},
 "https://justthenews.com/government/local/six-people-killed-brooklyn-home-fire-more-230-emergency-workers-deployed": {
 "v": 2,
 "photo": null,
@@ -8944,5 +8775,119 @@
 "via": "feed"
 },
 "checked": "2026-11-08T17:05:27.514771+00:00"
+},
+"https://justthenews.com/government/congress/jeffries-backs-impeachment-hegseth-predicts-strong-democratic-support": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914254": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745429",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914252": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745428",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/cf3d0de0c610b38707a0776f90e554b0fea1fbda/130_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=e681345b80d86458b5124f43a8d6771c",
+"w": 700,
+"h": 560,
+"credit": "Ed Zurga/AP",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/philly-kristallnacht-protests-at-jewish-owned-businesses-drowned-out-shouted-down-by-huge-crowds/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ir08zhvvm-1794160054986.jpg?quality%3D90%26strip%3Dall%261794142062",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.foxbusiness.com/politics/california-faces-one-two-punch-voters-reject-wealth-tax-billionaires-eye-exits": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/hollywood-sign-california-billionaires.png",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8zxl9417e5vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8d42/live/5bcb9e00-db7a-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://nypost.com/2026/11/08/lifestyle/how-a-couples-dream-honeymoon-around-the-world-hid-a-truly-grotesque-crime/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-2wsg6cejf-1794159595256.jpg?quality%3D90%26strip%3Dall%261794141614",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200",
+"w": 1200,
+"h": 626,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
+},
+"https://nypost.com/2026/11/08/business/deal-for-60-wall-st-bodes-well-for-lower-manhattan/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cw367joqm-1794159908241.jpg?quality%3D90%26strip%3Dall%261794141920",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T17:55:33.681830+00:00"
 }
 }
