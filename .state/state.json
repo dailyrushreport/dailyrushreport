@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
   "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
   "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
-  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/"
+  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
+  "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
-  "since": "2026-11-08T15:58:25.268609+00:00"
+  "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+  "since": "2026-11-08T19:13:16.438249+00:00"
  },
- "last_build": "2026-11-08T18:25:29.780939+00:00",
+ "last_build": "2026-11-08T19:13:16.438249+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-08T18:25Z",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -232,6 +232,7 @@
   "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
   "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
   "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
-  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/"
+  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
+  "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/"
  ]
 }

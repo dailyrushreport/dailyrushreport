@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 8, 2026 9:58 AM CT
+# Social drafts — Sun Nov 8, 2026 1:13 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-08-0958.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-08-1313.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Russia targets emergency crews at the site of a deadly strike in southern Ukraine  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/  
+Lead: Trump shares cartoon of Dana White as press secretary  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 173/280 chars (X counting)
+## X — status: pending_approval · 134/280 chars (X counting)
 
 ```
-Russia targets emergency crews at the site of a deadly strike in southern Ukraine. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/
+Trump shares cartoon of Dana White as press secretary. (The Hill) https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Russia targets emergency crews at the site of a deadly strike in southern Ukraine. Story via Washington Examiner. Link in bio.
+Trump shares cartoon of Dana White as press secretary. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
