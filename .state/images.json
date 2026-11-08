@@ -1,184 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/billionaire-tax-fails-bond-measures-pass-california": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://justthenews.com/nation/states/center-square/los-angeles-mayoral-race-still-undecided": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://justthenews.com/politics-policy/elections/final-republican-who-voted-impeach-trump-loses-reelection-progressive": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.jpost.com/middle-east/article-913956": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743557",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.washingtonexaminer.com/news/world/4793684/flights-diverted-europe-multiple-bomb-threats/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/03/AP26064248007916.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.jpost.com/israel-news/article-913952": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745049",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cq5ynjn61kkzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108348674-1786560665895-gettyimages-2285224222-campbell-notitle260712_npZlF.jpeg?v=1786560691&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.cnbc.com/2026/11/05/here-are-thursdays-biggest-analyst-calls-of-the-day-more.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108287666-17755155442026-04-06t224346z_1794776718_rc2sjkarih6q_rtrmadp_0_spacex-ipo.jpeg?v=1775515597&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&strip=all&crop=0%2C4.0288596603244%2C100%2C91.942280679351&w=1200",
-"w": 1200,
-"h": 621,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-"w": 1200,
-"h": 621,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/AiaAqXG4pJVCeRwNm9i8jH-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "NASA",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/cTJYivq9mYM2y7WWZFSME7-1920-80.jpg",
-"w": 1775,
-"h": 998,
-"credit": "CCTV",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/trump-says-he-has-every-intention-of-keeping-pete-hegseth-as-pressure-grows-to-oust-war-secretary/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FHegseth-Trump-2.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://nypost.com/2026/11/05/sports/rams-vs-commanders-week-9-preview-los-angeles-faces-dangerous-trap-game-in-washingto/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-whnmj8yyk-1793874423317.jpg?quality%3D90%26strip%3Dall%261793856474",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cx1l36y2d941o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b0d4/live/0f9efad0-d90f-11f1-94c6-3f8050561bf5.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
-"https://nypost.com/2026/11/05/sports/jalen-hurts-makes-rare-appearance-at-eagles-facility-after-blood-clot/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-wd3e3dh1b-1793883534154.jpg?quality%3D90%26strip%3Dall%261793865572",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T13:40:42.618773+00:00"
-},
 "https://justthenews.com/politics-policy/trump-calls-declaring-dan-sullivan-victor-alaska-senate-race": {
 "v": 2,
 "photo": null,
@@ -7394,7 +7214,7 @@
 "https://justthenews.com/government/white-house/trump-offers-white-house-press-secretary-job-ufc-ceo-dana-white": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-07T21:57:54.880243+00:00"
+"checked": "2026-11-08T14:28:22.468954+00:00"
 },
 "https://www.foxnews.com/travel/urgent-travel-alert-nationwide-strike-threatens-widespread-disruption-delays": {
 "v": 2,
@@ -9112,5 +8932,124 @@
 "via": "feed"
 },
 "checked": "2026-11-08T13:38:19.381121+00:00"
+},
+"https://justthenews.com/government/federal-agencies/us-forces-disable-cargo-ship-gulf-oman-after-alleged-blockade-violation": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.foxnews.com/outkick-sports/cast-madden-hits-red-carpet-talk-whether-theyve-chowed-down-turducken": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/john-madden-pro-football-hall-of-fame-bust.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://justthenews.com/nation/states/center-square/rubio-says-us-talks-establish-military-presence-venezuela": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.jpost.com/middle-east/article-914219": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745384",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914220": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745385",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108463869-17930177542026-10-22t132021z_138782045_rc2b6oa41zev_rtrmadp_0_energy-europe-batteries.jpeg?v=1793017796&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108527169-1793902848646-FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1_1.png?v=1793902929&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/kamala-harris-is-a-huge-loser-in-new-dem-straw-poll-as-ossoff-leads/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-yfnmzi893-1794147483294.jpg?quality%3D90%26strip%3Dall%261794129534",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b08/live/3fdc47d0-db7a-11f1-93e1-3b657b665bcf.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://www.foxbusiness.com/politics/house-republicans-demand-answers-from-nvidia-ceo-over-reported-chinese-spy-ties": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/nvidia-jensen-huang.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
+},
+"https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41698535.jpg?quality%3D90%26strip%3Dall",
+"w": 3510,
+"h": 2339,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T14:28:22.468954+00:00"
 }
 }

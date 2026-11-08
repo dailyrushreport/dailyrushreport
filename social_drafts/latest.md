@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 8, 2026 7:38 AM CT
+# Social drafts — Sun Nov 8, 2026 8:28 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-08-0738.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-08-0828.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Dana White says he will meet with Trump to discuss White House press secretary role  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/  
+Lead: BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 164/280 chars (X counting)
+## X — status: pending_approval · 162/280 chars (X counting)
 
 ```
-Dana White says he will meet with Trump to discuss White House press secretary role. (The Hill) https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/
+BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs. (NY Post) https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Dana White says he will meet with Trump to discuss White House press secretary role. Story via The Hill. Link in bio.
+BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
