@@ -1,129 +1,4 @@
 {
-"https://justthenews.com/nation/crime/russell-brand-found-guilty-rape-and-sexual-assault-uk": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://justthenews.com/government/white-house/melania-trump-hold-meeting-between-representatives-russia-and-ukraine-white": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6ly37727nk3o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b9f4/live/51ee5660-d919-11f1-ad94-e17fee4cd332.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-events.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-"w": 900,
-"h": 469,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://thehill.com/policy/international/6200755-el-sayed-supports-trump-israel-aid/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Election-storylines_Vakil_AP_Julia-Demaree-Nikhinson.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4793294/trumps-window-for-judicial-nomination-narrows-after-democrats-retake-senate/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26306093085729.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4793778/trump-fake-dan-sullivan-votes-alaska-senate/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26308655469627.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108503920-1793626236128-gettyimages-2302713434-AFP_D66N3CZ.jpeg?v=1793626603&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-"w": 2000,
-"h": 1125,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
-"https://nypost.com/2026/11/05/business/wendys-is-rejecting-a-1-4b-takeover-adopts-poison-pill-plan/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147640910.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T15:44:18.124623+00:00"
-},
 "https://justthenews.com/politics-policy/wh-state-deny-reports-rubio-eyeing-door": {
 "v": 2,
 "photo": null,
@@ -8974,5 +8849,115 @@
 "via": "feed"
 },
 "checked": "2026-11-08T15:05:52.924000+00:00"
+},
+"https://www.foxnews.com/food-drink/all-you-can-eat-dining-makes-comeback-americans-look-more-bang-buck": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/people_eating_korean_barbecue.jpeg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4796722/elissa-slotkin-schumer-senate-majority-leader/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26042676433069.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26311681570231-1.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914231": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745348",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/gUQLiwF4A7bRhWYo27zFGg-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "ESA",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-914217": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729599",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://nypost.com/2026/11/08/sports/joe-burrows-rumored-girlfriend-olivia-ponton-shows-off-spain-adventures/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-nl9wv7q57-1794150833595.jpg?quality%3D90%26strip%3Dall%261794132870",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://nypost.com/2026/11/08/betting/novig-promo-code-nypost-claim-50-in-trade-credits-with-sydney-sweeney-for-nyg-phi/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-m03azdyt4-1793742200729.jpg?quality%3D90%26strip%3Dall%261793724259",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://nypost.com/2026/11/08/betting/prophetx-referral-code-nypbonus-trade-40-get-40-for-rams-vs-commanders/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41674281.jpg?quality%3D90%26strip%3Dall",
+"w": 3000,
+"h": 1999,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/alexander-bros-allegedly-paid-writers-for-positive-trial-coverage/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148002122.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T15:58:25.268609+00:00"
 }
 }

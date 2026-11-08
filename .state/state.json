@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
   "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
   "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
   "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
   "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
   "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
-  "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/"
+  "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
+  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
-  "since": "2026-11-08T14:28:22.468954+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
+  "since": "2026-11-08T15:58:25.268609+00:00"
  },
- "last_build": "2026-11-08T15:05:52.924000+00:00",
+ "last_build": "2026-11-08T15:58:25.268609+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -231,6 +231,7 @@
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
   "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
   "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
-  "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/"
+  "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
+  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/"
  ]
 }

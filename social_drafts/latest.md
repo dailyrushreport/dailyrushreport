@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 8, 2026 8:28 AM CT
+# Social drafts — Sun Nov 8, 2026 9:58 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-08-0828.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-08-0958.json x` or `... instagram` (prints the final text to copy).
 
-Lead: BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/  
+Lead: Russia targets emergency crews at the site of a deadly strike in southern Ukraine  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 162/280 chars (X counting)
+## X — status: pending_approval · 173/280 chars (X counting)
 
 ```
-BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs. (NY Post) https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/
+Russia targets emergency crews at the site of a deadly strike in southern Ukraine. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Jets vs. Chiefs. Story via NY Post. Link in bio.
+Russia targets emergency crews at the site of a deadly strike in southern Ukraine. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
