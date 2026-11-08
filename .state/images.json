@@ -1,74 +1,4 @@
 {
-"https://reason.com/volokh/2026/11/04/the-time-the-opportunity-and-the-need-to-reclaim-the-republican-party-from-trump-and-trumpism/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://justthenews.com/government/federal-agencies/justice-department-declines-give-update-alaska-probes-senate-race-too": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108360037-1788900131079-gettyimages-2291856689-livmsm08232026_1013.jpeg?v=1788900333&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e011/live/65561fb0-d812-11f1-bc0e-b5a9e0785e4b.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://nypost.com/2026/11/04/sports/reporter-asks-commanders-coach-how-hell-stop-injured-davante-adams/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-fod0v2s62-1793849176681.jpg?quality%3D90%26strip%3Dall%261793831214",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://nypost.com/2026/11/04/sports/knicks-explode-in-beatdown-of-bulls-to-reach-500-mark/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-krlw8jqov-1793848931014.jpg?quality%3D90%26strip%3Dall%261793830969",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
-"https://nypost.com/2026/11/04/us-news/doctor-who-botched-christa-pikes-execution-had-not-placed-iv-line-since-2013-report/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fchrista-pike-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T03:40:29.049030+00:00"
-},
 "https://justthenews.com/nation/states/center-square/lombardo-concedes-ford-nevada-gubernatorial-race": {
 "v": 2,
 "photo": null,
@@ -6249,7 +6179,7 @@
 "https://justthenews.com/nation/states/center-square/amazon-adds-uber-eats-benefit-doordash-pursues-instacart": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-07T04:36:53.277837+00:00"
+"checked": "2026-11-08T04:39:26.701276+00:00"
 },
 "https://justthenews.com/nation/states/center-square/harrison-calls-abbott-hold-emergency-legislative-session": {
 "v": 2,
@@ -9031,5 +8961,86 @@
 "via": "feed"
 },
 "checked": "2026-11-08T03:38:53.148935+00:00"
+},
+"https://justthenews.com/world/europe/paris-protesters-defy-bans-clashes-police-erupt-during-fourth-week-nationwide-protests": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/healthcare-economy-top-democrat-priorities-after-midterms": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914161": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740086",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bowler-Ritsuko-Nakayama.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c65yn1v99ypmo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck87z9exex2lo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://nypost.com/2026/11/07/sports/jalen-brunson-karl-anthony-towns-dominate-in-knicks-win/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-5192aiozc-1794109802824.jpg?quality%3D90%26strip%3Dall%261794091841",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
+},
+"https://nypost.com/2026/11/07/sports/jack-ham-stable-after-penn-state-broadcast-partners-heroic-effort-during-medical-emergency/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41731984.jpg?quality%3D90%26strip%3Dall",
+"w": 4238,
+"h": 2825,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T04:39:26.701276+00:00"
 }
 }
