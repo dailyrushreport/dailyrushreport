@@ -9,76 +9,6 @@
 "photo": null,
 "checked": "2026-11-05T13:40:42.618773+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-05/wheat-climbs-as-weak-russian-export-outlook-fans-supply-concerns": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108309757-1779284560057-gettyimages-2276638145-RUS_Russian_President_Putin_Visits_China.jpeg?v=1779284591&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://www.breitbart.com/politics/2026/11/04/muslim-brotherhood-official-hails-el-sayed-senate-win-model/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Abdul-El-Sayed-November4-2026-Detroit-Michigan-getty-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://nypost.com/2026/11/05/us-news/powerball-847-million-jackpot-winning-ticket-sold-in-new-jersey-results-numbers/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-0uc8y6ahc-1793245021305.jpg?quality%3D90%26strip%3Dall%261793230627",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://nypost.com/2026/11/05/sports/tyler-kolek-gets-backup-point-guard-nod-in-knicks-dominant-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-e0gsglmsi-1793853771966.jpg?quality%3D90%26strip%3Dall%261793835782",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
-"https://nypost.com/2026/11/05/sports/charles-barkley-wasnt-impressed-with-heated-76ers-pistons-scuffle/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-gp46eo46q-1793854768219.jpg?quality%3D90%26strip%3Dall%261793836829",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T05:46:00.463126+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-05/ascendas-firstspace-said-to-consider-500-million-india-ipo": {
 "v": 2,
 "photo": null,
@@ -9030,5 +8960,92 @@
 "via": "feed"
 },
 "checked": "2026-11-08T05:36:46.451427+00:00"
+},
+"https://justthenews.com/nation/states/center-square/parental-rights-org-celebrates-passage-girls-sports-protection-measures": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://justthenews.com/politics-policy/energy/democrats-will-control-congress-and-restoring-renewable-subsidies-tops-their": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/89b89ba0a50751e84783041572033fc1691753e0/186_0_5683_4547/master/5683.jpg?width=700&quality=85&auto=format&fit=max&s=33aef2c5b8de858f90ac971e17cd0277",
+"w": 700,
+"h": 560,
+"credit": "Alex Brandon/AP",
+"via": "feed"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://www.jpost.com/history/article-914163": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745314",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://www.jpost.com/archaeology/article-914056": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745188",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://nypost.com/2026/11/08/sports/knicks-tyler-kolek-owns-up-to-taylor-swift-fan-comment-that-earned-him-some-fun-ribbing/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-701lsg4r8-1794116699423.jpg?quality%3D90%26strip%3Dall%261794098789",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://nypost.com/2026/11/08/us-news/blue-angels-pilot-scott-laux-booted-from-elite-navy-flight-team-for-failing-to-meet-standards/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fblue-angels.jpg?quality%3D90%26strip%3Dall%261794100729",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
+},
+"https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-08T06:37:14.204317+00:00"
 }
 }
