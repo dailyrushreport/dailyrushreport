@@ -4,114 +4,6 @@
 "photo": null,
 "checked": "2026-11-05T02:43:18.753109+00:00"
 },
-"https://justthenews.com/government/federal-agencies/mullin-vows-deportations-will-continue-after-republicans-lose-midterm": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/elections/you-vote-regarding-massive-gop-defeat-tuesday-what-do-you-think-was-main": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.jpost.com/israel-news/crime-in-israel/article-913876": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744934",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.jpost.com/israel-news/culture/article-913877": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744936",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/economy/private-sector-employment-86000-jobs-october-earnings-growth-highest-two-years": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.cnbc.com/2026/11/04/thursdays-big-stock-stories-whats-likely-to-move-the-market.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108303674-1778164171252-gettyimages-2201155425-dsc01682_copy_gxoyhdag.jpeg?v=1778164289&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cky93z5y0171o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9e5e/live/f37ce860-d8ac-11f1-8b97-dd854ec90424.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://nypost.com/2026/11/04/sports/the-lesson-for-liberty-to-learn-from-chris-demarcos-quick-flameout/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-qd4fk7j9q-1793841410685.jpg?quality%3D90%26strip%3Dall%261793823462",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://nypost.com/2026/11/04/media/ms-now-host-claims-byron-donalds-isnt-true-kinfolk-after-historic-florida-gubernatorial-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147573085.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
-"https://nypost.com/2026/11/04/us-news/10-alleged-noncitizens-indicted-in-massive-california-voter-fraud-investigation/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147571412.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-05T01:37:09.476171+00:00"
-},
 "https://justthenews.com/nation/crime/four-dead-domestic-call-shooting-including-one-washington-deputy-one-deputy-life": {
 "v": 2,
 "photo": null,
@@ -9068,5 +8960,59 @@
 "via": "feed"
 },
 "checked": "2026-11-08T00:40:50.662059+00:00"
+},
+"https://justthenews.com/nation/states/center-square/democrats-midterm-gains-complicate-path-forward-permitting-bill": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://www.foxnews.com/outkick-sports/florida-state-interim-coach-rick-stockstill-leads-seminoles-win-debut-ends-road-losing-streak": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rick-stockstill-florida-state-football.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/voting-snafu-changes-outcome-georgia-house-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2980/live/0d4070d0-db11-11f1-a8c7-49f7fad62676.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/05/GettyImages-2264358389-e1774106468748.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T01:51:26.372713+00:00"
+},
+"https://nypost.com/2026/11/07/world-news/very-radical-polish-gunman-who-killed-6-held-ultranationalistic-views-authorities-say/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpolice-privacy-screens-installed-cordoned-147922984.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-08T01:51:26.372713+00:00"
 }
 }

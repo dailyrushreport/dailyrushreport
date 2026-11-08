@@ -25,7 +25,7 @@
   "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
   "since": "2026-11-07T23:27:53.903211+00:00"
  },
- "last_build": "2026-11-08T00:40:50.662059+00:00",
+ "last_build": "2026-11-08T01:51:26.372713+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -36,7 +36,7 @@
   "Daily Caller": "ok",
   "Daily Wire": "ok",
   "Free Beacon": "ok",
-  "Breitbart": "ok",
+  "Breitbart": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-08T00:40Z",
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-07T23:27Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
