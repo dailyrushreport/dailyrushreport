@@ -4,107 +4,10 @@
 "photo": null,
 "checked": "2026-11-06T11:19:51.822813+00:00"
 },
-"https://justthenews.com/government/white-house/watch-live-trump-signs-proclamation-white-house": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
 "https://justthenews.com/politics-policy/elections/new-york-republican-bruce-blakeman-blasts-stefanik-selfish-not-being-more": {
 "v": 2,
 "photo": null,
 "checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://justthenews.com/nation/states/center-square/epa-approves-arizona-countys-first-nation-emissions-rule": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://justthenews.com/government/security/after-midterm-rebuke-trump-faces-choices-ongoing-iran-war": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-06/what-does-a-democratic-congress-mean-for-markets": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=700&quality=85&auto=format&fit=max&s=c9b009d116ee1fdcc35377fd421c7636",
-"w": 700,
-"h": 560,
-"credit": "Ritchie B Tongo/EPA",
-"via": "feed"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c8qlnx4x349zo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cvglww2r307ko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.jpost.com/middle-east/article-914042": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/687116",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://reason.com/2026/11/06/brickbat-gunning-for-trouble/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/gunraff-1-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "Kenishirotie/Andrei Victor Calangiu/Dreamstime",
-"via": "feed"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914045": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744093",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
-},
-"https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147740242.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T09:19:24.495502+00:00"
 },
 "https://justthenews.com/index%2Ephp/politics-policy/elections/you-vote-analysis-why-gop-was-so-badly-defeated-tuesday-who-was-most": {
 "v": 2,
@@ -8846,5 +8749,98 @@
 "via": "feed"
 },
 "checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://www.foxnews.com/politics/border-dem-poised-wield-ice-purse-strings-rejects-socialist-defund-push": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/henry-cuellar-speaks-during-a-committee.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/krakow-square.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-09/this-is-how-new-york-city-takes-out-its-trash": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.jpost.com/environment-and-climate-change/article-914309": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745489",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.jpost.com/israel-news/article-914305": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744563",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/09/joe-burrow-bengals-nfl-mvp-race-frontrunners": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/ad1b7c3e393b16c97ddc4e7ca94ff77139b16751/1314_0_6749_5403/master/6749.jpg?width=700&quality=85&auto=format&fit=max&s=21ca86da40a160ce162fbab8a078dc28",
+"w": 700,
+"h": 560,
+"credit": "Manu Fern\u00e1ndez/AP",
+"via": "feed"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck0j0j87959eo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
+},
+"https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50c9/live/d36d8f80-dc16-11f1-a631-078d47c5aafb.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T09:34:28.628114+00:00"
 }
 }

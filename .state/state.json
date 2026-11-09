@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
   "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
   "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
-  "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/"
+  "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
+  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
-  "since": "2026-11-09T05:50:16.187066+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+  "since": "2026-11-09T09:34:28.628114+00:00"
  },
- "last_build": "2026-11-09T08:17:37.309533+00:00",
+ "last_build": "2026-11-09T09:34:28.628114+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -64,11 +64,11 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "ok",
+  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
-  "Religious Liberty": "ok"
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
+  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
@@ -236,6 +236,7 @@
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
-  "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/"
+  "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
+  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
  ]
 }
