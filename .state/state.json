@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
   "https://nypost.com/2026/11/07/us-news/trump-offers-ufc-boss-dana-white-role-of-white-house-press-secretary/",
   "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
   "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
   "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
-  "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/"
+  "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
+  "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
-  "since": "2026-11-09T17:27:29.997237+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
+  "since": "2026-11-09T19:24:02.276761+00:00"
  },
- "last_build": "2026-11-09T17:27:29.997237+00:00",
+ "last_build": "2026-11-09T19:24:02.276761+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -242,6 +242,7 @@
   "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
   "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
-  "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/"
+  "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
+  "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people"
  ]
 }
