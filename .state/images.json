@@ -14,114 +14,6 @@
 "photo": null,
 "checked": "2026-11-06T12:11:24.966684+00:00"
 },
-"https://justthenews.com/index%2Ephp/government/security/after-midterm-rebuke-trump-faces-choices-ongoing-iran-war": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/states/center-square/epa-approves-arizona-countys-first-nation-emissions-rule": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/white-house/watch-live-trump-signs-proclamation-white-house": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-06/uk-markets-join-global-rout": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-914040": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745169",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://www.jpost.com/international/article-914039": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688661",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmd9343z3zw2o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://nypost.com/2026/11/06/us-news/rosie-odonnell-considers-return-to-new-york-from-dublin-after-blue-wave-of-midterm-election-wins/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-j1g75dr8f-1793944963650.jpg?quality%3D90%26strip%3Dall%261793927004",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://nypost.com/2026/11/06/us-news/trumps-250-foot-triumphal-arch-gets-greenlight-from-key-federal-panel/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-xruga36jd-1793946266855.jpg?quality%3D90%26strip%3Dall%261793928325",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://nypost.com/2026/11/06/us-news/child-molester-leomar-alexander-lopez-zambranos-looming-prison-release-reignites-sanctuary-in-wake-of-dem-election-sweep/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-d0520u9jc-1793947903232.jpg?quality%3D90%26strip%3Dall%261793929950",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
-"https://nypost.com/2026/11/06/lifestyle/dear-abby-ive-spoiled-my-grown-kids-for-decades-they-cant-even-send-a-thank-you-card/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Funhappy-elderly-caucasian-60s-woman-142773520-e1793058892375.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T08:02:11.983379+00:00"
-},
 "https://justthenews.com/nation/states/center-square/epa-approves-arizona-countys-first-nation-emissions-rule": {
 "v": 2,
 "photo": null,
@@ -8884,5 +8776,75 @@
 "via": "feed"
 },
 "checked": "2026-11-09T06:58:38.403950+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-09/thames-water-creditors-back-debt-extension-as-rescue-talks-drag": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-09/ice-joins-wind-derivatives-push-as-renewables-reshape-power": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-in-his-own-words": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/8ef69650201aecceadff5608711b7a18369a937e/678_175_2856_2285/master/2856.jpg?width=700&quality=85&auto=format&fit=max&s=57a77a31dcd5de55a4ce6aa12225d696",
+"w": 700,
+"h": 560,
+"credit": "Eric Lee/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://www.jpost.com/israel-news/article-914297": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745477",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://www.jpost.com/international/article-914293": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745472",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://reason.com/volokh/2026/11/09/open-thread-383/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://nypost.com/2026/11/09/lifestyle/dear-abby-my-life-is-a-failure-i-dont-know-how-im-able-to-live-moving-forward/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F51212EDMED.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T08:17:37.309533+00:00"
+},
+"https://nypost.com/2026/11/09/world-news/police-say-the-24-year-old-who-fatally-shot-6-people-in-a-krakow-square-has-died-in-the-hospital/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148084142.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T08:17:37.309533+00:00"
 }
 }
