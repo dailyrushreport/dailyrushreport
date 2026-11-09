@@ -25,7 +25,7 @@
   "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "since": "2026-11-09T09:34:28.628114+00:00"
  },
- "last_build": "2026-11-09T09:34:28.628114+00:00",
+ "last_build": "2026-11-09T10:42:56.572970+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -64,11 +64,11 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
+  "MAHA / HHS": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
-  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z",
-  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-09T08:17Z"
+  "Adventist News Network": "ok",
+  "Liberty Magazine": "ok",
+  "Religious Liberty": "ok"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
