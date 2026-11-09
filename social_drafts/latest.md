@@ -1,25 +1,25 @@
-# Social drafts — Mon Nov 9, 2026 8:03 AM CT
+# Social drafts — Mon Nov 9, 2026 9:19 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-09-0803.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-09-0919.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html  
-Pinned by editor: no · BREAKING: no
+Lead: Nvidia stock plunges 5% after CEO Jensen Huang admits to affair with alleged Chinese spy  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 182/280 chars (X counting)
 
 ```
-Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. (CNBC) https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html
+Nvidia stock plunges 5% after CEO Jensen Huang admits to affair with alleged Chinese spy. (NY Post) https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. Story via CNBC. Link in bio.
+Nvidia stock plunges 5% after CEO Jensen Huang admits to affair with alleged Chinese spy. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

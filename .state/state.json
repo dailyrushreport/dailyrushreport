@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
   "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/",
   "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
   "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
   "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
-  "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+  "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+  "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-  "since": "2026-11-09T14:03:45.650599+00:00"
+  "url": "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
+  "since": "2026-11-09T15:19:05.316701+00:00"
  },
- "last_build": "2026-11-09T14:03:45.650599+00:00",
+ "last_build": "2026-11-09T15:19:05.316701+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -239,6 +239,7 @@
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
   "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
-  "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+  "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+  "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/"
  ]
 }
