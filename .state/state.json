@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
   "https://www.washingtonexaminer.com/policy/immigration/4796344/houston-mayor-limits-police-cooperation-ice/",
   "https://nypost.com/2026/11/07/us-news/houston-mayor-john-whitmire-reverses-course-on-ice-cooperation-after-blue-wave-crashes-in-texas/",
   "https://www.breitbart.com/politics/2026/11/06/chris-murphy-to-miss-several-weeks-of-senate-votes-after-stroke/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
-  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
+  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+  "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
-  "since": "2026-11-09T09:34:28.628114+00:00"
+  "url": "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
+  "since": "2026-11-09T11:42:28.589842+00:00"
  },
- "last_build": "2026-11-09T10:42:56.572970+00:00",
+ "last_build": "2026-11-09T11:42:28.589842+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -237,6 +237,7 @@
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
-  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
+  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+  "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/"
  ]
 }

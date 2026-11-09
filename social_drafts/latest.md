@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 9, 2026 3:34 AM CT
+# Social drafts — Mon Nov 9, 2026 5:42 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-09-0334.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-09-0542.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump says he was 'kidding' about Dana White press secretary offer  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/ck0j0j87959eo  
+Lead: Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 142/280 chars (X counting)
+## X — status: pending_approval · 165/280 chars (X counting)
 
 ```
-Trump says he was 'kidding' about Dana White press secretary offer. (BBC) https://www.bbc.co.uk/news/articles/ck0j0j87959eo
+Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White. (NY Post) https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump says he was 'kidding' about Dana White press secretary offer. Story via BBC. Link in bio.
+Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
