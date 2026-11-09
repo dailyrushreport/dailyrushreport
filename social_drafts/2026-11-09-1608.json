@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-09-1608.json",
+  "created": "2026-11-09T22:08:19.943038+00:00",
+  "created_ct": "Mon Nov 9, 2026 4:08 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "original_headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/c6zxjx01vyleo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 160,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

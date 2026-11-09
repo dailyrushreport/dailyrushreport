@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
   "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
   "https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/",
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
   "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
-  "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+  "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+  "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-  "since": "2026-11-09T21:14:48.119701+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+  "since": "2026-11-09T22:08:19.943038+00:00"
  },
- "last_build": "2026-11-09T21:14:48.119701+00:00",
+ "last_build": "2026-11-09T22:08:19.943038+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -244,6 +244,7 @@
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
   "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
-  "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+  "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+  "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
  ]
 }
