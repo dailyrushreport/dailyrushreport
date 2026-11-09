@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-09-1514.json",
+  "created": "2026-11-09T21:14:48.119701+00:00",
+  "created_ct": "Mon Nov 9, 2026 3:14 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth impeachment articles introduced by Rep. Massie",
+    "original_headline": "Hegseth impeachment articles introduced by Rep. Massie",
+    "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth impeachment articles introduced by Rep. Massie. (CNBC) https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 131,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth impeachment articles introduced by Rep. Massie. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
