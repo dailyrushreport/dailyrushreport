@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 8, 2026 8:42 PM CT
+# Social drafts — Sun Nov 8, 2026 11:50 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-08-2042.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-08-2350.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump says he was ‘kidding’ about Dana White for press secretary  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/  
+Lead: Erika Kirk blasts ‘leftist’ comedians after Dave Chappelle’s joke about husband Charlie’s murder: ‘Beyond disgusting’  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 145/280 chars (X counting)
+## X — status: pending_approval · 197/280 chars (X counting)
 
 ```
-Trump says he was ‘kidding’ about Dana White for press secretary. (The Hill) https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/
+Erika Kirk blasts ‘leftist’ comedians after Dave Chappelle’s joke about husband Charlie’s murder: ‘Beyond disgusting’. (NY Post) https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump says he was ‘kidding’ about Dana White for press secretary. Story via The Hill. Link in bio.
+Erika Kirk blasts ‘leftist’ comedians after Dave Chappelle’s joke about husband Charlie’s murder: ‘Beyond disgusting’. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

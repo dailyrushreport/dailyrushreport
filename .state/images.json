@@ -14,75 +14,6 @@
 "photo": null,
 "checked": "2026-11-06T12:11:24.966684+00:00"
 },
-"https://justthenews.com/index%2Ephp/nation/states/center-square/mississippi-senate-race-could-head-court": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-06/how-china-uses-its-national-team-to-influence-the-stock-market": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108371245-1790878008470-gettyimages-2286461018-AFP_C2T99ZT.jpeg?v=1790878033&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108530214-1793936515931-gettyimages-2282619452-miniseries20260315__n8a9107.jpeg?v=1793936910&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108525500-1793885177679-First_Class_Double_Bed_2.png?v=1793920825&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
-"https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/trump_donald_10162025_AP26264499190048-2.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T05:45:05.484632+00:00"
-},
 "https://justthenews.com/nation/states/center-square/mississippi-senate-race-could-head-court": {
 "v": 2,
 "photo": null,
@@ -8816,5 +8747,98 @@
 "via": "feed"
 },
 "checked": "2026-11-09T04:50:21.225699+00:00"
+},
+"https://www.foxnews.com/outkick-sports/bears-survive-buccaneers-chaotic-primetime-finish-caleb-williams-throws-four-interceptions": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/snf-buccaneers-chicago-bears-4.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://www.jpost.com/israel-news/article-914290": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729321",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://www.jpost.com/israel-news/article-914289": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744308",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/08/joe-biden-slows-down-book-tour-due-to-health/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/jill-biden-joe-biden-sept11-2026-ap-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108497068-1793535203811-gettyimages-2302485233-GERMANY_PROTEST.jpeg?v=1793535220&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://nypost.com/2026/11/09/us-news/rowdy-teens-cause-carnival-ride-to-swing-out-of-control-injuring-3/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-modngeu5r-1794202438810.jpg?quality%3D90%26strip%3Dall%261794184472",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://nypost.com/2026/11/09/sports/austin-reaves-gets-last-laugh-at-pistons-fan-after-dagger-3/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-pzmm6ykqy-1794199985932.jpg?quality%3D90%26strip%3Dall%261794182087",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
+},
+"https://nypost.com/2026/11/09/sports/karl-anthony-towns-renewed-commitment-has-knicks-defense-off-to-fast-start/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vfz3qs8hm-1794199056248.jpg?quality%3D90%26strip%3Dall%261794181075",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T05:50:16.187066+00:00"
 }
 }
