@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 9, 2026 4:08 PM CT
+# Social drafts — Mon Nov 9, 2026 5:07 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-09-1608.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-09-1707.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/c6zxjx01vyleo  
+Lead: Dana White takes podium at White House press briefing  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 160/280 chars (X counting)
+## X — status: pending_approval · 134/280 chars (X counting)
 
 ```
-Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/c6zxjx01vyleo
+Dana White takes podium at White House press briefing. (The Hill) https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy. Story via BBC. Link in bio.
+Dana White takes podium at White House press briefing. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
