@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
   "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
   "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
   "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
   "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
-  "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road"
+  "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
+  "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
-  "since": "2026-11-08T22:57:37.835276+00:00"
+  "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+  "since": "2026-11-09T02:42:07.459403+00:00"
  },
- "last_build": "2026-11-09T01:55:44.048197+00:00",
+ "last_build": "2026-11-09T02:42:07.459403+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -234,6 +234,7 @@
   "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
   "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
-  "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road"
+  "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
+  "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/"
  ]
 }

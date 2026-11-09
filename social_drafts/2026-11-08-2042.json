@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-08-2042.json",
+  "created": "2026-11-09T02:42:07.459403+00:00",
+  "created_ct": "Sun Nov 8, 2026 8:42 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump says he was ‘kidding’ about Dana White for press secretary",
+    "original_headline": "Trump says he was ‘kidding’ about Dana White for press secretary",
+    "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump says he was ‘kidding’ about Dana White for press secretary. (The Hill) https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 145,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump says he was ‘kidding’ about Dana White for press secretary. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
