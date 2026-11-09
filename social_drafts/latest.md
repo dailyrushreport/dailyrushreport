@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 9, 2026 5:42 AM CT
+# Social drafts — Mon Nov 9, 2026 8:03 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-09-0542.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-09-0803.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/  
+Lead: Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 165/280 chars (X counting)
+## X — status: pending_approval · 172/280 chars (X counting)
 
 ```
-Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White. (NY Post) https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/
+Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. (CNBC) https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White. Story via NY Post. Link in bio.
+Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

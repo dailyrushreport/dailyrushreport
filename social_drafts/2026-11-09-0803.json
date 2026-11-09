@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-09-0803.json",
+  "created": "2026-11-09T14:03:45.650599+00:00",
+  "created_ct": "Mon Nov 9, 2026 8:03 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+    "original_headline": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. (CNBC) https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
