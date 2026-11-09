@@ -1,80 +1,4 @@
 {
-"https://justthenews.com/politics-policy/elections/new-york-republican-bruce-blakeman-blasts-stefanik-selfish-not-being-more": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://justthenews.com/politics-policy/elections/you-vote-analysis-why-gop-was-so-badly-defeated-tuesday-who-was-most": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261103003200.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/prionus-larva.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261105224547.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/fireball-meteor-shower-at-sunset.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914054": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728099",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261105224542.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6ly3343yj5po": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e0eb/live/1a609b00-d9db-11f1-b4ca-fd31344b71b9.jpg",
-"w": 976,
-"h": 547,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-06T12:11:24.966684+00:00"
-},
 "https://justthenews.com/politics-policy/all-things-trump/federal-judge-blocks-trumps-proposed-triumphal-arch-hours-after": {
 "v": 2,
 "photo": null,
@@ -8860,5 +8784,157 @@
 "via": "feed"
 },
 "checked": "2026-11-09T11:42:28.589842+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/democrats-cant-end-trumps-tariffs-without-republicans": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/white-house/trump-says-new-iran-strikes-unlikely-if-negotiations-make-progress": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/all-things-trump/power-moves-trump-republicans-can-execute-during-lame-duck": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.foxnews.com/outkick-sports/nfl-week-9-sunday-takeaways-bengals-49ers-packers-look-super-rams-finally-over-500": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/joe-burrow-brock-purdy-jordan-love-nfl-quarterbacks.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914329": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/714931",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Menahem Kahana/AFP via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c5n494x9kgp0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e126/live/e34f8ca0-b6a0-11f1-ba3d-1d5c8a47f823.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261105224536.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/supersolid-state-of-matter.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.jpost.com/middle-east/article-914337": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745141",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261106174518.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/acorn-in-forest.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261104084013.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/brain-fog-woman-head-in-clouds.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://nypost.com/2026/11/09/sports/where-mets-might-turn-for-bullpen-help-at-gm-meetings/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-c2rjfgsy8-1794203582666.jpg?quality%3D90%26strip%3Dall%261794185665",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
+},
+"https://nypost.com/2026/11/09/sports/the-giants-held-firm-in-overcoming-eagles-showed-they-wont-fade/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-52n1eqxdi-1794200317448.jpg?quality%3D90%26strip%3Dall%261794182508",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-09T12:47:13.720855+00:00"
 }
 }
