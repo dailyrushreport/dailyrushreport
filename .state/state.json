@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/",
   "https://nypost.com/2026/11/08/sports/notre-dame-fends-off-miami-as-another-no-1-team-falls-again/",
   "https://nypost.com/2026/11/08/media/podcasters-jennifer-welch-angie-sullivan-apologize-after-laughing-at-insensitive-charlie-kirk-joke/",
   "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
   "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
   "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-  "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/"
+  "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
+  "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
-  "since": "2026-11-09T23:07:03.800570+00:00"
+  "url": "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/",
+  "since": "2026-11-10T02:37:51.130770+00:00"
  },
- "last_build": "2026-11-10T01:50:25.471071+00:00",
+ "last_build": "2026-11-10T02:37:51.130770+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -246,6 +246,7 @@
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
   "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
   "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-  "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/"
+  "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
+  "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/"
  ]
 }
