@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
   "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
-  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
+  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+  "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-  "since": "2026-11-10T14:44:37.554232+00:00"
+  "url": "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
+  "since": "2026-11-10T16:37:24.198127+00:00"
  },
- "last_build": "2026-11-10T15:32:18.344331+00:00",
+ "last_build": "2026-11-10T16:37:24.198127+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -252,6 +252,7 @@
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
   "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
-  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
+  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+  "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/"
  ]
 }
