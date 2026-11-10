@@ -4,11 +4,6 @@
 "photo": null,
 "checked": "2026-11-07T11:59:48.922096+00:00"
 },
-"https://justthenews.com/politics-policy/elections/democrat-flips-house-seat-north-carolina-despite-felony-charge": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
 "https://justthenews.com/government/congress/comer-admits-republicans-have-lot-questions-about-hegseth-ahead-possible": {
 "v": 2,
 "photo": null,
@@ -38,83 +33,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-07T15:10:05.823857+00:00"
-},
-"https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108532631-1793973369517-gettyimages-1171287484-_igp1978.jpeg?v=1793973419&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://www.foxnews.com/politics/democrats-set-sights-elon-musk-probe-after-midterm-wins-pritzker-draws-surprising-line": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/raskin-musk-pritzker.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/uae-arrival-scaled.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/b076067a192f5c67274d494db6ff5d8abab610fc/390_0_3290_2632/master/3290.jpg?width=700&quality=85&auto=format&fit=max&s=b42e2198d858f91bc1e3c80ac6c51458",
-"w": 700,
-"h": 560,
-"credit": "Julia Demaree Nikhinson/AP",
-"via": "feed"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b44/live/b4664c10-da83-11f1-9ef2-dd247c3d6b8b.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cr3ellge7qwjo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/438a/live/dcdc8b70-da86-11f1-8e28-47f07775ec69.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
-},
-"https://nypost.com/2026/11/07/sports/tennis-star-sorana-cirstea-loses-hong-kong-open-match-and-immediately-retires-from-sport/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147848551.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T09:32:20.934084+00:00"
 },
 "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium": {
 "v": 2,
@@ -8868,5 +8786,104 @@
 "via": "feed"
 },
 "checked": "2026-11-10T08:50:02.248972+00:00"
+},
+"https://www.foxnews.com/politics/texas-governor-elect-plan-freeze-electricity-prices-raises-questions-legal-authority": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hinojosa-day-one-event.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914424": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745638",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914428": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744031",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108403029-1791894112373-gettyimages-2299339600-AFP_D3247KH.jpeg?v=1794294925&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d70d8f1c38883f42df0d6e5e5a70c6b621443405/531_25_2960_2369/master/2960.jpg?width=700&quality=85&auto=format&fit=max&s=9e48a953e63905da608bcfd9d9bf41f9",
+"w": 700,
+"h": 560,
+"credit": "Toby Melville/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c32l4lw12z7po": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e137/live/7f3e3400-dccf-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://nypost.com/2026/11/10/world-news/north-korean-defectors-see-kim-jong-uns-daughter-as-heir-apparent/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148188397.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://nypost.com/2026/11/10/us-news/trump-says-deportation-push-hasnt-put-same-pressure-on-farm-workers-hotel-staff-not-even-close/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148189220.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw0737kv52lko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T09:42:41.501457+00:00"
 }
 }

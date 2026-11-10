@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
   "https://nypost.com/2026/11/08/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-jets-vs-chiefs/",
   "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
   "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/",
   "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
-  "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+  "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+  "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-  "since": "2026-11-10T07:58:29.888494+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
+  "since": "2026-11-10T09:42:41.501457+00:00"
  },
- "last_build": "2026-11-10T08:50:02.248972+00:00",
+ "last_build": "2026-11-10T09:42:41.501457+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -249,6 +249,7 @@
   "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
   "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/",
   "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
-  "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+  "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+  "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff"
  ]
 }

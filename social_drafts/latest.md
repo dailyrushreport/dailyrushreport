@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 10, 2026 1:58 AM CT
+# Social drafts — Tue Nov 10, 2026 3:42 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-10-0158.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-10-0342.json x` or `... instagram` (prints the final text to copy).
 
-Lead: What we know so far about Jensen Huang's affair with suspected Chinese spy  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/ckgel338xql3o  
+Lead: College Football Playoff committee executive admits they don't care fans are against 24-team playoff  
+Outlet: Fox News  
+Link: https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 150/280 chars (X counting)
+## X — status: pending_approval · 181/280 chars (X counting)
 
 ```
-What we know so far about Jensen Huang's affair with suspected Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/ckgel338xql3o
+College Football Playoff committee executive admits they don't care fans are against 24-team playoff. (Fox News) https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-What we know so far about Jensen Huang's affair with suspected Chinese spy. Story via BBC. Link in bio.
+College Football Playoff committee executive admits they don't care fans are against 24-team playoff. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
