@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/world/4796750/russia-targets-emergency-crews-ukraine-war/",
   "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
   "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
   "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
@@ -19,13 +18,14 @@
   "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
-  "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/"
+  "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
+  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
-  "since": "2026-11-10T12:43:33.655097+00:00"
+  "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+  "since": "2026-11-10T14:44:37.554232+00:00"
  },
- "last_build": "2026-11-10T13:57:45.904363+00:00",
+ "last_build": "2026-11-10T14:44:37.554232+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -251,6 +251,7 @@
   "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
-  "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/"
+  "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
+  "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
  ]
 }

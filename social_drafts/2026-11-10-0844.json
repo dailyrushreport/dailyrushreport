@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-10-0844.json",
+  "created": "2026-11-10T14:44:37.554232+00:00",
+  "created_ct": "Tue Nov 10, 2026 8:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+    "original_headline": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+    "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions. (CNBC) https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 155,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
