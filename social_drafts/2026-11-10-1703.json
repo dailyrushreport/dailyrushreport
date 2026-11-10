@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-10-1703.json",
+  "created": "2026-11-10T23:03:22.299152+00:00",
+  "created_ct": "Tue Nov 10, 2026 5:03 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Gas prices fall below $4 a gallon for first time since July",
+    "original_headline": "Gas prices fall below $4 a gallon for first time since July",
+    "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+    "source": "Fox Business",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Gas prices fall below $4 a gallon for first time since July. (Fox Business) https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 144,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Gas prices fall below $4 a gallon for first time since July. Story via Fox Business. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

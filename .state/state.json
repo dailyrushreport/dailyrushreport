@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
   "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
   "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
   "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
-  "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/"
+  "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
+  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
-  "since": "2026-11-10T19:38:51.161001+00:00"
+  "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+  "since": "2026-11-10T23:03:22.299152+00:00"
  },
- "last_build": "2026-11-10T22:08:39.402997+00:00",
+ "last_build": "2026-11-10T23:03:22.299152+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -254,6 +254,7 @@
   "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
   "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
-  "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/"
+  "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
+  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july"
  ]
 }
