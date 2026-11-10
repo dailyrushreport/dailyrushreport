@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-09-2340.json",
+  "created": "2026-11-10T05:40:16.784464+00:00",
+  "created_ct": "Mon Nov 9, 2026 11:40 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "The Good News About Jensen Huang’s Affair",
+    "original_headline": "The Good News About Jensen Huang’s Affair",
+    "url": "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
+    "source": "The Free Press",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "The Good News About Jensen Huang’s Affair. (The Free Press) https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 128,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "The Good News About Jensen Huang’s Affair. Story via The Free Press. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

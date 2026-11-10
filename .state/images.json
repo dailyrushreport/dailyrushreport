@@ -44,70 +44,6 @@
 "photo": null,
 "checked": "2026-11-07T19:13:13.499516+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://www.bbc.co.uk/news/articles/crx233lx94n7o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/states/center-square/california-prepares-multi-billion-dollar-el-nino": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/white-house/you-vote-stephen-miller-replacing-susie-wiles-wh-chief-staff-what-will-be": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/elections/desantis-strongly-knocks-down-report-hes-considering-running-president": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://nypost.com/2026/11/07/us-news/state-dept-offers-20-million-reward-for-information-about-irans-nuke-program/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147835080.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://nypost.com/2026/11/07/sports/cody-bellinger-caps-stellar-yankees-season-with-platinum-glove/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-tkw4iepgy-1794028228774.jpg?quality%3D90%26strip%3Dall%261794010252",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
-"https://nypost.com/2026/11/07/sports/lakers-luka-doncic-nba-mentor-friend/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-u8mks2oyv-1794026486477.jpg?quality%3D90%26strip%3Dall%261794008513",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T05:34:39.899162+00:00"
-},
 "https://justthenews.com/index%2ephp/government/white-house/watch-live-trump-speaks-kennedy-space-center-florida": {
 "v": 2,
 "photo": null,
@@ -8734,5 +8670,104 @@
 "via": "feed"
 },
 "checked": "2026-11-10T04:39:01.607448+00:00"
+},
+"https://www.foxnews.com/outkick-sports/troy-aikman-pokes-fun-espn-contract-standoff-bills-vikings-monday-night-football-broadcast": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/troy-aikman-tv-set.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/09/bills-vikings-monday-night-football": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/efc89c0072b0d4e12c042497006a113adfb4b068/189_0_3063_2451/master/3063.jpg?width=700&quality=85&auto=format&fit=max&s=f20da84bb7dd7a3719c6b165c55622ac",
+"w": 700,
+"h": 560,
+"credit": "Bailey Hillesheim/AP",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://www.jpost.com/israel-news/article-914404": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745612",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://www.breitbart.com/clips/2026/11/09/massie-high-probability-hegseth-wont-be-in-office-in-december/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2025/12/massie456-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Screenshot",
+"via": "page"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108547199-1794279802287-gettyimages-2303937114-TRUMP_WH.jpeg?v=1794279925&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://nypost.com/2026/11/10/sports/john-harbaugh-responds-to-broadcasts-critique-of-malik-nabers-body-language/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-jy5hcha4d-1794288931214.jpg?quality%3D90%26strip%3Dall%261794270990",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmp3g37l566po": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://nypost.com/2026/11/10/sports/luka-doncic-trolls-hawks-fans-over-nba-draft-trade-during-lakers-win/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-mp020aq5d-1794288374648.jpg?quality%3D90%26strip%3Dall%261794270433",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
+},
+"https://nypost.com/2026/11/10/us-news/ex-trump-admin-official-calley-means-wildly-suggests-susie-wiles-has-the-capacity-to-inflict-physical-harm/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148169074.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T05:40:16.784464+00:00"
 }
 }

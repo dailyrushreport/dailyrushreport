@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 9, 2026 8:37 PM CT
+# Social drafts — Mon Nov 9, 2026 11:40 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-09-2037.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-09-2340.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Charlie Kirk Assassination Trial: Judge Sets 2028 Start Date for Suspect Tyler Robinson  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/  
+Lead: The Good News About Jensen Huang’s Affair  
+Outlet: The Free Press  
+Link: https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 169/280 chars (X counting)
+## X — status: pending_approval · 128/280 chars (X counting)
 
 ```
-Charlie Kirk Assassination Trial: Judge Sets 2028 Start Date for Suspect Tyler Robinson. (Breitbart) https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/
+The Good News About Jensen Huang’s Affair. (The Free Press) https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Charlie Kirk Assassination Trial: Judge Sets 2028 Start Date for Suspect Tyler Robinson. Story via Breitbart. Link in bio.
+The Good News About Jensen Huang’s Affair. Story via The Free Press. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
