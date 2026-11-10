@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-10-0158.json",
+  "created": "2026-11-10T07:58:29.888494+00:00",
+  "created_ct": "Tue Nov 10, 2026 1:58 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "original_headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "What we know so far about Jensen Huang's affair with suspected Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/ckgel338xql3o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 150,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "What we know so far about Jensen Huang's affair with suspected Chinese spy. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
