@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 10, 2026 10:37 AM CT
+# Social drafts — Tue Nov 10, 2026 1:38 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-10-1037.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-10-1338.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump gives Hegseth an A+  
+Lead: Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’  
 Outlet: The Hill  
-Link: https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/  
+Link: https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 106/280 chars (X counting)
+## X — status: pending_approval · 154/280 chars (X counting)
 
 ```
-Trump gives Hegseth an A+. (The Hill) https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/
+Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’. (The Hill) https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump gives Hegseth an A+. Story via The Hill. Link in bio.
+Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
