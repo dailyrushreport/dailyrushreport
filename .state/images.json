@@ -24,81 +24,6 @@
 "photo": null,
 "checked": "2026-11-07T15:10:05.823857+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-07/wall-street-strategists-call-stock-rout-a-fresh-reason-to-buy": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/all-things-trump/trump-insists-senate-must-act-when-it-returns-next-week-claims": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793981883&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://justthenews.com/index%2ephp/government/federal-agencies/us-carries-out-new-strikes-iran-tehran-negotiates-nuclear-proposals": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108543294-1794056514224-AP26309477652355.jpg?v=1794056670&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://nypost.com/2026/11/07/sports/ravens-make-derrick-henry-trade-deadline-decision/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-qikzhxw8o-1794057203271.jpg?quality%3D90%26strip%3Dall%261794039262",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://nypost.com/2026/11/07/lifestyle/nyc-tops-latest-list-of-coolest-cities/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41695333.jpg?quality%3D90%26strip%3Dall",
-"w": 2257,
-"h": 1504,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
-"https://nypost.com/2026/11/07/betting/the-posts-expert-nfl-week-9-picks-and-best-bets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnfl-week-9-picks-and-best-bets.jpg?quality%3D90%26strip%3Dall%261793986596",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T13:39:26.148021+00:00"
-},
 "https://justthenews.com/government/state-houses/democrats-win-arizona-house-senate-and-governor-first-time-1966": {
 "v": 2,
 "photo": null,
@@ -8894,5 +8819,147 @@
 "via": "feed"
 },
 "checked": "2026-11-10T12:43:33.655097+00:00"
+},
+"https://justthenews.com/government/watch-live-secretary-war-pete-hegseth-speaks-pentagon": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://justthenews.com/government/federal-agencies/hegseth-holds-press-conference-impeachment-push": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.axios.com/2026/11/10/hegseth-press-conference-massie-impeachment": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/-25yDoRufueo7WNs8trAK3IPzQk=/0x0:5662x3185/1366x768/2026/11/10/1794316303541.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.washingtonexaminer.com/policy/finance-and-economy/4797977/inflation-october-midterm-elections-affordability-democrats/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/GettyImages-2199171291.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-914469": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718982",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.jpost.com/international/article-914467": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745425",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.bbc.co.uk/news/articles/crpdgd723x2zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108547446-1794316308528-gettyimages-2304434505-_sr36942_7f5r6htg.jpeg?v=1794316344&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/UsQyEevywKrjTf4XDLJmfQ-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmg474vk6dyqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.theguardian.com/business/2026/nov/10/october-inflation-report": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=700&quality=85&auto=format&fit=max&s=769505a3eb688944c9fd47d3a5f6d283",
+"w": 700,
+"h": 560,
+"credit": "Christina House/Los Angeles Times/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://www.foxbusiness.com/healthcare/fda-orders-new-warning-labels-ozempic-wegovy-over-rare-risk-permanent-vision-loss": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/ozempic-medication.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
+},
+"https://nypost.com/2026/11/10/sports/josh-johnson-signs-with-15th-nfl-team-after-crushing-gardnew-minshew-injury/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-d2l337ukf-1794317070657.jpg?quality%3D90%26strip%3Dall%261794299104",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-10T13:57:45.904363+00:00"
 }
 }
