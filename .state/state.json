@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
   "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
   "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
-  "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html"
+  "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+  "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
-  "since": "2026-11-11T09:19:37.144191+00:00"
+  "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+  "since": "2026-11-11T13:38:51.412192+00:00"
  },
- "last_build": "2026-11-11T12:17:21.131894+00:00",
+ "last_build": "2026-11-11T13:38:51.412192+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -259,6 +259,7 @@
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
   "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
-  "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html"
+  "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+  "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html"
  ]
 }
