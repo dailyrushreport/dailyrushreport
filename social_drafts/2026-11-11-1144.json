@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-11-1144.json",
+  "created": "2026-11-11T17:44:14.223703+00:00",
+  "created_ct": "Wed Nov 11, 2026 11:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks",
+    "original_headline": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks",
+    "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks. (The Hill) https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 147,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

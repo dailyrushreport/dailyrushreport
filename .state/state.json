@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
   "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
   "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
   "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
   "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
   "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-  "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/"
+  "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
+  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
-  "since": "2026-11-11T16:40:24.883373+00:00"
+  "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
+  "since": "2026-11-11T17:44:14.223703+00:00"
  },
- "last_build": "2026-11-11T16:40:24.883373+00:00",
+ "last_build": "2026-11-11T17:44:14.223703+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -261,6 +261,7 @@
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
   "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
   "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-  "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/"
+  "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
+  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
  ]
 }
