@@ -4,105 +4,6 @@
 "photo": null,
 "checked": "2026-11-08T22:57:37.835276+00:00"
 },
-"https://www.bbc.co.uk/news/articles/c680z89dk827o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb03/live/b91ea880-db8a-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108371190-1790875285117-gettyimages-2297526177-senate_banking_040_100126.jpeg?v=1790875308&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://www.jpost.com/israel-news/crime-in-israel/article-914245": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745422",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://www.jpost.com/international/article-914250": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724475",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://dailycaller.com/2026/11/08/poland-defense-minister-krakow-shooting-act-of-terror": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2303507437_2.jpg",
-"w": 2801,
-"h": 1200,
-"credit": "(Photo by Omar Marques/Getty Images)",
-"via": "feed"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://nypost.com/2026/11/08/us-news/blue-angels-quietly-removed-another-officers-bio-from-website/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vdobuagkh-1794164693302.jpg?quality%3D90%26strip%3Dall%261794146771",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://nypost.com/2026/11/08/sports/taylor-swift-watches-travis-kelces-chiefs-take-on-jets-with-her-parents/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fswift.jpg?quality%3D90%26strip%3Dall%261794146615",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
-"https://nypost.com/2026/11/08/sports/how-cardinals-responded-to-broncos-trey-mcbride-trade-inquiry/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-z1etwvx8p-1794156014719.jpg?quality%3D90%26strip%3Dall%261794138073",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T19:13:16.438249+00:00"
-},
 "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries": {
 "v": 2,
 "photo": null,
@@ -9288,5 +9189,146 @@
 "via": "page"
 },
 "checked": "2026-11-11T18:39:00.859880+00:00"
+},
+"https://justthenews.com/government/diplomacy/netanyahu-denies-fake-news-he-and-trump-got-shouting-match-hell-over-iran-war": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://justthenews.com/government/security/us-export-blacklist-fails-stop-pla-linked-chinese-university-buying-ai-chips": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/presidential/4800349/biden-call-debate-performance-not-consequential-mistake-didnt-disturb-me/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26313419924875.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://thehill.com/homenews/state-watch/6213703-kentucky-robertson-county-coin-flip-decision/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26307694346330-e1794425894307.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqr7gr0010r2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://justthenews.com/politics-policy/abortion/pro-life-campaign-bankroller-leans-senators-block-cdc-nominee-unless": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914622": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745768",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/w5ec3fyj85WG6abaSrxfVS-1941-80.jpg",
+"w": 1941,
+"h": 1092,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/11/lotto-North-Carolina-Education-Lottery-powerball-daughter/9021794423108/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.cnbc.com/2026/11/11/nvidia-alternatives-4-tech-investing-themes.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108523975-1793864595075-gettyimages-2278857871-20090101260603-99-617385.jpeg?v=1794424576&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.foxbusiness.com/economy/gas-prices-estimate-rises-2027-though-consumers-could-still-see-relief-from-pain-pump-eia": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/gas-station-texas.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/thousands-line-nyc-streets-to-pay-tribute-to-brave-veterans-during-annual-parade/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcomp-111126veteransdayparade8MATT.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://nypost.com/2026/11/11/sports/raiders-kirk-cousins-trade-compensation-leaves-packers-coach-stunned/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-tp7h25sge-1794426321040.jpg?quality%3D90%26strip%3Dall%261794408348",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
+},
+"https://www.foxbusiness.com/business-leaders/ducati-executive-jason-chinnock-explains-how-operating-tank-during-desert-storm-helped-him-helm-company": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/chinnock_tank.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T19:46:22.493857+00:00"
 }
 }
