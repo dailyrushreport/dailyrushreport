@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
   "since": "2026-11-11T06:49:33.406281+00:00"
  },
- "last_build": "2026-11-11T06:49:33.406281+00:00",
+ "last_build": "2026-11-11T08:06:02.943810+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-11T01:49Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
