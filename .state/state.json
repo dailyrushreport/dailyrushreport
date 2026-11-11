@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people",
   "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
   "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
   "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
   "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
   "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
-  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
+  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
+  "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
-  "since": "2026-11-11T17:44:14.223703+00:00"
+  "url": "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet",
+  "since": "2026-11-11T21:17:51.935334+00:00"
  },
- "last_build": "2026-11-11T19:46:22.493857+00:00",
+ "last_build": "2026-11-11T21:17:51.935334+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -262,6 +262,7 @@
   "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
   "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
   "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
-  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
+  "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
+  "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet"
  ]
 }
