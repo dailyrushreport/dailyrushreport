@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/08/us-news/erika-kirk-blasts-leftist-comedians-after-dave-chappelles-joke-about-husband-charlies-murder-beyond-disgusting/",
   "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
   "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
-  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july"
+  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
  ],
  "current_lead": {
-  "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-  "since": "2026-11-10T23:03:22.299152+00:00"
+  "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+  "since": "2026-11-11T02:35:53.778078+00:00"
  },
- "last_build": "2026-11-11T01:49:58.582075+00:00",
+ "last_build": "2026-11-11T02:35:53.778078+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "ok",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-11T01:49Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -255,6 +255,7 @@
   "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
-  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july"
+  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
  ]
 }

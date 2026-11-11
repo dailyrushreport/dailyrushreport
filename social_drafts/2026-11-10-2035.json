@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-10-2035.json",
+  "created": "2026-11-11T02:35:53.778078+00:00",
+  "created_ct": "Tue Nov 10, 2026 8:35 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth impeachment effort torpedoed in House",
+    "original_headline": "Hegseth impeachment effort torpedoed in House",
+    "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth impeachment effort torpedoed in House. (CNBC) https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 122,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth impeachment effort torpedoed in House. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

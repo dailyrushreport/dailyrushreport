@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 10, 2026 5:03 PM CT
+# Social drafts — Tue Nov 10, 2026 8:35 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-10-1703.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-10-2035.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Gas prices fall below $4 a gallon for first time since July  
-Outlet: Fox Business  
-Link: https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july  
+Lead: Hegseth impeachment effort torpedoed in House  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 144/280 chars (X counting)
+## X — status: pending_approval · 122/280 chars (X counting)
 
 ```
-Gas prices fall below $4 a gallon for first time since July. (Fox Business) https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july
+Hegseth impeachment effort torpedoed in House. (CNBC) https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Gas prices fall below $4 a gallon for first time since July. Story via Fox Business. Link in bio.
+Hegseth impeachment effort torpedoed in House. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
