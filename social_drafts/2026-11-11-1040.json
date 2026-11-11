@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-11-1040.json",
+  "created": "2026-11-11T16:40:24.883373+00:00",
+  "created_ct": "Wed Nov 11, 2026 10:40 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump declares ‘huge victory’ after judge allows suit against BBC to proceed",
+    "original_headline": "Trump declares ‘huge victory’ after judge allows suit against BBC to proceed",
+    "url": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump declares ‘huge victory’ after judge allows suit against BBC to proceed. (The Hill) https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 157,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump declares ‘huge victory’ after judge allows suit against BBC to proceed. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
