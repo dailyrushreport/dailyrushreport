@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
   "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
   "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
   "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
   "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-  "since": "2026-11-11T02:35:53.778078+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
+  "since": "2026-11-11T03:39:41.927963+00:00"
  },
- "last_build": "2026-11-11T02:35:53.778078+00:00",
+ "last_build": "2026-11-11T03:39:41.927963+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -256,6 +256,7 @@
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
   "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+  "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/"
  ]
 }
