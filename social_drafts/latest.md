@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 11, 2026 4:23 PM CT
+# Social drafts — Wed Nov 11, 2026 5:14 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-1623.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-1714.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/  
-Pinned by editor: no · BREAKING: yes
+Lead: Scott Colom wins Mississippi Senate race in historic upset  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 189/280 chars (X counting)
+## X — status: pending_approval · 150/280 chars (X counting)
 
 ```
-Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet. (NY Post) https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/
+Scott Colom wins Mississippi Senate race in historic upset. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet. Story via NY Post. Link in bio.
+Scott Colom wins Mississippi Senate race in historic upset. Story via Washington Examiner. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
