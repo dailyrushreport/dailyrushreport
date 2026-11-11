@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 11, 2026 3:17 PM CT
+# Social drafts — Wed Nov 11, 2026 4:23 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-1517.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-1623.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Ex-NFL coach Rex Ryan turns himself in to Nashville police for allegedly running over two pedestrians' feet  
-Outlet: Fox News  
-Link: https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet  
+Lead: Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 202/280 chars (X counting)
+## X — status: pending_approval · 189/280 chars (X counting)
 
 ```
-Ex-NFL coach Rex Ryan turns himself in to Nashville police for allegedly running over two pedestrians' feet. (Fox News) https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet
+Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet. (NY Post) https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Ex-NFL coach Rex Ryan turns himself in to Nashville police for allegedly running over two pedestrians' feet. Story via Fox News. Link in bio.
+Rex Ryan’s lawyer addresses ex-Jets coach’s arrest for allegedly running over pedestrians’ feet. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
