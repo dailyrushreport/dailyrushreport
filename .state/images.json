@@ -19,77 +19,6 @@
 "photo": null,
 "checked": "2026-11-08T12:38:38.883930+00:00"
 },
-"https://reason.com/volokh/2026/11/08/open-thread-382/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/732a/live/a00e5500-db4b-11f1-ad6a-794c57c0c23e.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-914168": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745323",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://thehill.com/homenews/state-watch/6206341-wisconsin-trooper-ice-arrest/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-2259968097.jpg?w=900",
-"w": 900,
-"h": 599,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://nypost.com/2026/11/08/sports/kenny-atkinson-takes-jokes-as-lesson-for-comments-against-knicks-in-last-seasons-playoffs/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-jwmpj1dnn-1794126503224.jpg?quality%3D90%26strip%3Dall%261794108512",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147975135.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
-"https://nypost.com/2026/11/08/lifestyle/dear-abby-my-rude-father-in-law-keeps-calling-me-for-help-after-getting-scammed/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41561668.jpg?quality%3D90%26strip%3Dall",
-"w": 5760,
-"h": 3839,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T08:36:59.271432+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack": {
 "v": 2,
 "photo": null,
@@ -9248,5 +9177,136 @@
 "via": "feed"
 },
 "checked": "2026-11-11T08:06:02.943810+00:00"
+},
+"https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914553": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/673967",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/36b9da6acba28c654b99b345f25e497170ef452b/117_48_3687_2950/master/3687.jpg?width=700&quality=85&auto=format&fit=max&s=a62fd2d181a7374a7f47330ae9897f0e",
+"w": 700,
+"h": 560,
+"credit": "Kylie Cooper/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=700&quality=85&auto=format&fit=max&s=ef072eec40143156ef2b994cc4a125bd",
+"w": 700,
+"h": 560,
+"credit": "Harry How/FIFA/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/11/nfl-trade-deadline-winners-and-losers-vikings-bears-jaguars": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/73b8e60e69594d98ac19fe5e2237afbc28322b41/428_0_4259_3409/master/4259.jpg?width=700&quality=85&auto=format&fit=max&s=d1a8210e6daf20edd52ba7961ebbe044",
+"w": 700,
+"h": 560,
+"credit": "Justine Willard/AP",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.jpost.com/israel-news/article-914555": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738998",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://reason.com/2026/11/11/brickbat-the-king-and-i-2/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/arnon-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Wissarut Weerasopon/ZUMAPRESS/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-11/why-hedge-funds-did-so-poorly-in-october": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108223839-1762804083127-gettyimages-2206665095-COREWEAVE_IPO.jpeg?v=1776970332&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://nypost.com/2026/11/11/world-news/4-grizzly-bears-linked-by-dna-to-deadly-attack-on-mother-and-daughter-in-canada/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FJennifer-Balcarras-2-2-2.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://nypost.com/2026/11/11/sports/south-africa-olympian-tatjana-smith-reveals-shes-switching-to-the-netherlands/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148315521.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/texas-cruise-passenger-jason-watford-with-abusive-past-kills-wife-susan-over-argument-as-child-is-found-in-their-cabin-feds/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCruise-ship-1.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T09:19:37.144191+00:00"
 }
 }

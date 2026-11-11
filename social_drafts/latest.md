@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 11, 2026 12:49 AM CT
+# Social drafts — Wed Nov 11, 2026 3:19 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-0049.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-0319.json x` or `... instagram` (prints the final text to copy).
 
-Lead: US Treasury chief Scott Bessent moved to military base after Iranian threats: report  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/  
-Pinned by editor: no · BREAKING: yes
+Lead: American soldier arrested on suspicion of spying for Russia  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 178/280 chars (X counting)
+## X — status: pending_approval · 136/280 chars (X counting)
 
 ```
-US Treasury chief Scott Bessent moved to military base after Iranian threats: report. (NY Post) https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/
+American soldier arrested on suspicion of spying for Russia. (CNBC) https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-US Treasury chief Scott Bessent moved to military base after Iranian threats: report. Story via NY Post. Link in bio.
+American soldier arrested on suspicion of spying for Russia. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

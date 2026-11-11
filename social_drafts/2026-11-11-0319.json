@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-11-0319.json",
+  "created": "2026-11-11T09:19:37.144191+00:00",
+  "created_ct": "Wed Nov 11, 2026 3:19 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "American soldier arrested on suspicion of spying for Russia",
+    "original_headline": "American soldier arrested on suspicion of spying for Russia",
+    "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "American soldier arrested on suspicion of spying for Russia. (CNBC) https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 136,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "American soldier arrested on suspicion of spying for Russia. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
