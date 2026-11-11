@@ -14,59 +14,10 @@
 "photo": null,
 "checked": "2026-11-08T14:28:22.468954+00:00"
 },
-"https://www.foxnews.com/outkick-sports/college-football-fans-media-rip-sec-refs-controversial-forward-fumble-call-texas-missouri-game": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-texas-longhorns-missouri-tigers-fox-news_-scaled.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T23:58:22.276143+00:00"
-},
 "https://justthenews.com/nation/states/center-square/victims-advocates-slam-newsoms-decision-commute-death-sentences": {
 "v": 2,
 "photo": null,
 "checked": "2026-11-08T13:38:19.381121+00:00"
-},
-"https://justthenews.com/politics-policy/elections/gop-succeeds-transgender-ballot-questions-four-states-posing-2028": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-07T23:58:22.276143+00:00"
-},
-"https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d2e3/live/7f200090-db01-11f1-969c-27c4482e95aa.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-07T23:58:22.276143+00:00"
-},
-"https://nypost.com/2026/11/07/sports/mathew-barzal-matias-maccelli-close-to-return-to-islanders/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-2x0d7qe3y-1794092169496.jpg?quality%3D90%26strip%3Dall%261794074203",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T23:58:22.276143+00:00"
-},
-"https://nypost.com/2026/11/07/us-news/skydiver-killed-in-socal-midair-collision-feared-she-was-a-deathwish-time-bomb/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewcomp-2-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-07T23:58:22.276143+00:00"
 },
 "https://justthenews.com/index%2Ephp/nation/states/center-square/democrats-midterm-gains-complicate-path-forward-permitting-bill": {
 "v": 2,
@@ -9005,5 +8956,136 @@
 "via": "feed"
 },
 "checked": "2026-11-10T23:56:17.803767+00:00"
+},
+"https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.foxnews.com/media/ive-had-it-host-jennifer-welch-cheers-wisconsin-brewing-company-called-kirk-awful-human-being": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/minocqua-brewing-company.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.jpost.com/american-politics/article-914530": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745607",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.jpost.com/israel-news/article-914531": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745826",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.washingtonexaminer.com/news/house/4798814/homan-top-democrats-oversight-list-pete-aguilar/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/tom-homan-oversight-list.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c687z7g4xr97o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8wy9y37z30vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+"w": 1000,
+"h": 648,
+"credit": "James Marvin Phelps",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://nypost.com/2026/11/10/us-news/california-water-park-dropzone-permanently-closes-after-10-years-as-great-america-faces-shutdown/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148265865.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://nypost.com/2026/11/10/sports/luka-doncic-lakers-defense-nba-title-aspirations/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cgcxs8xa5-1794353123705.jpg?quality%3D90%26strip%3Dall%261794335410",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
+},
+"https://nypost.com/2026/11/10/us-news/nithya-raman-outlines-strategy-for-3-1b-la-transit-plan/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148262697.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T00:33:41.186687+00:00"
 }
 }
