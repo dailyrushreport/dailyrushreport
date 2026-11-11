@@ -25,7 +25,7 @@
   "url": "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
   "since": "2026-11-11T03:39:41.927963+00:00"
  },
- "last_build": "2026-11-11T03:39:41.927963+00:00",
+ "last_build": "2026-11-11T04:44:26.254632+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -64,11 +64,11 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-11T01:49Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "ok",
+  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-11T03:39Z",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
-  "Religious Liberty": "ok"
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-11T03:39Z",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-11T03:39Z",
+  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-11T03:39Z"
  },
  "drafted_leads": [
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",

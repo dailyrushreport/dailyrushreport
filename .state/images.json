@@ -1,9 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/amazon-adds-uber-eats-benefit-doordash-pursues-instacart": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
 "https://justthenews.com/government/white-house/trump-calls-democrats-extortionists-says-they-should-be-held-accountable": {
 "v": 2,
 "photo": null,
@@ -28,87 +23,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-08T12:38:38.883930+00:00"
-},
-"https://justthenews.com/world/europe/paris-protesters-defy-bans-clashes-police-erupt-during-fourth-week-nationwide-protests": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://justthenews.com/index%2Ephp/nation/states/center-square/healthcare-economy-top-democrat-priorities-after-midterms": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-914161": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740086",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bowler-Ritsuko-Nakayama.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c65yn1v99ypmo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck87z9exex2lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://nypost.com/2026/11/07/sports/jalen-brunson-karl-anthony-towns-dominate-in-knicks-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-5192aiozc-1794109802824.jpg?quality%3D90%26strip%3Dall%261794091841",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
-},
-"https://nypost.com/2026/11/07/sports/jack-ham-stable-after-penn-state-broadcast-partners-heroic-effort-during-medical-emergency/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41731984.jpg?quality%3D90%26strip%3Dall",
-"w": 4238,
-"h": 2825,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T04:39:26.701276+00:00"
 },
 "https://justthenews.com/index%2Ephp/nation/states/center-square/parental-rights-org-celebrates-passage-girls-sports-protection-measures": {
 "v": 2,
@@ -9164,5 +9078,108 @@
 "via": "feed"
 },
 "checked": "2026-11-11T03:39:41.927963+00:00"
+},
+"https://justthenews.com/nation/states/center-square/bill-signed-shield-nyc-housing-units-predatory-investors": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://justthenews.com/nation/states/center-square/va-rolls-out-new-foreclosure-prevention-program-veterans-amid-watchdog": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://www.washingtonexaminer.com/policy/immigration/4799729/ice-detainer-honduran-storm-cockpit/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26311009582140.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://reason.com/volokh/2026/11/10/the-hegseth-impeachment-is-far-from-over/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/pete-hegseth-10-9-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Daniel Torok / B66 / Avalon/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://www.thefp.com/p/the-american-war-hero-who-refused": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!L5DQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8440bedc-a86f-4856-b4d0-8ea89bc0dc77_3000x3724.jpeg",
+"w": 3000,
+"h": 3724,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://justthenews.com/nation/states/center-square/parental-rights-org-warns-dsa-works-influence-nations-children": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://nypost.com/2026/11/10/sports/reggie-wayne-jokes-he-should-be-player-coach-after-colts-deadline-trades/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-rk0twvak9-1794370199689.jpg?quality%3D90%26strip%3Dall%261794352311",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://nypost.com/2026/11/10/sports/david-stearns-confident-marcus-semien-will-rebound-with-mets/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4ksp479zi-1794371312299.jpg?quality%3D90%26strip%3Dall%261794353328",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
+},
+"https://nypost.com/2026/11/10/sports/max-fried-should-be-ready-for-yankees-spring-training-after-elbow-surgery/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4awklj5wl-1794369902217.jpg?quality%3D90%26strip%3Dall%261794351921",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-11T04:44:26.254632+00:00"
 }
 }
