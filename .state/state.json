@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
   "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
   "https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
   "https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/",
@@ -19,13 +18,14 @@
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
   "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/"
+  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
+  "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
-  "since": "2026-11-11T03:39:41.927963+00:00"
+  "url": "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
+  "since": "2026-11-11T06:49:33.406281+00:00"
  },
- "last_build": "2026-11-11T05:45:04.798220+00:00",
+ "last_build": "2026-11-11T06:49:33.406281+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -257,6 +257,7 @@
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
   "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/"
+  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
+  "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/"
  ]
 }

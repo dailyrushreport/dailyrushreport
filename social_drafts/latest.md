@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 10, 2026 9:39 PM CT
+# Social drafts — Wed Nov 11, 2026 12:49 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-10-2139.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-0049.json x` or `... instagram` (prints the final text to copy).
 
-Lead: House Republicans Reject Impeachment Effort Against Hegseth  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/  
-Pinned by editor: no · BREAKING: no
+Lead: US Treasury chief Scott Bessent moved to military base after Iranian threats: report  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 141/280 chars (X counting)
+## X — status: pending_approval · 178/280 chars (X counting)
 
 ```
-House Republicans Reject Impeachment Effort Against Hegseth. (Breitbart) https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/
+US Treasury chief Scott Bessent moved to military base after Iranian threats: report. (NY Post) https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-House Republicans Reject Impeachment Effort Against Hegseth. Story via Breitbart. Link in bio.
+US Treasury chief Scott Bessent moved to military base after Iranian threats: report. Story via NY Post. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
