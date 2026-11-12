@@ -1,179 +1,4 @@
 {
-"https://www.washingtonexaminer.com/news/senate/4796893/kansas-senator-schumer-viewed-polarizing-figure/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26308196842468-e1793973013395.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/UQcRuIMp-wsuuPkEDniYcQzsXCY=/0x0:5000x2813/1366x768/2026/11/08/1794150603090.jpg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-914276": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738735",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://nypost.com/2026/11/08/sports/jack-mccaffery-on-leave-at-richmond-after-cancer-diagnosis/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-10c3zhn54-1794176775333.jpg?quality%3D90%26strip%3Dall%261794158796",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://nypost.com/2026/11/08/sports/rams-telling-stat-during-turnaround-drips-with-super-bowl-vibes/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-33jp8c1mf-1794179362304.jpg?quality%3D90%26strip%3Dall%261794161394",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://nypost.com/2026/11/08/sports/heroes-zeros-from-jets-loss-to-chiefs-adonai-mitchell-disappears/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41739403.jpg?quality%3D90%26strip%3Dall",
-"w": 4318,
-"h": 2877,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:26:05.436374+00:00"
-},
-"https://justthenews.com/government/white-house/biden-says-he-wont-be-able-do-many-events-his-new-book-due-cancer-recovery": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://www.foxnews.com/travel/family-trapped-powerful-floodwaters-until-2-neighbors-grab-kayak-paddle": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/palm-bay-florida-flooding-homes-pace-drive.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://www.jpost.com/international/article-914279": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745462",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://thehill.com/blogs/in-the-know/6207095-katie-miller-pauses-podcast-after-husband-named-white-house-chief-of-staff/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-19.png?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://nypost.com/2026/11/08/us-news/other-dana-white-responds-to-trumps-surprise-white-house-press-secretary-announcement/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdana-white-white-house-confusion-comp-01.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fd44/live/561b1180-dbc9-11f1-a639-8fd896d95a18.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://nypost.com/2026/11/08/us-news/malibus-500m-the-case-mansion-enclave-on-verge-of-collapse/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148059362.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://nypost.com/2026/11/08/us-news/joe-biden-promise-me-america-tour-limited-by-cancer-diagnosis/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148059704.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
-"https://nypost.com/2026/11/08/sports/rams-star-myles-garrett-turns-to-ray-charles-after-overcoming-two-month-injury-nightmare/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-eypjr7q65-1794180805206.jpg?quality%3D90%26strip%3Dall%261794162856",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-08T23:57:27.442239+00:00"
-},
 "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-drop-lsu-tigers-playoff-picture-blowout-loss": {
 "v": 2,
 "photo": {
@@ -9275,5 +9100,164 @@
 "via": "feed"
 },
 "checked": "2026-11-11T23:14:32.524110+00:00"
+},
+"https://justthenews.com/politics-policy/elections/scott-colom-declared-winner-mississippi-senate-seat": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.foxnews.com/politics/least-10-new-dem-members-carry-al-greenes-mantle-try-impeach-president-trump": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/al-green-yells-at-a-press-event.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/IxIhBjjeVBpnTNrvsWgeR70EcLE=/0x79:2048x1231/1366x768/2026/10/29/1793289756749.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2023/07/murphygreg_071223gn01_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/congressional/4800670/this-house-republican-just-lost-reelection-he-plans-to-keep-doing-the-job-for-another-two-years-anyway/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2024/12/Jeff-Van-Drew-scaled-e1762700263561.webp?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw7vppyr80eeo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.washingtonexaminer.com/policy/energy-and-environment/4800759/toyota-us-production-tiny-trucks-admired-by-trump/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-03-2-e1794436564681.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwn70l1628l0o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.jpost.com/international/article-914634": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745972",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-914633": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/703115",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108548247-1794331010210-gettyimages-2282051722-090a1283_jnaj.jpeg?v=1794331027&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108549531-1794438189486-gettyimages-2304500208-bb2_7183_yrvaji2t.jpeg?v=1794438231&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/lausd-locks-in-100m-for-black-student-plan-amid-federal-probe/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148388706.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/nyc-council-blasts-mamdani-in-legal-battle-over-10k-raises-for-school-workers/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCITY-COUNCIL-MAMDANI-ALT.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148388093.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T00:07:47.099919+00:00"
 }
 }
