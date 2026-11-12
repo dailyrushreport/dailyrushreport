@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
   "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
   "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
-  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/"
+  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
+  "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
-  "since": "2026-11-12T01:41:54.614864+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+  "since": "2026-11-12T03:39:01.342727+00:00"
  },
- "last_build": "2026-11-12T02:38:19.483944+00:00",
+ "last_build": "2026-11-12T03:39:01.342727+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "ok",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-12T02:38Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -267,6 +267,7 @@
   "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
   "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
-  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/"
+  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
+  "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
  ]
 }

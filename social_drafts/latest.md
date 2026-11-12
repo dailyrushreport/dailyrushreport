@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 11, 2026 7:42 PM CT
+# Social drafts — Wed Nov 11, 2026 9:39 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-1942.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-2139.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/  
-Pinned by editor: no · BREAKING: yes
+Lead: Democrat Scott Colom seals historic win in Mississippi Senate race  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cw7vppyr80eeo  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 177/280 chars (X counting)
+## X — status: pending_approval · 142/280 chars (X counting)
 
 ```
-Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith. (Breitbart) https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/
+Democrat Scott Colom seals historic win in Mississippi Senate race. (BBC) https://www.bbc.co.uk/news/articles/cw7vppyr80eeo
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith. Story via Breitbart. Link in bio.
+Democrat Scott Colom seals historic win in Mississippi Senate race. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
