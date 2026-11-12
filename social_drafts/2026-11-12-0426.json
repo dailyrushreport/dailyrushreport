@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-0426.json",
+  "created": "2026-11-12T10:26:28.945511+00:00",
+  "created_ct": "Thu Nov 12, 2026 4:26 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "New York building collapse kills at least two, officials say",
+    "original_headline": "New York building collapse kills at least two, officials say",
+    "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "New York building collapse kills at least two, officials say. (BBC) https://www.bbc.co.uk/news/articles/c8zx964glvwxo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 136,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "New York building collapse kills at least two, officials say. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

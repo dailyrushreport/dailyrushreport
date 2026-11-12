@@ -9,99 +9,6 @@
 "photo": null,
 "checked": "2026-11-09T14:03:45.650599+00:00"
 },
-"https://www.foxnews.com/politics/border-dem-poised-wield-ice-purse-strings-rejects-socialist-defund-push": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/henry-cuellar-speaks-during-a-committee.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/krakow-square.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-09/this-is-how-new-york-city-takes-out-its-trash": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.jpost.com/environment-and-climate-change/article-914309": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745489",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.jpost.com/israel-news/article-914305": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744563",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.theguardian.com/sport/2026/nov/09/joe-burrow-bengals-nfl-mvp-race-frontrunners": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/ad1b7c3e393b16c97ddc4e7ca94ff77139b16751/1314_0_6749_5403/master/6749.jpg?width=700&quality=85&auto=format&fit=max&s=21ca86da40a160ce162fbab8a078dc28",
-"w": 700,
-"h": 560,
-"credit": "Manu Fern\u00e1ndez/AP",
-"via": "feed"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck0j0j87959eo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
-"https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50c9/live/d36d8f80-dc16-11f1-a631-078d47c5aafb.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T09:34:28.628114+00:00"
-},
 "https://www.axios.com/2026/11/09/climate-nature-energy-permitting-debate": {
 "v": 2,
 "photo": {
@@ -8595,7 +8502,7 @@
 "https://justthenews.com/nation/states/center-square/interest-debt-cost-14-trillion-last-year-audit-finds": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-12T02:38:19.483944+00:00"
+"checked": "2026-11-12T10:26:28.945511+00:00"
 },
 "https://justthenews.com/government/security/us-withdraws-under-17-world-cup-qatar-set-begin-next-week-over-security": {
 "v": 2,
@@ -9312,5 +9219,131 @@
 "via": "feed"
 },
 "checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.jpost.com/international/internationalrussia-ukraine-war/article-914670": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746031",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.jpost.com/international/article-914681": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746061",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.axios.com/2026/11/12/jensen-huang-nvidia-board": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/e13HZ_jK5Ck3JXCJhF3cfyzSUIU=/0x0:1920x1080/1366x768/2026/11/10/1794338777261.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmy0enrkwkklo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c962y743y458o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2300/live/b2e83010-de7f-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261110042549.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/pebble-rain.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dfae/live/4d45e2e0-de7d-11f1-b88b-3f1671ea859d.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108549468-1794434665354-gettyimages-2304131111-cotton_245_111026.jpeg?v=1794434771&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/minnesota-dad-three-sons-found-inside-burning-home-died-in-murder-suicide-cops/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148447793.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://nypost.com/2026/11/12/world-news/indonesian-vice-president-gibran-rakabuming-raka-resigns/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148447104.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
+},
+"https://nypost.com/2026/11/12/world-news/russia-strikes-ukrainian-military-facilities-in-overnight-attack/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148449810.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T10:26:28.945511+00:00"
 }
 }
