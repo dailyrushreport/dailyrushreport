@@ -1,25 +1,25 @@
-# Social drafts — Thu Nov 12, 2026 2:37 PM CT
+# Social drafts — Thu Nov 12, 2026 3:34 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-12-1437.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-12-1534.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump says ‘we don’t need a deal with Iran’  
-Outlet: CNBC  
-Link: https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html  
-Pinned by editor: no · BREAKING: no
+Lead: Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief  
+Outlet: Fox News  
+Link: https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 120/280 chars (X counting)
+## X — status: pending_approval · 204/280 chars (X counting)
 
 ```
-Trump says ‘we don’t need a deal with Iran’. (CNBC) https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html
+Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief. (Fox News) https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Trump says ‘we don’t need a deal with Iran’. Story via CNBC. Link in bio.
+Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief. Story via Fox News. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
