@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-1437.json",
+  "created": "2026-11-12T20:37:23.327298+00:00",
+  "created_ct": "Thu Nov 12, 2026 2:37 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump says ‘we don’t need a deal with Iran’",
+    "original_headline": "Trump says ‘we don’t need a deal with Iran’",
+    "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump says ‘we don’t need a deal with Iran’. (CNBC) https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 120,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump says ‘we don’t need a deal with Iran’. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,183 +1,4 @@
 {
-"https://justthenews.com/politics-policy/rubio-defends-hegseth-massie-pushes-impeachment": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://justthenews.com/government/congress/massie-files-articles-impeachment-against-hegseth": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.foxnews.com/media/melania-trump-scholarship-recipient-how-fostering-future-helped-her-reach-lsu-after-life-foster-care": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/melania-trump-lsu-fostering-future.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914380": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745579",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://thehill.com/homenews/senate/6208634-chris-coons-jensen-huang-nvidia-affair-probe/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/09/coonschris_092926gn01_w.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914382": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745581",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-09/private-credit-lenders-eye-1-3-billion-loan-for-fullscript": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://reason.com/2026/11/09/this-congress-has-one-last-chance-to-unlock-methadone-treatment/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Methadone-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "Volodymyr Tverdokhlib/Cagkan Sayin/Sara Wright/Dreamtime",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c95ynylr8j6xo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/09/britiain-Berkshire-firefighters-squirrel-bird-feeder/7921794253473/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/09/lotto-Maryland-lottery-scratch-off-birthday/7381794253196/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108546673-1794248988521-gettyimages-2276583261-AA_19052026_2787264.jpeg?v=1794249042&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "NASA",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-"w": 1000,
-"h": 563,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-"w": 1200,
-"h": 623,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://nypost.com/2026/11/09/lifestyle/bojangles-opens-first-location-with-full-service-bar-in-las-vegas/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fbojangles-opens-las-vegas-strip-148131650.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://nypost.com/2026/11/09/business/nvidia-ceo-jensen-huang-has-no-obvious-successor-as-chinese-spy-affair-puts-job-at-risk/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148128121.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://nypost.com/2026/11/09/sports/49ers-coach-kyle-shanahan-reveals-personal-rivalry-with-raiders/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ntcc5mlry-1794253998315.jpg?quality%3D90%26strip%3Dall%261794236012",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
-"https://nypost.com/2026/11/09/sports/andy-reid-gives-patrick-mahomes-injury-update-after-scary-hit/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-j9p1ye6ir-1794250768127.jpg?quality%3D90%26strip%3Dall%261794232820",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T20:16:34.112512+00:00"
-},
 "https://justthenews.com/government/courts-law/judge-sets-tyler-robinsons-trial-date-summer-2028-assassination-charlie-kirk": {
 "v": 2,
 "photo": null,
@@ -9295,5 +9116,147 @@
 "via": "feed"
 },
 "checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914775": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734245",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-914774": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746183",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://thehill.com/policy/international/6217022-witkoff-kushner-zelensky-meeting-starshield-update/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP26102061314573-e1777134618920.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1794505715&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hegseth-handshake.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
+"w": 1152,
+"h": 648,
+"credit": "Shadowkey Reforged",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Kostiantyn Liberov/Libkos/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/V2C2Jki6SxPafWzMMu92si-1920-80.jpg",
+"w": 1200,
+"h": 676,
+"credit": "ESA/ATG Medialab",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/358cZ8fgTVudyA6vaGY7Ze-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=2.4327168367347%2C0%2C95.134566326531%2C100&w=1200",
+"w": 1200,
+"h": 628,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://nypost.com/2026/11/12/business/microsoft-outlook-outage-disrupts-email-for-more-than-140k-users/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41824577_66197b.jpg?quality=75&strip=all&w=1200",
+"w": 1200,
+"h": 799,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/inside-intense-hour-long-standoff-between-dc-shooter-matt-lambert-and-cops-before-killing-himself-in-mold-ridden-penthouse/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdc-shooter-lambert-comp2.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T20:37:23.327298+00:00"
 }
 }

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
   "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
   "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
   "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
-  "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/"
+  "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
+  "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
-  "since": "2026-11-12T19:41:51.478094+00:00"
+  "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+  "since": "2026-11-12T20:37:23.327298+00:00"
  },
- "last_build": "2026-11-12T19:41:51.478094+00:00",
+ "last_build": "2026-11-12T20:37:23.327298+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
   "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
@@ -270,6 +269,7 @@
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
   "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
   "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
-  "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/"
+  "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
+  "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
  ]
 }
