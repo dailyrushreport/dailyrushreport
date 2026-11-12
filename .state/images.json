@@ -9,76 +9,6 @@
 "photo": null,
 "checked": "2026-11-09T14:03:45.650599+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-09/thames-water-creditors-back-debt-extension-as-rescue-talks-drag": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-09/ice-joins-wind-derivatives-push-as-renewables-reshape-power": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-in-his-own-words": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/8ef69650201aecceadff5608711b7a18369a937e/678_175_2856_2285/master/2856.jpg?width=700&quality=85&auto=format&fit=max&s=57a77a31dcd5de55a4ce6aa12225d696",
-"w": 700,
-"h": 560,
-"credit": "Eric Lee/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://www.jpost.com/israel-news/article-914297": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745477",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://www.jpost.com/international/article-914293": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745472",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://reason.com/volokh/2026/11/09/open-thread-383/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://nypost.com/2026/11/09/lifestyle/dear-abby-my-life-is-a-failure-i-dont-know-how-im-able-to-live-moving-forward/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F51212EDMED.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
-"https://nypost.com/2026/11/09/world-news/police-say-the-24-year-old-who-fatally-shot-6-people-in-a-krakow-square-has-died-in-the-hospital/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148084142.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T08:17:37.309533+00:00"
-},
 "https://www.foxnews.com/politics/border-dem-poised-wield-ice-purse-strings-rejects-socialist-defund-push": {
 "v": 2,
 "photo": {
@@ -9273,5 +9203,114 @@
 "via": "feed"
 },
 "checked": "2026-11-12T08:07:33.322430+00:00"
+},
+"https://justthenews.com/nation/states/center-square/minnesota-ice-detention-facility-opens-after-496m-federal-purchase": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://justthenews.com/nation/states/center-square/florida-restricts-school-vouchers-over-terror-group-affiliations": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/st-patrick-day-leprachaun-dude.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914657": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746028",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914671": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745763",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108371664-1790935737100-gettyimages-2291533356-638a0458.jpeg?v=1790935934&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4274/live/de53bba0-de77-11f1-9115-cfe6d179af3a.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27e2/live/ad9b3db0-ddd9-11f1-b865-d17d8611efca.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://nypost.com/2026/11/12/sports/knicks-mike-brown-calls-out-referees-for-pretty-alarming-free-throw-discrepancy/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-5bpf7ou6e-1794460930631.jpg?quality%3D90%26strip%3Dall%261794442961",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
+},
+"https://nypost.com/2026/11/12/sports/glenn-gawdin-makes-long-awaited-nhl-return-in-rangers-debut/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vgjt88atu-1794474583592.jpg?quality%3D90%26strip%3Dall%261794456592",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T09:24:24.127261+00:00"
 }
 }
