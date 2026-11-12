@@ -1,150 +1,4 @@
 {
-"https://justthenews.com/government/federal-agencies/head-justice-departments-civil-division-steps-down-exodus-continues": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://justthenews.com/politics-policy/trump-hints-voter-fraud-influenced-midterms": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.foxnews.com/politics/senate-gop-rebels-move-delay-leadership-vote-demand-reckoning-after-midterm-disaster": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/ron-johnson.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/house-freedom-caucus-drops-lame-duck-playbook-thune-johnson": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.foxnews.com/politics/secret-service-arrests-two-car-crash-barricade-breach-outside-white-house": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/white-house.jpeg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/nvidia-jensen-huang-ces-2026.jpg?ve=1&tl=1",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 628,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://dailycaller.com/2026/11/09/just-buy-stock-trump-touts-his-net-worth-to-americans-concerned-about-affordability": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/trumpnetworth.jpg",
-"w": 2782,
-"h": 1193,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
-"w": 1920,
-"h": 1280,
-"credit": "Chelsea Gohd",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm70pgnx891do": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck79p9350zp9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108214315-17609846542025-10-20t181904z_237714832_rc2ofhalqo8x_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-nfqhn3zlr-1794094097571.jpg?quality%3D90%26strip%3Dall%261794076233",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
-"https://nypost.com/2026/11/09/business/who-is-lori-huang-nvidia-ceos-wife-and-college-sweetheart/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148112046.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T17:27:29.997237+00:00"
-},
 "https://justthenews.com/government/congress/alaska-sen-murkowski-plans-become-ranking-member-powerful-spending-committee": {
 "v": 2,
 "photo": null,
@@ -9192,5 +9046,130 @@
 "via": "feed"
 },
 "checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://justthenews.com/government/federal-agencies/hegseth-gives-medal-soldier-who-reprimanded-him-and-his-aides-arlington": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://justthenews.com/government/congress/house-passes-major-richard-star-act-bill-aims-help-medically-retired-veterans": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
+"w": 1149,
+"h": 648,
+"credit": "ESO/M. Kornmesser",
+"via": "feed"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://dailycaller.com/2026/11/12/trump-vance-iran-peace-deal-corruption-blue-states-midterms": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2246210659.jpeg",
+"w": 3049,
+"h": 1307,
+"credit": "Anna Moneymaker",
+"via": "feed"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.jpost.com/israel-news/article-914758": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736999",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108368092-1790346946056-gettyimages-2296998600-kbd21580_4mc1l2bi.jpeg?v=1790347119&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/Wjr6XH6LRoffJxG5s9M485-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "CMSE",
+"via": "feed"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4801570/richard-blumenthal-not-intimidated-doj-trump-ballroom-investigation/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26265766432410_6ed8e1.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
+},
+"https://nypost.com/2026/11/12/lifestyle/walmart-shopper-fumes-over-new-vanishing-price-tags/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148471474.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T17:41:27.325196+00:00"
 }
 }
