@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-0741.json",
+  "created": "2026-11-12T13:41:06.476407+00:00",
+  "created_ct": "Thu Nov 12, 2026 7:41 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+    "original_headline": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+    "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith. (CNBC) https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 158,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

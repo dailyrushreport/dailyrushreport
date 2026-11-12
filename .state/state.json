@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/10/us-news/fbi-is-looking-into-nvidia-boss-jensen-huangs-affair-with-suspected-chinese-spy-trump-says/",
   "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
   "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
   "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
   "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
-  "https://www.bbc.co.uk/news/articles/c8zx964glvwxo"
+  "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
+  "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
-  "since": "2026-11-12T10:26:28.945511+00:00"
+  "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+  "since": "2026-11-12T13:41:06.476407+00:00"
  },
- "last_build": "2026-11-12T12:17:45.514088+00:00",
+ "last_build": "2026-11-12T13:41:06.476407+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
   "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
   "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
@@ -270,6 +269,7 @@
   "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
   "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
   "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
-  "https://www.bbc.co.uk/news/articles/c8zx964glvwxo"
+  "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
+  "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
  ]
 }
