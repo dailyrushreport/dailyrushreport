@@ -4,126 +4,6 @@
 "photo": null,
 "checked": "2026-11-09T14:03:45.650599+00:00"
 },
-"https://justthenews.com/nation/states/center-square/flu-shots-children-under-anesthesia-raises-questions-about-parental": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.jpost.com/israel-news/article-914283": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745069",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.jpost.com/international/article-914282": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745465",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108545286-1794185503611-gettyimages-2300115692-vcg111674152282.jpeg?v=1794185552&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261105224558.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/viscous-marine-snow-particles.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.thefp.com/p/the-trans-issue-is-still-democrats": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!f7XV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f5f779b-3c34-4276-95ed-65ed1bdfffb1_1024x683.jpeg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261104084019.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/laimosemion-laranja.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmwyqql26xe8o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4e30/live/1657c480-d9fd-11f1-84c1-dbcae60402d7.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261104084009.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/brain-cancer-tumor-blood-vessels.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://nypost.com/2026/11/08/sports/fans-brawl-outside-49ers-raiders-game-in-horrific-scene-leaving-multiple-people-unconscious/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ih8g2gbxi-1794187874808.jpg?quality%3D90%26strip%3Dall%261794169898",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
-"https://nypost.com/2026/11/08/sports/shedeur-sanders-made-bill-cowhera-a-believer-with-electric-browns-proformance/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-mbuiq9quo-1794184978672.jpg?quality%3D90%26strip%3Dall%261794167032",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T01:55:44.048197+00:00"
-},
 "https://www.foxnews.com/us/dallas-public-defenders-chief-investigator-charged-wifes-murder-after-bloody-apartment-discovery": {
 "v": 2,
 "photo": {
@@ -9320,5 +9200,107 @@
 "via": "feed"
 },
 "checked": "2026-11-12T01:41:54.614864+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-12/india-reclaims-spot-among-world-s-five-biggest-stock-markets-as-rally-extends": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://justthenews.com/nation/states/center-square/interest-debt-cost-14-trillion-last-year-audit-finds": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://justthenews.com/government/security/us-withdraws-under-17-world-cup-qatar-set-begin-next-week-over-security": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.axios.com/2026/11/11/massie-epstein-files-second-vote": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/8CZTarzoVxlSLMSxKq4L2B43DpM=/0x0:6988x3931/1366x768/2026/11/11/1794426879629.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-12/mexican-steel-imports-from-asia-fall-as-more-us-supplies-sought": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.washingtonexaminer.com/policy/infrastructure/4800858/brooklyn-nyc-apartment-building-collapses/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315815126513.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.jpost.com/israel-news/article-914638": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745974",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.cnbc.com/2026/11/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108326571-1782367891533-gettyimages-2282192182-20090101260622-99-815077.jpeg?v=1782367904&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108548243-17943307042026-11-10t171000z_665024736_rc21loachi3x_rtrmadp_0_usa-stocks.jpeg?v=1794330798&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/a2b6a41d40ff2f77ee60bd0b7ed4dada6826bd87/485_0_4853_3882/master/4853.jpg?width=700&quality=85&auto=format&fit=max&s=10523f21faaf9987caffc4b86f7df15c",
+"w": 700,
+"h": 560,
+"credit": "Ryan Murphy/AP",
+"via": "feed"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
+},
+"https://nypost.com/2026/11/11/us-news/nyc-parents-slam-construction-of-mens-homeless-shelter-near-brooklyn-middle-school/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148403537.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T02:38:19.483944+00:00"
 }
 }
