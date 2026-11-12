@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-1047.json",
+  "created": "2026-11-12T16:47:44.180910+00:00",
+  "created_ct": "Thu Nov 12, 2026 10:47 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump lays out his lame-duck agenda, and it sounds familiar",
+    "original_headline": "Trump lays out his lame-duck agenda, and it sounds familiar",
+    "url": "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump lays out his lame-duck agenda, and it sounds familiar. (Washington Examiner) https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 151,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump lays out his lame-duck agenda, and it sounds familiar. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

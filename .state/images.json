@@ -1,239 +1,4 @@
 {
-"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-was-only-kidding-about-offering-ufc-ceo-dana-white": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://justthenews.com/politics-policy/massie-touts-hegseth-impeachment-lawmakers-return-capitol-hill": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://justthenews.com/politics-policy/house-freedom-caucus-drops-lame-duck-playbook-thune-johnson": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.washingtonexaminer.com/news/world/4797095/russell-brand-sentenced-10-years-prison/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2025/05/AP25122375660414-scaled-e1794237795800.webp?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://thehill.com/homenews/6208182-ahmed-moor-challenges-fetterman/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/07/fettermnajohn_071626nk02_w.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckgel338xql3o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.jpost.com/international/article-914362": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745258",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.jpost.com/israel-news/article-914365": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745559",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/": {
-"v": 2,
-"photo": {
-"img": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/11/hegseth.jpg?fit=617%2C360&ssl=1",
-"w": 617,
-"h": 360,
-"credit": "Kylie Cooper/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1793222589&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108528044-1793913493460-gettyimages-2303226839-AFP_D6KY84T.jpeg?v=1793913625&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/uKcp2YwMdfHRKw3V3tyPb-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "NASA/Helen Arase Vargas",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png",
-"w": 1152,
-"h": 648,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 628,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "SAM YEH/AFP via Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Mark Thompson/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://nypost.com/2026/11/09/us-news/explosion-at-steel-plant-in-western-turkey-leaves-10-dead-4-missing/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148113233.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/nvidia-jensen-huang-ces-2026.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://nypost.com/2026/11/09/health/pharmacists-warn-against-viral-allergy-pill-aagina-hack/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-95swuihta-1794240698790.jpg?quality%3D90%26strip%3Dall%261794222728",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://nypost.com/2026/11/09/sports/tyler-koleks-girlfriend-jumps-into-taylor-swift-fakest-knicks-fan-drama/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-g5wzspclg-1794239511871.jpg?quality%3D90%26strip%3Dall%261794221626",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
-"https://nypost.com/2026/11/09/us-news/secret-service-puts-white-house-on-lockdown-after-car-rams-through-secure-area-with-trump-home-in-dc/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwhite-house-ramming-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T16:27:41.919799+00:00"
-},
 "https://justthenews.com/government/federal-agencies/head-justice-departments-civil-division-steps-down-exodus-continues": {
 "v": 2,
 "photo": null,
@@ -9292,5 +9057,140 @@
 "via": "feed"
 },
 "checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://justthenews.com/nation/economy/weekly-jobless-claims-tick-upward-remain-historically-low-levels": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://justthenews.com/nation/culture/legendary-sports-and-golf-announcer-dan-hicks-dead-64": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.foxnews.com/media/arnold-schwarzenegger-tells-jimmy-kimmel-considers-himself-republican": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arnold-schwarzenegger-kimmel.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.foxnews.com/media/tpusa-students-warn-campus-hostility-conservatives-growing-after-texas-university-attack": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/TPUSA-attack.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/vHiPlofd0fxg6jPs4w0F5tjQz9U=/0x0:5067x2850/1366x768/2026/11/12/1794496673803.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315594171501.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/12/loose-emu-pine-barrens-new-jersey/8421794500759/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/12/martin-county-florida-bobcat-barbed-wire/5931794501662/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://justthenews.com/government/local/firefighters-pull-pregnant-woman-rubble-collapsed-brooklyn-building": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6x20x380z12o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8b9c/live/988b6390-be7c-11f1-8a45-cd59664d243b.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108363240-1789497350287-gettyimages-2294936606-DREAMFORCE_2026.jpeg?v=1791240406&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-914750": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/717175",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
+},
+"https://nypost.com/2026/11/12/sports/49ers-coach-kyle-shanahan-tells-story-behind-his-weird-college-tattoo/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-bdpezg5hi-1794501053172.jpg?quality%3D90%26strip%3Dall%261794483072",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T16:47:44.180910+00:00"
 }
 }
