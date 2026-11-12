@@ -1,195 +1,4 @@
 {
-"https://justthenews.com/politics-policy/trump-says-maga-can-exist-without-him-basically-common-sense": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://justthenews.com/government/congress/sen-mccormick-joins-other-republicans-calling-delay-leadership-vote": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://justthenews.com/politics-policy/elections/georgia-secretary-state-opens-investigation-seminole-county-late-upload": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.foxnews.com/outkick-sports/blades-brown-makes-historic-arrival-bryson-dechambeau-tosses-word-salad-jon-rahm-statement-win": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bryson-dechambeau-hat-tip-featured.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.washingtonexaminer.com/policy/foreign-policy/4797016/trump-return-full-scale-war-iran-highly-unlikely/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26311037835471.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.jpost.com/international/article-914349": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/698902",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914356": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744793",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cq80z0y85j0go": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed16/live/51733710-dc47-11f1-b441-2b33b063138f.png",
-"w": 976,
-"h": 546,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.cnbc.com/2026/11/09/key-ai-chip-index-just-broke-its-long-term-trendline-what-history-says-happen-next.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108356779-1788220405656-gettyimages-2227848336-global-market.jpeg?v=1788240215&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_shopping2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://nypost.com/2026/11/09/business/nvidia-falls-7-over-probe-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148107424.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://nypost.com/2026/11/09/lifestyle/stay-at-home-salary-the-real-cost-of-invisible-labor/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-6wgfdzlui-1793807133862.jpg?quality%3D90%26strip%3Dall%261793789158",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://freebeacon.com/israel/exclusive-republican-ags-tell-uk-and-netherlands-to-drop-sanctions-on-israeli-companies-or-risk-us-divestment/": {
-"v": 2,
-"photo": {
-"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-05-51-PM-5699-scaled.jpg",
-"w": 2560,
-"h": 1810,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.theverge.com/tech/1029676/medium-tk-notes-app": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&strip=all&crop=0%2C3.470920622186%2C100%2C93.058158755628&w=1200",
-"w": 1198,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://nypost.com/2026/11/09/us-news/cornell-rocked-by-another-sex-assault-scandal-involving-up-to-10-students/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148113024.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.space.com/technology/aerospace/futuristic-aircraft-takes-flight-at-nasa-space-photo-of-the-day-for-nov-9-2026": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/TsgRGXgoa6HuNyCdaxjAGf-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "Chelsea Gohd/Future",
-"via": "feed"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
-"https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108368701-1790598712807-108368701-1790598543513-jensen3.jpg?v=1790598750&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T15:19:05.316701+00:00"
-},
 "https://justthenews.com/politics-policy/all-things-trump/trump-says-he-was-only-kidding-about-offering-ufc-ceo-dana-white": {
 "v": 2,
 "photo": null,
@@ -9297,5 +9106,191 @@
 "via": "feed"
 },
 "checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://justthenews.com/politics-policy/energy/energy-advocacy-group-asks-vance-full-audit-us-participation-un-climate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.axios.com/2026/11/12/nvidia-jensen-huang-out": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/SoD5Y4R-hUUqWoyXV4h1DvcAjog=/0x187:4096x2491/1366x768/2026/11/09/1794194549268.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://thehill.com/homenews/administration/6215557-donald-trump-us-mexico-migrants-gop-midterm-losses/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26315625079096-e1794497318643.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4801242/trump-tells-vance-forget-iran-focus-corruption/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315582534764.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.washingtonexaminer.com/news/crime/4801368/watch-live-police-provide-update-shooting-washington-logan-circle/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26316547990751.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=700&quality=85&auto=format&fit=max&s=ef846b8f24254a2ed4705e3489b96087",
+"w": 700,
+"h": 560,
+"credit": "Alex Wong/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914741": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745059",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.jpost.com/israel-election-2026/article-914743": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746155",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://reason.com/2026/11/12/the-media-environment-has-changed-maybe-thats-all-right/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Taibbi-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Reason Interview with Nick Gillespie",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png",
+"w": 1920,
+"h": 1080,
+"credit": "HEO",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/4WLfLpEy2Bx7vptmxJDKeD-2133-80.jpg",
+"w": 2133,
+"h": 1200,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108549311-1794425169962-Star_Wars_A_New_HOpe_Cosm.jpeg?v=1794425222&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1794275799&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Google, Warby Parker",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://reason.com/volokh/2026/11/12/if-you-run-social-media-for-a-university-dont-misprint-the-name-of-its-mascot/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/HinckleyvUWyoming.jpg",
+"w": 764,
+"h": 702,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://nypost.com/2026/11/12/business/who-is-colette-kress-nvidias-interim-ceo-replacing-jensen-huang/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnvidias-chief-financial-officer-colette-148461509.jpg?quality%3D90%26strip%3Dall",
+"w": 728,
+"h": 728,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
+},
+"https://nypost.com/2026/11/12/business/nvidias-stock-slides-11-in-after-ceo-jensen-huang-resigns-over-affairs/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-w5p4hyod0-1794495450184.jpg?quality%3D90%26strip%3Dall%261794477505",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T15:44:30.626853+00:00"
 }
 }
