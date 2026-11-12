@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-1341.json",
+  "created": "2026-11-12T19:41:51.478094+00:00",
+  "created_ct": "Thu Nov 12, 2026 1:41 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier",
+    "original_headline": "Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier",
+    "url": "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier. (Washington Examiner) https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 224,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

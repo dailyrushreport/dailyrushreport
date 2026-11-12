@@ -1,206 +1,4 @@
 {
-"https://justthenews.com/government/congress/alaska-sen-murkowski-plans-become-ranking-member-powerful-spending-committee": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://justthenews.com/politics-policy/burchett-eyes-blackburns-senate-seat-thune-reportedly-works-block-him": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6zxjx01vyleo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a7f6/live/fa928860-dc69-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4797454/vance-jokes-about-devastating-loss-ohio-state/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26313563555756.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.foxnews.com/outkick-sports/rachel-maddow-says-trans-sports-debate-made-up-issue-harm-trans-people": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rachel-maddow-tonight-show-jimmy-fallon.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://dailycaller.com/2026/11/09/comedian-russell-brand-sentenced-ten-years-six-months-jail-rape-sexual-assault-convicted": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2217050871.jpg",
-"w": 3500,
-"h": 1500,
-"credit": "by Jack Taylor/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.jpost.com/middle-east/article-914367": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745562",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.jpost.com/international/article-914373": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745572",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.washingtonexaminer.com/news/senate/4797478/lisa-murkowski-seeks-senate-appropriations-committee-ranking-member/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/Lisa-Murkowski-1.png?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&strip=all&crop=0%2C10.193943950862%2C100%2C79.612112098277&w=1200",
-"w": 1200,
-"h": 623,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.foxnews.com/tech/new-big-rig-safety-tech-could-save-your-life": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/florida-tractor-trailer-cab-child-neglect.jpg?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Aurich Lawson",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108476443-1793217956563-gettyimages-2301920785-KALSHI_MIDTERMS.jpeg?v=1794250769&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
-"https://nypost.com/2026/11/09/sports/olympic-swimming-champion-fighting-for-her-life-after-apartment-fire/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1gfhmqn2c-1794241286815.jpg?quality%3D90%26strip%3Dall%261794223300",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T19:24:02.276761+00:00"
-},
 "https://justthenews.com/politics-policy/rubio-defends-hegseth-massie-pushes-impeachment": {
 "v": 2,
 "photo": null,
@@ -9356,5 +9154,146 @@
 "via": "page"
 },
 "checked": "2026-11-12T18:38:25.198020+00:00"
+},
+"https://www.jpost.com/diaspora/article-914768": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/697701",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://thehill.com/policy/technology/6216293-trump-suggests-tim-cook-nvidia/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP26019048157729-e1776774280714.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.jpost.com/american-politics/article-914766": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744846",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP23234617861140.jpeg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315605351853.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794403499&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108324773-1782131265368-gettyimages-2282192099-20090101260622-99-815071.jpeg?v=1793900960&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
+"w": 1152,
+"h": 648,
+"credit": "Ashley Belanger",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Brian Lawless/PA Images",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Aurich Lawson",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/12/lotto-south-carolina-education-lottery-price-is-right/1511794508876/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T19:41:51.478094+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/ousted-nvidia-boss-jensen-huang-agrees-to-testify-before-congress-as-gop-presses-lutnick-for-answers-in-china-spy-scandal/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FJensen-Huang-congress-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T19:41:51.478094+00:00"
 }
 }

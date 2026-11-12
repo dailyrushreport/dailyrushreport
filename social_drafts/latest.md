@@ -1,25 +1,25 @@
-# Social drafts — Thu Nov 12, 2026 12:38 PM CT
+# Social drafts — Thu Nov 12, 2026 1:41 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-12-1238.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-12-1341.json x` or `... instagram` (prints the final text to copy).
 
-Lead: SpaceX denies latest Zelensky Starshield claims  
+Lead: Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier  
 Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/  
-Pinned by editor: no · BREAKING: no
+Link: https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 139/280 chars (X counting)
+## X — status: pending_approval · 224/280 chars (X counting)
 
 ```
-SpaceX denies latest Zelensky Starshield claims. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/
+Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier. (Washington Examiner) https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-SpaceX denies latest Zelensky Starshield claims. Story via Washington Examiner. Link in bio.
+Hegseth awards medal to Arlington Guard sentinel who shouted at his party to keep quiet at Tomb of the Unknown Soldier. Story via Washington Examiner. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
