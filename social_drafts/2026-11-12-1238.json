@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-1238.json",
+  "created": "2026-11-12T18:38:25.198020+00:00",
+  "created_ct": "Thu Nov 12, 2026 12:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "SpaceX denies latest Zelensky Starshield claims",
+    "original_headline": "SpaceX denies latest Zelensky Starshield claims",
+    "url": "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "SpaceX denies latest Zelensky Starshield claims. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 139,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "SpaceX denies latest Zelensky Starshield claims. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

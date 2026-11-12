@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/",
   "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
   "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
   "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
   "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-  "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/"
+  "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
+  "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
-  "since": "2026-11-12T16:47:44.180910+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
+  "since": "2026-11-12T18:38:25.198020+00:00"
  },
- "last_build": "2026-11-12T17:41:27.325196+00:00",
+ "last_build": "2026-11-12T18:38:25.198020+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/",
   "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
   "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
   "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
@@ -270,6 +269,7 @@
   "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
   "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-  "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/"
+  "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
+  "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/"
  ]
 }
