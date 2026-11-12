@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/11/10/house-republicans-reject-impeachment-effort-against-hegseth/",
   "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
   "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
   "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
   "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
   "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-  "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief"
+  "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
+  "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
-  "since": "2026-11-12T21:34:10.565517+00:00"
+  "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
+  "since": "2026-11-12T22:31:49.197593+00:00"
  },
- "last_build": "2026-11-12T21:34:10.565517+00:00",
+ "last_build": "2026-11-12T22:31:49.197593+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
   "https://www.washingtonexaminer.com/policy/foreign-policy/4778294/rubio-cubans-partner-with-cia/",
   "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/",
   "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
@@ -270,6 +269,7 @@
   "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
   "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
   "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-  "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief"
+  "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
+  "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns"
  ]
 }
