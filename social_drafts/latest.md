@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 11, 2026 9:39 PM CT
+# Social drafts — Thu Nov 12, 2026 12:51 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-2139.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-12-0051.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Democrat Scott Colom seals historic win in Mississippi Senate race  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cw7vppyr80eeo  
+Lead: 11-month-old baby buried alive for over 24 hours miraculously released from hospital as dad is charged with attempted murder  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 142/280 chars (X counting)
+## X — status: pending_approval · 204/280 chars (X counting)
 
 ```
-Democrat Scott Colom seals historic win in Mississippi Senate race. (BBC) https://www.bbc.co.uk/news/articles/cw7vppyr80eeo
+11-month-old baby buried alive for over 24 hours miraculously released from hospital as dad is charged with attempted murder. (NY Post) https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Democrat Scott Colom seals historic win in Mississippi Senate race. Story via BBC. Link in bio.
+11-month-old baby buried alive for over 24 hours miraculously released from hospital as dad is charged with attempted murder. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
