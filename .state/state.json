@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/",
   "https://www.thefp.com/p/the-good-news-about-jensen-huangs-affair",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet",
   "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
-  "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/"
+  "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
+  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
-  "since": "2026-11-12T00:07:47.099919+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
+  "since": "2026-11-12T01:41:54.614864+00:00"
  },
- "last_build": "2026-11-12T00:07:47.099919+00:00",
+ "last_build": "2026-11-12T01:41:54.614864+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -266,6 +266,7 @@
   "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet",
   "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
-  "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/"
+  "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
+  "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/"
  ]
 }

@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 11, 2026 6:07 PM CT
+# Social drafts — Wed Nov 11, 2026 7:42 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-11-1807.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-11-1942.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Army guard scolds Pentagon officials, including Pete Hegseth, heard laughing at Tomb of the Unknown Soldier  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/  
+Lead: Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith  
+Outlet: Breitbart  
+Link: https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 201/280 chars (X counting)
+## X — status: pending_approval · 177/280 chars (X counting)
 
 ```
-Army guard scolds Pentagon officials, including Pete Hegseth, heard laughing at Tomb of the Unknown Soldier. (NY Post) https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/
+Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith. (Breitbart) https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Army guard scolds Pentagon officials, including Pete Hegseth, heard laughing at Tomb of the Unknown Soldier. Story via NY Post. Link in bio.
+Democrat Scott Colom Wins Mississippi Senate Seat Defeating Sen. Cindy Hyde-Smith. Story via Breitbart. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
