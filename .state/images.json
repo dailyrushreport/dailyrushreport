@@ -1,162 +1,4 @@
 {
-"https://justthenews.com/government/white-house/trump-says-his-deportation-policies-might-be-too-tough-open-deal-dems": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://justthenews.com/politics-policy/all-things-trump/power-moves-trump-republicans-can-execute-during-lame-duck": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.foxnews.com/media/trump-says-he-cant-imagine-democrats-impeach-him-third-time": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-american-flag.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://justthenews.com/government/congress/hakeem-jeffries-says-he-hard-yes-hegseth-impeachment": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.jpost.com/israel-news/article-914338": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743245",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://thehill.com/homenews/administration/6207029-live-updates-trump-congress-lame-duck/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/johnsonmike_101025gn16_w.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.jpost.com/health-and-wellness/article-914335": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745521",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.cnbc.com/2026/11/09/nvidia-stock-faces-huang-investigation-overhang-analysts.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108441790-1792586470016-gettyimages-2300714649-GERMANY_NVIDIA.jpeg?v=1792586515&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108361248-1789053075790-gettyimages-2292907694-US_HOME_SALES.jpeg?v=1794232565&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/EDSLPgQe5gCsFs72XukEyF-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "CIRA/NOAA/R. Schott/American Meteor Society",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/cn82GcQHERqoYh2TVVqoN4-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1927-80.jpg",
-"w": 1927,
-"h": 1084,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2597/live/27d57330-dc3a-11f1-95cf-a38331e6cb4b.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://nypost.com/2026/11/09/betting/bet365-bonus-code-bet-10-get-200-in-bonus-bets-for-bills-vs-vikings/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-juecy02wn-1794168010035.jpg?quality%3D90%26strip%3Dall%261794150070",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://reason.com/volokh/2026/11/09/u-colorado-regent-vs-regents-lawsuit-cannabis-race-and-legislative-immunity/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/JamesvRennisonImage.jpg",
-"w": 597,
-"h": 517,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
-"https://nypost.com/2026/11/09/us-news/republican-rep-french-hill-wont-rule-out-impeaching-pete-hegseth-after-barely-winning-re-election/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frepresentative-french-hill-republican-arkansas-148023023.jpg?quality%3D90%26strip%3Dall",
-"w": 4000,
-"h": 2666,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-09T14:03:45.650599+00:00"
-},
 "https://justthenews.com/politics-policy/trump-says-maga-can-exist-without-him-basically-common-sense": {
 "v": 2,
 "photo": null,
@@ -9275,5 +9117,185 @@
 "via": "feed"
 },
 "checked": "2026-11-12T13:41:06.476407+00:00"
+},
+"https://justthenews.com/nation/technology/nvidia-ceo-huang-resigns-after-reports-extramarital-relationships-suspected": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://justthenews.com/politics-policy/elections/democratic-senate-candidate-peltola-loses-suit-over-absentee-ballot": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.foxnews.com/outkick-sports/michael-irvin-posts-all-time-odd-dog-photo-stuns-internet-6u-qb-tank-mr-t-salutes-veterans": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Michael-Irvin-Philly.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://justthenews.com/nation/crime/four-people-shot-dc-neighborhood-one-mile-white-house-police-say": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-914734": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745818",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-914732": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739537",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://reason.com/2026/11/12/the-nvidia-affairs/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Jensen-Affair-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "EyePress/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108230917-1763994390176-gettyimages-2248015646-jl1_6581_sjozszkb.jpeg?v=1763994431&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108148696-1747838033743-gettyimages-2215609488-AFP_47HG7CD.jpeg?v=1765289276&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bricklink1.jpg?quality=90&strip=all&crop=0,10.667430009877,100,78.665139980246",
+"w": 900,
+"h": 467,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cx98757ymm6zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg",
+"w": 1024,
+"h": 648,
+"credit": "Getty",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&strip=all&crop=0%2C38.75799213023%2C100%2C34.929678677754&w=1200",
+"w": 1200,
+"h": 611,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/vBamFcWQ2Ys4pVWSVFxWjf-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "Michael Runkel / robertharding via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/georgia-businessman-dies-after-plane-crash-just-a-mile-from-airport-minutes-after-reporting-engine-trouble/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FPlane-crash-1.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/nyc-found-violations-at-construction-site-for-brooklyn-building-earlier-this-year-before-it-collapsed/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcollapse-violations_5f759e.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
+},
+"https://nypost.com/2026/11/12/sports/former-yankees-pitcher-chris-martin-retires-from-mlb-at-40/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fchris-martin-retires.jpg?quality%3D90%26strip%3Dall%261794474787",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-12T14:43:05.396523+00:00"
 }
 }
