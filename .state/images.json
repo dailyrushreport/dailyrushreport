@@ -1,80 +1,4 @@
 {
-"https://justthenews.com/government/congress/senate-advances-bipartisan-permitting-reform-bill-return-midterms-recess": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-and-gas-prices-give-gilt-traders-some-relief": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.jpost.com/israel-news/article-914417": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734720",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.jpost.com/international/article-914415": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745632",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c64g1ge73y8lo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/86c1/live/acaecae0-dc65-11f1-8fe6-5becaee5408f.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108318105-1780924433940-gettyimages-2256411028-abnehmpille_heap3a.jpeg?v=1780924444&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://nypost.com/2026/11/10/us-news/elizabeth-siders-ohio-house-of-horrors-mom-of-16-pregnant-again-as-shes-ruled-competent-to-stand-trial/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-d0e0858wm-1794291637682.jpg?quality%3D90%26strip%3Dall%261794273696",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T07:58:29.888494+00:00"
-},
 "https://www.foxnews.com/politics/trump-says-deportation-push-hasnt-put-same-pressure-farm-workers-hotel-staff-not-even-close": {
 "v": 2,
 "photo": null,
@@ -9124,5 +9048,113 @@
 "via": "feed"
 },
 "checked": "2026-11-13T06:50:43.959537+00:00"
+},
+"https://justthenews.com/nation/states/center-square/coalition-dozens-groups-15k-signed-petitions-call-special-session": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914799": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745772",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arizona-sex-pred-killers.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.jpost.com/archaeology/article-914605": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745909",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://justthenews.com/politics-policy/energy/morano-predicts-dems-will-bring-climate-back-congress-next-year-despite": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://reason.com/volokh/2026/11/13/open-thread-387/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/harrowing-video-shows-inside-view-of-moment-brooklyn-building-collapses-killing-at-least-8-report/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148574338.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/stanley-zabars-legacy-extends-far-beyond-iconic-nyc-grocery-store-as-new-yorkers-remember-his-lasting-impact/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148511201.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
+},
+"https://nypost.com/2026/11/13/lifestyle/dear-abby-im-concerned-that-my-family-member-will-committ-estate-fraud-after-losing-her-partner/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41743582.jpg?quality%3D90%26strip%3Dall",
+"w": 5414,
+"h": 3608,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T08:06:37.656849+00:00"
 }
 }

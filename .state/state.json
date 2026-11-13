@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
   "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
   "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
   "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
   "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
   "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
-  "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/"
+  "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
+  "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
-  "since": "2026-11-13T04:44:42.570450+00:00"
+  "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+  "since": "2026-11-13T08:06:37.656849+00:00"
  },
- "last_build": "2026-11-13T06:50:43.959537+00:00",
+ "last_build": "2026-11-13T08:06:37.656849+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 500: Internal Server Error) - used cache from 2026-11-13T00:08Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
   "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
   "https://www.washingtonexaminer.com/policy/defense/4778516/starshield-systems-unlocked-ukraine-over-week-after-uproar/",
   "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
@@ -270,6 +269,7 @@
   "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
   "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
   "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
-  "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/"
+  "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
+  "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
  ]
 }

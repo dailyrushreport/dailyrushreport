@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-0206.json",
+  "created": "2026-11-13T08:06:37.656849+00:00",
+  "created_ct": "Fri Nov 13, 2026 2:06 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
+    "original_headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
+    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Widespread Microsoft outage takes down Outlook and other 365 services. (CNBC) https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Widespread Microsoft outage takes down Outlook and other 365 services. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

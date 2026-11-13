@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 12, 2026 10:44 PM CT
+# Social drafts — Fri Nov 13, 2026 2:06 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-12-2244.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-13-0206.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Donald Trump Jr. leaves paid advisory role at prediction market Kalshi  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/  
+Lead: Widespread Microsoft outage takes down Outlook and other 365 services  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 162/280 chars (X counting)
+## X — status: pending_approval · 146/280 chars (X counting)
 
 ```
-Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. (Washington Examiner) https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/
+Widespread Microsoft outage takes down Outlook and other 365 services. (CNBC) https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. Story via Washington Examiner. Link in bio.
+Widespread Microsoft outage takes down Outlook and other 365 services. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
