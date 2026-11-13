@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-12-2244.json",
+  "created": "2026-11-13T04:44:42.570450+00:00",
+  "created_ct": "Thu Nov 12, 2026 10:44 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Donald Trump Jr. leaves paid advisory role at prediction market Kalshi",
+    "original_headline": "Donald Trump Jr. leaves paid advisory role at prediction market Kalshi",
+    "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. (Washington Examiner) https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

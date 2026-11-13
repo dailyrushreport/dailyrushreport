@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 12, 2026 7:36 PM CT
+# Social drafts — Thu Nov 12, 2026 10:44 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-12-1936.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-12-2244.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress  
-Outlet: Fox Business  
-Link: https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress  
+Lead: Donald Trump Jr. leaves paid advisory role at prediction market Kalshi  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 153/280 chars (X counting)
+## X — status: pending_approval · 162/280 chars (X counting)
 
 ```
-Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress. (Fox Business) https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress
+Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. (Washington Examiner) https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress. Story via Fox Business. Link in bio.
+Donald Trump Jr. leaves paid advisory role at prediction market Kalshi. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
