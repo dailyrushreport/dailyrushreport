@@ -1,108 +1,4 @@
 {
-"https://justthenews.com/government/congress/watch-live-house-holds-preliminary-vote-hegseth-impeachment-effort": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty Images | CQ Roll Call",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/eKkegi3q7cuhqgmtgMrZ6U-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "SpaceX",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-"w": 1152,
-"h": 648,
-"credit": "SpaceXSI",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwx2922r4mrjo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e302/live/6c37fbd0-dd4b-11f1-a2ff-1f577adb9bef.jpg",
-"w": 976,
-"h": 550,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=d0d23a6f696686a649d9e41bdaffb705",
-"w": 700,
-"h": 560,
-"credit": "MEGA/GC Images",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://www.thefp.com/p/the-archbishop-of-san-francisco-on": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!x21S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c7ccd35-5285-4632-af01-07c2dd2e3706_1024x680.jpeg",
-"w": 1024,
-"h": 680,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/gas-pump-prices-iran-conflict.png",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://nypost.com/2026/11/10/media/skydance-buyouts-at-cnn-cbs-news-spark-exodus-of-veteran-staffers-including-workers-bosses-wanted-to-keep-report/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vbsjbyc64-1794345857357.jpg?quality%3D90%26strip%3Dall%261794327899",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
-"https://nypost.com/2026/11/10/us-news/hochul-still-game-for-ny-dems-redistricting-scheme-after-blue-wave-wins/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148255346.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:03:22.299152+00:00"
-},
 "https://justthenews.com/government/congress/house-votes-massies-hegseth-impeachment-measures": {
 "v": 2,
 "photo": null,
@@ -9082,5 +8978,181 @@
 "via": "feed"
 },
 "checked": "2026-11-13T22:31:10.226882+00:00"
+},
+"https://www.washingtonexaminer.com/news/supreme-court/4803086/supreme-court-takes-up-challenge-trump-southern-border-asylum-ban/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP24213458936020.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/john-brennan-lied-to-congress.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2024/03/garciarobert_032024gn01_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.nationalreview.com/article/the-selective-persecution-of-nathan-cofnas": {
+"v": 2,
+"photo": {
+"img": "https://cdn.sanity.io/images/yu68q2re/production/03a0dae129ecad350625544348ac8dd6be5e33cb-2057x1200.jpg?w=600",
+"w": 600,
+"h": 350,
+"credit": "Toby Shepheard/Reuters, The Winston Marshall Show/YouTube",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.jpost.com/middle-east/article-914836": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742131",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/ozmehmet_101426gn01_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck1exevgql4qo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+"w": 1000,
+"h": 648,
+"credit": "Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/LKwT9rtgrw3Tfz4zpeWdcg-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/63fc/live/fe60f040-dfb0-11f1-be1f-9dae57fabf82.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://nypost.com/2026/11/13/business/jensen-huang-commemorative-plaque-gone-from-famed-dennys-where-he-founded-nvidia-report/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148672099.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/faa-launched-new-ai-smart-tool-to-all-air-route-traffic-control-centers-just-days-before-nationwide-ground-stop/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-gjemvciq9-1794609771806.jpg?quality%3D90%26strip%3Dall%261794591813",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/ny-education-boss-demands-state-fork-over-massive-funding-increase-to-replace-regents/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-knkrqwkhr-1794611069326.jpg?quality%3D90%26strip%3Dall%261794593098",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/mamdani-to-announce-rebrand-of-controversial-nypd-protest-response-unit-after-lefty-attacks/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnypd-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://www.theverge.com/news/1033489/faa-ground-stop": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0%2C10.735397013053%2C100%2C78.529205973894&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T23:28:21.701473+00:00"
 }
 }

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
   "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
   "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
   "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
   "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
-  "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+  "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+  "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
-  "since": "2026-11-13T19:41:05.671803+00:00"
+  "url": "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
+  "since": "2026-11-13T23:28:21.701473+00:00"
  },
- "last_build": "2026-11-13T22:31:10.226882+00:00",
+ "last_build": "2026-11-13T23:28:21.701473+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
   "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
@@ -270,6 +269,7 @@
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
   "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
-  "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+  "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+  "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/"
  ]
 }
