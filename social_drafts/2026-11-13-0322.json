@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-0322.json",
+  "created": "2026-11-13T09:22:46.798096+00:00",
+  "created_ct": "Fri Nov 13, 2026 3:22 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage",
+    "original_headline": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage",
+    "url": "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage. (NY Post) https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 181,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
