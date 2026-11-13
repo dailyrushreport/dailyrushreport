@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
   "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
   "https://www.breitbart.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-seat-defeating-sen-cindy-hyde-smith/",
   "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-  "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/"
+  "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
+  "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
-  "since": "2026-11-13T16:40:04.855115+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+  "since": "2026-11-13T19:41:05.671803+00:00"
  },
- "last_build": "2026-11-13T18:35:41.272125+00:00",
+ "last_build": "2026-11-13T19:41:05.671803+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
   "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
@@ -270,6 +269,7 @@
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-  "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/"
+  "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
+  "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
  ]
 }

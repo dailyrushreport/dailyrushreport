@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-1341.json",
+  "created": "2026-11-13T19:41:05.671803+00:00",
+  "created_ct": "Fri Nov 13, 2026 1:41 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Democratic Senate leader Schumer set to face leadership challenge",
+    "original_headline": "Democratic Senate leader Schumer set to face leadership challenge",
+    "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Democratic Senate leader Schumer set to face leadership challenge. (BBC) https://www.bbc.co.uk/news/articles/cmy4930jq749o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 141,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Democratic Senate leader Schumer set to face leadership challenge. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
