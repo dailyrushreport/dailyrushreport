@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-1040.json",
+  "created": "2026-11-13T16:40:04.855115+00:00",
+  "created_ct": "Fri Nov 13, 2026 10:40 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo",
+    "original_headline": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo",
+    "url": "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo. (The Hill) https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 185,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

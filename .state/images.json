@@ -1,157 +1,4 @@
 {
-"https://justthenews.com/politics-policy/health/weight-loss-drugs-such-ozempic-carry-fda-warning-about-rare-vision-loss-side": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://justthenews.com/politics-policy/senate-gop-pauses-leadership-contest-conservatives-press-thune": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/eMaj1Z7Kao3LX_-W3hcpxxELT70=/0x0:7632x4293/1366x768/2026/11/09/1794265290969.jpg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://thehill.com/homenews/administration/6210801-trump-praises-hegseth-impeachment/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26212614639673-1-e1786981131481.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://thehill.com/policy/energy-environment/6210134-average-gas-price-drops-post-election-inflation-iran-war/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313768414852-e1794323023861.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108326995-1794328314979-Gas_Prices_Continue_Steady_Drop_As_Ship_Traffic_In-2283298117-Getty.jpg?v=1794328392&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.washingtonexaminer.com/policy/technology/4798465/what-we-know-jensen-huang-nvidia-spy-plot/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26271379369850.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "by MADS CLAUS RASMUSSEN/Ritzau Scanpix/AFP via Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://nypost.com/2026/11/10/us-news/helicopter-makes-emergency-landing-in-nj-as-shocking-photos-show-broken-tail/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FCOMP-Helicopter-makes-emergency-landing-in-Bayonne-NJ-2-44-screenshot.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://nypost.com/2026/11/10/sports/espn-is-turning-troy-aikman-into-the-bad-guy-in-joe-buck-feud-ryan-clark/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-uvprymx6o-1794325857391.jpg?quality%3D90%26strip%3Dall%261794307930",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
-"https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/dario-amodei-anthropic-ceo.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T16:37:24.198127+00:00"
-},
 "https://www.jpost.com/middle-east/article-914496": {
 "v": 2,
 "photo": {
@@ -8997,5 +8844,168 @@
 "via": "feed"
 },
 "checked": "2026-11-13T15:34:12.972442+00:00"
+},
+"https://justthenews.com/government/federal-agencies/bessent-blames-commerce-department-handling-nvidia-scrutiny-over-sales": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://justthenews.com/world/europe/two-iranian-men-found-guilty-spying-journalists-uk-behalf-islamic-revolutionary-guard": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/12/trump-pushes-for-nvidia-to-hire-former-apple-chief-tim-cook-to-replace-jensen-huang/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/AP26019048157729-640x335.png",
+"w": 640,
+"h": 335,
+"credit": "AP Photo\\/Alex Brandon, File",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.washingtonexaminer.com/news/business/4802617/scott-bessent-treasury-wanted-megaspeed-entity-blacklist/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26294811892872.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://justthenews.com/nation/economy/wholesale-prices-increased-03-october-less-forecasted-inflation-pressures-persist": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914822": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746230",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-13/h-r-investors-vote-down-sale-to-blackstone-and-go-rebuking-ceo": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.jpost.com/american-politics/article-914821": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736506",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.cnbc.com/2026/11/13/how-apple-became-the-safe-costco-of-tech-bernstein-says-keep-buying.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108360543-1788969838655-gettyimages-2293355243-tang-applesto260906_nptCS.jpeg?v=1788969862&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+"w": 1152,
+"h": 648,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://nypost.com/2026/11/13/sports/jannik-sinner-gf-laila-hasanovic-poses-topless-amid-breakup-rumor/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-50im27cwt-1794586565163.jpg?quality%3D90%26strip%3Dall%261794568574",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/miller_stephen_08122026_AP26224759026011-2.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwx2emg4xe72o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c7f8/live/38cb0fd0-df13-11f0-8db4-97f4d263443d.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/paprikalead.jpg?quality=90&strip=all&crop=0%2C10.728752477728%2C100%2C78.542495044544&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://thehill.com/homenews/administration/6218905-whcd-trump-assassination-terrorism-charge/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/05/69f7a2ea02f2b9.77906360.jpeg?w=900",
+"w": 900,
+"h": 600,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://nypost.com/2026/11/13/us-news/medical-helicopter-flying-back-to-childrens-hospital-crashes-with-3-crew-members-on-board/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41843533.jpg?quality%3D90%26strip%3Dall",
+"w": 6720,
+"h": 4478,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T16:40:04.855115+00:00"
 }
 }
