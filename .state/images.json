@@ -4,126 +4,6 @@
 "photo": null,
 "checked": "2026-11-10T07:58:29.888494+00:00"
 },
-"https://justthenews.com/government/courts-law/judge-denies-lindsay-clancys-request-dismiss-murder-charges-question-holdout": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.jpost.com/international/article-914392": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.jpost.com/international/article-914394": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745599",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/bc7caafb8648ba5cb0214720e2ca54df25bdf9bb/410_0_4079_3265/master/4079.jpg?width=700&quality=85&auto=format&fit=max&s=b74959320ae6c45a1a880e363c6dec2c",
-"w": 700,
-"h": 560,
-"credit": "John Locher/AP",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm369e3l15lwo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm86z6w59gggo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200",
-"w": 1200,
-"h": 623,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://www.foxbusiness.com/lifestyle/more-than-1-2m-ford-vehicles-federal-probe-safety-feature-causes-severe-burns-10-injured": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/black-ford-explorer.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://nypost.com/2026/11/09/business/nvidia-ceo-jensen-huang-hid-affair-to-suspected-chinese-spy-shareholder-lawsuit/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnvidia-jensen-huang-lawsuit.jpg?quality%3D90%26strip%3Dall%261794249933",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
-"https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69f24dabc77711.62107390.jpeg?w=900",
-"w": 900,
-"h": 599,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T00:41:03.054164+00:00"
-},
 "https://www.breitbart.com/crime/2026/11/09/charlie-kirk-assassination-trial-judge-sets-2028-start-date-for-suspect-tyler-robinson/": {
 "v": 2,
 "photo": {
@@ -9244,5 +9124,118 @@
 "via": "page"
 },
 "checked": "2026-11-13T00:08:23.298790+00:00"
+},
+"https://justthenews.com/government/security/you-vote-ousting-jensen-huang-ceo-nvidia-what-your-biggest-takeaway": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://justthenews.com/nation/technology/microsoft-365-disruption-impacts-outlook-email-services-users-nationwide": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.jpost.com/israel-news/article-914788": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746194",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.jpost.com/international/article-914789": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746196",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm2l5n07l87vo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckregjwr7njqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-13/india-equity-surge-brightens-outlook-for-exchanges-brokerages": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://justthenews.com/government/white-house/ag-blanche-joins-growing-list-top-trump-admin-officials-reportedly-living": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://nypost.com/2026/11/12/us-news/fbi-reveals-cunning-ruse-north-korean-hackers-used-in-massive-crypto-heist/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148529951.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&tl=1",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
+},
+"https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0%2C10.74862229228%2C100%2C78.502755415439&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T01:36:24.424624+00:00"
 }
 }

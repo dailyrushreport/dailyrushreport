@@ -1,25 +1,25 @@
-# Social drafts — Thu Nov 12, 2026 4:31 PM CT
+# Social drafts — Thu Nov 12, 2026 7:36 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-12-1631.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-12-1936.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns  
+Lead: Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress  
 Outlet: Fox Business  
-Link: https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns  
-Pinned by editor: no · BREAKING: yes
+Link: https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 199/280 chars (X counting)
+## X — status: pending_approval · 153/280 chars (X counting)
 
 ```
-Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns. (Fox Business) https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns
+Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress. (Fox Business) https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns. Story via Fox Business. Link in bio.
+Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress. Story via Fox Business. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
