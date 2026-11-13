@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-0737.json",
+  "created": "2026-11-13T13:37:18.158573+00:00",
+  "created_ct": "Fri Nov 13, 2026 7:37 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "What we know about the global Microsoft outage",
+    "original_headline": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "What we know about the global Microsoft outage. (BBC) https://www.bbc.co.uk/news/articles/cwvg238zrnm5o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 122,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "What we know about the global Microsoft outage. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

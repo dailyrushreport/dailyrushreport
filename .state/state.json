@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/outkick-sports/ex-nfl-coach-rex-ryan-turns-himself-nashville-police-allegedly-running-two-pedestrians-feet",
   "https://nypost.com/2026/11/11/sports/rex-ryans-lawyer-ex-jets-coach-addresses-arrest/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/",
   "https://nypost.com/2026/11/11/us-news/army-guard-scolds-pentagon-officials-including-pete-hegseth-heard-laughing-at-tomb-of-the-unknown-soldier/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
-  "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+  "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+  "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-  "since": "2026-11-13T10:24:04.921912+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+  "since": "2026-11-13T13:37:18.158573+00:00"
  },
- "last_build": "2026-11-13T12:16:42.407767+00:00",
+ "last_build": "2026-11-13T13:37:18.158573+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
   "https://thehill.com/policy/sports-gaming/6170108-nfl-paris-fan-zone-closed/",
   "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
   "https://nypost.com/2026/10/24/sports/nc-state-fires-head-coach-in-massive-10-3-million-shakeup/",
@@ -270,6 +269,7 @@
   "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
-  "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+  "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+  "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
  ]
 }
