@@ -25,7 +25,7 @@
   "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
   "since": "2026-11-13T04:44:42.570450+00:00"
  },
- "last_build": "2026-11-13T05:46:50.836791+00:00",
+ "last_build": "2026-11-13T06:50:43.959537+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-13T00:08Z",
+  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 500: Internal Server Error) - used cache from 2026-11-13T00:08Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
