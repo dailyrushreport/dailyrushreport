@@ -1,134 +1,4 @@
 {
-"https://www.jpost.com/middle-east/article-914496": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745782",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.jpost.com/environment-and-climate-change/article-914495": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/649909",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4798627/jd-vance-backs-pete-hegseth-congress-prepares-historic-impeachment/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26313563490538.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/10/akron-zoo-no-lions-escape-ai-image/4011794329916/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108307554-1778848271041-gettyimages-2276128441-aw1a5603_jhud8umq.jpeg?v=1778848286&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "FREDERIC J. BROWN",
-"via": "feed"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "NASA/Cory S Huston",
-"via": "feed"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1199,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/y7EFELxAmXdjgq2jwrnJBE-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "SSPL/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://nypost.com/2026/11/10/sports/parent-poops-in-hs-hallway-following-blowout-loss/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FComp-HS-FD-Dad-poops.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://justthenews.com/nation/crime/house-oversight-republicans-release-final-report-epstein-investigation-clears-trump": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
-"https://justthenews.com/politics-policy/johnson-denounces-hegseth-impeachment-expects-measure-fail": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T17:36:09.179951+00:00"
-},
 "https://justthenews.com/government/courts-law/trump-nominates-3-more-federal-judges-senate-mulls-lame-duck-plans": {
 "v": 2,
 "photo": null,
@@ -9007,5 +8877,164 @@
 "via": "feed"
 },
 "checked": "2026-11-13T16:40:04.855115+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqp9d58eldlro": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ece6/live/20d43a70-df60-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.jpost.com/middle-east/article-914827": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731279",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cme87dnngnwjo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d10e/live/3584ba10-df4e-11f1-8364-2717a13d3b08.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914666": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746025",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Aurich Lawson | Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6642/live/c4fcb950-df84-11f1-a8e2-5b59832bb2f1.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://thehill.com/homenews/house/6219110-pulido-wins-latin-grammy/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26264463512796-e1794590644459.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/Y68XwipN9qoyj2ynq2orbd-2000-80.png",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/a99c4bbde346fd8d5dc34b5f47f92ed5f2cb4b12/137_0_4759_3807/master/4759.jpg?width=700&quality=85&auto=format&fit=max&s=67b5fe1cc933883cd587dba434dceaf6",
+"w": 700,
+"h": 560,
+"credit": "Colin Hubbard/AP",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://freebeacon.com/democrats/angry-angie-nixon-accuses-democrats-of-racism-and-only-wanting-her-labor-after-losing-despite-blue-tsunami-socialist-launches-pac/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/10/sen-bernie-sanders-campaigns-for-senate-candidate-in-florida-angie-nix-1-scaled.jpg",
+"w": 2560,
+"h": 1730,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+"w": 1200,
+"h": 623,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://nypost.com/2026/11/13/sports/the-giants-hung-jameis-winston-out-to-dry/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-9waciwf7d-1794590307762.jpg?quality%3D90%26strip%3Dall%261794572417",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
+},
+"https://nypost.com/2026/11/13/world-news/bus-collision-in-indias-assam-kills-at-least-24-people/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Findia-bus-collision-comp.jpg?quality%3D90%26strip%3Dall%261794570488",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T17:38:43.026205+00:00"
 }
 }
