@@ -1,25 +1,25 @@
-# Social drafts — Fri Nov 13, 2026 3:22 AM CT
+# Social drafts — Fri Nov 13, 2026 4:24 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-13-0322.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-13-0424.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/  
-Pinned by editor: no · BREAKING: yes
+Lead: Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 181/280 chars (X counting)
+## X — status: pending_approval · 176/280 chars (X counting)
 
 ```
-Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage. (NY Post) https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/
+Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage. Story via NY Post. Link in bio.
+Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

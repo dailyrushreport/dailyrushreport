@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-13-0424.json",
+  "created": "2026-11-13T10:24:04.921912+00:00",
+  "created_ct": "Fri Nov 13, 2026 4:24 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "original_headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy. (BBC) https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 176,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

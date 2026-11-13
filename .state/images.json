@@ -1,103 +1,4 @@
 {
-"https://www.foxnews.com/politics/texas-governor-elect-plan-freeze-electricity-prices-raises-questions-legal-authority": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hinojosa-day-one-event.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914424": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745638",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914428": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744031",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108403029-1791894112373-gettyimages-2299339600-AFP_D3247KH.jpeg?v=1794294925&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/d70d8f1c38883f42df0d6e5e5a70c6b621443405/531_25_2960_2369/master/2960.jpg?width=700&quality=85&auto=format&fit=max&s=9e48a953e63905da608bcfd9d9bf41f9",
-"w": 700,
-"h": 560,
-"credit": "Toby Melville/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c32l4lw12z7po": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e137/live/7f3e3400-dccf-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://nypost.com/2026/11/10/world-news/north-korean-defectors-see-kim-jong-uns-daughter-as-heir-apparent/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148188397.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://nypost.com/2026/11/10/us-news/trump-says-deportation-push-hasnt-put-same-pressure-on-farm-workers-hotel-staff-not-even-close/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148189220.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cw0737kv52lko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T09:42:41.501457+00:00"
-},
 "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail": {
 "v": 2,
 "photo": {
@@ -9135,5 +9036,98 @@
 "via": "feed"
 },
 "checked": "2026-11-13T09:22:46.798096+00:00"
+},
+"https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/360a64dccc907f4892552e0a38a32a3e273f1683/445_0_4803_3843/master/4803.jpg?width=700&quality=85&auto=format&fit=max&s=b7b1f5963c9e69c0cf58dbf08315bffb",
+"w": 700,
+"h": 560,
+"credit": "Matthew Stockman/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.thefp.com/p/molly-oshea-suzy-weiss-palmer-luckey-alex-karp-jensen-huang": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!ulHR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F224629713%2Fd733c57c-199c-401e-8212-aabb494e2619%2Ftranscoded-1794525456.png",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.washingtonexaminer.com/premium/4801082/punk-rock-band-television-richard-lloyd-death/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/lloydobit33.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.jpost.com/judaism/article-914809": {
+"v": 2,
+"photo": {
+"img": "https://www.jpost.com/httphandlers/showimage.ashx?id=346815",
+"w": 5000,
+"h": 3333,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.jpost.com/judaism/torah-portion/article-914706": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746100",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.thefp.com/p/napoleon-the-great-micromanager-with": {
+"v": 2,
+"photo": {
+"img": "https://substack-video.s3.amazonaws.com/video_upload/post/224653592/d83c92b9-0ae8-4ac6-8f3f-c33ad3077fff/transcoded-1794518123.png",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6d918yppq1ko": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/470b/live/d68c9c00-df46-11f1-a48c-75dd2efdacb5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
+},
+"https://freebeacon.com/campus/uproar-as-george-masons-lifelong-learning-program-offers-class-on-palestinians-resistance-taught-by-victim-of-israels-genocide/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-02-50-PM-8181.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-13T10:24:04.921912+00:00"
 }
 }
