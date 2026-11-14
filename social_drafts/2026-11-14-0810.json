@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-14-0810.json",
+  "created": "2026-11-14T14:10:01.827236+00:00",
+  "created_ct": "Sat Nov 14, 2026 8:10 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+    "original_headline": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+    "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed. (CNBC) https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 169,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
