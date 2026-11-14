@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/12/us-news/11-month-old-buried-alive-for-24-hours-miraculously-released-from-hospital-as-dad-is-charged-with-attempted-murder/",
   "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
   "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
   "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
   "https://nypost.com/2026/11/13/lifestyle/what-airlines-are-offering-stranded-travelers-after-faa-ground-stop/",
-  "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/"
+  "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
+  "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
-  "since": "2026-11-14T04:38:35.274788+00:00"
+  "url": "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
+  "since": "2026-11-14T07:48:58.817696+00:00"
  },
- "last_build": "2026-11-14T06:38:31.417074+00:00",
+ "last_build": "2026-11-14T07:48:58.817696+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/",
   "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
   "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
   "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
@@ -270,6 +269,7 @@
   "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
   "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
   "https://nypost.com/2026/11/13/lifestyle/what-airlines-are-offering-stranded-travelers-after-faa-ground-stop/",
-  "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/"
+  "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
+  "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/"
  ]
 }
