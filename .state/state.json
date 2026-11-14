@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
   "since": "2026-11-14T07:48:58.817696+00:00"
  },
- "last_build": "2026-11-14T07:48:58.817696+00:00",
+ "last_build": "2026-11-14T08:36:54.584488+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -62,7 +62,7 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-13T23:28Z",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Religion News Service": "ok",
