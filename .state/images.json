@@ -4,121 +4,6 @@
 "photo": null,
 "checked": "2026-11-11T21:17:51.935334+00:00"
 },
-"https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/grgDjAOwlkdJCMkDnsve2jtFQNg=/0x0:5491x3089/1366x768/2026/11/11/1794361734484.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.jpost.com/international/article-914559": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745866",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/W81tUnRJN2b5W66KAeF8R7JCT1k=/0x0:1920x1080/1366x768/2026/11/10/1794345715748.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.axios.com/2026/11/11/kristi-noem-homeland-security-congress-subpoena": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/4hQY52dOcmvOcSrDiV6d3sU5Szw=/0x0:4000x2250/1366x768/2026/11/06/1794004552687.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108358140-1788386447242-gettyimages-2292673696-G20_INNOVATION_MINISTERIAL.jpeg?v=1788386523&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108287605-1775512894581-NYIAS_04022026_DeVries-6.jpg?v=1775513264&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4799608/judge-bbc-dismiss-trump-defamation-lawsuit/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26313810229575.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://nypost.com/2026/11/11/us-news/bernie-sanders-wont-support-schumer-for-senate-democratic-leader-saying-its-time-for-change/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148312520.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://nypost.com/2026/11/11/world-news/hungarian-authorities-detain-viktor-orbans-younger-brother-for-suspected-human-trafficking/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148317865.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
-"https://www.jpost.com/environment-and-climate-change/article-914562": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/686486",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T10:23:43.043501+00:00"
-},
 "https://www.foxnews.com/lifestyle/former-navy-seal-mission-erase-35m-medical-debt-thousands-american-heroes": {
 "v": 2,
 "photo": {
@@ -9007,5 +8892,65 @@
 "via": "feed"
 },
 "checked": "2026-11-14T09:31:28.790892+00:00"
+},
+"https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pennsylvania-governor-josh-shapiro.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T10:28:07.063749+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-914855": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746266",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T10:28:07.063749+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914853": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746263",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T10:28:07.063749+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a28/live/45df2820-e00f-11f1-9fd4-8b3c9f9dfc89.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T10:28:07.063749+00:00"
+},
+"https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T10:28:07.063749+00:00"
+},
+"https://nypost.com/2026/11/14/media/joe-rogan-says-podcasters-have-no-business-at-trump-press-conferences-alongside-real-journalists/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148723049.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T10:28:07.063749+00:00"
 }
 }
