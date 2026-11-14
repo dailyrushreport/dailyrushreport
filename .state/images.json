@@ -1,107 +1,4 @@
 {
-"https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/los-angeles-car-crash-deadly-critical.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/075ec7980c878b7583f71144baf98eec30d2da5a/1315_19_2223_1778/master/2223.jpg?width=700&quality=85&auto=format&fit=max&s=2eeb16c47eed809f853b52c84469c714",
-"w": 700,
-"h": 560,
-"credit": "Andrew Harnik/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-11/billionaire-jain-bets-on-blackstone-deal-driving-iifl-s-growth": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.jpost.com/international/article-914542": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745842",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108465539-1793046466355-gettyimages-2298479374-TRUMP_ACCOUNTS.jpeg?v=1793048514&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://nypost.com/2026/11/11/us-news/outgoing-la-mayor-karen-bass-breaks-her-silence-after-historic-upset-by-nithya-raman/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-36iu5i5x5-1794374021272.jpg?quality%3D90%26strip%3Dall%261794356074",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://nypost.com/2026/11/11/sports/islanders-kyle-maclean-draws-praise-for-physicality/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4ip01xnnp-1794373107989.jpg?quality%3D90%26strip%3Dall%261794355118",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://nypost.com/2026/11/11/us-news/georgia-man-reunites-with-missing-cat-on-live-tv-after-his-7-pets-were-lost-in-flood-waters/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FUntitled-5.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
-"https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41784870.jpg?quality%3D90%26strip%3Dall",
-"w": 4000,
-"h": 2666,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T05:45:04.798220+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo": {
 "v": 2,
 "photo": null,
@@ -9095,5 +8992,109 @@
 "via": "feed"
 },
 "checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jonathan-kreiss-tomkins-alaska.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.axios.com/2026/11/13/faa-nationwide-ground-stop": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/GnUhQbvQbFZf-A--p4aNzjhRAXo=/0x0:1920x1080/1366x768/2025/11/06/1762458318387.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.jpost.com/health-and-wellness/mind-and-spirit/article-914676": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746252",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.jpost.com/health-and-wellness/mind-and-spirit/article-914658": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746015",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c69vwp09d7vvo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108534376-1793994243435-gettyimages-2241473534-1020_24_9313-jgf-birds-hoatzin-ec.jpeg?v=1793994429&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://nypost.com/2026/11/14/us-news/ny-rep-hakeem-jeffries-gets-rude-awakening-at-democratic-convention-as-heckler-erupts/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148714233.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://nypost.com/2026/11/14/us-news/dems-launch-sexual-harassment-probe-against-newly-elected-brian-poindexter-who-ousted-gop-rep-max-miller/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-t4hf97lzg-1794634804735.jpg?quality%3D90%26strip%3Dall%261794616837",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
+},
+"https://nypost.com/2026/11/14/sports/sean-durzis-return-will-likely-wait-until-after-rangers-break/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41862130.jpg?quality%3D90%26strip%3Dall",
+"w": 6105,
+"h": 4069,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T06:38:31.417074+00:00"
 }
 }
