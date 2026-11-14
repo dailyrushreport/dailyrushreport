@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
   "https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/",
   "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
   "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-  "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/"
+  "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
+  "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
-  "since": "2026-11-14T17:57:17.421586+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+  "since": "2026-11-14T20:30:08.044364+00:00"
  },
- "last_build": "2026-11-14T19:59:36.046434+00:00",
+ "last_build": "2026-11-14T20:30:08.044364+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
   "https://nypost.com/2026/10/25/us-news/musk-confirms-spacex-was-behind-thwarting-of-ukraines-starlink-access-evil-warmongers/",
   "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
@@ -270,6 +269,7 @@
   "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
   "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-  "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/"
+  "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
+  "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-14-1430.json",
+  "created": "2026-11-14T20:30:08.044364+00:00",
+  "created_ct": "Sat Nov 14, 2026 2:30 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "original_headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision. (BBC) https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 165,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

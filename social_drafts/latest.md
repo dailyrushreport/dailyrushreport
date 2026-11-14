@@ -1,17 +1,17 @@
-# Social drafts — Sat Nov 14, 2026 11:57 AM CT
+# Social drafts — Sat Nov 14, 2026 2:30 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-14-1157.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-14-1430.json x` or `... instagram` (prints the final text to copy).
 
-Lead: VIDEO: Credible Bomb Threat near Chemical Plant Prompts Evacuations and Illinois City's Shutdown  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/  
+Lead: 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 178/280 chars (X counting)
+## X — status: pending_approval · 165/280 chars (X counting)
 
 ```
-VIDEO: Credible Bomb Threat near Chemical Plant Prompts Evacuations and Illinois City's Shutdown. (Breitbart) https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/
+'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision. (BBC) https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-VIDEO: Credible Bomb Threat near Chemical Plant Prompts Evacuations and Illinois City's Shutdown. Story via Breitbart. Link in bio.
+'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision. Story via BBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
