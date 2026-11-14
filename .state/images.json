@@ -1,106 +1,4 @@
 {
-"https://justthenews.com/government/congress/house-votes-massies-hegseth-impeachment-measures": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://justthenews.com/politics-policy/elections/florida-republican-maria-elvira-salazar-projected-win-reelection-one-week": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-"w": 1152,
-"h": 648,
-"credit": "Amazon",
-"via": "feed"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Stoke Space",
-"via": "feed"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://www.jpost.com/american-politics/article-914528": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744784",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://www.jpost.com/american-politics/article-914527": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743694",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://reason.com/volokh/2026/11/10/president-trumps-defamation-claim-against-bbc-can-go-forward/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108547768-1794324838688-gettyimages-2304015482-AFP_D73484H.jpeg?v=1794324890&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://nypost.com/2026/11/10/us-news/behind-the-scene-as-nvidias-jensen-huang-boarded-air-force-one-just-months-before-chinese-spy-scandal-exploded/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41779073_53fca6.jpg?quality%3D90%26strip%3Dall",
-"w": 3024,
-"h": 2015,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
-"https://nypost.com/2026/11/10/sports/rams-place-jordan-whittington-ir-admid-puka-nacua-injury/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-23xsxdjx9-1794353830300.jpg?quality%3D90%26strip%3Dall%261794335859",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-10T23:56:17.803767+00:00"
-},
 "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push": {
 "v": 2,
 "photo": null,
@@ -9154,5 +9052,114 @@
 "via": "page"
 },
 "checked": "2026-11-13T23:28:21.701473+00:00"
+},
+"https://justthenews.com/government/congress/van-hollen-believes-democrats-should-abolish-senate-filibuster-rules-out-2028": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.washingtonexaminer.com/policy/energy-and-environment/4803513/trump-extends-the-jones-act-waiver-for-90-days-to-curb-fuel-prices/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315609922459.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.jpost.com/israel-news/article-914833": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746241",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108358099-1788382594543-gettyimages-2292668728-AFP_C77N49R.jpeg?v=1788382709&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://nypost.com/2026/11/13/sports/rams-get-key-injury-upgrades-on-both-sides-of-ball-for-cardinals-game/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-hjjc0wijr-1794613556163.jpg?quality%3D90%26strip%3Dall%261794595572",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://nypost.com/2026/11/13/sports/lakers-luka-doncic-austin-reaves-different-status-suns-game/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-si5vzn9cr-1794611756812.jpg?quality%3D90%26strip%3Dall%261794593786",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://nypost.com/2026/11/13/sports/mary-ashley-stevenson-feels-right-back-at-home-at-columbia/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ri40ob8pb-1794606627143.jpg?quality%3D90%26strip%3Dall%261794588657",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
+},
+"https://nypost.com/2026/11/13/sports/college-football-chaos-ensues-after-rare-faa-nationwide-ground-stop/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-nxxi8hlx8-1794611143523.jpg?quality%3D90%26strip%3Dall%261794593157",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T00:01:24.001639+00:00"
 }
 }
