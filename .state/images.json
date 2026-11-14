@@ -1,107 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/bill-signed-shield-nyc-housing-units-predatory-investors": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://justthenews.com/nation/states/center-square/va-rolls-out-new-foreclosure-prevention-program-veterans-amid-watchdog": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://www.washingtonexaminer.com/policy/immigration/4799729/ice-detainer-honduran-storm-cockpit/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26311009582140.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://reason.com/volokh/2026/11/10/the-hegseth-impeachment-is-far-from-over/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/pete-hegseth-10-9-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "Daniel Torok / B66 / Avalon/Newscom",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://www.thefp.com/p/the-american-war-hero-who-refused": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!L5DQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8440bedc-a86f-4856-b4d0-8ea89bc0dc77_3000x3724.jpeg",
-"w": 3000,
-"h": 3724,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://justthenews.com/nation/states/center-square/parental-rights-org-warns-dsa-works-influence-nations-children": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://nypost.com/2026/11/10/sports/reggie-wayne-jokes-he-should-be-player-coach-after-colts-deadline-trades/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-rk0twvak9-1794370199689.jpg?quality%3D90%26strip%3Dall%261794352311",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://nypost.com/2026/11/10/sports/david-stearns-confident-marcus-semien-will-rebound-with-mets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4ksp479zi-1794371312299.jpg?quality%3D90%26strip%3Dall%261794353328",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
-"https://nypost.com/2026/11/10/sports/max-fried-should-be-ready-for-yankees-spring-training-after-elbow-surgery/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4awklj5wl-1794369902217.jpg?quality%3D90%26strip%3Dall%261794351921",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-11T04:44:26.254632+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff": {
 "v": 2,
 "photo": null,
@@ -9133,5 +9030,70 @@
 "via": "feed"
 },
 "checked": "2026-11-14T04:38:35.274788+00:00"
+},
+"https://justthenews.com/politics-policy/transportation/faa-issues-nationwide-ground-stop-all-departing-flights": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://www.washingtonexaminer.com/news/white-house/4803638/jensen-huang-chinese-spy-scandal-trump-trilateral-xi-putin/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315094202388.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cx4gn4y1q906o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/43ba/live/ea5f0ee0-dfbc-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://nypost.com/2026/11/14/sports/glenn-gawdins-first-two-nhl-goals-propel-rangers-in-win-over-canucks/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-l7p7bh6ri-1794631711966.jpg?quality%3D90%26strip%3Dall%261794613738",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://nypost.com/2026/11/14/sports/dayron-sharpe-is-making-another-leap-in-rare-nets-bright-spot/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41861940.jpg?quality%3D90%26strip%3Dall",
+"w": 4000,
+"h": 2666,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T05:37:34.522070+00:00"
+},
+"https://nypost.com/2026/11/14/sports/kayla-harrison-amanda-nunes-feel-weight-of-ufc-334-showdown-at-msg/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41861824.jpg?quality%3D90%26strip%3Dall",
+"w": 5444,
+"h": 3628,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T05:37:34.522070+00:00"
 }
 }
