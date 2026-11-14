@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
   "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
   "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
   "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
   "https://nypost.com/2026/11/13/lifestyle/what-airlines-are-offering-stranded-travelers-after-faa-ground-stop/",
   "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
-  "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/"
+  "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
+  "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
-  "since": "2026-11-14T07:48:58.817696+00:00"
+  "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+  "since": "2026-11-14T11:09:37.152640+00:00"
  },
- "last_build": "2026-11-14T10:28:07.063749+00:00",
+ "last_build": "2026-11-14T11:09:37.152640+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
