@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "since": "2026-11-14T11:09:37.152640+00:00"
  },
- "last_build": "2026-11-14T12:00:20.246964+00:00",
+ "last_build": "2026-11-14T13:20:40.381399+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-14T11:09Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
