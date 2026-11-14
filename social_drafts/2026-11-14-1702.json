@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-14-1702.json",
+  "created": "2026-11-14T23:02:11.521145+00:00",
+  "created_ct": "Sat Nov 14, 2026 5:02 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "original_headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says. (BBC) https://www.bbc.co.uk/news/articles/cwvg2l312ylqo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 147,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

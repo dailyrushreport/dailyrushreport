@@ -7858,7 +7858,7 @@
 "https://justthenews.com/nation/states/center-square/white-house-correspondents-dinner-shooting-suspect-hit-terrorism-charge": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-14T15:02:49.728382+00:00"
+"checked": "2026-11-14T23:02:11.521145+00:00"
 },
 "https://nypost.com/2026/11/14/betting/fanatics-sportsbook-promo-code-nypost350-bet-20-get-350-in-fancash-for-missouri-vs-georgia/": {
 "v": 2,
@@ -8902,5 +8902,93 @@
 "via": "page"
 },
 "checked": "2026-11-14T22:28:17.547465+00:00"
+},
+"https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.washingtonexaminer.com/policy/technology/4804048/spacex-starship-returns-orbit-captured-launch-pad-arms-dramatic-first/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318773514654-e1794694866408.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.jpost.com/diaspora/article-914770": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746178",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm3rgx9p583zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwe89y2r5j20o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29c1/live/cbb69f00-e073-11f1-b214-7b8eb8913400.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.bbc.co.uk/sport/rugby-union/articles/ckzd95n6e4g3o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41ce/live/5d34e140-e078-11f1-9ec0-713bf094c3d1.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108551602-1794694999080-IMG_3794.jpg?v=1794695062&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
+},
+"https://nypost.com/2026/11/14/sports/49ers-injury-update-mike-evans-cowboys/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-u7c2784i2-1794694829247.jpg?quality%3D90%26strip%3Dall%261794676842",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-14T23:02:11.521145+00:00"
 }
 }
