@@ -8813,5 +8813,86 @@
 "via": "feed"
 },
 "checked": "2026-11-15T02:38:43.836673+00:00"
+},
+"https://justthenews.com/government/federal-agencies/lenders-and-marketers-line-camp-lejeune-law-firms-bankruptcy-victims": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://justthenews.com/nation/states/center-square/oil-and-ethanol-producers-unite-push-year-round-e15": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://justthenews.com/government/courts-law/federal-judge-blocks-effort-close-dc-area-golf-course-so-trump-can-renovate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-914892": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742773",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://www.jpost.com/business-and-innovation/article-914893": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746321",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://www.foxbusiness.com/personal-finance/irs-raises-401k-contribution-limit-1000-2027-retirement-savings-caps-increase": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/couple-retirement-planning.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://nypost.com/2026/11/14/lifestyle/fans-of-oceanfront-california-taco-bell-sound-alarm-as-massive-waves-slam-coast/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cs4wuelyw-1794713134841.jpg?quality%3D90%26strip%3Dall%261794695259",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://nypost.com/2026/11/14/us-news/massive-crack-opens-in-coastal-bluff-below-ritz-carlton-in-dana-point/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cn6r7cqq5-1794713724582.jpg?quality%3D90%26strip%3Dall%261794695849",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T03:39:00.076597+00:00"
 }
 }
