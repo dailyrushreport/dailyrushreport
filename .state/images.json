@@ -1,9 +1,4 @@
 {
-"https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
 "https://justthenews.com/politics-policy/elections/scott-colom-declared-winner-mississippi-senate-seat": {
 "v": 2,
 "photo": null,
@@ -13,108 +8,6 @@
 "v": 2,
 "photo": null,
 "checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://justthenews.com/index%2ephp/politics-policy/elections/scott-colom-declared-winner-mississippi-senate-seat": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://justthenews.com/index%2ephp/government/diplomacy/russian-ambassador-us-dead-66": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.breitbart.com/politics/2026/11/11/trump-honors-americas-veterans-with-wreath-laying-at-arlington-national-cemetery/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Trump-Vance-Collins-Veterans-Day-1-640x335.jpeg",
-"w": 640,
-"h": 335,
-"credit": "Kevin Dietsch\\/Getty Images",
-"via": "page"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.jpost.com/international/article-914642": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745981",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.jpost.com/diaspora/article-914641": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739147",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-12/taiwan-drafts-plans-for-wealth-fund-aims-for-bill-by-year-end": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://justthenews.com/accountability/board-nvidia-preparing-oust-ceo-jensen-huang-report": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://nypost.com/2026/11/11/sports/lakers-walker-kessler-elite-club-defensive-milestone/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-dl2dlgwdv-1794452583461.jpg?quality%3D90%26strip%3Dall%261794434613",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://nypost.com/2026/11/11/sports/yankees-cam-schlittler-has-one-word-response-to-cy-young-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-ybvyk8k5r-1794452775900.jpg?quality%3D90%26strip%3Dall%261794434800",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108370122-1790768585114-gettyimages-2297261442-TRUMP_AMERICAGOV.jpeg?v=1790768621&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
-},
-"https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T03:39:01.342727+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-11-12/new-zealand-bond-auction-demand-climbs-to-highest-since-2013": {
 "v": 2,
@@ -8894,5 +8787,97 @@
 "via": "feed"
 },
 "checked": "2026-11-15T03:39:00.076597+00:00"
+},
+"https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/georgia-football-helmets.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-golf-split.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://justthenews.com/government/security/female-inmate-housed-violent-male-convinces-jury-punish-deep-blue-prison-system": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://justthenews.com/politics-policy/education/gao-report-found-fewer-half-kindergarten-students-were-school-ready-five": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261112230458.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/erect-crested-penguins.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-914895": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/710499",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261114202130.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/alzheimers-brain-atrophy.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261112230502.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/dinosaur-beach-seaweed.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T04:41:41.050876+00:00"
+},
+"https://nypost.com/2026/11/14/sports/josh-hokits-moronic-antics-say-far-more-about-him-than-his-fighting-ability/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41875282.jpg?quality=75&strip=all&w=1200",
+"w": 1200,
+"h": 799,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T04:41:41.050876+00:00"
 }
 }
