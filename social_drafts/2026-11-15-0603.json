@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-15-0603.json",
+  "created": "2026-11-15T12:03:36.897296+00:00",
+  "created_ct": "Sun Nov 15, 2026 6:03 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Schumer and Van Hollen feud could determine fate of ‘Medicare for all’",
+    "original_headline": "Schumer and Van Hollen feud could determine fate of ‘Medicare for all’",
+    "url": "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Schumer and Van Hollen feud could determine fate of ‘Medicare for all’. (Washington Examiner) https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Schumer and Van Hollen feud could determine fate of ‘Medicare for all’. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

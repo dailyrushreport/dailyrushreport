@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
   "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
   "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
+  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
+  "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
-  "since": "2026-11-15T09:33:03.711203+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
+  "since": "2026-11-15T12:03:36.897296+00:00"
  },
- "last_build": "2026-11-15T11:13:00.552438+00:00",
+ "last_build": "2026-11-15T12:03:36.897296+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
@@ -270,6 +269,7 @@
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
   "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
-  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
+  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
+  "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/"
  ]
 }
