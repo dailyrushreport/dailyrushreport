@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
   "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
   "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
   "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
+  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
+  "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
-  "since": "2026-11-15T02:38:43.836673+00:00"
+  "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+  "since": "2026-11-15T05:40:12.425527+00:00"
  },
- "last_build": "2026-11-15T04:41:41.050876+00:00",
+ "last_build": "2026-11-15T05:40:12.425527+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
