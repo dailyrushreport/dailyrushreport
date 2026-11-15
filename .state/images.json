@@ -4,147 +4,6 @@
 "photo": null,
 "checked": "2026-11-13T00:08:23.298790+00:00"
 },
-"https://www.jpost.com/diaspora/article-914768": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/697701",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://thehill.com/policy/technology/6216293-trump-suggests-tim-cook-nvidia/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP26019048157729-e1776774280714.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.jpost.com/american-politics/article-914766": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744846",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP23234617861140.jpeg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-12/argentina-s-inflation-ticked-up-more-than-expected-in-october": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.washingtonexaminer.com/policy/defense/4801815/hegseth-award-medal-unkown-soldier-tomb-guard/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26315605351853.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794403499&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108324773-1782131265368-gettyimages-2282192099-20090101260622-99-815071.jpeg?v=1793900960&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-"w": 1152,
-"h": 648,
-"credit": "Ashley Belanger",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty Images | Brian Lawless/PA Images",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Aurich Lawson",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/12/lotto-south-carolina-education-lottery-price-is-right/1511794508876/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
-"https://nypost.com/2026/11/12/us-news/ousted-nvidia-boss-jensen-huang-agrees-to-testify-before-congress-as-gop-presses-lutnick-for-answers-in-china-spy-scandal/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2FJensen-Huang-congress-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T19:41:51.478094+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion": {
 "v": 2,
 "photo": null,
@@ -8830,5 +8689,119 @@
 "via": "feed"
 },
 "checked": "2026-11-15T19:17:32.443970+00:00"
+},
+"https://justthenews.com/world/asia/trump-expected-raise-cases-two-detained-americans-chinas-xi": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.foxnews.com/outkick-sports/taylor-swift-husband-travis-kelce-injures-ankle-falcons-questionable-return": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/travis-kelce-kansas-city-chiefs-injury.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914985": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.washingtonexaminer.com/news/campaigns/presidential/4804263/gov-sanders-father-want-her-run-oval-office/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/sarah-huckabee-sanders-scaled-e1794772442818.webp?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d0cdc7ba293e89a7643406bdac809c2973100068/510_0_2548_2039/master/2548.jpg?width=700&quality=85&auto=format&fit=max&s=567c8a8fae1e19613d72b212c17b5fbc",
+"w": 700,
+"h": 560,
+"credit": "Justine Willard/AP",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914987": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743795",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.thefp.com/p/will-the-case-against-ilhan-omar-immigration-politics-investigation": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!eZ6v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00fd9b9e-f3be-44c1-8e51-c9dff9475703_1024x683.jpeg",
+"w": 1024,
+"h": 683,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://reason.com/volokh/2026/11/15/how-anti-zionism-is-creating-zionists/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-at-wef.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://nypost.com/2026/11/15/lifestyle/albany-and-rochester-among-americas-most-dangerous-cities-for-autumn-driving/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-vrks0omln-1794771881038.jpg?quality%3D90%26strip%3Dall%261794753900",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
+},
+"https://nypost.com/2026/11/15/sports/jets-geno-smith-getting-evaluated-for-concussion-after-crushing-hit/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41881973.jpg?quality%3D90%26strip%3Dall",
+"w": 3600,
+"h": 2399,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T20:00:23.475030+00:00"
 }
 }
