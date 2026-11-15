@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-15-1002.json",
+  "created": "2026-11-15T16:02:39.839149+00:00",
+  "created_ct": "Sun Nov 15, 2026 10:02 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+    "original_headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+    "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday. (BBC) https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 156,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
