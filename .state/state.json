@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
   "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
   "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
-  "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html"
+  "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
+  "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
-  "since": "2026-11-15T14:12:49.934607+00:00"
+  "url": "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
+  "since": "2026-11-15T15:03:58.109041+00:00"
  },
- "last_build": "2026-11-15T14:12:49.934607+00:00",
+ "last_build": "2026-11-15T15:03:58.109041+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
   "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
@@ -270,6 +269,7 @@
   "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
   "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
   "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
-  "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html"
+  "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
+  "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-15-0904.json",
+  "created": "2026-11-15T15:03:58.109041+00:00",
+  "created_ct": "Sun Nov 15, 2026 9:04 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge temporarily blocks Trump’s redevelopment of DC golf course",
+    "original_headline": "Judge temporarily blocks Trump’s redevelopment of DC golf course",
+    "url": "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge temporarily blocks Trump’s redevelopment of DC golf course. (Washington Examiner) https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 156,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge temporarily blocks Trump’s redevelopment of DC golf course. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
