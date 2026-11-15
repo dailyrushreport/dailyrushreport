@@ -9,82 +9,6 @@
 "photo": null,
 "checked": "2026-11-12T10:26:28.945511+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-12/angola-s-oil-windfall-fuels-diversification-push-citi-says": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://reason.com/volokh/2026/11/12/texans-for-elliot-gaiser/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://www.jpost.com/american-politics/article-914650": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745988",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c8zx964glvwxo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/gDwgZoSFkyCxGWqePyME9X-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://nypost.com/2026/11/12/us-news/historic-ss-united-states-sinks-after-hours-long-goodbye-to-become-artificial-reef-off-floridas-coast/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-tony-giberson-usa-today-148419535.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
-"https://nypost.com/2026/11/11/sports/st-johns-finally-gets-the-ruben-prey-theyve-been-waiting-for/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41809459.jpg?quality%3D90%26strip%3Dall",
-"w": 5091,
-"h": 3393,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T05:47:37.686390+00:00"
-},
 "https://www.breitbart.com/sports/2026/11/11/actor-frankie-muniz-hospitalized-after-daytona-speedway-crash/": {
 "v": 2,
 "photo": {
@@ -8819,5 +8743,120 @@
 "via": "feed"
 },
 "checked": "2026-11-15T05:40:12.425527+00:00"
+},
+"https://justthenews.com/index%2Ephp/government/courts-law/federal-judge-blocks-effort-close-dc-area-golf-course-so-trump-can-renovate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/unc-louisville-brawl.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914897": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719566",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.jpost.com/international/article-914899": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746325",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://nypost.com/2026/11/15/sports/lincoln-riley-holds-back-usc-player-in-heated-indiana-clash/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-0de2xoa0h-1794722939337.jpg?quality%3D90%26strip%3Dall%261794705000",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-2727rd4ks-1794724274600.jpg?quality%3D90%26strip%3Dall%261794706325",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://nypost.com/2026/11/15/world-news/turkish-husband-hakan-aysal-freed-from-prison-after-being-sentenced-for-pushing-pregnant-wife-off-cliff/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148816874.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
+},
+"https://nypost.com/2026/11/15/sports/arch-manning-texas-end-lsus-playoff-hopes-with-comeback-win/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41875578.jpg?quality%3D90%26strip%3Dall",
+"w": 3960,
+"h": 2639,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T06:42:36.595562+00:00"
 }
 }
