@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
   "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
   "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
   "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
-  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o"
+  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-  "since": "2026-11-15T16:02:39.839149+00:00"
+  "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+  "since": "2026-11-15T19:17:32.443970+00:00"
  },
- "last_build": "2026-11-15T18:30:03.004403+00:00",
+ "last_build": "2026-11-15T19:17:32.443970+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-15T17:57Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
   "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
@@ -270,6 +269,7 @@
   "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
-  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o"
+  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
  ]
 }
