@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
   "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
   "https://www.washingtonexaminer.com/policy/finance-and-economy/4802337/donald-trump-jr-leaves-adviser-role-kalshi/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
   "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
-  "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+  "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-  "since": "2026-11-15T05:40:12.425527+00:00"
+  "url": "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
+  "since": "2026-11-15T09:33:03.711203+00:00"
  },
- "last_build": "2026-11-15T08:38:26.336440+00:00",
+ "last_build": "2026-11-15T09:33:03.711203+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
   "https://nypost.com/2026/10/25/world-news/venezuelan-opposition-leader-maria-corina-machado-returns/",
@@ -270,6 +269,7 @@
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
+  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
+  "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
  ]
 }
