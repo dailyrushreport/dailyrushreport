@@ -1,90 +1,4 @@
 {
-"https://justthenews.com/government/local/death-toll-brooklyn-building-collapse-rises-6-rescuers-find-4-more-bodies": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.jpost.com/israel-news/article-914710": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746108",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914712": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745772",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://justthenews.com/government/congress/democratic-house-lawmaker-blames-traffic-missing-hegseth-impeachment-vote-i-am": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://justthenews.com/politics-policy/finance/missouri-ag-hanaway-sues-major-proxy-advisor-alleging-it-pushing-esg-over": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cj62p32k90wyo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://www.foxbusiness.com/markets/nvidia-shares-plunge-more-7-premarket-trading-ceo-uncertainty-rattles-ai-stocks": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/nvidia.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
-"https://nypost.com/2026/11/12/us-news/trump-threatens-to-double-mexico-tariffs-if-migrant-caravan-reaches-us/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ftrump-mexico-tariffs-caravan-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T13:41:06.476407+00:00"
-},
 "https://justthenews.com/nation/technology/nvidia-ceo-huang-resigns-after-reports-extramarital-relationships-suspected": {
 "v": 2,
 "photo": null,
@@ -8859,5 +8773,148 @@
 "via": "feed"
 },
 "checked": "2026-11-15T13:23:11.145831+00:00"
+},
+"https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/unmanned-drone-military-drills.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqn4e2py48kwo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26078689952333-e1774006813277.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/bessentscott_lutnickhoward_080625ap01_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwdr1dmn563do": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/6a5fb0b0e3659039ac9314882a52501737f70ffe/147_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=8b8060b2764e30d4dbbe7196f94ef342",
+"w": 700,
+"h": 560,
+"credit": "Marco Bertorello/AFP/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-914911": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739353",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.jpost.com/middle-east/article-914957": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721326",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.foxnews.com/outkick-sports/luxury-real-estate-expert-reveals-benefits-kirk-cousins-selling-home-privately-trade-vikings": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-vikings-panthers-nfl.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://nypost.com/2026/11/15/lifestyle/wendys-is-giving-away-free-frostys-this-sunday-for-frosty-day-heres-how-to-get-yours/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148367123.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
+},
+"https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108428927-1792342158401-gettyimages-2300013870-kbd18778_tfqsba9a.jpeg?v=1792342189&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T14:12:49.934607+00:00"
 }
 }
