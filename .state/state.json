@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
   "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
   "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
   "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
   "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+  "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
-  "since": "2026-11-15T19:17:32.443970+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
+  "since": "2026-11-15T22:32:00.599962+00:00"
  },
- "last_build": "2026-11-15T21:59:33.108913+00:00",
+ "last_build": "2026-11-15T22:32:00.599962+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
   "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
   "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
@@ -270,6 +269,7 @@
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
   "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+  "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+  "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/"
  ]
 }

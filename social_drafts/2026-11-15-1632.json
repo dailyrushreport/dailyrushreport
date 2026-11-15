@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-15-1632.json",
+  "created": "2026-11-15T22:32:00.599962+00:00",
+  "created_ct": "Sun Nov 15, 2026 4:32 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Bahrain intercepts Iranian drone attack on US air base",
+    "original_headline": "Bahrain intercepts Iranian drone attack on US air base",
+    "url": "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Bahrain intercepts Iranian drone attack on US air base. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Bahrain intercepts Iranian drone attack on US air base. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
