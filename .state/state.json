@@ -25,7 +25,7 @@
   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
   "since": "2026-11-14T23:02:11.521145+00:00"
  },
- "last_build": "2026-11-14T23:57:04.521909+00:00",
+ "last_build": "2026-11-15T00:36:13.384250+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -61,7 +61,7 @@
   "Space.com": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-14T23:02Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-14T22:28Z",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
