@@ -1,135 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/interest-debt-cost-14-trillion-last-year-audit-finds": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.jpost.com/international/internationalrussia-ukraine-war/article-914670": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746031",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.jpost.com/international/article-914681": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746061",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.axios.com/2026/11/12/jensen-huang-nvidia-board": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/e13HZ_jK5Ck3JXCJhF3cfyzSUIU=/0x0:1920x1080/1366x768/2026/11/10/1794338777261.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmy0enrkwkklo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c962y743y458o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2300/live/b2e83010-de7f-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261110042549.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/pebble-rain.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dfae/live/4d45e2e0-de7d-11f1-b88b-3f1671ea859d.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108549468-1794434665354-gettyimages-2304131111-cotton_245_111026.jpeg?v=1794434771&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://nypost.com/2026/11/12/us-news/minnesota-dad-three-sons-found-inside-burning-home-died-in-murder-suicide-cops/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148447793.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://nypost.com/2026/11/12/world-news/indonesian-vice-president-gibran-rakabuming-raka-resigns/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148447104.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
-"https://nypost.com/2026/11/12/world-news/russia-strikes-ukrainian-military-facilities-in-overnight-attack/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148449810.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-12T10:26:28.945511+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-12/how-prediction-markets-became-a-force-in-us-elections": {
 "v": 2,
 "photo": null,
@@ -8744,5 +8613,115 @@
 "via": "feed"
 },
 "checked": "2026-11-15T09:33:03.711203+00:00"
+},
+"https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-fast-food-face-offs-oklahoma-origins": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/updated-quiz-collage-1115.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-y7s90e0xj-1794602647169-e1794616627409.jpg?1794598637&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5736/live/0b3ce7d0-6a43-11f1-9742-4f68b41a569d.png",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108317815-1780744058944-gettyimages-2278861839-AFP_B4UX6TB.jpeg?v=1780744097&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://www.foxnews.com/politics/small-town-residents-cry-help-immigrant-influx-fueled-trucking-industry-unintended-consequences": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Broken-Glass-Trucks.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://freebeacon.com/culture/london-calling-mccloskeys-spy-rises-up-the-ranks/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-09-Nov-2026-11-28-AM-6331.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://freebeacon.com/culture/malcolm-in-the-middle-of-gun-debate/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-09-Nov-2026-10-57-AM-608-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://freebeacon.com/america/when-reagan-rearmed-america/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-09-Nov-2026-11-20-AM-1740.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://nypost.com/2026/11/15/world-news/cancer-patient-kristin-logan-fled-canada-after-maid-assisted-suicide-health-care-option/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148843655.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
+},
+"https://nypost.com/2026/11/15/health/healthy-boston-runner-patrick-mascoli-suffers-sudden-stroke-at-27-as-doctors-discover-possible-cause/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148844595.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-15T10:29:59.428944+00:00"
 }
 }
