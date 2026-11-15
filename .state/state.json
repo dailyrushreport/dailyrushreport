@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
   "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
   "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
   "https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-  "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+  "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-  "since": "2026-11-14T23:02:11.521145+00:00"
+  "url": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
+  "since": "2026-11-15T02:38:43.836673+00:00"
  },
- "last_build": "2026-11-15T01:53:10.735125+00:00",
+ "last_build": "2026-11-15T02:38:43.836673+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,6 @@
   "Religious Liberty": "ok"
  },
  "drafted_leads": [
-  "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
   "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
   "https://thehill.com/policy/international/6170833-machado-returns-venezuela/",
   "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
@@ -270,6 +269,7 @@
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-  "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+  "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+  "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
  ]
 }
