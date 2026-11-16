@@ -25,7 +25,7 @@
   "url": "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
   "since": "2026-11-16T19:45:47.132517+00:00"
  },
- "last_build": "2026-11-16T19:45:47.132517+00:00",
+ "last_build": "2026-11-16T20:38:27.825831+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok (fallback)",
+  "Washington Times World": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-16T19:45Z",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok (fallback)",
+  "Washington Times Politics": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-16T19:45Z",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
