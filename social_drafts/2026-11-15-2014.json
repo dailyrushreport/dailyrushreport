@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-15-2014.json",
+  "created": "2026-11-16T02:14:51.951877+00:00",
+  "created_ct": "Sun Nov 15, 2026 8:14 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Bessent: Nvidia should ‘go outside the company’ for next CEO",
+    "original_headline": "Bessent: Nvidia should ‘go outside the company’ for next CEO",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Bessent: Nvidia should ‘go outside the company’ for next CEO. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 152,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Bessent: Nvidia should ‘go outside the company’ for next CEO. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
