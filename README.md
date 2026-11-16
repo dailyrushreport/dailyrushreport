@@ -180,13 +180,19 @@ Per-feed options (any feed): `max_per_column` (tighter than `max_per_source_per_
 `title_must_match` (regex; keep only matching headlines), `strip_title_suffix` (e.g. Google News' " - Publisher"),
 `user_agent` / `accept` (per-feed HTTP headers; a Mozilla UA also sends Accept-Language), `fallback_url` (tried
 if the primary feed fails, e.g. a Google News `site:` search when a host 403s from GitHub Actions) with optional
-`fallback_allowed_sources` (publisher names kept on that fallback only),
+`fallback_allowed_sources` (publisher names kept on that fallback only), `fallback_skip_if_title_matches`
+(regex; drop matching fallback headlines, e.g. sports or entertainment in a politics/world fallback), and
+`fallback_title_prefer` (regex; if any remaining fallback titles match, keep only those — used so Washington
+Times Politics prefers political headlines),
 and, for lifestyle feeds, `guarantee_slot` (reserve a section slot when this feed has a fresh story).
 
 WORLD Magazine's faith feed keeps only religion/faith-relevant headlines (`title_must_match`), so general news
 from that RSS (e.g. SpaceX) does not occupy a Faith & Freedom slot; Christianity Today or another faith source
 can fill it instead. Washington Times Politics and World try a browser-like User-Agent and Accept first, then
-fall back to Google News limited to washingtontimes.com.
+fall back to Google News limited to washingtontimes.com. Those fallback headlines drop sports,
+markets, entertainment, and lifestyle titles; Politics prefers headlines with political terms when
+any remain. The Times of Israel and Gary Taubes use the same Google News `site:` fallback if their
+official feeds 403 from GitHub Actions.
 
 ## Search and sharing
 Each build also writes, next to `index.html`:

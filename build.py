@@ -279,12 +279,23 @@ def apply_date_only(items, cache, feed):
     return items
 
 def filter_fallback_sources(items, feed):
+    """Limit a fallback feed (usually Google News) to allowed publishers, drop
+    off-topic headlines, and — when fallback_title_prefer is set and any titles
+    match — keep only those preferred items so a politics slot is not filled by
+    leftover general news."""
     allow = {a.lower() for a in feed.get("fallback_allowed_sources") or []}
-    if not allow:
-        return items
-    items = [i for i in items if (i.get("pub") or "").lower() in allow]
+    if allow:
+        items = [i for i in items if (i.get("pub") or "").lower() in allow]
+    deny = re.compile(feed["fallback_skip_if_title_matches"], re.I) if feed.get("fallback_skip_if_title_matches") else None
+    if deny:
+        items = [i for i in items if not deny.search(i.get("title") or "")]
+    prefer = re.compile(feed["fallback_title_prefer"], re.I) if feed.get("fallback_title_prefer") else None
+    if prefer:
+        preferred = [i for i in items if prefer.search(i.get("title") or "")]
+        if preferred:
+            items = preferred
     if not items:
-        raise ValueError("no fallback items from allowed sources")
+        raise ValueError("no fallback items after title filters")
     return items
 
 def fetch_feed(feed, settings, offline=False):
