@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-16-0541.json",
+  "created": "2026-11-16T11:41:44.745157+00:00",
+  "created_ct": "Mon Nov 16, 2026 5:41 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Yemeni forces retreat to defend port city from Houthis",
+    "original_headline": "Yemeni forces retreat to defend port city from Houthis",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Yemeni forces retreat to defend port city from Houthis. (BBC) https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 130,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Yemeni forces retreat to defend port city from Houthis. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

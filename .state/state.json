@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/13/lifestyle/what-airlines-are-offering-stranded-travelers-after-faa-ground-stop/",
   "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
   "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
   "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
   "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
   "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
-  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes"
+  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
+  "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
-  "since": "2026-11-16T08:27:16.038488+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+  "since": "2026-11-16T11:41:44.745157+00:00"
  },
- "last_build": "2026-11-16T10:21:29.816484+00:00",
+ "last_build": "2026-11-16T11:41:44.745157+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok (fallback)",
+  "Washington Times World": "ok",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok (fallback)",
+  "Washington Times Politics": "ok",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "ok",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
   "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
   "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
   "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
-  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes"
+  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
+  "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
  ]
 }

@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 16, 2026 2:27 AM CT
+# Social drafts — Mon Nov 16, 2026 5:41 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-16-0227.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-16-0541.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes  
-Outlet: Fox News  
-Link: https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes  
+Lead: Yemeni forces retreat to defend port city from Houthis  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 191/280 chars (X counting)
+## X — status: pending_approval · 130/280 chars (X counting)
 
 ```
-Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes. (Fox News) https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes
+Yemeni forces retreat to defend port city from Houthis. (BBC) https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes. Story via Fox News. Link in bio.
+Yemeni forces retreat to defend port city from Houthis. Story via BBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
