@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/",
   "https://nypost.com/2026/11/13/lifestyle/what-airlines-are-offering-stranded-travelers-after-faa-ground-stop/",
   "https://www.breitbart.com/politics/2026/11/13/former-obama-cia-chief-john-brennans-son-arrested-on-child-porn-charges/",
   "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
   "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
   "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
-  "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/"
+  "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
+  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
-  "since": "2026-11-16T05:17:01.927627+00:00"
+  "url": "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
+  "since": "2026-11-16T08:27:16.038488+00:00"
  },
- "last_build": "2026-11-16T05:59:46.257719+00:00",
+ "last_build": "2026-11-16T08:27:16.038488+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -75,15 +75,15 @@
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
-  "Dr. Ken Berry": "ok (youtube page)",
+  "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
-  "Eric Westman / Adapt Your Life": "ok (youtube page)",
-  "Ben Bikman": "ok (youtube page)",
+  "Eric Westman / Adapt Your Life": "ok",
+  "Ben Bikman": "ok",
   "Gary Taubes": "ok (fallback)",
-  "Jason Fung": "ok (youtube page)",
+  "Jason Fung": "ok",
   "Chris Kresser": "ok",
-  "Low Carb Down Under": "ok (youtube page)",
+  "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4779677/michigan-senate-detroit-black-voters-minaj-obama/",
   "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
   "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
   "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
   "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
-  "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/"
+  "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
+  "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes"
  ]
 }

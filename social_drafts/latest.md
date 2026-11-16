@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 15, 2026 11:17 PM CT
+# Social drafts — Mon Nov 16, 2026 2:27 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-15-2317.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-16-0227.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Kirk Cousins gets emotional after win at Lambeau Field in Vikings return: ‘Tough three years’  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/  
+Lead: Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes  
+Outlet: Fox News  
+Link: https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 173/280 chars (X counting)
+## X — status: pending_approval · 191/280 chars (X counting)
 
 ```
-Kirk Cousins gets emotional after win at Lambeau Field in Vikings return: ‘Tough three years’. (NY Post) https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/
+Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes. (Fox News) https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Kirk Cousins gets emotional after win at Lambeau Field in Vikings return: ‘Tough three years’. Story via NY Post. Link in bio.
+Federal prosecutor warns Sen Warren of 'legal consequences' if records aren't preserved in Trump-linked probes. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

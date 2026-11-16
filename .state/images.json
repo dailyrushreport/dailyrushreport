@@ -1,182 +1,4 @@
 {
-"https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-13/billionaire-koguan-vows-not-to-buy-nvidia-stock-as-huang-quits": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=700&quality=85&auto=format&fit=max&s=6e8b65188ea1c948f00426379e855b06",
-"w": 700,
-"h": 560,
-"credit": "Manuel Orbegozo/Reuters",
-"via": "feed"
-},
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cqvg257kl440o": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://nypost.com/2026/11/13/sports/matias-maccelli-ryan-pulock-give-islanders-needed-boost/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-duki2w1ep-1794551742801.jpg?quality%3D90%26strip%3Dall%261794533765",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/nyc-borough-under-tornado-warning-as-ominous-cloud-swirled-above-jfk-airport/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41836135.jpg?quality%3D90%26strip%3Dall",
-"w": 4368,
-"h": 2911,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T06:50:43.959537+00:00"
-},
-"https://justthenews.com/nation/states/center-square/coalition-dozens-groups-15k-signed-petitions-call-special-session": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914799": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745772",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arizona-sex-pred-killers.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.jpost.com/archaeology/article-914605": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745909",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://justthenews.com/politics-policy/energy/morano-predicts-dems-will-bring-climate-back-congress-next-year-despite": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://reason.com/volokh/2026/11/13/open-thread-387/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/harrowing-video-shows-inside-view-of-moment-brooklyn-building-collapses-killing-at-least-8-report/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148574338.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/stanley-zabars-legacy-extends-far-beyond-iconic-nyc-grocery-store-as-new-yorkers-remember-his-lasting-impact/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148511201.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
-"https://nypost.com/2026/11/13/lifestyle/dear-abby-im-concerned-that-my-family-member-will-committ-estate-fraud-after-losing-her-partner/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41743582.jpg?quality%3D90%26strip%3Dall",
-"w": 5414,
-"h": 3608,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T08:06:37.656849+00:00"
-},
 "https://www.foxnews.com/politics/pence-leaves-door-open-2028-white-house-run-issues-stark-warning-gop-after-midterm-disaster": {
 "v": 2,
 "photo": {
@@ -8851,5 +8673,124 @@
 "via": "feed"
 },
 "checked": "2026-11-16T05:59:46.257719+00:00"
+},
+"https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/elizabeth-warren-senate-banking-committee-hearing-fox-news.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://justthenews.com/government/congress/van-hollen-says-party-needs-fresh-start-he-rallies-support-schumer-challenge": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-16/european-gas-dips-as-record-us-flows-counter-storage-concerns": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://news.google.com/rss/articles/CBMisgFBVV95cUxOXzhjUWdXMWFmMjBnY2tEZlFmQWh3akp5X1dHeTRSZWNFUlFkVjBtTDdvRWx1ZURUSWUtcjdjZE9EOElwTHY4bXRlVDJTUTFzTXZ5ajRZeUx4QlZ6UEdMQVFHUGRhaDZaMzZRWmNYaW40bHNxSkJONk1HdWFYbUFQbk9wcHBSM0pRaVpsQjRYeWhGTld0WDRQdmhPemxPZ2ZQRDEyZjQ0RUpxN0JicUpYa1ZB?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.jpost.com/israel-news/article-915025": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746488",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c67428w9vvkqo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm3rglzqjl90o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3245/live/d32d3880-3574-11f0-a288-d583f745f4b6.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.theregister.com/on-prem/2026/11/16/techie-rigged-off-spec-fan-near-flammable-liquid-and-an-exposed-motherboard-then-left-it-to-run-for-days/5309601": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5309606.jpg?imageId=5309606&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://reason.com/volokh/2026/11/16/open-thread-390/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310021.jpg?imageId=5310021&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/17c368283b54c6199d51c81fc50817760994904c/776_80_5100_4083/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=ae2327c28eed2df1cc401bc98573f7da",
+"w": 700,
+"h": 560,
+"credit": "Brian Rothmuller/Icon Sportswire/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
+},
+"https://nypost.com/2026/11/16/media/pete-buttigieg-breaks-with-democrats-on-student-loan-handouts-admits-party-overtorqued-on-issue/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148937248.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T08:27:16.038488+00:00"
 }
 }
