@@ -29,7 +29,10 @@ CACHE_DIR = os.path.join(STATE_DIR, "cache")
 STATE_FILE = os.path.join(STATE_DIR, "state.json")
 ARCHIVE_DIR = os.path.join(ROOT, "archive")
 TZ = ZoneInfo("America/Chicago")
+PT = ZoneInfo("America/Los_Angeles")
 NOW = datetime.now(timezone.utc)
+SITE = "https://dailyrushreport.com"
+TIP_MAIL = "rkrwgoodman+dailyrushreport@gmail.com"
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|$)", re.I)
@@ -494,6 +497,121 @@ def mark_breaking(shown, S):
             x["breaking"] = True; slots -= 1; used |= story
     return auto
 
+# ---------------------------------------------------------------- BREAKING banner + daily verse + public files
+# The red banner at the very top is off by default. A manual breaking.json entry (headline, url,
+# expires in Central time, same format as picks.json) wins when it is still active. Otherwise a
+# conservative automatic rule may show it: the story must already qualify as red (3+ independent
+# outlets in 6 hours, newest within 2 hours) AND either (a) 4+ outlets are covering it or (b) the
+# headline matches a tight major-event pattern (death, killing, disaster, war, etc.). One banner
+# at most; opinion and satire never qualify automatically.
+BANNER_RE = re.compile(
+    r"\bBREAKING\b|"
+    r"\b(has died|is dead|dead at|dies at|died at|dies aged|passed away|passes away)\b|"
+    r"\b(killed in|killed by|were killed|was killed|people were killed|fatally shot|shot dead|assassinat|mass shooting)\b|"
+    r"\b(earthquake|tsunami|hurricane|tornado)\b|"
+    r"\b(nuclear|missile strike|declares war|state of emergency)\b",
+    re.I)
+
+def pick_banner(shown, S):
+    man = load_json(os.path.join(ROOT, "breaking.json"), {}) or {}
+    if man.get("headline") and man.get("url"):
+        if not man.get("expires"):
+            log("WARN: breaking.json has a headline but no expires; ignored")
+        elif active(man):
+            return {"title": man["headline"], "url": canonical_url(man["url"]),
+                    "source": man.get("source") or "", "why": "editor"}
+    cands = [x for x in shown if x.get("breaking") and not x.get("lifestyle") and x.get("column") != "laugh"]
+    def ok(x):
+        title = x.get("display") or x["title"]
+        return x.get("red_outlets", 0) >= 4 or BANNER_RE.search(title)
+    cands = [x for x in cands if ok(x)]
+    if not cands:
+        return None
+    cands.sort(key=lambda x: (x.get("red_outlets", 0), x.get("red_newest") or ""), reverse=True)
+    x = cands[0]
+    return {"title": x.get("display") or x["title"], "url": x["url"], "source": x.get("source") or "",
+            "why": x.get("why") or "automatic"}
+
+def daily_verse(when=None):
+    """KJV verse of the day from verses.json, chosen by the Pacific calendar date."""
+    cfg = load_json(os.path.join(ROOT, "verses.json"), {}) or {}
+    verses = cfg.get("verses") or []
+    if not verses:
+        return None
+    day = (when or datetime.now(PT)).date()
+    v = verses[day.toordinal() % len(verses)]
+    if not v.get("ref") or not v.get("text"):
+        return None
+    return {"ref": v["ref"], "text": v["text"]}
+
+def write_robots():
+    atomic_write(os.path.join(ROOT, "robots.txt"),
+                 "User-agent: *\nAllow: /\n\nSitemap: https://dailyrushreport.com/sitemap.xml\n")
+
+def write_sitemap():
+    last = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    body = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        "  <url>\n"
+        f"    <loc>{SITE}/</loc>\n"
+        f"    <lastmod>{last}</lastmod>\n"
+        "    <changefreq>hourly</changefreq>\n"
+        "    <priority>1.0</priority>\n"
+        "  </url>\n"
+        "  <url>\n"
+        f"    <loc>{SITE}/feed.xml</loc>\n"
+        f"    <lastmod>{last}</lastmod>\n"
+        "    <changefreq>hourly</changefreq>\n"
+        "    <priority>0.6</priority>\n"
+        "  </url>\n"
+        "</urlset>\n"
+    )
+    atomic_write(os.path.join(ROOT, "sitemap.xml"), body)
+
+def write_feed(lead, cols, mixed, S=None):
+    """RSS 2.0 of the headlines currently on the page, in page order."""
+    items = [lead] + list(cols.get(1) or []) + list(cols.get(2) or []) + list(mixed or [])
+    seen, out = set(), []
+    for i in items:
+        u = i.get("url") or ""
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        out.append(i)
+    now_rfc = email.utils.format_datetime(datetime.now(timezone.utc))
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0">',
+        "<channel>",
+        "<title>Daily Rush Report</title>",
+        f"<link>{SITE}/</link>",
+        "<description>The day's headlines, picked with common sense and served fast. Links go to the original publishers.</description>",
+        "<language>en-us</language>",
+        f"<lastBuildDate>{now_rfc}</lastBuildDate>",
+    ]
+    for i in out:
+        title = i.get("display") or i["title"]
+        src = i.get("source") or ""
+        pub = i.get("published")
+        try:
+            pub_rfc = email.utils.format_datetime(datetime.fromisoformat(pub)) if pub else now_rfc
+        except ValueError:
+            pub_rfc = now_rfc
+        lines += [
+            "<item>",
+            f"<title>{html.escape(title)}</title>",
+            f"<link>{html.escape(i['url'], quote=True)}</link>",
+            f"<guid isPermaLink=\"true\">{html.escape(i['url'], quote=True)}</guid>",
+            f"<pubDate>{pub_rfc}</pubDate>",
+        ]
+        if src:
+            lines.append(f"<category>{html.escape(src)}</category>")
+            lines.append(f"<description>{html.escape(src)}</description>")
+        lines.append("</item>")
+    lines += ["</channel>", "</rss>", ""]
+    atomic_write(os.path.join(ROOT, "feed.xml"), "\n".join(lines))
+
 # ---------------------------------------------------------------- social drafts
 # Drafts only. Nothing here posts anywhere; there is no posting code and no API keys.
 # A human reviews social_drafts/latest.md and runs approve_post.py to mark a draft approved.
@@ -742,9 +860,36 @@ def assign_photos(lead, cols, S, picks, all_items):
         lead["photo"] = {"img": li, "credit": clean_credit(picks.get("lead_image_credit", ""))}
     elif got.get(lead["url"]) and got[lead["url"]]["w"] >= S.get("lead_photo_min_width", 400):
         lead["photo"] = got[lead["url"]]
+    # Rotate the large top photo among the lead and up to two other top stories that have a wide
+    # enough image, keyed to 30-minute Pacific-time slots, so a returning visitor sees a change.
+    # The photo keeps its own credit and links to its own story. An editor lead_image turns this off.
+    if li is not False and not (isinstance(li, str) and li.startswith("http")):
+        min_w = S.get("lead_photo_min_width", 400)
+        cands = []
+        if lead.get("photo"):
+            cands.append((lead, lead["photo"]))
+        for c in (1, 2, 3):
+            for x in cols.get(c, [])[:6]:
+                ph = got.get(x["url"])
+                if (ph and ph["w"] >= min_w and photo_ok(x) and x is not lead
+                        and all(x["url"] != y[0]["url"] for y in cands)):
+                    cands.append((x, ph))
+                if len(cands) >= 3:
+                    break
+            if len(cands) >= 3:
+                break
+        if cands:
+            slot = int(datetime.now(PT).timestamp() // 1800) % len(cands)
+            hero, hph = cands[slot]
+            lead["hero_photo"] = hph
+            lead["hero_url"] = hero["url"]
+            lead["hero_title"] = hero.get("display") or hero["title"]
+            lead["hero_source"] = hero.get("source") or ""
+            if len(cands) > 1:
+                log(f"Lead photo rotate: slot {slot + 1}/{len(cands)} -> {lead['hero_source']}: {lead['hero_title']}")
     # columns: round-robin 1,2,3,1,2,3... taking the next photo-able story, at least 4 stories below the last one
     nxt = {1: 0, 2: 0, 3: 0}
-    placed, used_imgs = 0, {(lead.get("photo") or {}).get("img")}
+    placed, used_imgs = 0, {(lead.get("hero_photo") or lead.get("photo") or {}).get("img")}
     while placed < n_col:
         progress = False
         for c in (1, 2, 3):
@@ -852,6 +997,68 @@ def feed_filter(f, items):
     return out
 
 # ---------------------------------------------------------------- main build
+def cap_and_diversify(cols, reps, src_cap, S, lead):
+    """After sub-leads are merged into the columns, enforce the per-source cap (so a top story plus
+    two body stories can't slip past it) and make room for unused sources that have a fresh story,
+    without lengthening the page. Tops, pins and red headlines are never dropped."""
+    def cap_for(name):
+        return src_cap.get(name, S["max_per_source_per_column"])
+    shown = {lead["url"]}
+    shown.update(r["url"] for c in (1, 2, 3) for r in cols[c])
+    for c in (1, 2, 3):
+        limit = S.get("per_column_culture", S["per_column"]) if c == 3 else S["per_column"]
+        n_tops = sum(1 for r in cols[c] if r.get("top") or r.get("pinned"))
+        ceiling = limit + n_tops
+        n, kept = {}, []
+        for r in cols[c]:
+            k = r["source"]
+            if n.get(k, 0) < cap_for(k) or r.get("pinned"):
+                n[k] = n.get(k, 0) + 1
+                kept.append(r)
+            else:
+                shown.discard(r["url"])
+        cols[c] = kept
+        have = {r["source"] for r in cols[c]}
+        unused = []
+        for r in sorted((r for r in reps if r.get("column") == c and not r.get("lifestyle")
+                         and r["url"] not in shown and r["url"] != lead["url"]),
+                        key=lambda r: r["published"], reverse=True):
+            if r["source"] in have:
+                continue
+            unused.append(r)
+            have.add(r["source"])
+        while unused and len(cols[c]) < ceiling:
+            r = unused.pop(0)
+            cols[c].append(r)
+            shown.add(r["url"])
+            log(f"Variety: column {c} added [{r['source']}] {r.get('display') or r['title']}")
+        for r in unused:
+            counts = {}
+            for x in cols[c]:
+                counts[x["source"]] = counts.get(x["source"], 0) + 1
+            drop_i = None
+            for i in range(len(cols[c]) - 1, -1, -1):
+                x = cols[c][i]
+                if x.get("top") or x.get("pinned") or x.get("breaking"):
+                    continue
+                if counts.get(x["source"], 0) >= 2:
+                    drop_i = i
+                    break
+            if drop_i is None:
+                break
+            old = cols[c][drop_i]
+            shown.discard(old["url"])
+            cols[c][drop_i] = r
+            shown.add(r["url"])
+            log(f"Variety: column {c} swapped [{old['source']}] for [{r['source']}] {r.get('display') or r['title']}")
+        def sort_key(r):
+            try:
+                ts = -datetime.fromisoformat(r["published"]).timestamp()
+            except Exception:
+                ts = 0
+            return (not r.get("pinned"), not r.get("top"), "display" not in r, ts)
+        cols[c].sort(key=sort_key)
+
 def build(args):
     cfg = load_json(os.path.join(ROOT, "feeds.json"), None)
     if not cfg:
@@ -1035,6 +1242,7 @@ def build(args):
     for c in (1, 2, 3):
         cols[c] = tops[c] + cols[c]
     subleads = []
+    cap_and_diversify(cols, reps, src_cap, S, lead)
 
     with_photos = assign_photos(lead, cols, S, picks, uniq)
     log(f"Photos: {len(with_photos)}" + "".join(
@@ -1058,10 +1266,24 @@ def build(args):
     if total < 15:
         log("ERROR: fewer than 15 stories - keeping previous index.html"); sys.exit(2)
 
-    page = render(lead, subleads, cols, feeds, S)
+    # Culture mix (also used for feed.xml so the RSS matches the page)
+    mixed_culture = mix_culture(cols, S)
+    banner = pick_banner([lead] + cols[1] + cols[2] + cols[3], S)
+    verse = daily_verse()
+    if banner:
+        log(f"BREAKING banner ({banner['why']}): {banner['title']} ({banner.get('source') or '—'})")
+    else:
+        log("BREAKING banner: off")
+    if verse:
+        log(f"Daily verse: {verse['ref']}")
+
+    page = render(lead, subleads, cols, feeds, S, banner=banner, verse=verse, mixed=mixed_culture)
     atomic_write(os.path.join(ROOT, args.out), page)
     if os.path.abspath(os.path.join(ROOT, args.out)) != os.path.join(ROOT, "index.html"):
         log(f"Wrote {args.out} (test build: archive, state and social drafts left untouched)"); return
+    write_robots()
+    write_sitemap()
+    write_feed(lead, cols, mixed_culture, S)
     stamp = datetime.now(TZ).strftime("%Y-%m-%d-%H%M")
     atomic_write(os.path.join(ARCHIVE_DIR, f"{stamp}.html"), page)
     for old in sorted(os.listdir(ARCHIVE_DIR))[:-60]:   # keep the 60 most recent snapshots
@@ -1108,6 +1330,21 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax
          "Low Carb Down Under": "https://www.youtube.com/@lowcarbdownunder",
          "Religion News Service": "https://religionnews.com/",
          "Adventist News Network": "https://adventist.news/", "Liberty Magazine": "https://www.libertymagazine.org/",
+         "Washington Times Politics": "https://www.washingtontimes.com/news/politics/",
+         "The Daily Signal": "https://www.dailysignal.com/",
+         "The Center Square": "https://www.thecentersquare.com/",
+         "SCOTUSblog": "https://www.scotusblog.com/",
+         "The Dispatch": "https://thedispatch.com/",
+         "Fox News World": "https://www.foxnews.com/world",
+         "Washington Times World": "https://www.washingtontimes.com/news/world/",
+         "UnHerd": "https://unherd.com/",
+         "Outdoor Life": "https://www.outdoorlife.com/",
+         "Art of Manliness": "https://www.artofmanliness.com/",
+         "IEEE Spectrum": "https://spectrum.ieee.org/",
+         "The Register": "https://www.theregister.com/",
+         "City Journal": "https://www.city-journal.org/",
+         "Christianity Today": "https://www.christianitytoday.com/",
+         "WORLD Magazine": "https://wng.org/",
          "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
          "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",
          "Duffel Blog": "https://www.duffelblog.com/", "ClickHole": "https://clickhole.com/",
@@ -1125,14 +1362,17 @@ def link(i, cls=""):
 
 def photo(i, cls="ph", lazy=True):
     """Story photo: hotlinked from the publisher, linked to the story, credit underneath. If it fails to load
-    in the browser, the whole figure removes itself (no broken-image icon)."""
-    p = i.get("photo")
+    in the browser, the whole figure removes itself (no broken-image icon). The lead may carry a rotated
+    hero_photo from another top story; that image still links to and credits its own story."""
+    p = i.get("hero_photo") or i.get("photo")
     if not p:
         return ""
-    credit = p.get("credit") or re.sub(r" (Economy|Tech|Science|Odd News|Opinion)$", "", i.get("source") or "")
+    href = i.get("hero_url") or i["url"]
+    alt = i.get("hero_title") or i.get("display") or i["title"]
+    credit = (p.get("credit") or re.sub(r" (Economy|Tech|Science|Odd News|World|Opinion)$", "", i.get("hero_source") or i.get("source") or ""))
     wh = f' width="{p["w"]}" height="{p["h"]}"' if p.get("w") and p.get("h") else ""
-    return (f'<figure class="{cls}"><a href="{html.escape(i["url"], quote=True)}" target="_blank" rel="noopener">'
-            f'<img src="{html.escape(p["img"], quote=True)}" alt="{html.escape(i.get("display") or i["title"], quote=True)}"{wh}'
+    return (f'<figure class="{cls}"><a href="{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
+            f'<img src="{html.escape(p["img"], quote=True)}" alt="{html.escape(alt, quote=True)}"{wh}'
             f'{" loading=" + chr(34) + "lazy" + chr(34) if lazy else ""} referrerpolicy="no-referrer" '
             f'onerror="this.closest(\'figure\').remove()"></a>'
             + (f'<figcaption>(Photo: {html.escape(credit)})</figcaption>' if credit else "") + '</figure>')
@@ -1147,13 +1387,9 @@ def column(label, lst, every=3):
             out.append("<hr>")
     return "\n".join(out)
 
-def render(lead, subleads, cols, feeds=(), S=None):
-    upd = datetime.now(TZ).strftime("%A, %B %-d, %Y").upper() + " &middot; " + datetime.now(TZ).strftime("%-I:%M %p CT")
-    c1 = column("NATION &amp; POLITICS", cols.get(1, []))
-    c2 = column("MONEY &amp; WORLD", cols.get(2, []))
-    # One Culture column, no subtitles: health and faith (lifestyle) stories are mixed in among the regular
-    # culture stories, one after every two regular stories. Satire is off (show_satire=false); if it is ever
-    # switched back on, it alternates with the lifestyle extras and keeps its "SATIRE:" label.
+def mix_culture(cols, S=None):
+    """Culture stories with health and faith (lifestyle) mixed in, one after every two regular stories.
+    Satire, if ever switched back on, alternates with the lifestyle extras."""
     base = list(cols.get(3, []))
     life = [x for g in ((S or {}).get("lifestyle_sections") or {}) for x in cols.get("life:" + g, [])]
     laugh = list(cols.get("laugh", []))
@@ -1168,7 +1404,19 @@ def render(lead, subleads, cols, feeds=(), S=None):
         if n + 1 >= pos and k < len(extras):
             mixed.append(extras[k]); k += 1; pos = n + 3
     mixed += extras[k:]
+    return mixed
+
+def render(lead, subleads, cols, feeds=(), S=None, banner=None, verse=None, mixed=None):
+    now_pt = datetime.now(PT)
+    upd = (now_pt.strftime("%A, %B %-d, %Y").upper()
+           + '<br><span class="updated">Updated ' + now_pt.strftime("%-I:%M %p PT") + "</span>")
+    c1 = column("NATION &amp; POLITICS", cols.get(1, []))
+    c2 = column("MONEY &amp; WORLD", cols.get(2, []))
+    mixed = list(mixed if mixed is not None else mix_culture(cols, S))
     c3 = column("CULTURE", mixed)
+    if verse:
+        c3 += ('\n<p class="verse"><span class="vref">' + html.escape(verse["ref"]) + "</span> "
+               + html.escape(verse["text"]) + ' <span class="vsrc">(KJV)</span></p>')
     seen, srcs = set(), []
     for f in feeds:
         home = HOMES.get(f["name"])
@@ -1176,12 +1424,36 @@ def render(lead, subleads, cols, feeds=(), S=None):
             seen.add(f["name"])
             srcs.append((f["name"].upper(), f'<a href="{home}" target="_blank" rel="noopener">{html.escape(f["name"].upper())}</a>'))
     sources = ('<hr>\n<h2>SOURCES</h2>\n<p class="wire">' + "<br>\n".join(a for _, a in sorted(srcs)) + "</p>") if srcs else ""
+    lead_t = lead.get("display") or lead["title"]
+    page_title = html.escape(lead_t + " | Daily Rush Report")
+    desc = html.escape("The day's headlines, picked with common sense and served fast. Links go to the original publishers.")
+    og_img = (lead.get("hero_photo") or lead.get("photo") or {}).get("img") or ""
+    banner_html = ""
+    if banner:
+        bsrc = f' <span class="src">({html.escape(banner["source"])})</span>' if banner.get("source") else ""
+        banner_html = (f'<p class="banner"><a class="red" href="{html.escape(banner["url"], quote=True)}" '
+                       f'target="_blank" rel="noopener">{html.escape(banner["title"])}</a>{bsrc}</p>\n')
+    tip = '<a href="mailto:' + TIP_MAIL + '?subject=Story%20tip%20for%20Daily%20Rush%20Report">Tip us a story</a>'
+    share = '<a href="#" class="share-page">Share</a>'
+    tools = f'<p class="tools">{tip} &middot; {share}</p>'
+    og_img_tags = (f'<meta property="og:image" content="{html.escape(og_img, quote=True)}">\n'
+                   f'<meta name="twitter:image" content="{html.escape(og_img, quote=True)}">\n') if og_img else ""
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Daily Rush Report</title>
-<meta name="description" content="The day's headlines, picked with common sense and served fast. Links go to the original publishers.">
-<meta http-equiv="refresh" content="900">
+<title>{page_title}</title>
+<meta name="description" content="{desc}">
+<link rel="canonical" href="{SITE}/">
+<link rel="alternate" type="application/rss+xml" title="Daily Rush Report" href="{SITE}/feed.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Daily Rush Report">
+<meta property="og:title" content="{page_title}">
+<meta property="og:description" content="{desc}">
+<meta property="og:url" content="{SITE}/">
+<meta name="twitter:card" content="{'summary_large_image' if og_img else 'summary'}">
+<meta name="twitter:title" content="{page_title}">
+<meta name="twitter:description" content="{desc}">
+{og_img_tags}<meta http-equiv="refresh" content="900">
 <script data-goatcounter="https://dailyrushreport.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <style>
 :root{{--link-underline:underline;--red:#f00}}  /* set --link-underline:none to remove all underlines */
@@ -1214,16 +1486,24 @@ figure{{margin:0}}
 .leadph img{{max-width:100%;max-height:440px;width:100%;object-fit:cover;margin:0 auto}}
 .leadph figcaption{{font-family:"Courier New",Courier,monospace;text-align:right}}
 p.end{{margin:30px 0 0;font-size:11px;font-weight:normal;text-align:center}}
-@media (max-width:700px){{body{{padding:12px 4px 30px;font-size:11px}}.col{{padding:0 4px}}.src{{font-size:9.5px;white-space:normal}}h2{{font-size:9.5px}}}}
+.banner{{margin:0 0 12px;text-align:center;font-family:Arial,Helvetica,"Liberation Sans",sans-serif;font-weight:bold;
+  font-size:clamp(16px,2.6vw,22px);line-height:1.2;text-transform:uppercase;border:2px solid var(--red);padding:8px 10px}}
+.updated{{display:block;margin-top:4px;font-size:13px;font-weight:bold;letter-spacing:.06em}}
+.tools{{margin:-8px 0 16px;text-align:center;font-size:11px;font-weight:normal}}
+.verse{{margin:16px 0 8px;padding:8px 0 0;border-top:1px solid #000;font-weight:normal;font-size:12px;line-height:1.45}}
+.vref{{font-weight:bold;letter-spacing:.04em}}
+.vsrc{{font-size:10px}}
+@media (max-width:700px){{body{{padding:12px 4px 30px;font-size:11px}}.col{{padding:0 4px}}.src{{font-size:9.5px;white-space:normal}}h2{{font-size:9.5px}}.updated{{font-size:12px}}}}
 @media (max-width:340px){{.cols{{grid-template-columns:1fr}}.col+.col{{border-left:0;border-top:1px solid #000;padding-top:10px}}}}
 </style></head>
 <body>
-<div class="top">
+{banner_html}<div class="top">
 {photo(lead, "ph leadph", lazy=False)}
 <p class="lead">{link(lead)}</p>
 </div>
 <h1 class="mast">DAILY RUSH REPORT</h1>
 <p class="date">{upd}</p>
+{tools}
 <div class="cols">
 <div class="col">
 {c1}
@@ -1237,7 +1517,30 @@ p.end{{margin:30px 0 0;font-size:11px;font-weight:normal;text-align:center}}
 </div>
 </div>
 <hr>
-<p class="end">Links go to original publishers.</p>
+<p class="end">Links go to original publishers. &middot; {tip} &middot; {share}</p>
+<script>
+(function(){{
+  var links = document.querySelectorAll("a.share-page");
+  var data = {{title: document.title, url: "{SITE}/"}};
+  Array.prototype.forEach.call(links, function(a){{
+    a.addEventListener("click", function(e){{
+      e.preventDefault();
+      if (navigator.share) {{
+        navigator.share(data).catch(function(){{}});
+        return;
+      }}
+      if (navigator.clipboard && navigator.clipboard.writeText) {{
+        navigator.clipboard.writeText(data.url).then(function(){{
+          a.textContent = "Link copied";
+          setTimeout(function(){{ a.textContent = "Share"; }}, 2000);
+        }}).catch(function(){{ prompt("Copy this link:", data.url); }});
+        return;
+      }}
+      prompt("Copy this link:", data.url);
+    }});
+  }});
+}})();
+</script>
 </body></html>
 """
 

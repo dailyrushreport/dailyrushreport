@@ -26,7 +26,7 @@
     "default_max_age_hours": 36,
     "lead_window_hours": 14,
     "avoid_repeat_leads": 4,
-    "max_per_source_per_column": 3,
+    "max_per_source_per_column": 2,
     "timeout_seconds": 10,
     "user_agent": "Mozilla/5.0 (compatible; DailyRushReportBot/0.1; +https://example.com/about)",
     "skip_if_url_contains": [
@@ -83,7 +83,20 @@
       "justthenews.com": "Just the News",
       "newsmax.com": "Newsmax",
       "jpost.com": "Jerusalem Post",
-      "timesofisrael.com": "Times of Israel"
+      "timesofisrael.com": "Times of Israel",
+      "washingtontimes.com": "Washington Times",
+      "dailysignal.com": "The Daily Signal",
+      "thecentersquare.com": "The Center Square",
+      "scotusblog.com": "SCOTUSblog",
+      "thedispatch.com": "The Dispatch",
+      "unherd.com": "UnHerd",
+      "outdoorlife.com": "Outdoor Life",
+      "artofmanliness.com": "Art of Manliness",
+      "spectrum.ieee.org": "IEEE Spectrum",
+      "theregister.com": "The Register",
+      "city-journal.org": "City Journal",
+      "christianitytoday.com": "Christianity Today",
+      "wng.org": "WORLD Magazine"
     },
     "column_photos": 3,
     "photo_min_width": 300,
@@ -101,7 +114,10 @@
         "label": "FAITH & FREEDOM",
         "max": 2,
         "max_per_source": 1,
-        "guarantee": ["Adventist News Network"]
+        "guarantee": [
+          "Adventist News Network"
+        ],
+        "skip_if_title_matches": "blue zones?|animal[- ]welfare|animal rights|save the planet|climate change|carbon footprint|for the planet|go vegan|veganuary|vegan advocac|plant[- ]based (?:lifestyle|movement|revolution)"
       }
     }
   },
@@ -110,7 +126,8 @@
       "name": "Fox News",
       "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
       "column": 1,
-      "lead": true
+      "lead": true,
+      "max_per_column": 2
     },
     {
       "name": "NY Post",
@@ -216,7 +233,8 @@
       "name": "Fox Business",
       "url": "https://moxie.foxbusiness.com/google-publisher/latest.xml",
       "column": 2,
-      "lead": true
+      "lead": true,
+      "max_per_column": 2
     },
     {
       "name": "BBC",
@@ -263,6 +281,27 @@
       "_note": "Israeli news. Reader blogs and podcasts excluded. No lead flag. Capped at 2 per column."
     },
     {
+      "name": "Fox News World",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "column": 2,
+      "max_per_column": 2,
+      "_note": "World news. Not a lead source. Capped at 2 so Fox doesn't dominate."
+    },
+    {
+      "name": "Washington Times World",
+      "url": "https://www.washingtontimes.com/rss/headlines/news/world/",
+      "column": 2,
+      "max_per_column": 2,
+      "_note": "World news. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "UnHerd",
+      "url": "https://unherd.com/feed/",
+      "column": 2,
+      "max_per_column": 1,
+      "_note": "Low cap (1), not a lead source."
+    },
+    {
       "name": "The Guardian",
       "url": "https://www.theguardian.com/us-news/rss",
       "column": 1
@@ -271,6 +310,44 @@
       "name": "NPR",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "column": 1
+    },
+    {
+      "name": "Washington Times Politics",
+      "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",
+      "column": 1,
+      "max_per_column": 2,
+      "_note": "Nation/politics. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "The Daily Signal",
+      "url": "https://www.dailysignal.com/feed/",
+      "column": 1,
+      "max_per_column": 2,
+      "_note": "Not a lead source. Capped at 2."
+    },
+    {
+      "name": "The Center Square",
+      "url": "https://www.thecentersquare.com/search/?f=rss",
+      "column": 1,
+      "max_per_column": 2,
+      "_note": "Statehouse/national news. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/feed/",
+      "column": 1,
+      "max_per_column": 2,
+      "_note": "Supreme Court news. Not a lead source. Capped at 2. 3-day window; browser UA because the feed can time out.",
+      "max_age_hours": 72,
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    },
+    {
+      "name": "The Dispatch",
+      "url": "https://thedispatch.com/category/politics/feed",
+      "column": 1,
+      "max_per_column": 1,
+      "_note": "Politics feed, low cap (1), not a lead source. 3-day window because it publishes less often.",
+      "max_age_hours": 72
     },
     {
       "name": "Ars Technica",
@@ -286,7 +363,9 @@
       "name": "Fox News Tech",
       "url": "https://moxie.foxnews.com/google-publisher/tech.xml",
       "column": 3,
-      "max_age_hours": 72
+      "max_age_hours": 72,
+      "max_per_column": 2,
+      "_note": "Capped at 2 so Fox doesn't dominate the Culture column"
     },
     {
       "name": "ScienceDaily",
@@ -311,6 +390,46 @@
       "url": "https://www.space.com/feeds/all",
       "column": 3,
       "max_age_hours": 72
+    },
+    {
+      "name": "Outdoor Life",
+      "url": "https://www.outdoorlife.com/feed/",
+      "column": 3,
+      "max_per_column": 2,
+      "max_age_hours": 72,
+      "_note": "Outdoors. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "Art of Manliness",
+      "url": "https://www.artofmanliness.com/feed/",
+      "column": 3,
+      "max_per_column": 2,
+      "max_age_hours": 72,
+      "_note": "Not a lead source. Capped at 2."
+    },
+    {
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss",
+      "column": 3,
+      "max_per_column": 2,
+      "max_age_hours": 72,
+      "_note": "Science/engineering. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "The Register",
+      "url": "https://www.theregister.com/headlines.atom",
+      "column": 3,
+      "max_per_column": 2,
+      "max_age_hours": 72,
+      "_note": "Tech news. Not a lead source. Capped at 2."
+    },
+    {
+      "name": "City Journal",
+      "url": "https://www.city-journal.org/rss.xml",
+      "column": 3,
+      "max_per_column": 2,
+      "max_age_hours": 72,
+      "_note": "Not a lead source. Capped at 2."
     },
     {
       "name": "Fox News Health",
@@ -520,7 +639,9 @@
         "Bloomberg",
         "CNBC",
         "The Christian Science Monitor",
-        "Christianity Today"
+        "Christianity Today",
+        "WORLD Magazine",
+        "WORLD"
       ],
       "title_must_match": "religious (liberty|freedom)|freedom of (religion|conscience|worship)|church and state|establishment clause|free exercise|blasphemy|persecut",
       "_note": "Mainstream religious-liberty coverage: Google News search limited to allowed_sources (mainstream national outlets only; no sectarian/denominational or advocacy outlets). Shows the real outlet name; counts as one source for the faith list's per-source cap",
@@ -530,6 +651,24 @@
         "Live updates",
         "Live:"
       ]
+    },
+    {
+      "name": "Christianity Today",
+      "url": "https://www.christianitytoday.com/feed/",
+      "column": 3,
+      "lifestyle": "faith",
+      "max_age_hours": 72,
+      "max_per_source": 1,
+      "_note": "Mainstream Christian news. One story per build."
+    },
+    {
+      "name": "WORLD Magazine",
+      "url": "https://wng.org/feeds/rss/topics.rss",
+      "column": 3,
+      "lifestyle": "faith",
+      "max_age_hours": 72,
+      "max_per_source": 1,
+      "_note": "Mainstream Christian news. One story per build."
     },
     {
       "name": "Babylon Bee",

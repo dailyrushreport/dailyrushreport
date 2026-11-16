@@ -108,10 +108,20 @@ Editor control in `picks.json` — add `"breaking": true` or `"breaking": false`
 Editor-forced red always shows and **does count toward the cap of 2**: with one editor red, at most one
 automatic red is added; with two, none. (Satire stays black even with `"breaking": true`.)
 
+A **red BREAKING banner** can also appear at the very top of the page. It is off by default. A manual
+override in `breaking.json` (`headline`, `url`, optional `source`, and `expires` as `YYYY-MM-DD HH:MM`
+Central time, same as `picks.json`) wins while it is still active. Otherwise the banner appears only for a
+genuinely big story: one that already qualifies as red **and** either has **4 or more** independent outlets
+on it, or whose headline matches a tight major-event pattern (a death, a killing, a disaster, war/nuclear,
+or the word BREAKING). One banner at most; opinion and satire never qualify automatically.
+
 ## Page layout (Drudge-style)
-1. **Above the masthead: only the lead** — its photo, then the big uppercase headline. Nothing else.
-2. The **DAILY RUSH REPORT** masthead and date.
-3. Three columns: **NATION & POLITICS**, **MONEY & WORLD**, **CULTURE** (satire "For laughs" and SOURCES at the foot of column 3).
+1. Optional red **BREAKING banner** at the very top, then **the lead** — its photo (or a rotating top-story
+   photo; see Photos), then the big uppercase headline.
+2. The **DAILY RUSH REPORT** masthead, the date, and a prominent **Updated h:mm AM/PM PT** line
+   (Pacific time), plus **Tip us a story** and **Share** links (also repeated in the footer).
+3. Three columns: **NATION & POLITICS**, **MONEY & WORLD**, **CULTURE** (a daily KJV verse at the foot of
+   Culture, then SOURCES).
    The next top stories (`subleads` in feeds.json, default 3) open the columns: each goes to the top of its own
    column (news stories to column 1 or 2, at most 2 per column; column 3 only for a Culture story), set slightly
    larger. A pinned lead in picks.json takes the top slot the same way as an automatic one.
@@ -131,8 +141,12 @@ above its own story's headline, near the top of a column (spread across the thre
 - Results are cached in `.state/images.json` (3 days; misses retried after 6h), so 30-minute rebuilds don't refetch.
 - `feeds.json` settings: `column_photos` (how many column photos; `0` = none), `photo_search_depth` (how far down
   each column to look, 8), `photo_min_width`, `lead_photo_min_width`, `photo_timeout_seconds`.
-- `picks.json`: `"lead_image": null` = automatic; `"lead_image": "https://…jpg"` = use this image over the lead
-  (add `"lead_image_credit": "AP"` for the credit); `"lead_image": false` = no lead photo.
+- The large photo above the lead **rotates every 30 minutes** (Pacific time) among the lead story and up to
+  two other top stories that have a wide enough image, so a returning visitor sees a change through the day.
+  The photo keeps its own credit and links to its own story. An editor `lead_image` in `picks.json` turns
+  rotation off.
+- `picks.json`: `"lead_image": null` = automatic (with rotation); `"lead_image": "https://…jpg"` = use this
+  image over the lead (add `"lead_image_credit": "AP"` for the credit); `"lead_image": false` = no lead photo.
 
 ## Adding or removing a feed
 Add an entry to `feeds.json` → `feeds`: `{"name": "Outlet", "url": "https://…/rss", "column": 2, "lead": false}`.
@@ -165,3 +179,12 @@ Per-feed options (any feed): `max_per_column` (tighter than `max_per_source_per_
 `skip_if_title_starts_with`, `skip_if_title_matches` (regex; drop matching headlines), `skip_categories`,
 `title_must_match` (regex; keep only matching headlines), `strip_title_suffix` (e.g. Google News' " - Publisher")
 and, for lifestyle feeds, `guarantee_slot` (reserve a section slot when this feed has a fresh story).
+
+## Search and sharing
+Each build also writes, next to `index.html`:
+- `robots.txt` — allows crawlers and points to the sitemap (no verification tokens, no DNS changes).
+- `sitemap.xml` — the homepage and `feed.xml`, with a fresh lastmod.
+- `feed.xml` — an RSS feed of the headlines currently on the page, in page order.
+
+The homepage `<head>` has a canonical URL, a meta description, Open Graph / Twitter tags (using the lead
+headline and photo when there is one), and a link to `feed.xml`.

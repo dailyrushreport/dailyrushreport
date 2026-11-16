@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["picks.json", "feeds.json", "build.py", ".github/workflows/build.yml"]
+    paths: ["picks.json", "feeds.json", "build.py", "breaking.json", "verses.json", "robots.txt", ".github/workflows/build.yml"]
 permissions:
   contents: write
   pages: write
@@ -23,11 +23,11 @@ jobs:
       - name: Commit rebuilt page
         run: |
           git config user.name "daily-rush-report-bot"; git config user.email "bot@users.noreply.github.com"
-          git add -A index.html archive .state social_drafts CNAME
+          git add -A index.html archive .state social_drafts CNAME sitemap.xml feed.xml robots.txt
           git diff --cached --quiet || (git commit -m "Rebuild $(date -u +%FT%TZ)" && git push)
       - name: Stage public files
         run: |
-          mkdir -p _site && cp -r index.html CNAME .nojekyll archive _site/
+          mkdir -p _site && cp -r index.html CNAME .nojekyll archive sitemap.xml feed.xml robots.txt _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: {path: _site}

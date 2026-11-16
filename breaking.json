@@ -1,0 +1,7 @@
+{
+  "_comment": "Manual BREAKING banner override. Leave headline and url empty (or null) to leave the banner off unless the automatic rule fires. expires is 'YYYY-MM-DD HH:MM' Central time, same as picks.json; the banner is ignored after that. Optional source is shown in parentheses.",
+  "headline": null,
+  "url": null,
+  "source": null,
+  "expires": null
+}
