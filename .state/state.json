@@ -25,7 +25,7 @@
   "url": "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
   "since": "2026-11-16T02:14:51.951877+00:00"
  },
- "last_build": "2026-11-16T04:58:33.373156+00:00",
+ "last_build": "2026-11-16T05:10:09.617161+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -50,8 +50,16 @@
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
   "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden) - no cache",
+  "Fox News World": "ok",
+  "Washington Times World": "FAILED (HTTPError: HTTP Error 403: Forbidden) - no cache",
+  "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
+  "Washington Times Politics": "FAILED (HTTPError: HTTP Error 403: Forbidden) - no cache",
+  "The Daily Signal": "ok",
+  "The Center Square": "ok",
+  "SCOTUSblog": "ok",
+  "The Dispatch": "ok",
   "Ars Technica": "ok",
   "The Verge": "ok",
   "Fox News Tech": "ok",
@@ -59,6 +67,11 @@
   "BBC Science": "ok",
   "UPI Odd News": "ok",
   "Space.com": "ok",
+  "Outdoor Life": "ok",
+  "Art of Manliness": "ok",
+  "IEEE Spectrum": "ok",
+  "The Register": "ok",
+  "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
@@ -74,7 +87,9 @@
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
-  "Religious Liberty": "ok"
+  "Religious Liberty": "ok",
+  "Christianity Today": "ok",
+  "WORLD Magazine": "ok"
  },
  "drafted_leads": [
   "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
