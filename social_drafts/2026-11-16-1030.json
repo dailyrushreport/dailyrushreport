@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-16-1030.json",
+  "created": "2026-11-16T16:30:00.476008+00:00",
+  "created_ct": "Mon Nov 16, 2026 10:30 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies",
+    "original_headline": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies",
+    "url": "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
