@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 15, 2026 8:14 PM CT
+# Social drafts — Sun Nov 15, 2026 11:15 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-15-2014.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-15-2315.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Bessent: Nvidia should ‘go outside the company’ for next CEO  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/  
+Lead: China confirms Xi-Trump-Putin historic summit. What will be on the agenda?  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 152/280 chars (X counting)
+## X — status: pending_approval · 150/280 chars (X counting)
 
 ```
-Bessent: Nvidia should ‘go outside the company’ for next CEO. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/
+China confirms Xi-Trump-Putin historic summit. What will be on the agenda? (CNBC) https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Bessent: Nvidia should ‘go outside the company’ for next CEO. Story via Washington Examiner. Link in bio.
+China confirms Xi-Trump-Putin historic summit. What will be on the agenda? Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

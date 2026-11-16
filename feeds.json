@@ -1,5 +1,5 @@
 {
-  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (DISABLED Oct 31 2026 at Randall's request: all laugh feeds have enabled=false and build.py no longer shows satire; always labeled SATIRE; rotates across outlets: newest story from each satire outlet, at most 1 per outlet, outlet order reshuffled every hour, laugh_count shown; laugh_skip_words drops crude headlines). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. per_column_culture: regular stories in the Culture column (default per_column). show_satire=false hides all satire everywhere. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout. lifestyle_sections: small labeled lists under the Culture column (health, faith); a feed joins one with \"lifestyle\": \"health\"; these stories never lead, never turn red and don't count as coverage; max = stories shown, max_per_source = per outlet. Per-feed options: max_per_column (tighter per-source cap), skip_if_url_contains, skip_if_title_starts_with, skip_if_title_matches (regex; drop matching headlines), skip_categories, title_must_match (regex), strip_title_suffix, guarantee_slot (lifestyle: reserve a section slot when this feed has a fresh story). Section options: guarantee (list of feed names with a reserved slot), skip_if_title_matches.",
+  "_comment": "Feed list for Daily Rush Report. column: 1=Nation & Politics, 2=Money & World, 3=Culture, laugh=satire box (DISABLED Oct 31 2026 at Randall's request: all laugh feeds have enabled=false and build.py no longer shows satire; always labeled SATIRE; rotates across outlets: newest story from each satire outlet, at most 1 per outlet, outlet order reshuffled every hour, laugh_count shown; laugh_skip_words drops crude headlines). lead=true means stories from this feed may become the lead. max_age_hours drops stale items. per_column_culture: regular stories in the Culture column (default per_column). show_satire=false hides all satire everywhere. Set enabled=false to switch a feed off without deleting it. lead_hold_hours: how long an auto-picked lead stays up before rotating; avoid_repeat_leads: how many past leads are barred from returning. breaking_*: rules for red (breaking) headlines (see README). breaking_skip_sources: opinion/analysis outlets that never turn red and don't count as coverage. outlet_groups: web domain -> parent company, so sister outlets count as one outlet for red. opinion=true marks an opinion-only feed: its stories never turn red automatically (see README). Photos: column_photos = how many photos go in the columns (0 = none); photo_min_width / lead_photo_min_width skip small images; photo_search_depth = how far down each column to look for a story with a photo; photo_timeout_seconds = page/image fetch timeout. lifestyle_sections: small labeled lists under the Culture column (health, faith); a feed joins one with \"lifestyle\": \"health\"; these stories never lead, never turn red and don't count as coverage; max = stories shown, max_per_source = per outlet. Per-feed options: max_per_column (tighter per-source cap), skip_if_url_contains, skip_if_title_starts_with, skip_if_title_matches (regex; drop matching headlines), skip_categories, title_must_match (regex), strip_title_suffix, user_agent, accept, fallback_url / fallback_allowed_sources (used if the primary feed fails), guarantee_slot (lifestyle: reserve a section slot when this feed has a fresh story). Section options: guarantee (list of feed names with a reserved slot), skip_if_title_matches.",
   "settings": {
     "per_column": 11,
     "per_column_culture": 14,
@@ -292,7 +292,12 @@
       "url": "https://www.washingtontimes.com/rss/headlines/news/world/",
       "column": 2,
       "max_per_column": 2,
-      "_note": "World news. Not a lead source. Capped at 2."
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "accept": "application/rss+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.7",
+      "fallback_url": "https://news.google.com/rss/search?q=site:washingtontimes.com+world+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "fallback_allowed_sources": ["Washington Times", "The Washington Times"],
+      "strip_title_suffix": " - Washington Times",
+      "_note": "World news. Not a lead source. Capped at 2. Browser UA/Accept because GitHub Actions IPs often get 403 on the official RSS; Google News site:washingtontimes.com world is the fallback, limited to that publisher."
     },
     {
       "name": "UnHerd",
@@ -316,7 +321,12 @@
       "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",
       "column": 1,
       "max_per_column": 2,
-      "_note": "Nation/politics. Not a lead source. Capped at 2."
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "accept": "application/rss+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.7",
+      "fallback_url": "https://news.google.com/rss/search?q=site:washingtontimes.com+politics+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "fallback_allowed_sources": ["Washington Times", "The Washington Times"],
+      "strip_title_suffix": " - Washington Times",
+      "_note": "Nation/politics. Not a lead source. Capped at 2. Browser UA/Accept because GitHub Actions IPs often get 403 on the official RSS; Google News site:washingtontimes.com politics is the fallback, limited to that publisher."
     },
     {
       "name": "The Daily Signal",
@@ -668,7 +678,8 @@
       "lifestyle": "faith",
       "max_age_hours": 72,
       "max_per_source": 1,
-      "_note": "Mainstream Christian news. One story per build."
+      "title_must_match": "church(es)?|christian|christianity|christendom|\\bfaith\\b|religious|religion|pastor|preacher|gospel|\\bbible\\b|biblical|\\bprayer\\b|\\bpray(ing|ed|s)?\\b|ministr(y|ies)|missionar|persecut|worship|believer|congregation|sermon|theolog|evangelic|evangelis|seminary|sabbath|vatican|\\bpope\\b|pontiff|archbishop|\\bbishop\\b|\\bcardinal\\b|\\bpriest|\\bclergy|diocese|parish|scripture|\\bjesus\\b|\\bchrist\\b|\\badventist|catholic|protestant|\\borthodox\\b|baptist|presbyterian|lutheran|methodist|anglican|pentecostal|synagogue|mosque|\\bjewish\\b|\\bmuslim\\b|\\bislam|hindu|buddhist|freedom of (religion|conscience|worship)|church and state|free exercise|conscience|denomination|chaplain|\\bhymn|sovereign grace|islamist",
+      "_note": "Faith-relevant headlines only (title filter). If none are fresh, other faith sources such as Christianity Today fill the slot. One story per build."
     },
     {
       "name": "Babylon Bee",

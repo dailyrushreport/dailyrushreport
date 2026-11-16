@@ -242,28 +242,57 @@ def fetch_youtube_videos(channel_id, feed, settings):
         raw = gzip.decompress(raw)
     return parse_youtube_channel_page(raw.decode("utf-8", "replace"), feed)
 
+def feed_request_headers(feed, settings):
+    """Per-feed User-Agent / Accept, with browser-like Accept-Language when a Mozilla UA is set.
+    Some hosts (Washington Times, SCOTUSblog) 403 or stall on the default bot UA from GitHub Actions."""
+    ua = feed.get("user_agent") or settings["user_agent"]
+    headers = {"User-Agent": ua,
+               "Accept": feed.get("accept") or "application/rss+xml, application/xml, text/xml, */*"}
+    if "Mozilla/" in ua:
+        headers["Accept-Language"] = "en-US,en;q=0.9"
+        if not feed.get("accept"):
+            headers["Accept"] = ("application/rss+xml, application/xml, text/xml, "
+                                 "text/html;q=0.8, */*;q=0.7")
+    return headers
+
+def fetch_feed_url(url, feed, settings):
+    req = urllib.request.Request(url, headers=feed_request_headers(feed, settings))
+    raw = urllib.request.urlopen(req, timeout=settings.get("timeout_seconds", 10)).read()
+    if raw[:2] == b"\x1f\x8b":                  # some servers gzip the feed even when not asked
+        raw = gzip.decompress(raw)
+    items = parse_feed(raw, feed)
+    if not items:
+        raise ValueError("no items")
+    return items
+
+def apply_date_only(items, cache, feed):
+    # feed gives a date but no time (Just the News): a story we haven't seen before gets the time we
+    # first saw it, so new stories sort as new; ones already cached keep their earlier time. On the
+    # very first fetch (no cache) everything keeps the bare date, so the backlog doesn't look fresh.
+    if not feed.get("date_only"):
+        return items
+    prev = load_json(cache, None)
+    if prev:
+        seen_at = {i["url"]: i["published"] for i in prev.get("items", [])}
+        for i in items:
+            i["published"] = seen_at.get(i["url"]) or max(i["published"], NOW.isoformat())
+    return items
+
+def filter_fallback_sources(items, feed):
+    allow = {a.lower() for a in feed.get("fallback_allowed_sources") or []}
+    if not allow:
+        return items
+    items = [i for i in items if (i.get("pub") or "").lower() in allow]
+    if not items:
+        raise ValueError("no fallback items from allowed sources")
+    return items
+
 def fetch_feed(feed, settings, offline=False):
     key = hashlib.sha1(feed["url"].encode()).hexdigest()[:16]
     cache = os.path.join(CACHE_DIR, key + ".json")
     if not offline:
         try:
-            req = urllib.request.Request(feed["url"], headers={"User-Agent": feed.get("user_agent") or settings["user_agent"],
-                                                       "Accept": "application/rss+xml, application/xml, text/xml, */*"})
-            raw = urllib.request.urlopen(req, timeout=settings.get("timeout_seconds", 10)).read()
-            if raw[:2] == b"\x1f\x8b":                  # some servers gzip the feed even when not asked
-                raw = gzip.decompress(raw)
-            items = parse_feed(raw, feed)
-            if not items:
-                raise ValueError("no items")
-            if feed.get("date_only"):
-                # feed gives a date but no time (Just the News): a story we haven't seen before gets the time we
-                # first saw it, so new stories sort as new; ones already cached keep their earlier time. On the
-                # very first fetch (no cache) everything keeps the bare date, so the backlog doesn't look fresh.
-                prev = load_json(cache, None)
-                if prev:
-                    seen_at = {i["url"]: i["published"] for i in prev.get("items", [])}
-                    for i in items:
-                        i["published"] = seen_at.get(i["url"]) or max(i["published"], NOW.isoformat())
+            items = apply_date_only(fetch_feed_url(feed["url"], feed, settings), cache, feed)
             atomic_write(cache, json.dumps({"fetched": NOW.isoformat(), "items": items}))
             return feed["name"], "ok", items
         except Exception as e:
@@ -283,6 +312,15 @@ def fetch_feed(feed, settings, offline=False):
                     return feed["name"], "ok (youtube page)", items
                 except Exception as e2:
                     err = f"{err}; youtube page {type(e2).__name__}: {str(e2)[:80]}"
+            # Optional fallback (e.g. Google News site:washingtontimes.com when the official RSS 403s)
+            if feed.get("fallback_url"):
+                try:
+                    items = filter_fallback_sources(fetch_feed_url(feed["fallback_url"], feed, settings), feed)
+                    items = apply_date_only(items, cache, feed)
+                    atomic_write(cache, json.dumps({"fetched": NOW.isoformat(), "items": items}))
+                    return feed["name"], "ok (fallback)", items
+                except Exception as e3:
+                    err = f"{err}; fallback {type(e3).__name__}: {str(e3)[:80]}"
     else:
         err = "offline"
     c = load_json(cache, None)
