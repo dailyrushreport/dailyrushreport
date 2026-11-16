@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
   "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
   "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
-  "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+  "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-  "since": "2026-11-16T18:40:52.682826+00:00"
+  "url": "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
+  "since": "2026-11-16T19:45:47.132517+00:00"
  },
- "last_build": "2026-11-16T18:40:52.682826+00:00",
+ "last_build": "2026-11-16T19:45:47.132517+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/policy/technology/6173153-claude-reportedly-bypassed-paywall-to-access-georgia-voter-data/",
   "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
@@ -291,6 +290,7 @@
   "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
   "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
   "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
-  "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+  "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker"
  ]
 }
