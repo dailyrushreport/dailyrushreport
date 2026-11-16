@@ -152,6 +152,93 @@ def parse_feed(raw, feed):
                     "cats": [clean_text(c) for c in cats if clean_text(c) and len(c) < 80][:20]})
     return out
 
+
+# YouTube's official channel Atom feed (feeds/videos.xml?channel_id=) started returning 404 in mid-Nov 2026
+# from both this box and GitHub Actions. The public /videos tab still works; we parse ytInitialData there
+# (full videos only — Shorts live on a separate tab) when the Atom feed fails.
+YT_CHANNEL_ID = re.compile(r"youtube\.com/feeds/videos\.xml\?channel_id=(UC[\w-]+)", re.I)
+YT_INITIAL = re.compile(r"var ytInitialData = ({.*?});\s*</script>", re.S)
+YT_RELATIVE = re.compile(r"(\d+)\s*(second|minute|hour|day|week|month|year)s?\s+ago", re.I)
+
+def youtube_channel_id(url):
+    m = YT_CHANNEL_ID.search(url or "")
+    return m.group(1) if m else ""
+
+def parse_relative_age(s, now=None):
+    """Turn YouTube labels like '6 days ago' or 'Streamed 2 weeks ago' into a UTC datetime."""
+    now = now or NOW
+    s = (s or "").strip().lower()
+    if not s:
+        return None
+    if s in ("just now", "today") or s.endswith("just now"):
+        return now
+    s = re.sub(r"^(streamed|premiered|published)\s+", "", s)
+    m = YT_RELATIVE.search(s)
+    if not m:
+        return None
+    n, unit = int(m.group(1)), m.group(2).lower()
+    days = {"second": n / 86400, "minute": n / 1440, "hour": n / 24,
+            "day": float(n), "week": n * 7, "month": n * 30, "year": n * 365}[unit]
+    return now - timedelta(days=days)
+
+def parse_youtube_channel_page(html, feed):
+    m = YT_INITIAL.search(html or "")
+    if not m:
+        raise ValueError("no ytInitialData")
+    data = json.loads(m.group(1))
+    lockups, seen = [], set()
+    def walk(o):
+        if isinstance(o, dict):
+            v = o.get("lockupViewModel")
+            if v and v.get("contentType") == "LOCKUP_CONTENT_TYPE_VIDEO" and v.get("contentId"):
+                vid = v["contentId"]
+                if vid not in seen:
+                    seen.add(vid)
+                    lockups.append(v)
+            for x in o.values():
+                walk(x)
+        elif isinstance(o, list):
+            for x in o:
+                walk(x)
+    walk(data)
+    out = []
+    for v in lockups:
+        vid = v["contentId"]
+        meta = (v.get("metadata") or {}).get("lockupMetadataViewModel") or {}
+        title = clean_text(((meta.get("title") or {}).get("content") or ""))
+        if not title:
+            continue
+        label = ""
+        rows = ((meta.get("metadata") or {}).get("contentMetadataViewModel") or {}).get("metadataRows") or []
+        for row in rows:
+            for part in row.get("metadataParts") or []:
+                lab = part.get("accessibilityLabel") or ((part.get("text") or {}).get("content") or "")
+                if re.search(r"ago|just now", lab, re.I):
+                    label = lab
+        pub = parse_relative_age(label) or NOW
+        rec = {"title": title, "url": canonical_url(f"https://www.youtube.com/watch?v={vid}"),
+               "source": feed["name"], "published": pub.isoformat(),
+               "column": feed.get("column", 1), "lead_ok": bool(feed.get("lead")), "cats": []}
+        try:
+            srcs = v["contentImage"]["thumbnailViewModel"]["image"]["sources"]
+            best = max((s for s in srcs if s.get("url")), key=lambda s: s.get("width") or 0)
+            rec["image"] = {"img": best["url"], "w": best.get("width") or 0, "h": best.get("height") or 0}
+        except (KeyError, ValueError, TypeError):
+            pass
+        out.append(rec)
+    if not out:
+        raise ValueError("no videos on channel page")
+    return out
+
+def fetch_youtube_videos(channel_id, feed, settings):
+    url = f"https://www.youtube.com/channel/{channel_id}/videos"
+    req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA, "Accept-Language": "en-US,en;q=0.9",
+                                               "Accept": "text/html"})
+    raw = urllib.request.urlopen(req, timeout=max(15, settings.get("timeout_seconds", 10))).read()
+    if raw[:2] == b"\x1f\x8b":
+        raw = gzip.decompress(raw)
+    return parse_youtube_channel_page(raw.decode("utf-8", "replace"), feed)
+
 def fetch_feed(feed, settings, offline=False):
     key = hashlib.sha1(feed["url"].encode()).hexdigest()[:16]
     cache = os.path.join(CACHE_DIR, key + ".json")
@@ -178,6 +265,21 @@ def fetch_feed(feed, settings, offline=False):
             return feed["name"], "ok", items
         except Exception as e:
             err = f"{type(e).__name__}: {str(e)[:80]}"
+            # Official YouTube Atom feeds currently 404; try the public /videos tab before cache
+            yt = youtube_channel_id(feed.get("url", ""))
+            if yt:
+                try:
+                    items = fetch_youtube_videos(yt, feed, settings)
+                    prev = load_json(cache, None)
+                    if prev:
+                        seen_at = {i["url"]: i["published"] for i in prev.get("items", [])}
+                        for i in items:
+                            if i["url"] in seen_at:
+                                i["published"] = seen_at[i["url"]]
+                    atomic_write(cache, json.dumps({"fetched": NOW.isoformat(), "items": items}))
+                    return feed["name"], "ok (youtube page)", items
+                except Exception as e2:
+                    err = f"{err}; youtube page {type(e2).__name__}: {str(e2)[:80]}"
     else:
         err = "offline"
     c = load_json(cache, None)
@@ -662,13 +764,58 @@ def assign_photos(lead, cols, S, picks, all_items):
     atomic_write(IMG_CACHE, json.dumps(cache, indent=0))
     return [x for x in [lead] + cols.get(1, []) + cols.get(2, []) + cols.get(3, []) if x.get("photo")]
 
+def pick_lifestyle(items, conf, life_cap, default_per, guarantee_extra=()):
+    """Fill a lifestyle section: newest first, capped per source (life_cap or conf.max_per_source).
+    conf['guarantee'] (feed names) plus guarantee_extra reserve a slot each when that source
+    has a fresh item; the list never exceeds conf['max']. conf['skip_if_title_matches'] drops
+    matching headlines for the whole section. Selected stories are returned newest first."""
+    items = sorted(items, key=lambda r: r["published"], reverse=True)
+    deny = re.compile(conf["skip_if_title_matches"], re.I) if conf.get("skip_if_title_matches") else None
+    if deny:
+        items = [r for r in items if not deny.search(r.get("display") or r["title"])]
+    max_n = conf.get("max", 2)
+    guarantee, seen_g = [], set()
+    for name in list(conf.get("guarantee") or []) + list(guarantee_extra or []):
+        if name and name not in seen_g:
+            guarantee.append(name); seen_g.add(name)
+    n_src, picked, seen = {}, [], set()
+
+    def key_of(r):
+        return r.get("cap_key", r["source"])
+
+    def can_take(r):
+        k = key_of(r)
+        per = life_cap.get(k, conf.get("max_per_source", default_per))
+        return n_src.get(k, 0) < per and r["url"] not in seen
+
+    def take(r):
+        k = key_of(r)
+        n_src[k] = n_src.get(k, 0) + 1
+        seen.add(r["url"])
+        picked.append(r)
+
+    got = set()
+    for r in items:
+        name = key_of(r)
+        if name in guarantee and name not in got and can_take(r) and len(picked) < max_n:
+            take(r); got.add(name)
+    for r in items:
+        if len(picked) >= max_n:
+            break
+        if can_take(r):
+            take(r)
+    picked.sort(key=lambda r: r["published"], reverse=True)
+    return picked
+
 def feed_filter(f, items):
     """Per-feed options (all optional, see README "Lifestyle sections"):
     skip_if_url_contains / skip_if_title_starts_with / skip_categories: drop matching items from this feed only;
+    skip_if_title_matches: regex, drop matching headlines (e.g. vegan/plant-based items on a health feed);
     title_must_match: regex, keep only matching headlines (e.g. religious-liberty stories from a church news feed);
     strip_title_suffix: text removed from the end of headlines (Google News adds " - Publisher");
     strip_title_regex: regex removed from headlines (e.g. podcast episode numbers "201. ");
     max_per_source: (lifestyle feeds) per-feed cap in its lifestyle list, overriding the section's max_per_source;
+    guarantee_slot: (lifestyle feeds) reserve one section slot when this feed has a fresh qualifying story;
     allowed_sources: list of publisher names (Google News <source>); items from any other publisher are dropped;
     use_item_source: show the real publisher (Google News <source>) instead of the feed name, and strip its
       " - Publisher" title suffix; the feed name is still used for lifestyle per-source caps;
@@ -677,6 +824,7 @@ def feed_filter(f, items):
     starts = [p.lower() for p in f.get("skip_if_title_starts_with", [])]
     cats = {c.lower() for c in f.get("skip_categories", [])}
     must = re.compile(f["title_must_match"], re.I) if f.get("title_must_match") else None
+    deny = re.compile(f["skip_if_title_matches"], re.I) if f.get("skip_if_title_matches") else None
     suf = f.get("strip_title_suffix")
     rx = re.compile(f["strip_title_regex"]) if f.get("strip_title_regex") else None
     allow = {a.lower() for a in f.get("allowed_sources", [])}
@@ -695,7 +843,8 @@ def feed_filter(f, items):
         if rx:
             i["title"] = rx.sub("", i["title"]).strip()
         if (any(p in i["url"].lower() for p in urls) or any(i["title"].lower().startswith(p) for p in starts)
-                or cats & {c.lower() for c in i.get("cats") or []} or (must and not must.search(i["title"]))):
+                or cats & {c.lower() for c in i.get("cats") or []} or (must and not must.search(i["title"]))
+                or (deny and deny.search(i["title"]))):
             continue
         if f.get("lifestyle"):
             i["lifestyle"] = f["lifestyle"]
@@ -846,14 +995,10 @@ def build(args):
     # first, at most max_per_source_per_column per outlet. They never lead or turn red (treated as opinion).
     life_cap = {f["name"]: f["max_per_source"] for f in feeds if f.get("lifestyle") and "max_per_source" in f}
     for g, conf in (S.get("lifestyle_sections") or {}).items():
-        key, lst, n_src = "life:" + g, [], {}
-        for r in sorted((r for r in reps if r.get("lifestyle") == g), key=lambda r: r["published"], reverse=True):
-            if len(lst) >= conf.get("max", 2): break
-            k = r.get("cap_key", r["source"])
-            per = life_cap.get(k, conf.get("max_per_source", S["max_per_source_per_column"]))
-            if n_src.get(k, 0) >= per: continue
-            n_src[k] = n_src.get(k, 0) + 1
-            lst.append(r)
+        key = "life:" + g
+        extra = [f["name"] for f in feeds if f.get("lifestyle") == g and f.get("guarantee_slot")]
+        lst = pick_lifestyle([r for r in reps if r.get("lifestyle") == g], conf, life_cap,
+                             S["max_per_source_per_column"], extra)
         cols[key] = cols.get(key, []) + lst          # editor pins with column "life:<name>" go first
     # ---- For Laughs: rotate across satire outlets so no single one dominates. Take each outlet's newest
     # story (skipping crude headlines), at most 1 per outlet, and shuffle the outlet order with a seed that
@@ -954,7 +1099,14 @@ HOMES = {"Fox News": "https://www.foxnews.com/", "Newsmax": "https://www.newsmax
          "Fox News Health": "https://www.foxnews.com/health", "Peter Attia MD": "https://peterattiamd.com/",
          "Zoe Harcombe": "https://www.zoeharcombe.com/",
          "Dr. Ken Berry": "https://www.youtube.com/@KenDBerryMD", "Keto Carnivore (Dr. Kiltz)": "https://www.doctorkiltz.com/",
-         "MAHA / HHS": "https://www.hhs.gov/about/news/index.html", "Religion News Service": "https://religionnews.com/",
+         "MAHA / HHS": "https://www.hhs.gov/about/news/index.html",
+         "Eric Westman / Adapt Your Life": "https://www.youtube.com/@AdaptYourLife",
+         "Ben Bikman": "https://www.youtube.com/@benbikman",
+         "Gary Taubes": "https://uncertaintyprinciples.substack.com/",
+         "Jason Fung": "https://www.youtube.com/@DrJasonFung",
+         "Chris Kresser": "https://chriskresser.com/",
+         "Low Carb Down Under": "https://www.youtube.com/@lowcarbdownunder",
+         "Religion News Service": "https://religionnews.com/",
          "Adventist News Network": "https://adventist.news/", "Liberty Magazine": "https://www.libertymagazine.org/",
          "Babylon Bee": "https://babylonbee.com/", "The Onion": "https://theonion.com/",
          "Reductress": "https://reductress.com/", "The Hard Times": "https://thehardtimes.net/",

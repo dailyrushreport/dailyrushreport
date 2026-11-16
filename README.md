@@ -155,10 +155,13 @@ Set `"enabled": false` to switch one off. Run `python3 build.py` and check the f
 
 Small labeled lists at the bottom of the Culture column, above For Laughs. A feed joins one with
 `"lifestyle": "health"` (or `"faith"`) in `feeds.json`; `settings.lifestyle_sections` sets the heading, how many
-stories show (`max`) and how many per outlet (`max_per_source`). Lifestyle stories are treated like opinion: they
+stories show (`max`) and how many per outlet (`max_per_source`). A section may also set `guarantee` (feed names
+that each get a reserved slot when they have a fresh story, still within `max`) and `skip_if_title_matches`
+(regex; drop matching headlines for the whole section). Lifestyle stories are treated like opinion: they
 never become the lead or a sub-lead, never turn red and never count as coverage for red. They don't take slots from
 the regular Culture headlines.
 
 Per-feed options (any feed): `max_per_column` (tighter than `max_per_source_per_column`), `skip_if_url_contains`,
-`skip_if_title_starts_with`, `skip_categories`, `title_must_match` (regex; keep only matching headlines) and
-`strip_title_suffix` (e.g. Google News' " - Publisher").
+`skip_if_title_starts_with`, `skip_if_title_matches` (regex; drop matching headlines), `skip_categories`,
+`title_must_match` (regex; keep only matching headlines), `strip_title_suffix` (e.g. Google News' " - Publisher")
+and, for lifestyle feeds, `guarantee_slot` (reserve a section slot when this feed has a fresh story).
