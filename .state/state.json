@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/",
   "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
   "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker"
+  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
+  "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
-  "since": "2026-11-16T19:45:47.132517+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
+  "since": "2026-11-16T22:35:37.629939+00:00"
  },
- "last_build": "2026-11-16T21:37:42.534477+00:00",
+ "last_build": "2026-11-16T22:35:37.629939+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -49,7 +49,7 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "ok (fallback)",
+  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-16T21:37Z",
   "Fox News World": "ok",
   "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-16T21:37Z",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.breitbart.com/politics/2026/10/26/ex-fbi-director-james-comey-charged-with-federal-crimes-in-new-case/",
   "https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/",
   "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
   "https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/",
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker"
+  "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
+  "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/"
  ]
 }
