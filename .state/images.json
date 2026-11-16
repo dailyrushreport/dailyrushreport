@@ -1,180 +1,4 @@
 {
-"https://www.washingtonexaminer.com/news/supreme-court/4803086/supreme-court-takes-up-challenge-trump-southern-border-asylum-ban/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP24213458936020.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.washingtonexaminer.com/news/justice/4803505/ex-cia-chief-son-kyle-brennan-charged-transportation-child-pornography/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2025/10/john-brennan-lied-to-congress.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2024/03/garciarobert_032024gn01_w.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.nationalreview.com/article/the-selective-persecution-of-nathan-cofnas": {
-"v": 2,
-"photo": {
-"img": "https://cdn.sanity.io/images/yu68q2re/production/03a0dae129ecad350625544348ac8dd6be5e33cb-2057x1200.jpg?w=600",
-"w": 600,
-"h": 350,
-"credit": "Toby Shepheard/Reuters, The Winston Marshall Show/YouTube",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.jpost.com/middle-east/article-914836": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742131",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/ozmehmet_101426gn01_w.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck1exevgql4qo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
-"w": 1000,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/LKwT9rtgrw3Tfz4zpeWdcg-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/63fc/live/fe60f040-dfb0-11f1-be1f-9dae57fabf82.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://nypost.com/2026/11/13/business/jensen-huang-commemorative-plaque-gone-from-famed-dennys-where-he-founded-nvidia-report/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148672099.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/faa-launched-new-ai-smart-tool-to-all-air-route-traffic-control-centers-just-days-before-nationwide-ground-stop/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-gjemvciq9-1794609771806.jpg?quality%3D90%26strip%3Dall%261794591813",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/ny-education-boss-demands-state-fork-over-massive-funding-increase-to-replace-regents/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-knkrqwkhr-1794611069326.jpg?quality%3D90%26strip%3Dall%261794593098",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://nypost.com/2026/11/13/us-news/mamdani-to-announce-rebrand-of-controversial-nypd-protest-response-unit-after-lefty-attacks/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnypd-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
-"https://www.theverge.com/news/1033489/faa-ground-stop": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0%2C10.735397013053%2C100%2C78.529205973894&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T23:28:21.701473+00:00"
-},
 "https://justthenews.com/government/congress/van-hollen-believes-democrats-should-abolish-senate-filibuster-rules-out-2028": {
 "v": 2,
 "photo": null,
@@ -8543,5 +8367,163 @@
 "via": "feed"
 },
 "checked": "2026-11-16T22:35:37.629939+00:00"
+},
+"https://www.foxnews.com/outkick-sports/ring-honor-star-deonna-purrazzo-talks-possibility-taking-part-aew-blood-guts-match": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deonna-purrazzo-aew-collision-youngstown.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.dailysignal.com/2026/11/16/hanson-nvidias-wrongdoing-china-ai-crown/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/261116-Jensen_Huang.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.washingtonexaminer.com/policy/infrastructure/4805404/united-airlines-widespread-system-outage/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP22188741518956.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.thefp.com/p/can-mold-make-you-kill": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!fcsV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93eab577-459a-416e-860e-345f74b4aec8_699x1024.jpeg",
+"w": 699,
+"h": 1024,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-915105": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746556",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://reason.com/volokh/2026/11/16/justices-thomas-and-alito-on-state-requirements-that-continuing-professional-education-discuss-certain-topics/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://news.google.com/rss/articles/CBMingFBVV95cUxQWGc1ZkZTVzE1bTZkOUdGZHNfVFo1dFRBeDUtSTJUYUEyUlZXcjhNVVFOVE1EWkNxX3I2bVplRVplbVllRG44Vy12QmhyZG5JYmdpbU02dkk0TkhnZWhsczYtQnI2SkNqY2l6b0JyelFKclQtazROVW1saGZNb2YzVmJodkhBeTV4a3Y3aTVQeS1TY2tCTm1UOVRjU0hLZw?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Foundation Future Industries",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Data-Breach-Photo-2.jpg?ve=1&tl=1",
+"w": 931,
+"h": 524,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/256807.jpg?imageId=256807&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.thecentersquare.com/washington/article_ef28b9b3-ab3a-4302-b6b8-e600f26a7a7a.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/c/aa/caa5a821-5d7b-43bf-b21d-88de55454476/6ae3a67f48a91.image.jpg?crop=1754%2C921%2C7%2C220&resize=1200%2C630&order=crop%2Cresize",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://nypost.com/2026/11/16/us-news/historic-super-el-nino-could-bring-massive-snow-to-california-ski-resorts/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149002717.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0%2C10.758424536606%2C100%2C78.483150926788&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
+},
+"https://www.outdoorlife.com/hunting/cw-shelton-buck-kentucky-giant/": {
+"v": 2,
+"photo": {
+"img": "https://www.outdoorlife.com/wp-content/uploads/2026/11/C.W.-Shelton-buck-outdoor-life.jpg?quality=85",
+"w": 1858,
+"h": 1089,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T23:30:12.236598+00:00"
 }
 }
