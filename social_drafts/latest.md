@@ -1,25 +1,25 @@
-# Social drafts — Mon Nov 16, 2026 10:30 AM CT
+# Social drafts — Mon Nov 16, 2026 12:40 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-16-1030.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-16-1240.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/  
-Pinned by editor: no · BREAKING: no
+Lead: Robert Pattinson cast as next James Bond  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 131/280 chars (X counting)
 
 ```
-Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies. (Washington Examiner) https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/
+Robert Pattinson cast as next James Bond. (CNBC) https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Trump stands by Duffy and Lutnick after FAA ground stop and Nvidia controversies. Story via Washington Examiner. Link in bio.
+Robert Pattinson cast as next James Bond. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

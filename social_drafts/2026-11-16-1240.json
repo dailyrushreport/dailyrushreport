@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-16-1240.json",
+  "created": "2026-11-16T18:40:52.682826+00:00",
+  "created_ct": "Mon Nov 16, 2026 12:40 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Robert Pattinson cast as next James Bond",
+    "original_headline": "Robert Pattinson cast as next James Bond",
+    "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Robert Pattinson cast as next James Bond. (CNBC) https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 131,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Robert Pattinson cast as next James Bond. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
