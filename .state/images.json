@@ -8888,5 +8888,32 @@
 "via": "feed"
 },
 "checked": "2026-11-16T05:17:01.927627+00:00"
+},
+"https://www.foxnews.com/outkick-sports/aaron-rodgers-steelers-tank-primetime-cincinnati-bengals-roll-38-18-scorigami-win": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aaron-rodgers-steelers-bengals-snf.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T05:24:25.559107+00:00"
+},
+"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3p4eVRGZDIxQzhoMXZuajFNeHBIZ2NLSWx4ekplTXdwaDFLR0J1b1ByNEJYWUMyXzdMazZGQTRDa1p3eHFyWmU1VWFuLVdLdy1kczFfSENjdDNqWlI5ZTJfMjA5ZUhpWlFQLTZfRFNDbE1xZVdudjAwWTZQa0NZeTM2R0kyWmUwWUVxRUJNcjY?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T05:24:25.559107+00:00"
+},
+"https://nypost.com/2026/11/16/sports/rangers-make-trade-for-a-new-goalie-after-telling-igor-shesterkin-move/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41890240.jpg?quality%3D90%26strip%3Dall",
+"w": 4000,
+"h": 2666,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T05:24:25.559107+00:00"
 }
 }
