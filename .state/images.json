@@ -1,303 +1,4 @@
 {
-"https://www.foxnews.com/health/healthy-runner-suffers-sudden-stroke-27-doctors-discover-possible-cause": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/patrick-mascoli-hospital-race-split.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108550869-1794563986420-gettyimages-2301238404-1r5_0547_cjwarw7l.jpeg?v=1794564005&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/107192503-1676021483338-gettyimages-1238944101-20090101220305-99-397367.jpeg?v=1693962475&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914762": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746170",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.washingtonexaminer.com/premium/4800486/huge-gop-eleciton-losses-spur-debate-populist-economics/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/BizCover.111826.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Eric Bangeman/Ars Technica",
-"via": "feed"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
-"w": 1152,
-"h": 648,
-"credit": "Rocket Lab",
-"via": "feed"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a650/live/bd0ec7c0-df56-11f1-93e1-3b657b665bcf.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://nypost.com/2026/11/13/sports/the-possible-candidates-to-replace-mauricio-pochettino-as-next-usmnt-coach/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-cttk9amca-1794548854161.jpg?quality%3D90%26strip%3Dall%261794530884",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T12:16:42.407767+00:00"
-},
-"https://justthenews.com/government/federal-agencies/ice-recorded-most-arrests-and-deportations-its-history-2026-under-trump": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://justthenews.com/nation/crime/fbi-says-12-billion-stolen-binance-north-korea-has-been-recovered": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.jpost.com/israel-news/article-914816": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745475",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-914817": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746225",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://justthenews.com/nation/technology/microsoft-continues-struggle-restore-services-outage-moves-second-day": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.washingtonexaminer.com/policy/technology/4802492/microsoft-no-evidence-malicious-activity-outage-outlook/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26316685909733.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlocks-up-1500-first-bet-cover-your-first-bet-tonights-nba-cup": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/524/steph-curry2.jpg?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1794576429&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548603-1794349961058-gettyimages-2304504735-anotherday36810201_9ykwsppz.jpeg?v=1794350087&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261112025531.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/future-virus-vaccine-technology.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261111221811.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/lava-fountain-2021-tajogaite-eruption.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-2560-80.jpg",
-"w": 2560,
-"h": 1440,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cr86895201y9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/79f9/live/e23095e0-df62-11f1-a8af-15d7a25dc0d1.png",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c51k9709krxvo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2c95/live/03b1c600-df61-11f1-b441-2b33b063138f.png",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
-"https://nypost.com/2026/11/13/sports/al-michaels-choked-up-remembering-dan-hicks-on-tnf/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148620251-1.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-13T13:37:18.158573+00:00"
-},
 "https://www.foxnews.com/outkick-culture/ella-langley-releases-new-song-here-then-were-gone-hunger-games-sunrise-reaping": {
 "v": 2,
 "photo": {
@@ -8746,5 +8447,229 @@
 "via": "feed"
 },
 "checked": "2026-11-16T11:41:44.745157+00:00"
+},
+"https://justthenews.com/politics-policy/mamdani-disbands-nypds-anti-terror-unit": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.dailysignal.com/2026/11/16/apples-patent-losses-explain-big-techs-lobbying-blitz/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/261116_Apple.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.scotusblog.com/2026/11/im-afraid-this-is-going-to-continue-justice-alito-the-executive-and-the-emergency-docket/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.sanity.io/images/pito4za5/production/0f828e99fd126f3b86c792dc6fd0de4c8bf8443c-1024x683.jpg?w=1200&fit=max",
+"w": 1024,
+"h": 683,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.foxnews.com/world/spain-canary-islands-flooded-thousands-migrants-country-declares-emergency": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/spain-migrant-recovery.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://reason.com/2026/11/16/why-the-faa-keeps-failing/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Airportshutdown-Nov-26-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Chris Beckett/ZUMAPRESS/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://thehill.com/homenews/media/6222268-willie-geist-leaving-morning-joe/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26014000141731-e1794839464199.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-915065": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/553057",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.washingtontimes.com/news/2026/nov/16/ai-cheating-fears-spook-south-korea-college-entrance-exam-later-week/": {
+"v": 2,
+"photo": {
+"img": "https://twt-thumbs.washtimes.com/media/image/2026/11/16/South_Korea_Exam_Cheating__721_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+"w": 1440,
+"h": 960,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "SAM YEH/AFP via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Mercedes-Benz",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0xsMkthVkFFeGUtYTFxMWRYUUhNQVhBX1ZBa3JScVlzTFRNOVhjeUtWZGx6RzluX3ZYbnpzcUtlN3NhVU5ubHFYcDVQcnhYRGJ5c3JaOGpESDNGbVlzWkJhZElKUmJYaXRaWTBscXZILTNXNkNZX2dHTVpzbzNJM0xTN1ZBNFFFbUtSUlpQTTMtbnVURXNlcWZudTlZTXFiUWV4dzN3?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-bond-borrowing-spree-defies-emerging-market-slump": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108335933-1784206426827-gettyimages-2285710440-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/LQpMwEUC2feMnV8gLrQjXU-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261115085542.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/nasa-moon-base-with-astronauts-habitats-rrovers-power-systems.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.thecentersquare.com/michigan/article_e36a088d-c232-4668-a6c1-83f5b2f8bf49.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/a/3c/a3c93798-7bc4-4d4f-892e-eafab72fadeb/6af625731d6f2.image.jpg?crop=1200%2C630%2C0%2C22",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.bbc.co.uk/sport/sailing/articles/cwg5r2q5dz3zo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8c18/live/ec959930-e1c5-11f1-8a52-0b287ff76f43.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://spectrum.ieee.org/telesurgery-stroke": {
+"v": 2,
+"photo": {
+"img": "https://spectrum.ieee.org/media-library/image.jpg?id=68667045&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+"w": 1200,
+"h": 600,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://www.outdoorlife.com/hunting/old-school-whitetail-deer-hunting-in-the-cold/": {
+"v": 2,
+"photo": {
+"img": "https://www.outdoorlife.com/wp-content/uploads/2022/08/15/minnesota_buck-scaled.jpg?quality=85&w=2048",
+"w": 2048,
+"h": 1365,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
+},
+"https://nypost.com/2026/11/16/sports/steelers-sick-to-our-stomach-after-mason-mccormick-carted-off-field-in-devastating-injury/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-i3a8cc09a-1794838363270.jpg?quality%3D90%26strip%3Dall%261794820413",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-16T14:40:40.090945+00:00"
 }
 }
