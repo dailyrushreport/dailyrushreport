@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-17-0845.json",
+  "created": "2026-11-17T14:45:51.762841+00:00",
+  "created_ct": "Tue Nov 17, 2026 8:45 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop",
+    "original_headline": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop",
+    "url": "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop. (Fox News) https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 170,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,113 +1,4 @@
 {
-"https://justthenews.com/nation/technology/workday-outage-leaves-employees-unable-access-payroll-and-workplace-accounts": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jellyfish-ufo.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/donald-trump-2.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.jpost.com/middle-east/iran-news/article-914862": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745698",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108260302-1770056020760-gettyimages-2208880941-_dsc0378.jpeg?v=1787685894&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1787074849&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.washingtonexaminer.com/news/4779178/december-supplemental-security-direct-payment-up-to-994-goes-out-in-17-days/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/ssa-office.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/fd3cab3eb7b2ce66614e6f1cb34d1a8ad00a14b4/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=d585fbffc441ac99cab64c89a93ca771",
-"w": 700,
-"h": 560,
-"credit": "Illustration: Guardian Design/Photos courtesy of Snapshot USA",
-"via": "feed"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
-"https://nypost.com/2026/11/14/world-news/president-trump-tells-top-aides-he-may-hold-off-on-striking-iran/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148732529.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T14:10:01.827236+00:00"
-},
 "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush": {
 "v": 2,
 "photo": {
@@ -7488,7 +7379,7 @@
 "https://justthenews.com/nation/states/center-square/california-sues-openai-over-artificial-intelligence-models": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-17T04:45:27.371623+00:00"
+"checked": "2026-11-17T14:45:51.762841+00:00"
 },
 "https://www.foxnews.com/politics/engine-failure-forces-sen-ashley-moodys-american-airlines-flight-divert-emergency-landing": {
 "v": 2,
@@ -8388,5 +8279,191 @@
 "via": "feed"
 },
 "checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/south-africa-to-seek-relief-from-eu-s-proposed-hybrid-car-curbs": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.scotusblog.com/2026/11/treating-the-free-exercise-of-religion-and-equal-protection-differently/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.sanity.io/images/pito4za5/production/b1f368e387c191fcbe4046a1daa309525a8564dc-1024x679.jpg?w=1200&fit=max",
+"w": 1024,
+"h": 679,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://reason.com/2026/11/17/inside-the-administrations-chip-divide/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Trump-Lutnick-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Al Grillo/ZUMAPRESS/Newscom",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.washingtonexaminer.com/policy/defense/4805686/watch-live-hung-cao-testify-senate-armed-service/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26197036899136.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUFrTGl3cjI4c0pkQlNtbWo2cDF2NS1zMVhENHBPanI3MmVFanUwMVMzSHE4THYxQWZrbXlyb1VMTUN4dHFMVUhMUTNsMHJqNlg2V19oZ2owSXNtNUo2cUs0UHlnTEhMS2R1WWk4VExoV05pZWo5Q2lFckpjR3ZQN29JdnV6dHlCZU5MbmdxcGoyT3daNlN2Znh1dkRhQlFvWjBsU3VIR2pkVmt0T2oyTW5Nb3J0Q3c?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.thefp.com/p/this-week-in-canada-immigration-is": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!3OAN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a42bf91-06a8-43ee-8ca5-af0e7032bf35_3000x2000.jpeg",
+"w": 3000,
+"h": 2000,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.foxbusiness.com/fox-news-tech/nvidia-adds-board-oversight-national-security-export-compliance": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nvidia-exterior.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://spectrum.ieee.org/optical-computing-ai": {
+"v": 2,
+"photo": {
+"img": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=1200&height=600&coordinates=0%2C531%2C0%2C531",
+"w": 1200,
+"h": 600,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.706434586833%2C100%2C78.587130826333&w=1200",
+"w": 1200,
+"h": 623,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Aurich Lawson",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.outdoorlife.com/hunting/lessons-i-learned-hunting-with-my-kids/": {
+"v": 2,
+"photo": {
+"img": "https://www.outdoorlife.com/wp-content/uploads/2026/11/all_three_kids.jpg?quality=85",
+"w": 2000,
+"h": 1500,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.theregister.com/legal/2026/11/17/website-owners-thumb-their-noses-at-eu-privacy-rules-researcher-finds/5310265": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310274.jpg?imageId=5310274&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/qYqjo78tBdSRKxWNFHsG4m-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310455.jpg?imageId=5310455&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&strip=all&crop=0%2C10.728727706125%2C100%2C78.54254458775&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sean-duffy-faa-fox-news.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
+},
+"https://nypost.com/business/why-credit-card-minimum-payments-keep-you-in-debt/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FFDR1-.png",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T14:45:51.762841+00:00"
 }
 }

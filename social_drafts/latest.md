@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 17, 2026 7:40 AM CT
+# Social drafts — Tue Nov 17, 2026 8:45 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-17-0740.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-17-0845.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Bryson DeChambeau decides on major move after being face of crumbling LIV Golf  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/  
-Pinned by editor: no · BREAKING: yes
+Lead: Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop  
+Outlet: Fox News  
+Link: https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 170/280 chars (X counting)
 
 ```
-Bryson DeChambeau decides on major move after being face of crumbling LIV Golf. (NY Post) https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/
+Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop. (Fox News) https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Bryson DeChambeau decides on major move after being face of crumbling LIV Golf. Story via NY Post. Link in bio.
+Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop. Story via Fox News. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
