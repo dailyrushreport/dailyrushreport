@@ -1,97 +1,4 @@
 {
-"https://justthenews.com/nation/states/center-square/white-house-correspondents-dinner-shooting-suspect-hit-terrorism-charge": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.washingtonexaminer.com/policy/technology/4804048/spacex-starship-returns-orbit-captured-launch-pad-arms-dramatic-first/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318773514654-e1794694866408.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.jpost.com/diaspora/article-914770": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746178",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm3rgx9p583zo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwe89y2r5j20o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/29c1/live/cbb69f00-e073-11f1-b214-7b8eb8913400.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/ckzd95n6e4g3o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41ce/live/5d34e140-e078-11f1-9ec0-713bf094c3d1.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108551602-1794694999080-IMG_3794.jpg?v=1794695062&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
-"https://nypost.com/2026/11/14/sports/49ers-injury-update-mike-evans-cowboys/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-u7c2784i2-1794694829247.jpg?quality%3D90%26strip%3Dall%261794676842",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T23:02:11.521145+00:00"
-},
 "https://justthenews.com/government/federal-agencies/trump-admin-rips-biden-admin-handling-air-traffic-control-after-faa": {
 "v": 2,
 "photo": null,
@@ -8759,5 +8666,163 @@
 "via": "feed"
 },
 "checked": "2026-11-17T22:41:03.026650+00:00"
+},
+"https://www.dailysignal.com/2026/11/17/paxton-drops-texas-cair-lawsuit/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/GettyImages-1236279010.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.washingtonexaminer.com/news/house/4806831/house-democrats-stock-trading-rules-package/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/jason-crow-stock-trading-ban.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://thehill.com/regulation/court-battles/6226715-ecuadorian-fishermen-lawsuit-us-drones/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP18082768443144-e1794958240493.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://news.google.com/rss/articles/CBMipwFBVV95cUxQT205dzRGQk80bTl4Umgxc2dfcVRCcldhVkhuRkprVVZPdW15MENmZmZKM3V4R0hBdlUtUk1FVnkyMVBqUGVkV2gzb1JfZ2dqZjNCSmQwWmJMMGNMTi1VX0xxbW5MN2pCZV9jdV8tX3FuV20yT1d2aGh2VU1HdjFTeFBsZzhidnZONmtWZ0VKZU4wYS1PcExIVHJUMHJjQzUtZW9yZ0FKdw?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108305564-1778591195464-gettyimages-2273088843-NVIDIA_Nemotron_3_Nano_Omni.jpeg?v=1787612443&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckvg2n2q3103o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmY1emYyempFcVhIRTBKV1hOeTVnT2xaRGhvbGtfcVJ6YkptbWtlM0luM3FJb213SlR2dE8yZF9YVWtuLWpMRHBlb0djWFQ1X2o3UFN2RHFKRzZqS2MtN00wZVdIT1A5Q1RfLWFHZWJGWnNnbGt6N1doWlM1alc5Z2FERlBOajNXT2xmVUt6amVVZHd6eDJ0UEluTmJ2NEpvYWxyTEZPVi12OUJDTHc?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Smith Collection/Gado",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "ESA-CNES-Arianespace/Optique Vid\u00e9o du CSG-S. Martin",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&strip=all&crop=0%2C10.742803501923%2C100%2C78.514392996155&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://freebeacon.com/latest-news/usurpation-by-litigation-meta-warns-state-ags-may-use-turbocharged-lawsuits-to-set-national-policy/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-17-Nov-2026-05-16-PM-3881-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.thecentersquare.com/image_555b93e6-e8b1-40d8-9d5a-978ebc1b1d7b.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/55/555b93e6-e8b1-40d8-9d5a-978ebc1b1d7b/6afce302012d2.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://nypost.com/2026/11/17/business/nvidia-board-chairman-shoots-down-rumors-disgraced-jensen-huang-will-return-as-ceo/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnvidia-comp.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
+},
+"https://www.outdoorlife.com/hunting/old-school-whitetail-wisdom-bad-weather/": {
+"v": 2,
+"photo": {
+"img": "https://www.outdoorlife.com/wp-content/uploads/2026/11/rainy_buck.jpg?quality=85",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T23:38:22.267961+00:00"
 }
 }

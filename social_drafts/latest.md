@@ -1,25 +1,25 @@
-# Social drafts — Tue Nov 17, 2026 2:40 PM CT
+# Social drafts — Tue Nov 17, 2026 5:38 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-17-1440.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-17-1738.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo  
-Pinned by editor: no · BREAKING: no
+Lead: FAA pauses new router installations involved in nationwide ground stop  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 159/280 chars (X counting)
+## X — status: pending_approval · 176/280 chars (X counting)
 
 ```
-Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him. (BBC) https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo
+FAA pauses new router installations involved in nationwide ground stop. (Washington Examiner) https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him. Story via BBC. Link in bio.
+FAA pauses new router installations involved in nationwide ground stop. Story via Washington Examiner. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

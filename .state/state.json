@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
   "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
   "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
   "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
   "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
   "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/",
-  "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+  "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+  "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-  "since": "2026-11-17T20:40:15.454127+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
+  "since": "2026-11-17T23:38:22.267961+00:00"
  },
- "last_build": "2026-11-17T22:41:03.026650+00:00",
+ "last_build": "2026-11-17T23:38:22.267961+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
   "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
   "https://www.breitbart.com/politics/2026/10/27/hasan-piker-hits-scott-jennings-with-72-5-million-defamation-suit-over-black-lynching-accusations/",
   "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
@@ -291,6 +290,7 @@
   "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
   "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
   "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/",
-  "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+  "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+  "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/"
  ]
 }

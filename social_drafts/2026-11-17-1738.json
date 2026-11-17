@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-17-1738.json",
+  "created": "2026-11-17T23:38:22.267961+00:00",
+  "created_ct": "Tue Nov 17, 2026 5:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "FAA pauses new router installations involved in nationwide ground stop",
+    "original_headline": "FAA pauses new router installations involved in nationwide ground stop",
+    "url": "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "FAA pauses new router installations involved in nationwide ground stop. (Washington Examiner) https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 176,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "FAA pauses new router installations involved in nationwide ground stop. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
