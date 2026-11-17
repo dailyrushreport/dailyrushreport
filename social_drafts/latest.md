@@ -1,25 +1,25 @@
-# Social drafts — Mon Nov 16, 2026 9:40 PM CT
+# Social drafts — Tue Nov 17, 2026 4:29 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-16-2140.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-17-0429.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Comer announces bid for Kentucky governor  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/  
-Pinned by editor: no · BREAKING: yes
+Lead: Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 136/280 chars (X counting)
+## X — status: pending_approval · 169/280 chars (X counting)
 
 ```
-Comer announces bid for Kentucky governor. (The Hill) https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/
+Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz. (CNBC) https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Comer announces bid for Kentucky governor. Story via The Hill. Link in bio.
+Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

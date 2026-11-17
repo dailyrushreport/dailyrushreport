@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-17-0429.json",
+  "created": "2026-11-17T10:29:16.680632+00:00",
+  "created_ct": "Tue Nov 17, 2026 4:29 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+    "original_headline": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+    "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz. (CNBC) https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 169,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,166 +1,4 @@
 {
-"https://justthenews.com/index%2Ephp/politics-policy/energy/oil-prices-are-down-substantial-relief-pump-could-be-long-way-experts-say": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://justthenews.com/index%2Ephp/politics-policy/transportation/faa-issues-nationwide-ground-stop-all-departing-flights": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-hegseth-pointed-response.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://justthenews.com/index%2Ephp/government/white-house/trump-tariffs": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.jpost.com/international/article-914852": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746261",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.jpost.com/israel-news/culture/article-914721": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746125",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://nypost.com/2026/11/14/us-news/illinois-bomb-threat-at-peoria-ethanol-plant-prompts-mile-wide-evacuation/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148719952.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148721092.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T09:31:28.790892+00:00"
-},
-"https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pennsylvania-governor-josh-shapiro.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-914855": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746266",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-914853": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746263",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a28/live/45df2820-e00f-11f1-9fd4-8b3c9f9dfc89.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
-"https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
-"https://nypost.com/2026/11/14/media/joe-rogan-says-podcasters-have-no-business-at-trump-press-conferences-alongside-real-journalists/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148723049.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T10:28:07.063749+00:00"
-},
 "https://justthenews.com/government/white-house/trump-tariffs": {
 "v": 2,
 "photo": null,
@@ -8363,5 +8201,102 @@
 "via": "page"
 },
 "checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://justthenews.com/index%2Ephp/politics-policy/transportation/united-airlines-reports-widespread-system-outage": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTkFuSE5McWcyOVZ1b0lvNi1jNlJXakgyaFI5YnhyUWE1MlVnS0hzYmNNUDllWldpSWhkUWFnUFN6bzVsbVlQSG9qMC1FdHhDWUFfRF9sYjBrY1I5U3dEMHRuMWVtWDBPTW5xNnYzSlVTX05VZWpkRWFFYWNHbnJqaFBydkEyZXJKb0t1bXVUUThIZjlhY1doWl9oZ3Fwd3A4ZVRjVXk3T29PczVKQ3I3aFl1Mjc2WVhjeWhkTTRvbUFjdm14SGxPblRueS1kQWIxd2FNTg?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cr5y18lg31nxo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/LCxCoiHYU-thS5l-XdPxtqqs1pQ=/0x0:1920x1080/1366x768/2025/10/14/1760474481166.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cqvg27zyrd99o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6a85/live/44d4a5b0-e26f-11f1-b19c-7b42f37bea48.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-915161": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746714",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5252686.jpg?imageId=5252686&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
+},
+"https://freebeacon.com/china/china-tied-socialist-group-behind-citizens-who-blocked-1-6b-racist-data-center-near-atlanta-maoist-american-neville-roy-singham-backs-group/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-05-00-PM-1855-scaled.jpg",
+"w": 2560,
+"h": 1810,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T10:29:16.680632+00:00"
 }
 }
