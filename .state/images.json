@@ -1,134 +1,4 @@
 {
-"https://justthenews.com/government/white-house/watch-live-trump-admin-holds-press-briefing-faa-ground-stop": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://justthenews.com/politics-policy/elections/you-vote-after-midterm-elections-who-most-likely-gop-presidential-nominee": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://justthenews.com/government/congress/duckworth-says-she-will-demand-answers-faa-nationwide-ground-stop": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26269583561962-e1794615179172.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.breitbart.com/national-security/2026/11/13/faa-issues-nationwide-grounding-of-all-flights-over-air-traffic-control-communication-issue/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/AP23108611986503-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "AP Photo\\/Nam Y. Huh",
-"via": "page"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-"w": 1024,
-"h": 648,
-"credit": "Tim Warner/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cq5y1k48k2v7o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b10/live/cc8fb3e0-df55-11f1-b8ca-0348146d1a32.jpg",
-"w": 976,
-"h": 550,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eab2/live/4631dfd0-dfbe-11f1-a785-cd5ce5e90c71.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
-"https://nypost.com/2026/11/13/sports/rick-pitino-tells-the-post-about-st-johns-recruit-malachi-jordan/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-gp4dgqkpk-1794618852253.jpg?quality%3D90%26strip%3Dall%261794600887",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T01:31:26.006201+00:00"
-},
 "https://justthenews.com/politics-policy/transportation/faa-lifts-hours-long-ground-stop-says-flights-can-resume": {
 "v": 2,
 "photo": null,
@@ -8502,5 +8372,119 @@
 "via": "page"
 },
 "checked": "2026-11-17T00:35:39.488154+00:00"
+},
+"https://www.foxnews.com/outkick-sports/curt-cignetti-fires-back-indiana-easy-schedule-critics-really-dont-give": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/curt-cignetti-indiana-hoosiers-football.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://justthenews.com/government/white-house/trumps-plane-changes-alaska-refueling-location-due-extreme-weather": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.axios.com/2026/11/16/united-airlines-outage-faa": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/xVE8rl1ICtjRqn6Z9xs961Dbssg=/0x0:6000x3375/1366x768/2026/11/16/1794867672585.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.foxnews.com/tech/fake-ezpass-email-threatens-100-fine-unpaid-toll": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/EZPass-toll-road-scam.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4804796/doj-lindsey-graham-case-democrat-subpoena-threats/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26056068587380.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/16/third-u-s-aircraft-carrier-arrives-in-middle-east-joining-50000-troops-in-iran-standoff/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/USS-Theodore-Roosevelt-Enters-U.S.-5th-Fleet-Area-of-Operations-640x335.png",
+"w": 640,
+"h": 335,
+"credit": "U.S. Navy \\/ DVIDS",
+"via": "page"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGFYeFZkdzRqaWN3R1JXS1JhVl92bTFUQ1J6QjAxVUtac2gzVzl0WkFfOWIyWlFiV3Fydnd4SDMxb0RUWnM1djBsSDRMNFJVLXB0VzFVYmlkYnJSOWxia09lMlRYTmtUdVlxLXlyZEFLNVUybWhubnZVVC12cDlYcjNsWWUxTzFHUTU2a2hmaTRadkdzQXVRNGVKOWx1VENBUlU2a1psSFFzMXpoQjVSYklXdXZxUjRGOGZn?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.jpost.com/american-politics/article-915112": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746615",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://dailycaller.com/2026/11/16/russell-brand-investigated-innocence-prison-message-free-speech": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2303455634_2.jpg",
+"w": 2801,
+"h": 1200,
+"credit": "(Photo by Leon Neal/Getty Images)",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://www.foxbusiness.com/fox-news-food-drink/chipotle-launches-sneak-in-hoodies-hidden-pouch-keep-your-burrito-warm": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/chiptole.png",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
+},
+"https://nypost.com/2026/11/16/sports/kirk-cousins-vikings-return-will-have-fantasy-football-boon-for-justin-jefferson/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-59m15wwzg-1794880186203.jpg?quality%3D90%26strip%3Dall%261794862287",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T01:58:50.973594+00:00"
 }
 }

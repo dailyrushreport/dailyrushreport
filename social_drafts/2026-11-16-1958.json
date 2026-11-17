@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-16-1958.json",
+  "created": "2026-11-17T01:58:50.973594+00:00",
+  "created_ct": "Mon Nov 16, 2026 7:58 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "United Airlines resolves \"widespread system outage\" that delayed flights",
+    "original_headline": "United Airlines resolves \"widespread system outage\" that delayed flights",
+    "url": "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "United Airlines resolves \"widespread system outage\" that delayed flights. (Axios) https://www.axios.com/2026/11/16/united-airlines-outage-faa\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 164,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "United Airlines resolves \"widespread system outage\" that delayed flights. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
