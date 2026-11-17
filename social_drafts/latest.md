@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 17, 2026 9:41 AM CT
+# Social drafts — Tue Nov 17, 2026 12:43 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-17-0941.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-17-1243.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Judge throws out Trump administration rule restricting foreign students’ time in US  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/  
+Lead: War Department fails to produce clean audit for ninth straight year  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 178/280 chars (X counting)
+## X — status: pending_approval · 173/280 chars (X counting)
 
 ```
-Judge throws out Trump administration rule restricting foreign students’ time in US. (The Hill) https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/
+War Department fails to produce clean audit for ninth straight year. (Washington Examiner) https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Judge throws out Trump administration rule restricting foreign students’ time in US. Story via The Hill. Link in bio.
+War Department fails to produce clean audit for ninth straight year. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
   "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
   "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
   "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
-  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/"
+  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
+  "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
-  "since": "2026-11-17T15:41:44.825932+00:00"
+  "url": "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/",
+  "since": "2026-11-17T18:42:56.057253+00:00"
  },
- "last_build": "2026-11-17T17:51:05.057321+00:00",
+ "last_build": "2026-11-17T18:42:56.057253+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
   "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
   "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
   "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
-  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/"
+  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
+  "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/"
  ]
 }
