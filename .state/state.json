@@ -25,7 +25,7 @@
   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "since": "2026-11-17T20:40:15.454127+00:00"
  },
- "last_build": "2026-11-17T20:40:15.454127+00:00",
+ "last_build": "2026-11-17T21:39:26.452290+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -74,7 +74,7 @@
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-17T19:52Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
