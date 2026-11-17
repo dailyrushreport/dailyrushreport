@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
   "https://www.washingtonexaminer.com/news/justice/4804104/judge-temporarily-blocks-trump-redevelopment-dc-golf-course/",
   "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
-  "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop"
+  "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
+  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
-  "since": "2026-11-17T14:45:51.762841+00:00"
+  "url": "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
+  "since": "2026-11-17T15:41:44.825932+00:00"
  },
- "last_build": "2026-11-17T14:45:51.762841+00:00",
+ "last_build": "2026-11-17T15:41:44.825932+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
   "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
   "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
   "https://nypost.com/2026/10/27/sports/jay-z-shrugs-off-super-bowl-halftime-pressure-with-bold-response/",
@@ -291,6 +290,7 @@
   "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
   "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
-  "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop"
+  "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
+  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-17-0941.json",
+  "created": "2026-11-17T15:41:44.825932+00:00",
+  "created_ct": "Tue Nov 17, 2026 9:41 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Judge throws out Trump administration rule restricting foreign students’ time in US",
+    "original_headline": "Judge throws out Trump administration rule restricting foreign students’ time in US",
+    "url": "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Judge throws out Trump administration rule restricting foreign students’ time in US. (The Hill) https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 178,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Judge throws out Trump administration rule restricting foreign students’ time in US. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
