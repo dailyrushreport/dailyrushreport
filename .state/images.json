@@ -4,121 +4,6 @@
 "photo": null,
 "checked": "2026-11-14T23:02:11.521145+00:00"
 },
-"https://justthenews.com/politics-policy/education/federal-investigators-investigating-new-jerseys-largest-teachers-union": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.foxnews.com/outkick-sports/la-gang-member-helped-olympian-turned-billion-dollar-drug-trafficker-charged-federal-indictment": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/fbi-ryan-wedding-arrest-111925-1.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.breitbart.com/health/2026/11/14/video-credible-bomb-threat-near-chemical-plant-prompts-evacuations-and-illinois-citys-shutdown/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/GettyImages-52800284-640x335.png",
-"w": 640,
-"h": 335,
-"credit": "Scott Olson\\/Getty Images",
-"via": "page"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.jpost.com/diaspora/antisemitism/article-914763": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746171",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.jpost.com/israel-election-2026/article-914868": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745768",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.axios.com/2026/11/14/faa-ground-stop-outage-update": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/8yf1pmiMMDLYbNa2GXqdAcod0MM=/0x0:4000x2250/1366x768/2026/11/14/1794673567933.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cwn83gxemk35o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c362/live/81cafde0-e047-11f1-93e1-3b657b665bcf.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://www.bbc.co.uk/weather/articles/cqe879916895o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/61a7/live/9782cb80-df5d-11f1-b441-2b33b063138f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://nypost.com/2026/11/14/sports/austin-claunch-fired-from-utsa-following-dwi-arrest/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-q8s41v9ru-1794674013292.jpg?quality%3D90%26strip%3Dall%261794656052",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
-"https://nypost.com/2026/11/14/world-news/us-floats-nato-membership-for-ukraine-in-exchange-for-giving-up-donbas/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148740655.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T17:02:03.381421+00:00"
-},
 "https://justthenews.com/politics-policy/transportation/faa-ground-stop-disrupts-college-football-schedule-forces-nfl": {
 "v": 2,
 "photo": null,
@@ -8560,5 +8445,184 @@
 "via": "feed"
 },
 "checked": "2026-11-17T16:50:13.952751+00:00"
+},
+"https://justthenews.com/government/federal-agencies/pentagon-fails-financial-audit-ninth-consecutive-fiscal-year": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.washingtonexaminer.com/policy/healthcare/4806106/cdc-encourages-measels-vaccine-after-losing-elimination-status/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-hwnwd9no2-1794935980458-e1794936921289.jpg?1794918917&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.thecentersquare.com/ohio/article_1ba2e222-493b-4801-a825-79d7bc815157.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/0/71/071d155c-5bf7-4a59-a3ad-42cd8f76bf6f/6903c1d190468.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://reason.com/2026/11/17/the-u-s-spends-half-what-france-does-on-public-pensions-but-congress-is-making-the-same-mistakes/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/USEuroPensions-2-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Envato",
+"via": "feed"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.dailysignal.com/2026/11/17/ohio-jewish-zoning-dispute-case/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/SCOTUS-Transgender.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlVERjRBN0JGeGh3MmNZQ0ExUUZfS2J2cmFROTNrRGx6Rk5FSVQ0Q3N5VkhlbzVDa2NoOXI5YUlGMkNDbzZhZFVtdTFDZUJ1WGVzeUhVZ25UQ2paVEl1eUpsNkJBYmMyNlNIWHYyblZRNG9sMlM5UDNuZ3NYZ1U0QjBOU3RzM2FuOUJKT1Q4bDh1Mk9yTVREQm1aV2NRZzRTV0JWRzdlYjNkUFZ6em9pdTFEWXVEd0h1ZDVJ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.foxnews.com/outkick-sports/tiger-woods-return-competitive-golf-hero-world-challenge-makes-sense-world": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tiger-woods-hero-world-challenge-start.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dwM2tXbnJsSS1ibkNxaDFkSTAzekxNRENBME8yMGRMN1p2THNJWWNlY19OYWVxcTNiODROU0NQbkZLaGotQllXSldiLVZLdjVqSWs5YTRsaW9qb0dUNmNOY1JGQjZYVE9keEdraXh5Ql9XZzlFTExGNHBEY2NpLXVqTXFFOEx4aHVrRDdWeV9aODRYdmlXZQ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/2918386.jpg?imageId=2918386&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Aurich Lawson",
+"via": "feed"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/262729.jpg?imageId=262729&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://spectrum.ieee.org/40-hz-therapy-alzheimers": {
+"v": 2,
+"photo": {
+"img": "https://spectrum.ieee.org/media-library/image.jpg?id=68562362&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+"w": 1200,
+"h": 600,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
+},
+"https://nypost.com/2026/11/17/business/ford-worker-fired-over-cookie-sues-and-claims-ai-falsely-flagged-him-as-thief/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149107769.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T17:51:05.057321+00:00"
 }
 }
