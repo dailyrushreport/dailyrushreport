@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "since": "2026-11-17T06:54:08.478108+00:00"
  },
- "last_build": "2026-11-17T06:54:08.478108+00:00",
+ "last_build": "2026-11-17T08:08:24.230140+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -49,7 +49,7 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "ok (fallback)",
+  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T06:54Z",
   "Fox News World": "ok",
   "Washington Times World": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T05:47Z",
   "UnHerd": "ok",
@@ -77,7 +77,7 @@
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T05:47Z",
+  "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
   "Gary Taubes": "ok (fallback)",
