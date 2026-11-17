@@ -1,80 +1,4 @@
 {
-"https://justthenews.com/politics-policy/transportation/historic-ground-stop-shines-light-creaky-air-traffic-control-system": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/49puDGb_ih4k0tMenOjgECLeMBI=/0x0:1280x720/2025/11/12/1762972987784.gif",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.jpost.com/international/internationalrussia-ukraine-war/article-914856": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746271",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.jpost.com/international/article-914857": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746272",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmgj340w6g8yo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16e6/live/e371d3f0-e01c-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200",
-"w": 1200,
-"h": 625,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
-"https://nypost.com/2026/11/14/us-news/construction-worker-injured-in-brooklyn-building-collapse-lawyers-up/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148648516.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T12:00:20.246964+00:00"
-},
 "https://justthenews.com/government/federal-agencies/trump-praises-us-coast-guard-after-two-ships-crash-louisiana-no-deaths": {
 "v": 2,
 "photo": null,
@@ -8353,5 +8277,117 @@
 "via": "feed"
 },
 "checked": "2026-11-17T11:21:34.948970+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/california-sues-openai-over-artificial-intelligence-models": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+"w": 700,
+"h": 560,
+"credit": "Lindsey Wasson/AP",
+"via": "feed"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/us-funding-for-trump-linked-bosnian-gas-pipeline-is-in-jeopardy": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.washingtonexaminer.com/policy/infrastructure/4805389/faa-ground-stop-explanation-unanswered-questions/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/sean-duffy-bryan-bedford.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.jpost.com/international/article-915179": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737027",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108552904-1794916698270-gettyimages-2305027799-ASEAN-SUMMITTRUMP.jpeg?v=1794916735&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://reason.com/volokh/2026/11/17/today-in-supreme-court-history-november-17-1880-8/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmn504nq5033o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbW11UEg3Um9QcnY4RE9XcVFpMnBaMXNIak5kakdnLTJfbzFsUzJINzhiOVItcGtlMGZVTnZRYXF0ekFaVU9oN0hOcS1ESUdqbF9qMzhxWVRHdW9sVl9FQVpNQk1vR3c2YjAzbFJic2Q4cFJlSmVtdU9PWllPMjJ2NnFLMXMwaUJhV0J4VFo3T25TUy1iby1jU2x6V1A4c0Q0UzhVU1Vka19EdHdicXZfYm9EMHI0QjBOdE5UdTBIR21RMEE?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5269572.jpg?imageId=5269572&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlRCTW0xV21Uc1dQNjJvaWJhNHkxRGc3ekVzX0M0Z1FKN2hfdFlyQ21Gb19lSGsxemdUeXY5bFRDc1FnQ2xwX1NuU2VCT3lMV0JkdWlITUlnMkFIMXVaZGpkZFk4azJTem1oYTFYbzZJNGdmeDN4cW5MUXBkUnNIRFh5dVQ2SS1UdGNB?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.city-journal.org/article/city-journal-daily-newsletter-nov-17-2026": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cm79213ngx45o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0c5c/live/1791db60-e272-11f1-99b6-a35a62fa4264.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T12:13:11.197197+00:00"
 }
 }
