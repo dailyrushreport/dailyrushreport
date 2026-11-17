@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
   "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/",
   "https://www.washingtonexaminer.com/policy/healthcare/4803410/schumer-van-hollen-feud-medicare-for-all-fate/",
   "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
@@ -19,13 +18,14 @@
   "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
   "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-  "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+  "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-  "since": "2026-11-17T10:29:16.680632+00:00"
+  "url": "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
+  "since": "2026-11-17T13:40:30.187696+00:00"
  },
- "last_build": "2026-11-17T12:13:11.197197+00:00",
+ "last_build": "2026-11-17T13:40:30.187696+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
   "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
   "https://thehill.com/homenews/media/6174791-jay-z-super-bowl-lxi-halftime-show/",
   "https://nypost.com/2026/10/27/sports/fbi-reportedly-advised-pat-mcafee-to-wear-bulletproof-vest/",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
   "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
   "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
-  "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+  "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/"
  ]
 }

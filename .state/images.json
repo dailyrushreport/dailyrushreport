@@ -1,184 +1,4 @@
 {
-"https://justthenews.com/government/federal-agencies/trump-praises-us-coast-guard-after-two-ships-crash-louisiana-no-deaths": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=700&quality=85&auto=format&fit=max&s=da2b4cb29db07ccbe63675c370a51e6d",
-"w": 700,
-"h": 560,
-"credit": "AFP/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.foxnews.com/outkick-sports/wwe-champion-wants-no-part-john-cena-classic": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/john-cena-classic-championship-debut-raw.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/7e9eec51-news-image-fox-news_052.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308235215554-e1794661198782.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108527434-1793906235283-GAP_JYT_GROUP_SHOT.jpg?v=1794430218&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-914861": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746280",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/workday.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261113231624.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cxj05jr299n6o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f5fc/live/34b33400-e024-11f1-8e3e-7509d123e9f4.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261112230444.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261112230447.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/giant-icy-dwarf-planet.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
-"w": 989,
-"h": 648,
-"credit": "ESO/A.-M. Lagrange Et Al",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
-"w": 1152,
-"h": 640,
-"credit": "Hannah Herrero",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
-"https://nypost.com/2026/11/14/sports/oklahoma-ad-roger-denny-furious-with-sec-after-postponing-ole-miss-game-to-sunday/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-o8045izqv-1794660871917.jpg?quality%3D90%26strip%3Dall%261794642917",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T13:20:40.381399+00:00"
-},
 "https://justthenews.com/nation/technology/workday-outage-leaves-employees-unable-access-payroll-and-workplace-accounts": {
 "v": 2,
 "photo": null,
@@ -8389,5 +8209,184 @@
 "via": "feed"
 },
 "checked": "2026-11-17T12:13:11.197197+00:00"
+},
+"https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donald-trump_001.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.axios.com/2026/11/17/nvidia-earnings-report-ceo-transition": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://justthenews.com/index%2ephp/politics-policy/transportation/united-airlines-reports-widespread-system-outage": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/etf-cef-swap-perp-investors-get-slice-of-anthropic-before-ipo": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3hLWnppVnZLLVZScW0tQ3RrQzNIZFVpRkNOVERscjdiZHZ0aHdmRDdaUGhrRmphbGFlclk2RExRU19zZm9mckpzdnFMcXZHeVQ1UnJXaGp0dnVWbDhycGhTYWJaUk82MnJiSXlxMTlsYjR5eG1CdGFENHdFQVVrWjNpd0Y5S0pGUTFRa3d4dDE1dVA1cXJLazBBVDVUdVZ3cXY1Sk01LWxYVXVJTUE?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://reason.com/2026/11/17/how-was-the-cold-war-won/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/peace-through-strength-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Skyhorse Publishing",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.washingtonexaminer.com/policy/foreign-policy/4805709/trump-joint-trade-statement-thailand/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26321458619725.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUdpRWV0Ri0wNW44TDJoVjNqNE1VOV9hV3JENzEyQVlhc0JGWmRaUUJucm1rSjhEUkdfNkNsWUJyTGxHbFVBaVpxa0FOTDEzSjR0N0Z3TU53WDhtd1pHOS1yUUJ2N3o2VFpYWUlJcTI4ZXBEbFF4Q01rWFRLWjNDWWtqd2NQV2FSOWFPQzhGSl9ERklwVncxdDdnU1lCYlFab0ZKSWVyODBhLW8?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&strip=all&crop=0,3.2535527299925,100,93.492894540015",
+"w": 1000,
+"h": 521,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c24/live/23fd9640-e287-11f1-b166-176de21e2352.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BestofLede_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/257960.jpg?imageId=257960&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.sciencedaily.com/releases/2026/11/261116023348.htm": {
+"v": 2,
+"photo": {
+"img": "https://www.sciencedaily.com/images/1920/cosmology-universe-twisted-light.webp",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-4b2dre7um-1794920241611.jpg?quality%3D90%26strip%3Dall%261794902281",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/MRhdMG3q8bz95bR77qWjCh-1920-80.webp",
+"w": 1920,
+"h": 1280,
+"credit": "Reflect Orbital",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "California Science Center/collectSPACE.com",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310286.jpg?imageId=5310286&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149032834.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
+},
+"https://www.foxbusiness.com/business-leaders/pizza-hut-co-founder-dan-carney-who-turned-600-loan-from-mom-global-restaurant-empire-dead-95": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/dan-carney-pizza-hut-wichita-state-university-display.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T13:40:30.187696+00:00"
 }
 }
