@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
   "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
   "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
   "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
   "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
-  "https://www.axios.com/2026/11/16/united-airlines-outage-faa"
+  "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+  "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/"
  ],
  "current_lead": {
-  "url": "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
-  "since": "2026-11-17T01:58:50.973594+00:00"
+  "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
+  "since": "2026-11-17T03:40:46.366994+00:00"
  },
- "last_build": "2026-11-17T02:46:36.547801+00:00",
+ "last_build": "2026-11-17T03:40:46.366994+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -49,7 +49,7 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T01:58Z",
+  "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
   "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
@@ -80,19 +80,18 @@
   "MAHA / HHS": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T01:58Z",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T02:46Z",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T01:58Z",
-  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-17T00:35Z",
+  "Adventist News Network": "ok",
+  "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.foxnews.com/media/deported-migrant-60-minutes-painted-sympathetic-family-man-claimed-gay-asylum-application",
   "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
   "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
   "https://www.foxnews.com/outkick-sports/jay-z-super-bowl-halftime-show-selection-99-vulgarity-profanity-problems-nfl",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
   "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
-  "https://www.axios.com/2026/11/16/united-airlines-outage-faa"
+  "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+  "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/"
  ]
 }

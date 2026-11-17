@@ -1,17 +1,17 @@
-# Social drafts — Mon Nov 16, 2026 7:58 PM CT
+# Social drafts — Mon Nov 16, 2026 9:40 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-16-1958.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-16-2140.json x` or `... instagram` (prints the final text to copy).
 
-Lead: United Airlines resolves "widespread system outage" that delayed flights  
-Outlet: Axios  
-Link: https://www.axios.com/2026/11/16/united-airlines-outage-faa  
+Lead: Comer announces bid for Kentucky governor  
+Outlet: The Hill  
+Link: https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 164/280 chars (X counting)
+## X — status: pending_approval · 136/280 chars (X counting)
 
 ```
-United Airlines resolves "widespread system outage" that delayed flights. (Axios) https://www.axios.com/2026/11/16/united-airlines-outage-faa
+Comer announces bid for Kentucky governor. (The Hill) https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-United Airlines resolves "widespread system outage" that delayed flights. Story via Axios. Link in bio.
+Comer announces bid for Kentucky governor. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

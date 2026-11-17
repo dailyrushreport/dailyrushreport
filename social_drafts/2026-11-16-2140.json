@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-16-2140.json",
+  "created": "2026-11-17T03:40:46.366994+00:00",
+  "created_ct": "Mon Nov 16, 2026 9:40 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Comer announces bid for Kentucky governor",
+    "original_headline": "Comer announces bid for Kentucky governor",
+    "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Comer announces bid for Kentucky governor. (The Hill) https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 136,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Comer announces bid for Kentucky governor. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
