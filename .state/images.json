@@ -1,53 +1,4 @@
 {
-"https://reason.com/volokh/2026/11/14/open-thread-388/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-14T08:36:54.584488+00:00"
-},
-"https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108368116-1790348089846-gettyimages-2297090054-ah808629_b8zsmo49.jpeg?v=1790348118&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T08:36:54.584488+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a078/live/ecafe1b0-df85-11f1-a8e2-5b59832bb2f1.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-14T08:36:54.584488+00:00"
-},
-"https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1bbd/live/4a4cd730-df7a-11f1-b844-3146c4983677.png",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T08:36:54.584488+00:00"
-},
-"https://nypost.com/2026/11/14/lifestyle/dear-abby-am-i-wrong-to-deny-my-sister-in-law-the-money-my-husband-left-for-me/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41743931.jpg?quality%3D90%26strip%3Dall",
-"w": 5617,
-"h": 3743,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-14T08:36:54.584488+00:00"
-},
 "https://justthenews.com/index%2Ephp/politics-policy/energy/oil-prices-are-down-substantial-relief-pump-could-be-long-way-experts-say": {
 "v": 2,
 "photo": null,
@@ -8347,5 +8298,70 @@
 "via": "feed"
 },
 "checked": "2026-11-17T08:08:24.230140+00:00"
+},
+"https://reason.com/2026/11/17/brickbat-granny-goodness/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/exdep-2-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Osceola County Jail/William Berry/Dreamstime",
+"via": "feed"
+},
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-17/turkey-fund-assets-shrink-by-54-billion-amid-manipulation-probe": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/27552738004164c7dde492ffdc58cef3b61776f6/615_0_3240_2592/master/3240.jpg?width=700&quality=85&auto=format&fit=max&s=89dc2ac061f2239c0471e601ba4dd46f",
+"w": 700,
+"h": 560,
+"credit": "Pavlo Gonchar/SOPA Images/REX/Shutterstock",
+"via": "feed"
+},
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://www.bbc.co.uk/news/articles/crq5vl1l6z2po": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://www.jpost.com/international/article-915149": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746696",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmwtWlNDc0R3UjlocWhkeDJhZjFyVnlVLUxNbHRGMEk3c293STVtTHhlU3JZcDh2VnltUHN0YWpmdXcwcWF6ZGZmZFdDYlVTQl8yYnctYTFUbnIzYkk3ZnN3bGNCX0kyRW5uaDY0NWxLTm05a3A3T1I4Nk9rajdKT0JPQ1B3ZTVWdzFLeC1rTnRBNjRsbkxvR0FqSWE4RDYwd2hjWm9sellhMHM?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-17T09:26:57.829144+00:00"
+},
+"https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5307530.jpg?imageId=5307530&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-17T09:26:57.829144+00:00"
 }
 }
