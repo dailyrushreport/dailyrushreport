@@ -1,119 +1,4 @@
 {
-"https://justthenews.com/index%2Ephp/government/courts-law/federal-judge-blocks-effort-close-dc-area-golf-course-so-trump-can-renovate": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/unc-louisville-brawl.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.jpost.com/israel-news/defense-news/article-914897": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719566",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.jpost.com/international/article-914899": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746325",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://nypost.com/2026/11/15/sports/lincoln-riley-holds-back-usc-player-in-heated-indiana-clash/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-0de2xoa0h-1794722939337.jpg?quality%3D90%26strip%3Dall%261794705000",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-2727rd4ks-1794724274600.jpg?quality%3D90%26strip%3Dall%261794706325",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://nypost.com/2026/11/15/world-news/turkish-husband-hakan-aysal-freed-from-prison-after-being-sentenced-for-pushing-pregnant-wife-off-cliff/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148816874.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
-"https://nypost.com/2026/11/15/sports/arch-manning-texas-end-lsus-playoff-hopes-with-comeback-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41875578.jpg?quality%3D90%26strip%3Dall",
-"w": 3960,
-"h": 2639,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T06:42:36.595562+00:00"
-},
 "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured": {
 "v": 2,
 "photo": {
@@ -8907,5 +8792,97 @@
 "via": "page"
 },
 "checked": "2026-11-18T06:28:23.177465+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZElQVUxCSnpfSnVLUXNKSGg3aXJ4TjBEQ0lJX0NXUEpJdjR3YlhaQmJHalVGemNEWDhDbFVjbk5oa19UeDFzdE9ZclRZVjdPSnVwQ1JMblF4YlJseGhoX2NSWU5fUWd2bngzS0g5SDR6MjNUSEZrd1NmUzNPQVJpQWR1VkFscDVpYVVWd3VvODg1SDEzeVE0X1BZajJHcl9qeUxmLWhDeUNZT3BGbzVkLTdOWQ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.jpost.com/defense-and-tech/article-915267": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/703981",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108553540-1794952143693-gettyimages-2305599962-anotherday38811092_xy4ugih4.jpeg?v=1794952227&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHVPUnZXTE50YkE0UjNKYnc3NXBXZjRiX3JGOEp5NXR4T013dVo0dF9yMWJIcnJ1cUU2NTJsOTM5ODdZSlQ0bWlXRDdXLWFZOUEzTEVWNFVhRmdUYnVGWi0xQU9BdlFhN1B6Z050ZU5UXy11My0xSW10dUtzUXI4WGNqc1Q2VVBIOTc2MTNBUGs5YVFwb0dMcDJScDFmalJMWXVaQy1VOFpvNXJVSGtlNUd5ODlSOG9rb0t5WXIwNThMeHBENGZvWHFINkxyVG8?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d8053b9038ce3a18aaa3b2cbcffef1cb0d77b18b/475_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=4c8d3c89763413fdafc3e95f4e662516",
+"w": 700,
+"h": 560,
+"credit": "Mark Schiefelbein/AP",
+"via": "feed"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108363465-1789539393529-gettyimages-2287341585-ln1_2254_w5i5mau7.jpeg?v=1789539410&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310689.jpg?imageId=5310689&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310658.jpg?imageId=5310658&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
+},
+"https://www.foxbusiness.com/technology/cybersecurity-expert-sounds-alarm-over-us-infrastructure-vulnerabilities-amid-widespread-outages": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/faa-ground-stop-cybersecurity-infrastructure.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T07:46:23.497594+00:00"
 }
 }
