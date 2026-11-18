@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-18-1324.json",
+  "created": "2026-11-18T19:24:16.792859+00:00",
+  "created_ct": "Wed Nov 18, 2026 1:24 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "original_headline": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Grand Theft Auto 6 is a masterpiece, say critics. (BBC) https://www.bbc.co.uk/news/articles/cw8r75xm8v4po\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 124,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Grand Theft Auto 6 is a masterpiece, say critics. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

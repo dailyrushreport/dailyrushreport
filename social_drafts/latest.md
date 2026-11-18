@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 18, 2026 12:14 PM CT
+# Social drafts — Wed Nov 18, 2026 1:24 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-1214.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-1324.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Democrats nominate Hakeem Jeffries to be US Speaker of the House  
+Lead: Grand Theft Auto 6 is a masterpiece, say critics  
 Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cmy49873dn95o  
-Pinned by editor: no · BREAKING: yes
+Link: https://www.bbc.co.uk/news/articles/cw8r75xm8v4po  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 154/280 chars (X counting)
+## X — status: pending_approval · 124/280 chars (X counting)
 
 ```
-Democrats nominate Hakeem Jeffries to be US Speaker of the House. (BBC) https://www.bbc.co.uk/news/articles/cmy49873dn95o
+Grand Theft Auto 6 is a masterpiece, say critics. (BBC) https://www.bbc.co.uk/news/articles/cw8r75xm8v4po
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Democrats nominate Hakeem Jeffries to be US Speaker of the House. Story via BBC. Link in bio.
+Grand Theft Auto 6 is a masterpiece, say critics. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```
