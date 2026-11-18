@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 18, 2026 8:04 AM CT
+# Social drafts — Wed Nov 18, 2026 9:20 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-0804.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-0920.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nvidia’s Jensen Huang agrees to testify before Senate, Chairman Tim Scott says  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/  
+Lead: Nvidia rejects Huang offer to return as CEO  
+Outlet: The Hill  
+Link: https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 158/280 chars (X counting)
+## X — status: pending_approval · 124/280 chars (X counting)
 
 ```
-Nvidia’s Jensen Huang agrees to testify before Senate, Chairman Tim Scott says. (NY Post) https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/
+Nvidia rejects Huang offer to return as CEO. (The Hill) https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Nvidia’s Jensen Huang agrees to testify before Senate, Chairman Tim Scott says. Story via NY Post. Link in bio.
+Nvidia rejects Huang offer to return as CEO. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

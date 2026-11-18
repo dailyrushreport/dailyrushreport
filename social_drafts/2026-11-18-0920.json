@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-18-0920.json",
+  "created": "2026-11-18T15:20:39.876027+00:00",
+  "created_ct": "Wed Nov 18, 2026 9:20 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Nvidia rejects Huang offer to return as CEO",
+    "original_headline": "Nvidia rejects Huang offer to return as CEO",
+    "url": "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Nvidia rejects Huang offer to return as CEO. (The Hill) https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 124,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Nvidia rejects Huang offer to return as CEO. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
