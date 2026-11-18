@@ -1,70 +1,4 @@
 {
-"https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
-"https://www.jpost.com/environment-and-climate-change/article-914922": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735223",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
-"https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
-"https://www.jpost.com/israel-news/article-914923": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745521",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
-"https://nypost.com/2026/11/15/business/snl-roasts-ex-nvidia-ceo-jensen-huang-over-chinese-spy-sex-scandal-as-bowen-yang-makes-surprise-return/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-q9iirts0m-1794734100782.jpg?quality%3D90%26strip%3Dall%261794716123",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
-"https://nypost.com/2026/11/15/sports/tennis-star-aryna-sabalenka-apologizes-for-outburst-during-wta-finals-loss-to-elina-svitolina/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148835963.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T09:33:03.711203+00:00"
-},
 "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-fast-food-face-offs-oklahoma-origins": {
 "v": 2,
 "photo": {
@@ -8824,5 +8758,70 @@
 "via": "feed"
 },
 "checked": "2026-11-18T08:49:31.208201+00:00"
+},
+"https://reason.com/2026/11/18/brickbat-watch-where-you-point-that/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/PointingFingers-2-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Douliery Olivier/ABACA/Newscom/Pariwatlp/Dreamstime",
+"via": "feed"
+},
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-18/blackrock-s-hps-seeks-billions-for-new-direct-lending-fund": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3llVmVXcmFXMUpUcFdoT2hJVFVjZWNrSkFwdTZVWlhrQ1psUVhuWFMxU056XzM2X3BQZEVpcHdEcjR0WkhaZmFWMGhieFdhdnUzMERRcWdPVG96dGNCLUVnS2twRHBnQmkxaFdLNE1Vb0wzZEFBaFhVRk4xaXZsTUx1cWJyTkYyRGRpSWphdnl1d1d6V2N3?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://www.jpost.com/middle-east/article-915282": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746908",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://nypost.com/2026/11/18/us-news/trump-says-us-wrapped-up-very-big-trade-deal-with-philippines/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-bzv0bv3hf-1794990380475.jpg?quality%3D90%26strip%3Dall%261794972387",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T09:46:14.289728+00:00"
+},
+"https://www.foxbusiness.com/lifestyle/extremely-important-united-airlines-system-forced-90-minute-departure-delay": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/united-airlines-departure-delay-1.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T09:46:14.289728+00:00"
 }
 }
