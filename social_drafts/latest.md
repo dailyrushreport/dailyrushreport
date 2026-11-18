@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 18, 2026 3:46 AM CT
+# Social drafts — Wed Nov 18, 2026 5:47 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-0346.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-0547.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Mary Peltola ousts Dan Sullivan in Alaska, giving Democrats 56-seat Senate majority  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/  
+Lead: Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: ‘Major surgery’  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 175/280 chars (X counting)
+## X — status: pending_approval · 186/280 chars (X counting)
 
 ```
-Mary Peltola ousts Dan Sullivan in Alaska, giving Democrats 56-seat Senate majority. (Washington Examiner) https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/
+Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: ‘Major surgery’. (NY Post) https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Mary Peltola ousts Dan Sullivan in Alaska, giving Democrats 56-seat Senate majority. Story via Washington Examiner. Link in bio.
+Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: ‘Major surgery’. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
