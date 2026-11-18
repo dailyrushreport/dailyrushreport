@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
   "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
   "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
   "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po"
+  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+  "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
-  "since": "2026-11-18T19:24:16.792859+00:00"
+  "url": "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
+  "since": "2026-11-18T23:14:39.564772+00:00"
  },
- "last_build": "2026-11-18T22:15:07.739124+00:00",
+ "last_build": "2026-11-18T23:14:39.564772+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -70,17 +70,17 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-18T21:16Z",
+  "The Register": "ok",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-18T21:16Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
   "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
@@ -291,6 +290,7 @@
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
   "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po"
+  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+  "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/"
  ]
 }
