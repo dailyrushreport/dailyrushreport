@@ -1,118 +1,4 @@
 {
-"https://justthenews.com/government/white-house/trump-says-biden-admin-made-old-and-broken-air-traffic-control-system-worse": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.washingtonexaminer.com/policy/infrastructure/4804126/plane-collision-miami-international-airport-runway/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26319561863143-e1794759434360.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.jpost.com/israel-news/culture/article-914718": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746120",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.jpost.com/israel-news/culture/article-914716": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746114",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/2517a27b9af0eca379d42f67bcae4b76bb19e462/295_0_2716_2174/master/2716.jpg?width=700&quality=85&auto=format&fit=max&s=bb94f111f5857e9e3dcea24fecd91f37",
-"w": 700,
-"h": 560,
-"credit": "Ronald Wittek/EPA",
-"via": "feed"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cx5y1pzr9604o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://reason.com/volokh/2026/11/15/the-mayflower-extract/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://nypost.com/2026/11/15/betting/rams-vs-cardinals-prediction-nfl-week-10-odds-picks-prop-bets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-hi8ht8khi-1794685058325.jpg?quality%3D90%26strip%3Dall%261794667191",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
-"https://nypost.com/2026/11/15/betting/seahawks-vs-raiders-prediction-nfl-week-10-odds-picks-best-bets/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-1yqtnr5ga-1794604157613.jpg?quality%3D90%26strip%3Dall%261794586249",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T17:03:42.659288+00:00"
-},
 "https://justthenews.com/nation/culture/richard-sterbann-oak-ridge-boys-dies-83": {
 "v": 2,
 "photo": null,
@@ -8920,5 +8806,161 @@
 "via": "feed"
 },
 "checked": "2026-11-18T16:25:29.754955+00:00"
+},
+"https://justthenews.com/politics-policy/sen-ron-johnson-blasts-social-security-legal-ponzi-scheme": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.foxnews.com/politics/recent-service-outages-not-state-sponsored-attacks-dni-jay-clayton-testifies": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jay-clayton-1.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/MJLcCuu_ztINqlhl0U24ecAgbX8=/0x0:2700x1519/1366x768/2026/11/18/1795022021581.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-915349": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/566984",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4807430/angela-alsobrooks-van-hollen-maryland-schumer-endorsement/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26063809512603-e1795019579674.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://reason.com/2026/11/18/ai-orgy-gossip-gets-packaged-as-metoo/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/11.18.26-v3-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "LightFieldStudios/Envato",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://dailycaller.com/2026/11/18/trump-rubio-clayton-cyber-attack-microsoft-faa-nsa": {
+"v": 2,
+"photo": {
+"img": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2305122301.jpeg",
+"w": 1280,
+"h": 549,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTdqNmJ3dG1kZ2FVYnl4anlpdndtNUh3ckJHM25iNHBBT3h5cVExbUp0LURZUkh1VnF6bUNuckkzenVzenRnZXc2NjRaNFdsWkh0bTFiM3hZcnRJTDhybWtkMmJWTzhpOTdlVnQ0UlJGX043eTFGUjJ0QnhtWTdlbkx6TWQzTGVGMHp2bjRXNXV4Ump4NEQ2LXJ0cm1IVzd0c0F2WFRJRzNKMkhSb3c?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Manuel Mazzanti/NurPhoto via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Michael Yanow/NurPhoto via Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/18/wedged-dog-containers-Duarte/1681795020377/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/18/voyager-1-one-light-day-from-earth/5931795019381/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/230446.jpg?imageId=230446&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/brown_sherrod_talarico_james_el-sayed_abdul_turek_josh_cooper_roy_schumer_chuck_stratton_juliana_pappas_chris_andrews_annie_jackson_troy_flanagan_peggy_hamilton_adam_11092026_AP26313768395459.png?w=900",
+"w": 898,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
+},
+"https://nypost.com/2026/11/18/lifestyle/rare-michael-jackson-portrait-set-to-sell-for-over-500k-at-upcoming-la-auction/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41952078.jpg?quality%3D90%26strip%3Dall",
+"w": 3221,
+"h": 2146,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-18T17:26:29.572711+00:00"
 }
 }
