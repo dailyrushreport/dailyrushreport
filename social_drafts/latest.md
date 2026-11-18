@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 18, 2026 9:20 AM CT
+# Social drafts — Wed Nov 18, 2026 12:14 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-0920.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-1214.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nvidia rejects Huang offer to return as CEO  
-Outlet: The Hill  
-Link: https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/  
-Pinned by editor: no · BREAKING: no
+Lead: Democrats nominate Hakeem Jeffries to be US Speaker of the House  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cmy49873dn95o  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 124/280 chars (X counting)
+## X — status: pending_approval · 154/280 chars (X counting)
 
 ```
-Nvidia rejects Huang offer to return as CEO. (The Hill) https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/
+Democrats nominate Hakeem Jeffries to be US Speaker of the House. (BBC) https://www.bbc.co.uk/news/articles/cmy49873dn95o
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Nvidia rejects Huang offer to return as CEO. Story via The Hill. Link in bio.
+Democrats nominate Hakeem Jeffries to be US Speaker of the House. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

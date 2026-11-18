@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
   "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
   "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/",
   "https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/",
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
-  "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/"
+  "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
+  "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
-  "since": "2026-11-18T15:20:39.876027+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+  "since": "2026-11-18T18:14:23.489138+00:00"
  },
- "last_build": "2026-11-18T17:26:29.572711+00:00",
+ "last_build": "2026-11-18T18:14:23.489138+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -88,11 +88,10 @@
   "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
-  "Christianity Today": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-18T16:25Z",
+  "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
   "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4783690/haley-stevens-fiance-jason-turkish-mike-rogers/",
   "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/",
   "https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/",
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
-  "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/"
+  "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
+  "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
  ]
 }

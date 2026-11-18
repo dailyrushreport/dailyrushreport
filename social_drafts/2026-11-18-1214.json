@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-18-1214.json",
+  "created": "2026-11-18T18:14:23.489138+00:00",
+  "created_ct": "Wed Nov 18, 2026 12:14 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "original_headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Democrats nominate Hakeem Jeffries to be US Speaker of the House. (BBC) https://www.bbc.co.uk/news/articles/cmy49873dn95o\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 154,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Democrats nominate Hakeem Jeffries to be US Speaker of the House. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
