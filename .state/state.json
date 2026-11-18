@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/",
   "https://nypost.com/2026/11/15/sports/kirk-cousins-gets-emotional-after-win-in-vikings-return-tough-three-years/",
   "https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes",
   "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
   "https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson",
-  "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/"
+  "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/",
+  "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/",
-  "since": "2026-11-18T05:27:03.856592+00:00"
+  "url": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
+  "since": "2026-11-18T08:49:31.208201+00:00"
  },
- "last_build": "2026-11-18T07:46:23.497594+00:00",
+ "last_build": "2026-11-18T08:49:31.208201+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
   "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
   "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
   "https://nypost.com/2026/10/28/betting/brewers-vs-rays-game-5-prediction-mlb-world-series-picks-best-bets-odds/",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
   "https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson",
-  "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/"
+  "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/",
+  "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/"
  ]
 }

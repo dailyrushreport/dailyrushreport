@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 17, 2026 11:27 PM CT
+# Social drafts — Wed Nov 18, 2026 2:49 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-17-2327.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-0249.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Nvidia does not plan to reinstate Jensen Huang as CEO, chairman says  
-Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/  
+Lead: Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 160/280 chars (X counting)
+## X — status: pending_approval · 161/280 chars (X counting)
 
 ```
-Nvidia does not plan to reinstate Jensen Huang as CEO, chairman says. (Washington Examiner) https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/
+Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms. (NY Post) https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Nvidia does not plan to reinstate Jensen Huang as CEO, chairman says. Story via Washington Examiner. Link in bio.
+Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
