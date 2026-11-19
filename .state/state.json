@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
   "since": "2026-11-19T06:53:10.867501+00:00"
  },
- "last_build": "2026-11-19T06:53:10.867501+00:00",
+ "last_build": "2026-11-19T08:12:19.537266+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -74,7 +74,7 @@
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-19T05:50Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
