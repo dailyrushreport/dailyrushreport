@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-0651.json",
+  "created": "2026-11-19T12:51:38.346763+00:00",
+  "created_ct": "Thu Nov 19, 2026 6:51 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
+    "original_headline": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
+    "url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained. (Fox News) https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 150,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
