@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
   "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/",
   "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
   "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
-  "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/"
+  "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
+  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
-  "since": "2026-11-19T15:21:04.028886+00:00"
+  "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+  "since": "2026-11-19T16:26:27.430415+00:00"
  },
- "last_build": "2026-11-19T15:21:04.028886+00:00",
+ "last_build": "2026-11-19T16:26:27.430415+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -74,25 +74,24 @@
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-19T14:08Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-19T14:08Z",
+  "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
   "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
   "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
   "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
@@ -291,6 +290,7 @@
   "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
   "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
-  "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/"
+  "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
+  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya"
  ]
 }

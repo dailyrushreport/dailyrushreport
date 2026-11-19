@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-1026.json",
+  "created": "2026-11-19T16:26:27.430415+00:00",
+  "created_ct": "Thu Nov 19, 2026 10:26 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Myanmar becomes first state found responsible for genocide by UN court",
+    "original_headline": "Myanmar becomes first state found responsible for genocide by UN court",
+    "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+    "source": "Axios",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Myanmar becomes first state found responsible for genocide by UN court. (Axios) https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 162,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Myanmar becomes first state found responsible for genocide by UN court. Story via Axios. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
