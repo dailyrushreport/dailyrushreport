@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-1327.json",
+  "created": "2026-11-19T19:27:29.417772+00:00",
+  "created_ct": "Thu Nov 19, 2026 1:27 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "UN court rules that Myanmar committed genocide against Rohingya",
+    "original_headline": "UN court rules that Myanmar committed genocide against Rohingya",
+    "url": "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "UN court rules that Myanmar committed genocide against Rohingya. (The Hill) https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 144,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "UN court rules that Myanmar committed genocide against Rohingya. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

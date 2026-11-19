@@ -1,190 +1,4 @@
 {
-"https://justthenews.com/politics-policy/houthis-achieve-breakthrough-push-toward-city-aden": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.dailysignal.com/2026/11/16/huawei-reminds-us-why-we-need-american-tech-companies/": {
-"v": 2,
-"photo": {
-"img": "https://static.dailysignalmedia.org/2026/11/261116_NVIDIA.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.scotusblog.com/2026/11/supreme-court-turns-down-dei-related-disputes-and-second-amendment-challenge-to-gun-bans-in-sens/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.sanity.io/images/pito4za5/production/171ebb1522bf8bc03f0ab681225ea368607f2524-1024x683.jpg?w=1200&fit=max",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.breitbart.com/europe/2026/11/16/ukraine-launches-largest-drone-attack-of-the-war-so-far/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/GettyImages-2304432601-e1794846026696-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "Getty Images",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.washingtonexaminer.com/policy/infrastructure/4804620/will-nationwide-ground-stop-affect-holiday-season-travel/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318618393064-e1794708850280.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/2ca2d3a2da60e02aa237b7bee54e668021b8d8bd/831_132_2769_2216/master/2769.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4994ed2ffc63b29d0b74a040771c8",
-"w": 700,
-"h": 560,
-"credit": "Rodolfo Gonzalez/AP",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cw5y1v8de35go": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.jpost.com/middle-east/article-915088": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746580",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://thehill.com/homenews/state-watch/6223132-trump-officials-accused-misconduct/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Leading-Lucas_102226_AP_Steve-Helber.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310154.jpg?imageId=5310154&x=0&y=9.55&cropw=100&croph=64.82&panox=0&panoy=9.55&panow=100&panoh=64.82&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5244798.jpg?imageId=5244798&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/BUmVWRPLd5qnr8PFhBmTw-2000-80.jpg",
-"w": 2000,
-"h": 1125,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://nypost.com/2026/11/16/sports/rex-ryan-michael-irvin-pile-on-cowboys-after-49ers-beatdown/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-k2q63gj73-1794853010315.jpg?quality%3D90%26strip%3Dall%261794835028",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://www.outdoorlife.com/gear/best-black-friday-deals-bass-pro/": {
-"v": 2,
-"photo": {
-"img": "https://www.outdoorlife.com/wp-content/uploads/2025/07/TenPoint-TX-28.jpg?quality=85",
-"w": 2000,
-"h": 1252,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
-"https://nypost.com/2026/11/16/business/former-sec-chair-gary-gensler-says-ai-bubble-will-burst-trigger-recession-by-2028-election/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fformer-sec-chair-gary-gensler-148976815.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T18:40:52.682826+00:00"
-},
 "https://www.theguardian.com/sport/live/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final-live": {
 "v": 2,
 "photo": {
@@ -9599,5 +9413,229 @@
 "via": "feed"
 },
 "checked": "2026-11-19T18:14:17.448488+00:00"
+},
+"https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rahimi_twins_iran.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.politico.com/news/2026/11/19/nevada-aaron-ford-promises-legislative-blitz-on-affordability-01175985": {
+"v": 2,
+"photo": {
+"img": "https://static.politico.com/6b/0c/c561f76745f88c892f73c998de82/fm2a0201.JPG",
+"w": 3408,
+"h": 2272,
+"credit": "Chase Busath for POLITICO",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323410282735-e1795114997604.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.washingtonexaminer.com/policy/energy-and-environment/4809054/trump-administration-opens-american-samoa-waters-deep-sea-mining-exploration/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26322592474348.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://thehill.com/homenews/administration/6231156-trump-musk-maga-distance/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26321482782593-e1794922496640.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4809025/ted-cruz-james-talarico-give-shot-tequila/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26301579989088.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.jpost.com/middle-east/iran-news/article-915531": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747261",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://reason.com/2026/11/19/how-grand-theft-auto-became-the-new-monoculture/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/GTA6-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Rockstar Games",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.thecentersquare.com/new_york/article_11f15dc6-7438-4b80-a184-ea9f2b2fff1d.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/7/eb/7ebd3fe5-6bbf-48e7-b9cb-a2ddc4c1759e/6a68efc8b4d2d.image.jpg?crop=1200%2C630%2C0%2C22",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://justthenews.com/nation/crime/susan-smith-who-was-convicted-drowning-her-two-sons-1995-denied-parole-again": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckzd9nln5e6go": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "CCTV",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.upi.com/Odd_News/2026/11/19/fort-myers-florida-green-peppers-spilled-road/5881795114056/": {
+"v": 2,
+"photo": {
+"img": "https://cdnph.upi.com/ph/st/th/5881795114056/2026/i/17951141841520/v1.5/Pepper-pileup-closes-two-lanes-of-busy-Florida-road.jpg",
+"w": 400,
+"h": 266,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.thefp.com/p/tough-love-i-live-in-australia-my-parents-hate-it-advice-column": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!urr2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa7a4b9-af43-4556-82a6-52cb9d9f8a65_1024x666.jpeg",
+"w": 1024,
+"h": 666,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0tPenNoMjdjcDJoVFFqUkV0UFVrWVRNVmJjb19PVmdIMEszRzBJRDU1SUp6RDFVMkpjMjdUc2tGT3NnekkzRVFXQ3JXX2pZUXlSWXFjZU90VWthM2dLYkZGTFFYSnh2Tzh1WWp6bi1YdURMYUVhX1hHR2dFNTBXMXE0TnJrV1dJRUZqbWpIMHhkQ0t5VjlyaGx6aDZRdkxMWU1tUlpucHRtWThGRDMxTVBFbw?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+"w": 1024,
+"h": 648,
+"credit": "Justin Sullivan",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/107157714-1669656813147-amaz.jpg?v=1694561107&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5311047.jpg?imageId=5311047&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://nypost.com/2026/11/19/us-news/trump-sends-pointed-message-to-elon-musk-after-trillionaire-claims-hes-not-maga/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149397646.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
+},
+"https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T19:27:29.417772+00:00"
 }
 }
