@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 18, 2026 9:43 PM CT
+# Social drafts — Thu Nov 19, 2026 12:53 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-2143.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-19-0053.json x` or `... instagram` (prints the final text to copy).
 
-Lead: 'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/  
+Lead: Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink  
+Outlet: NY Post  
+Link: https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 157/280 chars (X counting)
+## X — status: pending_approval · 166/280 chars (X counting)
 
 ```
-'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches. (Breitbart) https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/
+Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. (NY Post) https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches. Story via Breitbart. Link in bio.
+Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. Story via NY Post. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

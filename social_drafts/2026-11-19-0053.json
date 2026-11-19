@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-0053.json",
+  "created": "2026-11-19T06:53:10.867501+00:00",
+  "created_ct": "Thu Nov 19, 2026 12:53 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink",
+    "original_headline": "Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink",
+    "url": "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
+    "source": "NY Post",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. (NY Post) https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 166,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. Story via NY Post. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
