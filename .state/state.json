@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/policy/defense/4806211/war-department-fails-clean-audit-ninth-year/",
   "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
   "https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
   "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
   "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
-  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya"
+  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+  "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/"
  ],
  "current_lead": {
-  "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
-  "since": "2026-11-19T16:26:27.430415+00:00"
+  "url": "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
+  "since": "2026-11-19T18:14:17.448488+00:00"
  },
- "last_build": "2026-11-19T17:24:27.344918+00:00",
+ "last_build": "2026-11-19T18:14:17.448488+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,7 @@
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
   "The Register": "ok",
-  "City Journal": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-19T16:26Z",
+  "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
   "https://nypost.com/2026/10/29/sports/jeffery-simmons-was-stunned-by-blockbuster-bears-trade/",
   "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
   "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
   "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
-  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya"
+  "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+  "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/"
  ]
 }

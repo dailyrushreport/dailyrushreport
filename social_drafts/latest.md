@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 19, 2026 10:26 AM CT
+# Social drafts — Thu Nov 19, 2026 12:14 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-19-1026.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-19-1214.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Myanmar becomes first state found responsible for genocide by UN court  
-Outlet: Axios  
-Link: https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya  
+Lead: ICJ rules Myanmar committed genocide against Rohingya  
+Outlet: Washington Examiner  
+Link: https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/  
 Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 162/280 chars (X counting)
+## X — status: pending_approval · 159/280 chars (X counting)
 
 ```
-Myanmar becomes first state found responsible for genocide by UN court. (Axios) https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya
+ICJ rules Myanmar committed genocide against Rohingya. (Washington Examiner) https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/
 
 Common sense, served fast. #DailyRushReport #BreakingNews
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport #BreakingNews
 ## Instagram — status: pending_approval
 
 ```
-Myanmar becomes first state found responsible for genocide by UN court. Story via Axios. Link in bio.
+ICJ rules Myanmar committed genocide against Rohingya. Story via Washington Examiner. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
