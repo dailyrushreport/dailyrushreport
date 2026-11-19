@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-1422.json",
+  "created": "2026-11-19T20:22:52.391927+00:00",
+  "created_ct": "Thu Nov 19, 2026 2:22 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "original_headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Myanmar committed genocide against Rohingya minority, top UN court rules. (BBC) https://www.bbc.co.uk/news/articles/c804wzp20ddvo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 148,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Myanmar committed genocide against Rohingya minority, top UN court rules. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

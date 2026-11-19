@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/",
   "https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson",
   "https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/",
   "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
   "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
   "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
-  "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/"
+  "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
+  "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
-  "since": "2026-11-19T19:27:29.417772+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+  "since": "2026-11-19T20:22:52.391927+00:00"
  },
- "last_build": "2026-11-19T19:27:29.417772+00:00",
+ "last_build": "2026-11-19T20:22:52.391927+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
   "https://nypost.com/2026/10/29/business/utah-charges-kalshis-founders-escalating-a-war-over-who-can-regulate-prediction-markets/",
   "https://nypost.com/2026/10/29/us-news/jd-vance-fires-back-at-obama-over-cheesecake-factory-dig-super-elitist/",
   "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
@@ -291,6 +290,7 @@
   "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
   "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
   "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
-  "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/"
+  "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
+  "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
  ]
 }
