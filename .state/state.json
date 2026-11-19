@@ -25,7 +25,7 @@
   "url": "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
   "since": "2026-11-18T23:14:39.564772+00:00"
  },
- "last_build": "2026-11-18T23:14:39.564772+00:00",
+ "last_build": "2026-11-19T00:13:02.933452+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -70,11 +70,11 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "ok",
+  "The Register": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-18T23:14Z",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-18T23:14Z",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",

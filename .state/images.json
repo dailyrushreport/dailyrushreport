@@ -1,135 +1,4 @@
 {
-"https://www.jpost.com/international/article-915000": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746460",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.jpost.com/health-and-wellness/article-914998": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/543682",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/d2467769f6573bcc5af9cc096d4dd2ddf63e656a/716_76_3340_2673/master/3340.jpg?width=700&quality=85&auto=format&fit=max&s=9037fcc10d75ebda0d4cc256c2640328",
-"w": 700,
-"h": 560,
-"credit": "Gerald Herbert/AP",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-minnesota-vikings-lambeau-field.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Manuel Mazzanti/NurPhoto via Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b23/live/cf9c9fd0-e144-11f1-b441-2b33b063138f.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://nypost.com/2026/11/15/sports/auston-trusty-honors-late-father-with-usmnt-goal-vs-haiti/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-h6rca9otw-1794782852209.jpg?quality%3D90%26strip%3Dall%261794764884",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108288325-1775599795562-gettyimages-2270284034-dji_20260407125702_0015_d_copy_dtrf3qez.jpeg?v=1776351507&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://nypost.com/2026/11/15/sports/south-carolinas-chloe-kitts-mocks-usc-trojans-after-loss/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-kf471w3zd-1794784623174.jpg?quality%3D90%26strip%3Dall%261794766649",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
-"https://nypost.com/2026/11/15/us-news/bruce-springsteen-fan-club-shut-down-by-admin-after-becoming-torn-apart-by-political-fights-el-sayed-endorsement/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnews-comp.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-15T23:32:19.284321+00:00"
-},
 "https://justthenews.com/nation/states/center-square/everyday-economics-federal-government-delayed-housing-recovery": {
 "v": 2,
 "photo": null,
@@ -9193,5 +9062,129 @@
 "via": "feed"
 },
 "checked": "2026-11-18T23:14:39.564772+00:00"
+},
+"https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/C-130-Hercules-aircraft-damage-at-Shannon-Airport.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://justthenews.com/world/middle-east/hundreds-protesters-call-regime-change-iran-after-bus-crash-kills-13-refinery": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.thecentersquare.com/arizona/article_dd40e8f3-69c5-4ce7-afd4-772e81a13dd3.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/3/60/360223ce-51a2-49a8-ac91-3729ed1356bd/6afe2f07eac6f.image.jpg?crop=1200%2C630%2C0%2C22",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://news.google.com/rss/articles/CBMif0FVX3lxTE5heVByR3lXOE9nSi1mdlBTUVJtOExwLVJDbzZtWjBQTmt6ZHpscXZ1TDNoU3ZiN0theDFtS3E1SUtENFk1ZFp6aTlITHdiWHJEWWk2OXBoZUkxc0tDb1hKSDhHNnd5VGZvWDRFaTQ4SVdLWlBYQzhKNHNKYWpsSzA?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.jpost.com/international/article-915380": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746187",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3pucWZnd3ZiQnNXcEdWV3FWVE9QLWI2d3NqaV9OcXVyVUdaWEo2REI0THdyVW1iTzRfNmp5ZFlnRzM3TU5uZzlvSEk3NzNKN2RneVhTZkVXclNkZWhVcjVLSmV2SlJwYXd1SXhBT2NUYXlRc0lGSlFaM0N1aHQ3RklxQ3BEVGNtZTZ2eE9mNzBSWll6YVZobGJ5WXpqSHgxMTctaFdsR3NBbTBnVTNleHk4dzZXa1FiVkE?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/": {
+"v": 2,
+"photo": {
+"img": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
+"w": 1152,
+"h": 648,
+"credit": "Getty Images | Tom Williams",
+"via": "feed"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.dailysignal.com/2026/11/18/democrat-lawmaker-elect-wife-in-us-illegally/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/GettyImages-2259968097.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://nypost.com/2026/11/18/sports/one-abdul-carter-stat-tells-the-story-of-what-giants-truly-need/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-htsekzz9r-1795045473737.jpg?quality%3D90%26strip%3Dall%261795027512",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://www.outdoorlife.com/gear/early-black-friday-deals-trail-cameras/": {
+"v": 2,
+"photo": {
+"img": "https://www.outdoorlife.com/wp-content/uploads/2024/11/moultrie-edge.jpg?quality=85",
+"w": 2000,
+"h": 1252,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
+},
+"https://unherd.com/2026/11/the-uncomfortable-truth-about-rape-trials/?edition=us": {
+"v": 2,
+"photo": {
+"img": "https://unherd.com/wp-content/uploads/2026/11/image-19.jpg",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T00:13:02.933452+00:00"
 }
 }
