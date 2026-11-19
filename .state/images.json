@@ -9092,5 +9092,53 @@
 "via": "feed"
 },
 "checked": "2026-11-19T03:43:44.934709+00:00"
+},
+"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEhHOF9BWmhLWHpmQUR5WGUwTDhMSGNSb0d2SWRGRGpFRHhWQjRjY2xPMDBzaGtqcS1fNG9sRnRNeFFKdG9hSTNOQUJ0WDQ4QWZ6bVFwYlEta2kxV1RzSVJwMlJESVN0NHpEUTludWM5bk9SZUhhVW1zSnh3WGlabmN1bGxlaXp6OEhyOFBhWHVtM2ZGd01IUWpPOUtrVUNWdnZUZThlOGI4anVJWDg2QjZiQnJkSnNqTTB6eGF3?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T04:50:52.159741+00:00"
+},
+"https://news.google.com/rss/articles/CBMingFBVV95cUxNVk5EODZxam8zb2tFT2JoSWkzd0d5UXV2OFduVDAxdUFIbkgyLUl2MEFVZnBLY29SYWFuUDRHemwtUHNDbUcwOTJkalFadE4wMkt0UDNzWXdEd05kYy1qcW1SS1hZQ3ZqekltdzRhSGIxZkFoZEF4dnJuZjQ2dHdMcmNUQ3dRRkpQSGU4bGVaSUh2Y3ZadmZYNVZDczZkQQ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T04:50:52.159741+00:00"
+},
+"https://justthenews.com/nation/states/center-square/convicted-felon-who-suspended-campaign-wins-texas-house-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T04:50:52.159741+00:00"
+},
+"https://www.jpost.com/israel-news/article-915394": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/687638",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T04:50:52.159741+00:00"
+},
+"https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/slotkinelissa_111226gn01_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T04:50:52.159741+00:00"
+},
+"https://nypost.com/2026/11/18/sports/pete-carroll-fires-up-rio-hondo-prep-ahead-of-cif-semifinal/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-wovdjoagf-1795062991024.jpg?quality%3D90%26strip%3Dall%261795045034",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T04:50:52.159741+00:00"
 }
 }
