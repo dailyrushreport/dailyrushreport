@@ -1,216 +1,4 @@
 {
-"https://justthenews.com/nation/culture/robert-pattinson-officially-becomes-next-james-bond": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.dailysignal.com/2026/11/16/i-thought-democrats-followed-science/": {
-"v": 2,
-"photo": {
-"img": "https://static.dailysignalmedia.org/2026/11/261116-Jay_Jones.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.washingtonexaminer.com/policy/infrastructure/4804528/aaa-projects-thanksgiving-travel-low-due-to-costs/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26311009582140.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.washingtonexaminer.com/news/white-house/4804552/trump-stands-by-duffy-and-lutnick-after-faa-ground-stop-and-nvidia-controversies/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26320547205081.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.foxnews.com/media/after-blue-wave-what-happens-education-policy-parental-rights-protections-flipped-states": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/ginojosa-at-campaign-event.jpg?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.thecentersquare.com/illinois/article_6712aa55-f616-4cdd-a910-52cf8d08198f.html": {
-"v": 2,
-"photo": {
-"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/custom/image/c05cdcda-15bc-11ee-ad7f-2f500402d003.png?resize=600%2C314",
-"w": 600,
-"h": 314,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26320522396755-e1794839773166.jpg?w=900",
-"w": 900,
-"h": 504,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108209449-1759940352353-gettyimages-2239418024-1525260-la-me-file-imagery-ucla-jey-08.jpeg?v=1794840174&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.nationalreview.com/article/standing-athwart-pumpkin-tyranny": {
-"v": 2,
-"photo": {
-"img": "https://cdn.sanity.io/images/yu68q2re/production/da0aa31575cffe6aba0561640b9ae5a8490d4da7-2057x1200.jpg?w=600",
-"w": 600,
-"h": 350,
-"credit": "Smith Collection/Gado/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cw987343352go": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.jpost.com/international/article-915071": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746478",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSV9oZEM3WmEtbUdvb2lqZjZTaFpwalJqZk9UVkMxVERvaVJCQ0ZZTzhZYVBFd3B5OEV0ZGZBc2VTYkFnVzdaVFJBNXotWndsa1Iwc09HTEVYZEJBOXlwcl9iWW1qRHUtbW9hYjczbnFOb2lRWG5BaGJLWVVPYmVzTTdiRQ?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlJuZ3J6c3VIdGVQcmpRS2g3bzAtclU2UjFZbzhVU0NPbzRnVUhZdW9RUUtlYUxnbXlyWHBaWEZMUWhyYXVDZmpLZnEyaDc0MEVDeHlrZlhKVWNWU3NnQkFFUEVIQ09wMUdUWTEteFF0MlhFZmppSVlDSUZvQXRoRGJWUS1yc2ZCQmY3SW1MYzVjTUFyMmxmRnNmY2dkbHIwYVRBblgzVUY5Ylk?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://reason.com/volokh/2026/11/16/washington-may-permit-nudity-focused-businesses-to-set-eentry-requirements-based-on-genitalia/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/of5F852CDzKzs3wwHFrPxR-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "Getty Images/Sightseeing Archive",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.upi.com/Odd_News/2026/11/16/albert-lea-minnesota-spider-monkey/5631794844324/": {
-"v": 2,
-"photo": {
-"img": "https://cdnph.upi.com/ph/st/th/5631794844324/2026/i/17948444676814/v1.5/Police-find-spider-monkey-wandering-loose-in-Minnesota.jpg",
-"w": 400,
-"h": 266,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5244738.jpg?imageId=5244738&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/f9ETjaXCDDnRXBGg7qwLYK-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "ESA/Euclid/Euclid Consortium/NASA, M. P\u00f6ntinen et al. 2026",
-"via": "feed"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/1682043.jpg?imageId=1682043&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
-"https://nypost.com/2026/11/16/lifestyle/deadline-to-file-claim-in-cvs-20-5m-settlement-is-today/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41894703.jpg?quality=75&strip=all&w=1200",
-"w": 1200,
-"h": 799,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T16:30:00.476008+00:00"
-},
 "https://www.foxnews.com/politics/trump-leaves-door-open-kim-jong-un-joining-high-stakes-talks-xi-putin": {
 "v": 2,
 "photo": {
@@ -9627,5 +9415,206 @@
 "via": "feed"
 },
 "checked": "2026-11-19T16:26:27.430415+00:00"
+},
+"https://justthenews.com/nation/technology/anthropic-ipo-may-open-strong-110-share-investors-gauge-future-ai-trade": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.axios.com/2026/11/19/meta-ai-emissions-rise": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/DaizhQ8Nk4ChevERfvVTt8Tyx2Q=/0x0:1920x1080/1366x768/2026/11/19/1795107417886.jpg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323457502358.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnJuTmVHSVhnV3VHQ3JKZGNaR280TzZrdXQxQmdGNmVRZXhmQmtLS19LRThzMXY5TFR2MG9XeWRTeFBnYi13c18tMS0tWWpzVWxJdHAySnRrZFJBclBvSjZhaUtnNlI2QlNBZ0FrRV9RNmpENTJCYTZudzRuSWxmTlNaNkM2WUFZZnlZaEk3S0lyQk9JUERRQkZlQ0JPWFpYMzVHRXZoZzFpZDBDNnEzcmd2NWplV2h5XzNQQm10VTZFU2tU?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.dailysignal.com/2026/11/19/what-government-watchdogs-deep-blue-donation-trail-says-about-agencys-impartiality/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/s.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.jpost.com/international/article-915519": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747122",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://reason.com/2026/11/19/the-u-s-just-lost-its-measles-free-status-who-or-what-is-to-blame/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/11.18.26-v2-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.nationalreview.com/article/has-hakeem-jeffries-lost-his-mind": {
+"v": 2,
+"photo": {
+"img": "https://cdn.sanity.io/images/yu68q2re/production/fbde52e076df4d75e9d9ebf5dcc1cfefbc6267a8-2057x1200.jpg?w=600",
+"w": 600,
+"h": 350,
+"credit": "Kevin Lamarque/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108555351-17951018662026-11-19t151417z_1636203947_rc21road8kpz_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101963&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/Jr9fpVZX8EQbMC79c5X9MS-2133-80.jpg",
+"w": 2133,
+"h": 1200,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/uyuB8CbDgvkMvsRakAizzg-2000-80.jpg",
+"w": 2000,
+"h": 1125,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://nypost.com/2026/11/19/business/ai-makes-more-outages-likely-after-perfect-storm-slammed-microsoft-says-ceo-satya-nadella/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149373679.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/229944.jpg?imageId=229944&x=0&y=8.13&cropw=100&croph=77.71&panox=0&panoy=8.13&panow=100&panoh=77.71&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/anthropic-dario-amodei-nasdaq.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Microsoft-To-Do.jpg?quality=90&strip=all&crop=0%2C3.4385907504363%2C100%2C93.122818499127&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16d1/live/b7600f70-e418-11f1-b37c-b3a71d7200af.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T17:24:27.344918+00:00"
 }
 }

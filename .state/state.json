@@ -25,7 +25,7 @@
   "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
   "since": "2026-11-19T16:26:27.430415+00:00"
  },
- "last_build": "2026-11-19T16:26:27.430415+00:00",
+ "last_build": "2026-11-19T17:24:27.344918+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -71,7 +71,7 @@
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
   "The Register": "ok",
-  "City Journal": "ok",
+  "City Journal": "FAILED (HTTPError: HTTP Error 404: Not Found) - used cache from 2026-11-19T16:26Z",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
