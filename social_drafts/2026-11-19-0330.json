@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-19-0330.json",
+  "created": "2026-11-19T09:30:18.534569+00:00",
+  "created_ct": "Thu Nov 19, 2026 3:30 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "original_headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'. (BBC) https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 148,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 19, 2026 12:53 AM CT
+# Social drafts — Thu Nov 19, 2026 3:30 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-19-0053.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-19-0330.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/  
+Lead: Elon Musk says record $446m spending on US midterms was 'pretty foolish'  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 166/280 chars (X counting)
+## X — status: pending_approval · 148/280 chars (X counting)
 
 ```
-Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. (NY Post) https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/
+Elon Musk says record $446m spending on US midterms was 'pretty foolish'. (BBC) https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink. Story via NY Post. Link in bio.
+Elon Musk says record $446m spending on US midterms was 'pretty foolish'. Story via BBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

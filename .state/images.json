@@ -1,123 +1,4 @@
 {
-"https://www.foxnews.com/politics/federal-prosecutor-warns-sen-warren-legal-consequences-records-arent-preserved-trump-linked-probes": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/elizabeth-warren-senate-banking-committee-hearing-fox-news.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://justthenews.com/government/congress/van-hollen-says-party-needs-fresh-start-he-rallies-support-schumer-challenge": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-16/european-gas-dips-as-record-us-flows-counter-storage-concerns": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://news.google.com/rss/articles/CBMisgFBVV95cUxOXzhjUWdXMWFmMjBnY2tEZlFmQWh3akp5X1dHeTRSZWNFUlFkVjBtTDdvRWx1ZURUSWUtcjdjZE9EOElwTHY4bXRlVDJTUTFzTXZ5ajRZeUx4QlZ6UEdMQVFHUGRhaDZaMzZRWmNYaW40bHNxSkJONk1HdWFYbUFQbk9wcHBSM0pRaVpsQjRYeWhGTld0WDRQdmhPemxPZ2ZQRDEyZjQ0RUpxN0JicUpYa1ZB?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.jpost.com/israel-news/article-915025": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746488",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.bbc.co.uk/news/articles/c67428w9vvkqo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm3rglzqjl90o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3245/live/d32d3880-3574-11f0-a288-d583f745f4b6.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.theregister.com/on-prem/2026/11/16/techie-rigged-off-spec-fan-near-flammable-liquid-and-an-exposed-motherboard-then-left-it-to-run-for-days/5309601": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5309606.jpg?imageId=5309606&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://reason.com/volokh/2026/11/16/open-thread-390/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310021.jpg?imageId=5310021&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://www.theguardian.com/sport/2026/nov/16/brock-purdy-san-francisco-49ers-nfl": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/17c368283b54c6199d51c81fc50817760994904c/776_80_5100_4083/master/5100.jpg?width=700&quality=85&auto=format&fit=max&s=ae2327c28eed2df1cc401bc98573f7da",
-"w": 700,
-"h": 560,
-"credit": "Brian Rothmuller/Icon Sportswire/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
-"https://nypost.com/2026/11/16/media/pete-buttigieg-breaks-with-democrats-on-student-loan-handouts-admits-party-overtorqued-on-issue/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148937248.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-16T08:27:16.038488+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-16/jaguar-parent-sees-biggest-drop-since-2022-after-outlook-cut": {
 "v": 2,
 "photo": null,
@@ -8509,8 +8390,14 @@
 },
 "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook": {
 "v": 2,
-"photo": null,
-"checked": "2026-11-19T01:43:49.005871+00:00"
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+"w": 1200,
+"h": 627,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
 },
 "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html": {
 "v": 2,
@@ -9085,5 +8972,130 @@
 "via": "feed"
 },
 "checked": "2026-11-19T08:12:19.537266+00:00"
+},
+"https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-xi-hug.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://justthenews.com/index%2Ephp/nation/states/center-square/convicted-felon-who-suspended-campaign-wins-texas-house-race": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108554981-1795077420593-gettyimages-2305839919-wm018086_eydfq2t1.jpeg?v=1795077451&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV013TEYtaXRJcGxUMzNpaTF3VFZQLU5EbUFSRlpCSGxEX2hnYXV2c1NiZ0M2XzVPZ0Qya01nV3RIYm9md2dEcnd2LVN2X0xvb1JXQjk0UEJ2S0NLWHBiZGZHZHpoRndPQWFIajJVZW12UFlKbzJCckI1aHlqY2U1bjFXYWx1Tk54d0pPOExHbmR4SEFmUTNrTVZfOTVDcjQ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-915419": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747087",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://reason.com/2026/11/19/brickbat-federal-bureau-of-embezzlement/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/fbi-agent-phone-surveillance-1200x675.jpg",
+"w": 1200,
+"h": 675,
+"credit": "Andrey Popov/Dreamstime",
+"via": "feed"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cw987ynpd0n1o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e983/live/c8f15bb0-e36c-11f1-9f51-4bfc31543510.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c920xgxp5785o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310939.jpg?imageId=5310939&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5310898.jpg?imageId=5310898&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://www.foxnews.com/us/hotel-workers-skills-put-test-36th-annual-housekeeping-olympics-las-vegas": {
+"v": 2,
+"photo": {
+"img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5588b7cc-b6d2-4cd6-874a-cc1d03b037d2/ff7db6f2-814c-4603-a390-d9c43e873e1e/1280x720/match/image.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
+},
+"https://nypost.com/2026/11/19/us-news/florida-rainfall-supercharged-by-el-nino-floods-roads-and-collapses-synagogues-roof/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149339584.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-19T09:30:18.534569+00:00"
 }
 }

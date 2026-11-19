@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
   "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
   "https://thehill.com/homenews/education/6224779-foreign-student-visas-trump-dhs/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
   "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
   "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/",
-  "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/"
+  "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
+  "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
-  "since": "2026-11-19T06:53:10.867501+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+  "since": "2026-11-19T09:30:18.534569+00:00"
  },
- "last_build": "2026-11-19T08:12:19.537266+00:00",
+ "last_build": "2026-11-19T09:30:18.534569+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -74,7 +74,7 @@
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-19T08:12Z",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
   "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
   "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
   "https://nypost.com/2026/10/29/betting/bears-super-bowl-odds-jump-after-shocking-blockbuster-trade/",
@@ -291,6 +290,7 @@
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
   "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
   "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/",
-  "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/"
+  "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
+  "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o"
  ]
 }
