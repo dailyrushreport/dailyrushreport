@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 18, 2026 8:41 PM CT
+# Social drafts — Wed Nov 18, 2026 9:43 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-18-2041.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-18-2143.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Elon Musk feels ‘pretty foolish’ after spending nearly $500M during the 2026 midterms  
-Outlet: NY Post  
-Link: https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/  
-Pinned by editor: no · BREAKING: yes
+Lead: 'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches  
+Outlet: Breitbart  
+Link: https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 179/280 chars (X counting)
+## X — status: pending_approval · 157/280 chars (X counting)
 
 ```
-Elon Musk feels ‘pretty foolish’ after spending nearly $500M during the 2026 midterms. (NY Post) https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/
+'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches. (Breitbart) https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Elon Musk feels ‘pretty foolish’ after spending nearly $500M during the 2026 midterms. Story via NY Post. Link in bio.
+'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches. Story via Breitbart. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

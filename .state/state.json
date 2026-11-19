@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
   "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
   "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
   "https://nypost.com/2026/11/17/sports/bryson-dechambeau-latches-on-with-dp-world-tour-after-liv-golf-crumbles/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
   "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
-  "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/"
+  "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
+  "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
-  "since": "2026-11-19T02:41:01.631589+00:00"
+  "url": "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/",
+  "since": "2026-11-19T03:43:44.934709+00:00"
  },
- "last_build": "2026-11-19T02:41:01.631589+00:00",
+ "last_build": "2026-11-19T03:43:44.934709+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -85,14 +85,13 @@
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-19T01:43Z",
+  "Adventist News Network": "ok",
   "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/29/sports/wnba-finals-mess-with-afternoon-game-6-explained/",
   "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
   "https://thehill.com/business/6180612-doordash-to-acquire-instacart/",
   "https://thehill.com/policy/technology/6180673-us-gdp-growth-ai-investment/",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
   "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
-  "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/"
+  "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
+  "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/"
  ]
 }
