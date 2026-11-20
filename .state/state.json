@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
   "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/",
   "https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/",
   "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
   "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
   "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
-  "https://www.axios.com/2026/11/20/trump-arch-blocked-again"
+  "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+  "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/"
  ],
  "current_lead": {
-  "url": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
-  "since": "2026-11-20T21:35:38.786866+00:00"
+  "url": "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/",
+  "since": "2026-11-20T22:33:36.333162+00:00"
  },
- "last_build": "2026-11-20T21:35:38.786866+00:00",
+ "last_build": "2026-11-20T22:33:36.333162+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -70,17 +70,17 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-20T20:37Z",
+  "The Register": "ok",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "ok",
+  "Zoe Harcombe": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-20T21:35Z",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
   "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
   "https://www.washingtonexaminer.com/news/white-house/4787084/dc-virginia-sue-block-trump-triumph-arch/",
@@ -291,6 +290,7 @@
   "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
   "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
   "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
-  "https://www.axios.com/2026/11/20/trump-arch-blocked-again"
+  "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+  "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/"
  ]
 }
