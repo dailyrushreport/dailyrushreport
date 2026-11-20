@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-20-0944.json",
+  "created": "2026-11-20T15:44:26.352782+00:00",
+  "created_ct": "Fri Nov 20, 2026 9:44 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+    "original_headline": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+    "url": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Van Hollen scores support from another Dem amid Senate majority leader bid. (Fox News) https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 155,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Van Hollen scores support from another Dem amid Senate majority leader bid. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

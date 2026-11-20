@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
   "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
@@ -19,13 +18,14 @@
   "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-  "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/"
+  "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
+  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
-  "since": "2026-11-20T14:43:04.512391+00:00"
+  "url": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+  "since": "2026-11-20T15:44:26.352782+00:00"
  },
- "last_build": "2026-11-20T14:43:04.512391+00:00",
+ "last_build": "2026-11-20T15:44:26.352782+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
@@ -291,6 +290,7 @@
   "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-  "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/"
+  "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
+  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid"
  ]
 }
