@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/",
   "https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/",
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
   "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
-  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/"
+  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
+  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
-  "since": "2026-11-20T04:46:43.023866+00:00"
+  "url": "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
+  "since": "2026-11-20T08:08:14.161128+00:00"
  },
- "last_build": "2026-11-20T06:52:01.724743+00:00",
+ "last_build": "2026-11-20T08:08:14.161128+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -40,7 +40,7 @@
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
-  "Reason": "ok",
+  "Reason": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-20T06:52Z",
   "National Review": "ok",
   "Bloomberg": "ok",
   "CNBC": "ok",
@@ -86,13 +86,12 @@
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-20T06:52Z",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
   "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
-  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/"
+  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
+  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/"
  ]
 }
