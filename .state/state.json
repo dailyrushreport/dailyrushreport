@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
   "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
   "https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
   "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
-  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/"
+  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
+  "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
-  "since": "2026-11-20T16:46:16.045138+00:00"
+  "url": "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
+  "since": "2026-11-20T17:45:20.832650+00:00"
  },
- "last_build": "2026-11-20T16:46:16.045138+00:00",
+ "last_build": "2026-11-20T17:45:20.832650+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -36,7 +36,7 @@
   "Daily Caller": "ok",
   "Daily Wire": "ok",
   "Free Beacon": "ok",
-  "Breitbart": "ok",
+  "Breitbart": "FAILED (HTTPError: HTTP Error 403: Forbidden) - used cache from 2026-11-20T16:46Z",
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
@@ -49,7 +49,7 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
+  "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
   "Washington Times World": "ok",
   "UnHerd": "ok",
@@ -70,14 +70,14 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-20T15:44Z",
+  "The Register": "ok",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
+  "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
   "Gary Taubes": "ok",
@@ -85,14 +85,13 @@
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
-  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
-  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
+  "Adventist News Network": "ok",
+  "Liberty Magazine": "ok",
+  "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
   "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
   "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
-  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/"
+  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
+  "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-20-1145.json",
+  "created": "2026-11-20T17:45:20.832650+00:00",
+  "created_ct": "Fri Nov 20, 2026 11:45 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
+    "original_headline": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
+    "url": "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Watch live: Trump briefs on Asia trip after Xi, Putin summit. (The Hill) https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 141,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Watch live: Trump briefs on Asia trip after Xi, Putin summit. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
