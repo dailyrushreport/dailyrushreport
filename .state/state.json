@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "since": "2026-11-20T11:24:02.934915+00:00"
  },
- "last_build": "2026-11-20T12:19:10.705204+00:00",
+ "last_build": "2026-11-20T13:41:26.875968+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -86,7 +86,7 @@
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
-  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-20T11:24Z",
+  "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
