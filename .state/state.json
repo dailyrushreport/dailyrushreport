@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
   "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
   "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
   "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
-  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid"
+  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
-  "since": "2026-11-20T15:44:26.352782+00:00"
+  "url": "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
+  "since": "2026-11-20T16:46:16.045138+00:00"
  },
- "last_build": "2026-11-20T15:44:26.352782+00:00",
+ "last_build": "2026-11-20T16:46:16.045138+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -49,13 +49,13 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "ok (fallback)",
+  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
   "Fox News World": "ok",
-  "Washington Times World": "ok (fallback)",
+  "Washington Times World": "ok",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok (fallback)",
+  "Washington Times Politics": "ok",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -70,29 +70,28 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "ok",
+  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-20T15:44Z",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
   "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
-  "MAHA / HHS": "ok",
+  "MAHA / HHS": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "ok",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
-  "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
-  "Religious Liberty": "ok",
+  "Adventist News Network": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
+  "Religious Liberty": "FAILED (HTTPError: HTTP Error 503: Service Unavailable) - used cache from 2026-11-20T15:44Z",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
   "https://www.breitbart.com/politics/2026/10/30/doj-claims-mary-peltola-democrats-misled-federal-court-on-second-dan-sullivan-candidate-scheme/",
   "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
   "https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/",
@@ -291,6 +290,7 @@
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
-  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid"
+  "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/"
  ]
 }
