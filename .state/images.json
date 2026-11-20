@@ -4,77 +4,6 @@
 "photo": null,
 "checked": "2026-11-17T11:21:34.948970+00:00"
 },
-"https://www.foxnews.com/outkick-sports/former-usmnt-coach-says-american-sports-reward-losers-leaves-manchester-united": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/pochettino-usmnt-featured.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/259879.jpg?imageId=259879&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310304.jpg?imageId=5310304&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108548243-17943307042026-11-10t171000z_665024736_rc21loachi3x_rtrmadp_0_usa-stocks.jpeg?v=1794330798&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://nypost.com/2026/11/16/us-news/california-loses-top-spot-for-international-students-to-new-york/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148992045.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
-"https://nypost.com/2026/11/16/sports/jaguars-anthony-campanile-could-offer-a-preview-in-new-jersey-homecoming/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcrop-41913214.jpg?quality%3D90%26strip%3Dall",
-"w": 5306,
-"h": 3536,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T02:46:36.547801+00:00"
-},
 "https://www.foxnews.com/outkick-sports/jon-moxley-adam-page-headline-aew-continental-classic-journey-worlds-end-begins": {
 "v": 2,
 "photo": {
@@ -9642,5 +9571,113 @@
 "via": "feed"
 },
 "checked": "2026-11-20T02:40:18.234489+00:00"
+},
+"https://justthenews.com/government/congress/democrat-elissa-slotkin-says-she-will-support-van-hollen-over-schumer-senate": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-20/nextdc-says-it-will-no-longer-develop-data-centers-near-homes": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/doj_120425gn04_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=700&quality=85&auto=format&fit=max&s=dc3e3884964664308829d37080307256",
+"w": 700,
+"h": 560,
+"credit": "John Minchillo/AP",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.foxnews.com/politics/senate-republicans-break-through-washington-gridlock-massive-american-energy-data-center-overhaul": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/data-center-amazon.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.washingtonexaminer.com/news/senate/4807710/senate-democrats-republicans-who-voted-against-permitting-reform/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/baaja-senate-cloture.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.jpost.com/israel-news/article-915557": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747307",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://nypost.com/2026/11/19/us-news/trump-admin-moves-to-drop-lawsuit-in-high-stakes-alaska-senate-race/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149442511.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3J0T0dZSENRcmstcGJDZWRCd2JlZDd6Zk9MSE8xWVFNX0RtV0VXUW83azE1aV9laS1Udi1oV0FuWlZGOTFfZWl5N0dOeXczQVY4WGh6ZVRhbWNaaXpROVE3ZC1BamRENHNDRUd5OTZXUVlhejVvTk5tN2JpWThNQkNKTlpXQzA5d1FyWkR4LWIwWVZlVG5YM19za2kyeDBkVURKMllHaWc0TW9ibTlXZXBtV0dld19mQVE?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnNvTzhzRHpmNG9EMkRsZnNYSVRhNEx3Y3pqWWNoYXVOa1F1UWFoMjNxQ3lVZXFyanRXOUROSDZrVENaeHRSVjlRaUlFMGhXSHlOQ0J0V0dUNWdFTmhVT3J2Tm80V2FfVkRXWkpNRlJYcktwNmlERm9rQmVNd2ozemprdnFUTWxxd3dhQXpibFM3bzFBaXJlcDBjQ2xMZ3E2MF9ncG1ENVI2cmRvUVE?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-army-delays-detonation-bomb-149442169.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
+},
+"https://www.thefp.com/p/how-the-right-became-uncool-again": {
+"v": 2,
+"photo": {
+"img": "https://substack-post-media.s3.amazonaws.com/public/images/e3de3ecd-e0e6-4a48-9a2f-66df232cd565_2352x1323.jpeg",
+"w": 2352,
+"h": 1323,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T03:40:40.348253+00:00"
 }
 }
