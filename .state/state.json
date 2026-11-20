@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/",
   "https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/",
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
@@ -19,13 +18,14 @@
   "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
-  "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/"
+  "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
+  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
-  "since": "2026-11-20T03:40:40.348253+00:00"
+  "url": "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
+  "since": "2026-11-20T04:46:43.023866+00:00"
  },
- "last_build": "2026-11-20T03:40:40.348253+00:00",
+ "last_build": "2026-11-20T04:46:43.023866+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/state/4785457/ramaswamy-pulls-ad-amy-acton-estranged-mother/",
   "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
   "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
@@ -291,6 +290,7 @@
   "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
-  "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/"
+  "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
+  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/"
  ]
 }
