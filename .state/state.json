@@ -25,7 +25,7 @@
   "url": "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "since": "2026-11-20T08:08:14.161128+00:00"
  },
- "last_build": "2026-11-20T08:08:14.161128+00:00",
+ "last_build": "2026-11-20T09:27:11.990553+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -40,7 +40,7 @@
   "Just the News": "ok",
   "RealClearPolitics": "ok",
   "The Free Press": "ok",
-  "Reason": "FAILED (TimeoutError: The read operation timed out) - used cache from 2026-11-20T06:52Z",
+  "Reason": "ok",
   "National Review": "ok",
   "Bloomberg": "ok",
   "CNBC": "ok",
@@ -86,7 +86,7 @@
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
-  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-20T06:52Z",
+  "Liberty Magazine": "ok",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
