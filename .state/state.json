@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/18/world-news/pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru-reveals-details-about-cancer/",
   "https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/",
   "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
   "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
   "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
-  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/"
+  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
+  "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
  ],
  "current_lead": {
-  "url": "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
-  "since": "2026-11-20T08:08:14.161128+00:00"
+  "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+  "since": "2026-11-20T11:24:02.934915+00:00"
  },
- "last_build": "2026-11-20T10:27:28.278494+00:00",
+ "last_build": "2026-11-20T11:24:02.934915+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok (fallback)",
+  "Washington Times World": "ok",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok (fallback)",
+  "Washington Times Politics": "ok",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "ok",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
   "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
   "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
   "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
   "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
-  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/"
+  "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
+  "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
  ]
 }

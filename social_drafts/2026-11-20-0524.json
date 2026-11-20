@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-20-0524.json",
+  "created": "2026-11-20T11:24:02.934915+00:00",
+  "created_ct": "Fri Nov 20, 2026 5:24 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+    "original_headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+    "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "White House replaces cyber director Sean Cairncross amid widespread tech outages. (CNBC) https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 157,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "White House replaces cyber director Sean Cairncross amid widespread tech outages. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
