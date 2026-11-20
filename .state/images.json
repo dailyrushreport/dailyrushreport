@@ -2,214 +2,7 @@
 "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwamlIVnpjWlhpd1FuQ2VSTUctdUF2VEFYa0F0X2hyMVdHT3RQYUZqZlRYUUpHUERCSnZTendBalMtWEZpRl94VUJDcEw4RnY3ZDZzYkMxQmlUelNC?oc=5": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-19T01:43:49.005871+00:00"
-},
-"https://www.foxnews.com/outkick-culture/ranking-top-five-james-bond-movies-honor-robert-pattinson-becoming-new-007": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/sean-connery-james-bond-scene.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.dailysignal.com/2026/11/17/mamdani-nypd-shake-up-empowering-rioters-veto/": {
-"v": 2,
-"photo": {
-"img": "https://static.dailysignalmedia.org/2026/11/261117_Mamdani.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW44b29BR1pOOS1NckFPamhWTXQzZ3g1aGE1b2wtdllYem0xd3dwN2FGOWttVWJ0T3VwSkk3aHk2ZlFRZTVhN08yUkd3VHp4WmFkeHQ2YktrbG5fUnZqV0NVNHFxeXNlLU56WXlEZVFwVmhZajZJLTJLeldvT211Wmt5c243eG5HM2lxdHJfbXpYd0RmNmFsaVBjeFpXazJEWXpnNQ?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://thehill.com/policy/technology/6224649-us-investigates-megaspeed-nvidia-chips/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-2303986706-e1794406198818.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.washingtonexaminer.com/policy/technology/4806754/faa-pause-new-router-installations-ground-stop-antique-equipment/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318578720030.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=700&quality=85&auto=format&fit=max&s=3dbe43e640d31c929d4084c15f4a1b35",
-"w": 700,
-"h": 560,
-"credit": "Illustration: The Guardian",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.thecentersquare.com/virginia/article_389fb2b9-839f-4f57-8275-edd5e9a081d1.html": {
-"v": 2,
-"photo": {
-"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/4/2b/42bb1971-3465-47e8-9b86-5279837b4973/6a0b312cf1c6a.image.jpg?crop=1200%2C630%2C0%2C22",
-"w": 1200,
-"h": 630,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/Ol1PYJjssjJjyeJcWLn9n40CUgw=/0x214:4117x2530/1366x768/2026/11/17/1794949356414.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.jpost.com/israel-news/politics-and-diplomacy/article-915242": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746841",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm93080xj8xgo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ac27/live/51d20e90-5dc4-11f1-ae8d-59e8183471b2.jpg",
-"w": 976,
-"h": 548,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlZoYkExcE0wRGFkZGUtM3daaEt2S1pfRFdLNjNaZUJzMHlJOUhZSEU0bkphbEtwTE9CU19Pc0tjVF8wQUhBTmJ0d2luV3ZHYWpVSENkVXd3X2lKVlNJMC1hRTJtZi1fd3lzQ3BrZURsUXVOMVpwdHRkTkNwSnRfTkluMmxyTnBDdWNmNXdlR0NhRGZtRTAwWVUxRExURmZXWkoxQnYyNTdBN2hSdUI2OWcxSzBnclN3WUpBSkJyYjA4SERmTlNwWWlJVUx3MDRG?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "NASA",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.thefp.com/p/niall-ferguson-james-bond-robert-pattinson-cyberattack": {
-"v": 2,
-"photo": {
-"img": "https://substackcdn.com/image/fetch/$s_!lRaW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e08758d-3b67-497e-b475-f339f710de46_1024x682.jpeg",
-"w": 1024,
-"h": 682,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
-"w": 1200,
-"h": 625,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/222354.jpg?imageId=222354&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmExU2k5NEdYZ3dSek4tTDVIX1NOVzl4SHNBdm1tZjBUWXVhZXBQTnRqZ1FGSVJCZVhTUFFVcEt4UHNGcFZSTWRkUkNBbVVvSnZzdWVjRkdLaUhHTkVESElrUExkWFhXOHBCQU9hR2s0X3pCUFBFaTFnc1hJTzNjU1FmbHRWVnJaRFB4bUFYbjB0YlJRd2g0ekxuZkpzX3NMem1MRXNDWFNzeTR3U3JPTkZQSQ?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5250857.jpg?imageId=5250857&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
-},
-"https://www.outdoorlife.com/gear/optics-planets-pre-black-friday-deals/": {
-"v": 2,
-"photo": {
-"img": "https://www.outdoorlife.com/wp-content/uploads/2025/08/sig-zulu.jpg?quality=85",
-"w": 2000,
-"h": 1252,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T22:41:03.026650+00:00"
+"checked": "2026-11-20T23:33:57.808837+00:00"
 },
 "https://www.dailysignal.com/2026/11/17/paxton-drops-texas-cair-lawsuit/": {
 "v": 2,
@@ -9649,5 +9442,125 @@
 "via": "feed"
 },
 "checked": "2026-11-20T22:33:36.333162+00:00"
+},
+"https://www.dailysignal.com/2026/11/20/exclusive-new-records-reveal-thousands-noncitizens-registered-to-vote-across-battlegrounds/": {
+"v": 2,
+"photo": {
+"img": "https://static.dailysignalmedia.org/2026/11/RNC-Noncitizens.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://justthenews.com/politics-policy/elections/ken-paxton-drops-lawsuit-against-democrats-actblue-fundraising-system": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.foxnews.com/politics/fiona-hippo-honored-us-senate-unanimous-resolution-praising-cincinnati-zoo-staff": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hippo.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.washingtonexaminer.com/news/justice/4810735/trump-blanche-patel-take-on-newsom-commutations-california-death-sentences/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/trump-newsom-collage-e1795215150774.jpg?1795198295&resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://reason.com/volokh/2026/11/20/second-amendment-as-a-right-to-sell-guns-as-well-as-to-have-and-buy-them/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq4gn0dg9194o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c49e/live/643c4b60-e530-11f1-a67d-39d55c7178b0.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-915615": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747372",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6jre8xd83qgo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.thefp.com/p/the-lost-art-of-reading-a-cookbook": {
+"v": 2,
+"photo": {
+"img": "https://substackcdn.com/image/fetch/$s_!7xVP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ae27cc7-b6ec-4294-b223-94e0db360666_1024x1024.jpeg",
+"w": 1024,
+"h": 1024,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://www.thecentersquare.com/georgia/article_c67dd0e4-42a4-46d8-8da0-f3c3aaee80b4.html": {
+"v": 2,
+"photo": {
+"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/12/612475a3-82db-45ec-9b35-478f0f9faf9b/68d6f495bd72d.image.jpg?crop=1200%2C630%2C0%2C22",
+"w": 1200,
+"h": 630,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
+},
+"https://nypost.com/2026/11/20/lifestyle/rodeo-drive-holiday-lighting-celebration-marks-50-years/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149522129_6ceae4.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T23:33:57.808837+00:00"
 }
 }
