@@ -9,71 +9,6 @@
 "photo": null,
 "checked": "2026-11-17T14:45:51.762841+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://www.washingtonexaminer.com/policy/healthcare/4805287/caregiving-loved-ones-income-cdc/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/iStock-1316202210-e1794862782888.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://www.theguardian.com/sport/2026/nov/16/los-angeles-chargers-beat-reeling-baltimore-ravens-to-get-first-win-of-season": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/68451994830d0decb68bf0ef7997da43ccc07365/221_0_2206_1765/master/2206.jpg?width=700&quality=85&auto=format&fit=max&s=604e5b02a6ade0f7880f76e0fe2399d7",
-"w": 700,
-"h": 560,
-"credit": "Stephanie Scarbrough/AP",
-"via": "feed"
-},
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHcwWnY4MmxQVlZnYzRSR0lTUW5lMFQzbThLSUJsa2JqcUxTZmN3SmxVMjNsazdDRWpIdWlocDczTnJyS0ZtZDdpVGZOMUVMYlRrd1JnMGFkODR4c29RZTBqTHNaTkNtenRTNzFDTG9HYmFsdC1lczZkZ2dLamJOeE5HYVBMU1ZiTm1xMkxmZF9IWXlsQWxUZ1RQYnZEaWs?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://www.breitbart.com/clips/2026/11/16/mullin-kind-of-makes-sense-that-systems-going-down-due-to-inability-to-handle-ai-si-speed/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/10/Mullin-photo-by-Dan-Fleuette-Breitbart-News-640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "Dan Fleuette\\/ Breitbart News",
-"via": "page"
-},
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://nypost.com/2026/11/17/sports/jacoby-brissetts-debut-not-enough-to-end-ravens-skid-as-chargers-get-first-win/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-kkpqpss3d-1794892796291.jpg?quality%3D90%26strip%3Dall%261794874884",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
-"https://nypost.com/2026/11/16/us-news/ro-khanna-pitches-1700-checks-for-americans-to-offset-iran-war-costs-a-chance-to-deliver/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fa-chance-deliver-149031535.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-17T05:47:23.127138+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-17/canada-pension-funds-cvc-capital-partners-nordic-capital-in-3-billion-cary-deal": {
 "v": 2,
 "photo": null,
@@ -9575,5 +9510,48 @@
 "via": "page"
 },
 "checked": "2026-11-20T04:46:43.023866+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T05:50:32.801062+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/19/colts-texans-thursday-night-football-nfl": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/c5a906a8fe40f11265dcb851b40adc66311ed544/728_213_3872_3097/master/3872.jpg?width=700&quality=85&auto=format&fit=max&s=b3168bac6d3206a6e3dfbc254ebb40ba",
+"w": 700,
+"h": 560,
+"credit": "Kenneth Richmond/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-20T05:50:32.801062+00:00"
+},
+"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDNDbG54d21WN0hxRWlueFFtRENJcVBxS1JDU3JXY2l2VjR5b3dsQnU1QmVjUXgxaXlMbDIwdWF4TzE2Y0lkVkpjbXVBUG5IYkw0V0J2aWdlWEFTZWMxNWlqNnpqaUpLMjAtTkIzMmpEaHhoTFJXYnh4YWFoOGVoWVMzQnU2OVlUR2JKaQ?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T05:50:32.801062+00:00"
+},
+"https://www.foxnews.com/politics/pro-life-group-says-trump-admin-didnt-give-key-abortion-drug-commitments-overton-fda-nomination-pulled": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/heidi-overton.png?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T05:50:32.801062+00:00"
+},
+"https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108550250-1794502689706-gettyimages-2304263577-US_STOCKS.jpeg?v=1794502821&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T05:50:32.801062+00:00"
 }
 }
