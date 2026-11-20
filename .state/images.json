@@ -9586,5 +9586,109 @@
 "via": "feed"
 },
 "checked": "2026-11-20T09:27:11.990553+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-20/rand-poised-for-worst-week-since-march-as-carry-appeal-fades": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom": {
+"v": 2,
+"photo": {
+"img": "https://images.axios.com/4SKX22Drs7VvySbxqbS79laixhU=/0x0:1920x1080/1366x768/2026/11/19/1795113393829.jpeg",
+"w": 1366,
+"h": 768,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108556066-1795129874503-108556066-1795129228984-gettyimages-2305354070-ANTHROPIC_IPO.jpeg?v=1795144010&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.jpost.com/judaism/torah-portion/article-915459": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747173",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=4ad28defc224f824dfee63fb4b98139b",
+"w": 700,
+"h": 560,
+"credit": "Dado Ruvi\u0107/Reuters",
+"via": "feed"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.thefp.com/p/what-reagan-could-teach-trump": {
+"v": 2,
+"photo": {
+"img": "https://substack-video.s3.amazonaws.com/video_upload/post/225700271/107212b2-23b2-452c-b611-716014f70046/transcoded-1795117803.png",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837": {
+"v": 2,
+"photo": {
+"img": "https://image.theregister.com/5252431.jpg?imageId=5252431&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://freebeacon.com/media/meet-the-medias-favorite-sanctions-expert-a-29-year-old-with-a-raft-of-online-certifications-and-little-real-world-experience/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-1.43.52-PM.png",
+"w": 1200,
+"h": 926,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://nypost.com/2026/11/20/us-news/minnesota-state-rep-elect-abdi-daisane-married-to-illegal-immigrant-ayaan-aydid-after-fraud-scandal/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149480037.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c8xgdv9e007o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-20T10:27:28.278494+00:00"
 }
 }
