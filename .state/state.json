@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
   "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
-  "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/"
+  "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
+  "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
-  "since": "2026-11-21T18:09:31.956421+00:00"
+  "url": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
+  "since": "2026-11-21T19:16:28.837164+00:00"
  },
- "last_build": "2026-11-21T18:09:31.956421+00:00",
+ "last_build": "2026-11-21T19:16:28.837164+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
   "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
   "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
   "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
   "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
-  "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/"
+  "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
+  "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html"
  ]
 }
