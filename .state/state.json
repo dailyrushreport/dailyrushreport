@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/19/us-news/myanmar-committed-genocide-against-the-rohingya-un-court/",
   "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
   "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
   "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
   "https://www.breitbart.com/tech/2026/11/20/freshly-not-maga-elon-musk-sells-americans-on-tourism-to-china/",
   "https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/",
-  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+  "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-  "since": "2026-11-21T10:36:29.755915+00:00"
+  "url": "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
+  "since": "2026-11-21T11:33:37.031449+00:00"
  },
- "last_build": "2026-11-21T10:36:29.755915+00:00",
+ "last_build": "2026-11-21T11:33:37.031449+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/10/31/sports/nfl-responds-to-more-allegations-emerging-against-josh-jacobs/",
   "https://thehill.com/policy/technology/6186304-binance-replenishes-ninety-percent-hack/",
   "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
   "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
   "https://www.breitbart.com/tech/2026/11/20/freshly-not-maga-elon-musk-sells-americans-on-tourism-to-china/",
   "https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/",
-  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+  "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html"
  ]
 }
