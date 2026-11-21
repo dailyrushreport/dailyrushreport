@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-21-0838.json",
+  "created": "2026-11-21T14:38:37.731254+00:00",
+  "created_ct": "Sat Nov 21, 2026 8:38 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+    "original_headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+    "url": "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI. (Washington Examiner) https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 180,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
