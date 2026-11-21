@@ -9,136 +9,6 @@
 "photo": null,
 "checked": "2026-11-18T15:20:39.876027+00:00"
 },
-"https://justthenews.com/politics-policy/transportation/waymo-suspends-robotaxi-rides-american-freeways-following-california": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=700&quality=85&auto=format&fit=max&s=2343632f866c51ce7840b235790bca6c",
-"w": 700,
-"h": 560,
-"credit": "Nathaniel Wilder/Bloomberg via Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola": {
-"v": 2,
-"photo": {
-"img": "https://images.axios.com/UFjl8B9Pr3PL8tweaooIrorJF0Y=/0x302:4000x2552/1366x768/2026/11/18/1794972293866.jpeg",
-"w": 1366,
-"h": 768,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pope-leo-plane-peru-home.jpg?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.breitbart.com/clips/2026/11/17/murkowski-midterms-were-a-repudiation-of-trumps-actions/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2025/02/Murkowski--640x335.jpg",
-"w": 640,
-"h": 335,
-"credit": "Screenshot",
-"via": "page"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.jpost.com/american-politics/article-915261": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746860",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://reason.com/2026/11/18/trump-says-he-welcomes-foreign-students-his-policies-tell-a-different-story/": {
-"v": 2,
-"photo": {
-"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/foreign-student-1200x675.jpg",
-"w": 1200,
-"h": 675,
-"credit": "Iun Iuliia/Newscom",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUN5R2RHV3NHZFE2WGEzX3RhTXVtc01kU1MzaTY1dFRXYkN4WmJKUzMtVUVWZzdkcFZTYng0bWtBZURvNmoxVFduNVRDZjgyS1RHZzEwWXVNZGdDUGt3WHZYVkJ1ekctQWZ3c0FUZVhCbXdQQzVLV0czdnR2SHBicmZlNW01VGtVMVo0Q1JUZjBaZi1FWmtWdlBFRXQxWGI5SXRGdEVB?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmy86pp336qlo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108553819-1794975036384-gettyimages-136049704-67744493.jpeg?v=1794975054&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310666.jpg?imageId=5310666&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
-"https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-sot5q9qm5-1793833629090.jpg?quality%3D90%26strip%3Dall%261793815649",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T05:27:03.856592+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout": {
 "v": 2,
 "photo": null,
@@ -9423,5 +9293,48 @@
 "via": "feed"
 },
 "checked": "2026-11-21T04:43:45.734768+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/21/far-right-menacing-europe-extremists-voters-spain-election-gordon-brown": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/0bf18648df04716f116e80e7048c061a60f47fb6/468_0_6268_5015/master/6268.jpg?width=700&quality=85&auto=format&fit=max&s=a05417e3db0a94c2edf64c12a6a23bdb",
+"w": 700,
+"h": 560,
+"credit": "Lorena Sopena Lopez/Anadolu/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-21T05:44:21.184428+00:00"
+},
+"https://justthenews.com/nation/states/center-square/court-blocks-armys-planned-explosive-detonation-near-iowa-illinois": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T05:44:21.184428+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T05:44:21.184428+00:00"
+},
+"https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317": {
+"v": 2,
+"photo": {
+"img": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-2560-80.jpg",
+"w": 2560,
+"h": 1440,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-21T05:44:21.184428+00:00"
+},
+"https://nypost.com/2026/11/21/sports/lakers-squeak-by-lowly-kings-to-get-back-on-track/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-mglrgyhz7-1795239288473.jpg?quality%3D90%26strip%3Dall%261795221312",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T05:44:21.184428+00:00"
 }
 }
