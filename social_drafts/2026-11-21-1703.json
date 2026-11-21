@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-21-1703.json",
+  "created": "2026-11-21T23:03:39.870566+00:00",
+  "created_ct": "Sat Nov 21, 2026 5:03 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+    "original_headline": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+    "url": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests. (CNBC) https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 167,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
