@@ -1,25 +1,25 @@
-# Social drafts — Sat Nov 21, 2026 8:38 AM CT
+# Social drafts — Sat Nov 21, 2026 12:09 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-21-0838.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-21-1209.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI  
+Lead: Mexico captures cartel leader listed as one of top 10 most wanted in US  
 Outlet: Washington Examiner  
-Link: https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/  
-Pinned by editor: no · BREAKING: no
+Link: https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 180/280 chars (X counting)
+## X — status: pending_approval · 177/280 chars (X counting)
 
 ```
-Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI. (Washington Examiner) https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/
+Mexico captures cartel leader listed as one of top 10 most wanted in US. (Washington Examiner) https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI. Story via Washington Examiner. Link in bio.
+Mexico captures cartel leader listed as one of top 10 most wanted in US. Story via Washington Examiner. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-21-1209.json",
+  "created": "2026-11-21T18:09:31.956421+00:00",
+  "created_ct": "Sat Nov 21, 2026 12:09 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Mexico captures cartel leader listed as one of top 10 most wanted in US",
+    "original_headline": "Mexico captures cartel leader listed as one of top 10 most wanted in US",
+    "url": "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Mexico captures cartel leader listed as one of top 10 most wanted in US. (Washington Examiner) https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 177,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Mexico captures cartel leader listed as one of top 10 most wanted in US. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
