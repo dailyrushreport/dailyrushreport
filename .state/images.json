@@ -9,60 +9,6 @@
 "photo": null,
 "checked": "2026-11-18T15:20:39.876027+00:00"
 },
-"https://justthenews.com/politics-policy/elections/democrat-mary-peltola-declared-winner-alaska-senate-race-ap": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
-"https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26210716468930-e1794492379471.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
-"https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/": {
-"v": 2,
-"photo": {
-"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26308242860566.jpg?resize=1200,683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
-"https://thehill.com/homenews/6226621-video-shows-ice-agent-pepper-spraying-pregnant-u-s-citizen/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Modesto.ICE_.arrest.png?w=900",
-"w": 899,
-"h": 498,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
-"https://nypost.com/2026/11/17/sports/top-prospect-carlos-lagrange-added-to-yankees-40-man-roster/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-83krcq0pr-1794967776164.jpg?quality%3D90%26strip%3Dall%261794949786",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T04:23:38.837763+00:00"
-},
 "https://justthenews.com/politics-policy/transportation/waymo-suspends-robotaxi-rides-american-freeways-following-california": {
 "v": 2,
 "photo": null,
@@ -8832,7 +8778,7 @@
 "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-20T22:33:36.333162+00:00"
+"checked": "2026-11-21T04:43:45.734768+00:00"
 },
 "https://nypost.com/2026/11/20/sports/warriors-nba-playoffs-western-conference/": {
 "v": 2,
@@ -9428,5 +9374,54 @@
 "via": "feed"
 },
 "checked": "2026-11-21T03:39:28.868843+00:00"
+},
+"https://www.breitbart.com/clips/2026/11/20/garcia-congress-will-go-directly-to-the-court-to-hold-trump-family-accountable/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/garci56674-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Screenshot",
+"via": "page"
+},
+"checked": "2026-11-21T04:43:45.734768+00:00"
+},
+"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWlHTXRaUW0wRFJIUjVlODE1dFRTcURXbnhqUjBHWmQtZGxqM2dJN0JuSVgzcDJMSkM4Z0dYQUpxU2F0R2tWSGdZeWpQc3A3MmtqUF93QWFGVUhxemRKZC1kd25MRmVwZUxZMFFwUVZWUzhCN1NPNnRDNWxlQUJqQTQwekVLeTdNc0EzUmJLMzBOdjR3ZUxyUzBzcVNhTFo3RUNLZmlCU3diQ182TVUwR08wRUY0SFBMRHc?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T04:43:45.734768+00:00"
+},
+"https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26293777855488-e1795234801601.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T04:43:45.734768+00:00"
+},
+"https://www.jpost.com/international/article-915624": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740680",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-21T04:43:45.734768+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T04:43:45.734768+00:00"
 }
 }
