@@ -25,7 +25,7 @@
   "url": "https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/",
   "since": "2026-11-21T06:49:26.358257+00:00"
  },
- "last_build": "2026-11-21T08:44:54.190090+00:00",
+ "last_build": "2026-11-21T09:36:47.426586+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -35,7 +35,7 @@
   "Politico": "ok",
   "Daily Caller": "ok",
   "Daily Wire": "ok",
-  "Free Beacon": "FAILED (URLError: <urlopen error timed out>) - used cache from 2026-11-21T07:59Z",
+  "Free Beacon": "ok",
   "Breitbart": "ok",
   "Just the News": "ok",
   "RealClearPolitics": "ok",
