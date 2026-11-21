@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-21-0436.json",
+  "created": "2026-11-21T10:36:29.755915+00:00",
+  "created_ct": "Sat Nov 21, 2026 4:36 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "FBI reportedly investigating apparent hack of its criminal database",
+    "original_headline": "FBI reportedly investigating apparent hack of its criminal database",
+    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "FBI reportedly investigating apparent hack of its criminal database. (BBC) https://www.bbc.co.uk/news/articles/cvze7de86pk3o\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 143,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "FBI reportedly investigating apparent hack of its criminal database. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

@@ -1,17 +1,17 @@
-# Social drafts — Sat Nov 21, 2026 12:49 AM CT
+# Social drafts — Sat Nov 21, 2026 4:36 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-21-0049.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-21-0436.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump to Tax Companies That Build Data Centers Overseas  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/  
+Lead: FBI reportedly investigating apparent hack of its criminal database  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cvze7de86pk3o  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 137/280 chars (X counting)
+## X — status: pending_approval · 143/280 chars (X counting)
 
 ```
-Trump to Tax Companies That Build Data Centers Overseas. (Breitbart) https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/
+FBI reportedly investigating apparent hack of its criminal database. (BBC) https://www.bbc.co.uk/news/articles/cvze7de86pk3o
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump to Tax Companies That Build Data Centers Overseas. Story via Breitbart. Link in bio.
+FBI reportedly investigating apparent hack of its criminal database. Story via BBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
