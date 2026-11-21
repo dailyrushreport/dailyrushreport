@@ -2422,7 +2422,7 @@
 "https://news.google.com/rss/articles/CBMif0FVX3lxTE5heVByR3lXOE9nSi1mdlBTUVJtOExwLVJDbzZtWjBQTmt6ZHpscXZ1TDNoU3ZiN0theDFtS3E1SUtENFk1ZFp6aTlITHdiWHJEWWk2OXBoZUkxc0tDb1hKSDhHNnd5VGZvWDRFaTQ4SVdLWlBYQzhKNHNKYWpsSzA?oc=5": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-21T02:43:00.900285+00:00"
+"checked": "2026-11-21T08:44:54.190090+00:00"
 },
 "https://www.jpost.com/international/article-915380": {
 "v": 2,
@@ -9259,5 +9259,58 @@
 "via": "feed"
 },
 "checked": "2026-11-21T07:59:32.968288+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0FOLTFOQmpFNnpzS3AyRWFEZTIxM2k1OW85Wlc2UkJWWFprSTFSY1hfSWlUYlBqZGhRb1dqNTJFLVZtbmxtT3lTMEFmcHE0dWsyTVB6NHFfbDNnbzZnZlotR2xlMmkzbUZYOGhvNjZmSl9uT2VPTnVrWXQ2dlg1eWZOcnVnaVFrREVuNElpdEw2ZloxUjR1NDdkeEdJUmM5?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108523975-1793864595075-gettyimages-2278857871-20090101260603-99-617385.jpeg?v=1794424576&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://reason.com/volokh/2026/11/21/open-thread-395/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://www.theguardian.com/artanddesign/gallery/2026/nov/21/bell-pond-monograph-stephen-dirado-photographer": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/e56feffc1b6274115dc7a1cf5739da51768090f0/0_0_4750_3799/master/4750.jpg?width=700&quality=85&auto=format&fit=max&s=da384945ae9f19b42ee1787f0ba06dec",
+"w": 700,
+"h": 560,
+"credit": "Stephen DiRado",
+"via": "feed"
+},
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T08:44:54.190090+00:00"
+},
+"https://nypost.com/2026/11/21/science/1800-year-old-roman-toddlers-grave-found-frozen-in-time-and-it-still-had-toys-inside/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149598727.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T08:44:54.190090+00:00"
 }
 }
