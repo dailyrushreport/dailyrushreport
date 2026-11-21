@@ -25,7 +25,7 @@
   "url": "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
   "since": "2026-11-21T11:33:37.031449+00:00"
  },
- "last_build": "2026-11-21T12:36:32.546120+00:00",
+ "last_build": "2026-11-21T13:46:41.837865+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -86,7 +86,7 @@
   "Low Carb Down Under": "ok",
   "Religion News Service": "ok",
   "Adventist News Network": "ok",
-  "Liberty Magazine": "ok",
+  "Liberty Magazine": "FAILED (HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-21T12:36Z",
   "Religious Liberty": "ok",
   "Christianity Today": "ok",
   "WORLD Magazine": "ok"
