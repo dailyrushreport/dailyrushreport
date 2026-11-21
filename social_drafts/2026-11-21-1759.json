@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-21-1759.json",
+  "created": "2026-11-21T23:59:09.695613+00:00",
+  "created_ct": "Sat Nov 21, 2026 5:59 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump on credit card interest rate cap: ‘I would do it’",
+    "original_headline": "Trump on credit card interest rate cap: ‘I would do it’",
+    "url": "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
+    "source": "Washington Examiner",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump on credit card interest rate cap: ‘I would do it’. (Washington Examiner) https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 147,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump on credit card interest rate cap: ‘I would do it’. Story via Washington Examiner. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
