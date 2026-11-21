@@ -9,99 +9,6 @@
 "photo": null,
 "checked": "2026-11-18T15:20:39.876027+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://www.jpost.com/international/article-915264": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746866",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://dailycaller.com/2026/11/18/trump-administration-drops-heidi-overton-food-drug-administration-nominee": {
-"v": 2,
-"photo": {
-"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2296937345~5.jpg",
-"w": 2860,
-"h": 1262,
-"credit": "tasos katopodis",
-"via": "feed"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://www.theguardian.com/commentisfree/2026/nov/18/putin-trump-xi-vision-global-power-europe": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/81b4e2a59b78fa358bf0f00d2bf1c9e6200040bc/232_0_2583_2067/master/2583.jpg?width=700&quality=85&auto=format&fit=max&s=8cbfe97a34628154c863514a557040dd",
-"w": 700,
-"h": 560,
-"credit": "Kevin Dietsch/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cm752w35lkz3o": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://thedispatch.com/article/sean-duffy-air-traffic-crisis-federal-aviation-funding/": {
-"v": 2,
-"photo": {
-"img": "https://thedispatch.com/wp-content/uploads/2026/11/GettyImages-2304497388.jpg?w=1024",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://www.bbc.co.uk/news/articles/ck3rgl783xqro": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://unherd.com/2026/11/grand-theft-autopen/?edition=us": {
-"v": 2,
-"photo": {
-"img": "https://unherd.com/wp-content/uploads/2026/11/GettyImages-1229346503.jpg",
-"w": 1024,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
-"https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108553117-1794927200120-gettyimages-2305495779-vcg111682688775.jpeg?v=1794927260&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-18T06:28:23.177465+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock": {
 "v": 2,
 "photo": null,
@@ -9336,5 +9243,64 @@
 "via": "feed"
 },
 "checked": "2026-11-21T05:44:21.184428+00:00"
+},
+"https://justthenews.com/nation/states/center-square/shapiro-canada-mexico-should-be-first-leaders-next-president-calls": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/Nov18-2026-china-data-center-model-getty-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Du Zixuan\\/Xinhua via Getty Images",
+"via": "page"
+},
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUZ0MkJJODUwLUp2b09XR2l5czdNcC12eEstV19fRGZld0xHYlIxWVBzNS1hV2t5eTBWalZZZVJYZGkyQ3NxODJwRi1JTzhrVEZnRVhoOVZYSUtpT1hqcEk4bUpLS3FUbU94YXRRbUxLZlozOW01SW9jemN1VzFneEo1NXY0bkNrTmFsd00xdi1KU0UtVU54YUJLalg1bXBDUkxqR3A5S08?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/2923203b4c1ae114683640de4db530022f44267b/599_0_4490_3592/master/4490.jpg?width=700&quality=85&auto=format&fit=max&s=e088e73afc81b465a2ddaa6c32449e89",
+"w": 700,
+"h": 560,
+"credit": "Rudy Carezzevoli/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://www.foxbusiness.com/economy/california-entrepreneur-says-state-avoided-economic-disaster-billionaire-tax-rejection": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/gavin-newsom-san-fran-jan-2026.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T06:49:26.358257+00:00"
+},
+"https://nypost.com/2026/11/21/us-news/nyc-osamasons-concertgoers-injured-in-crowd-crush-during-rapper-terminal-5-show/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fosamason.jpg?quality%3D90%26strip%3Dall%261795225046",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-21T06:49:26.358257+00:00"
 }
 }
