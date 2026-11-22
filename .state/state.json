@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
   "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
   "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
   "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
   "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
-  "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/"
+  "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
+  "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
-  "since": "2026-11-22T11:33:05.313939+00:00"
+  "url": "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
+  "since": "2026-11-22T14:38:39.039378+00:00"
  },
- "last_build": "2026-11-22T13:47:18.087814+00:00",
+ "last_build": "2026-11-22T14:38:39.039378+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
   "https://nypost.com/2026/11/01/sports/lions-jack-campbell-carted-off-field-taken-to-hospital-with-scary-neck-injury/",
   "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
   "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
   "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
-  "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/"
+  "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
+  "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/"
  ]
 }

@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-22-0838.json",
+  "created": "2026-11-22T14:38:39.039378+00:00",
+  "created_ct": "Sun Nov 22, 2026 8:38 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland",
+    "original_headline": "Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland",
+    "url": "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland. (The Hill) https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 152,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
