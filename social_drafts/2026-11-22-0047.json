@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-22-0047.json",
+  "created": "2026-11-22T06:47:47.450947+00:00",
+  "created_ct": "Sun Nov 22, 2026 12:47 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump opens door to bipartisan deal on credit card rates as Americans face record debt",
+    "original_headline": "Trump opens door to bipartisan deal on credit card rates as Americans face record debt",
+    "url": "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
+    "source": "Fox Business",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump opens door to bipartisan deal on credit card rates as Americans face record debt. (Fox Business) https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 171,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump opens door to bipartisan deal on credit card rates as Americans face record debt. Story via Fox Business. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

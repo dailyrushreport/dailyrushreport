@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
   "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
   "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
   "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
-  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+  "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-  "since": "2026-11-22T03:40:36.321945+00:00"
+  "url": "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
+  "since": "2026-11-22T06:47:47.450947+00:00"
  },
- "last_build": "2026-11-22T05:45:00.770494+00:00",
+ "last_build": "2026-11-22T06:47:47.450947+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
   "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
   "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
   "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
   "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
   "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
-  "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/"
+  "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
+  "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt"
  ]
 }

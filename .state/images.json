@@ -7,7 +7,7 @@
 "https://news.google.com/rss/articles/CBMif0FVX3lxTE5heVByR3lXOE9nSi1mdlBTUVJtOExwLVJDbzZtWjBQTmt6ZHpscXZ1TDNoU3ZiN0theDFtS3E1SUtENFk1ZFp6aTlITHdiWHJEWWk2OXBoZUkxc0tDb1hKSDhHNnd5VGZvWDRFaTQ4SVdLWlBYQzhKNHNKYWpsSzA?oc=5": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-21T16:32:19.787060+00:00"
+"checked": "2026-11-22T06:47:47.450947+00:00"
 },
 "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook": {
 "v": 2,
@@ -19,115 +19,6 @@
 "via": "page"
 },
 "checked": "2026-11-19T09:30:18.534569+00:00"
-},
-"https://www.foxnews.com/outkick-sports/wnba-launches-search-next-commissioner-outgoing-cathy-engelbert-could-stay-2027": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Cathy-Engelbert-WNBA-Finals-2026.png?ve=1&tl=1",
-"w": 931,
-"h": 523,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.jpost.com/israel-news/crime-in-israel/article-915399": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747062",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.washingtontimes.com/news/2026/nov/18/trump-warns-nations-must-manage-bad-ai-elements/": {
-"v": 2,
-"photo": {
-"img": "https://twt-thumbs.washtimes.com/media/image/2026/11/18/Trump_Philippines_68353_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-"w": 1440,
-"h": 960,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://thehill.com/policy/technology/6229202-russian-spied-on-palantir-employees/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP25227652268775-e1786470285303.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.breitbart.com/local/2026/11/18/floridas-troubled-dmv-system-fails-again-blocking-license-renewals/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Florida-DMV-640x335.jpeg",
-"w": 640,
-"h": 335,
-"credit": "Monique O. Madan\\/Miami Herald\\/Tribune News Service via Getty Images",
-"via": "page"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/af404d4c8f90118bf41002b8b2364d60bc177e63/435_0_4350_3480/master/4350.jpg?width=700&quality=85&auto=format&fit=max&s=39071df0cdc253418717b0459061c0f8",
-"w": 700,
-"h": 560,
-"credit": "Bryn Lennon/Formula 1/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.theregister.com/personal-tech/2026/11/19/south-korea-tries-to-out-exam-cheats-with-extreme-emergency-smartphone-alert/5310942": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310947.jpg?imageId=5310947&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108361145-1789045865293-gettyimages-2293945728-currency.jpeg?v=1793760090&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
-},
-"https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmusk-comp-.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T05:50:08.772779+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access": {
 "v": 2,
@@ -7993,7 +7884,7 @@
 "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRmVkhxd3Rnb2NVVDd2bFU5TnNSbzd5QlU0TVJaelNnclNBUEdFZ0FJaUhFaTBrRFBXVzdkTTJ6SklXQm1HRTduNjRKalVUbnhoZ0ltOUJ3TmowYkthaGFicm54YlVZb1pxTEhUcEpmeVZzT2EyajhuWDBCQ3Z4NjVUTzJiNXcxd19pOXdkaEltejU0LVd2bl9WNExwMk9hOWRhazJtYmxaWGtpVzFwMTZHWEwtZw?oc=5": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-21T23:59:09.695613+00:00"
+"checked": "2026-11-22T06:47:47.450947+00:00"
 },
 "https://www.foxnews.com/outkick-sports/no-5-texas-dominates-arkansas-arch-manning-heating-college-football-playoffs": {
 "v": 2,
@@ -8329,5 +8220,82 @@
 "via": "feed"
 },
 "checked": "2026-11-22T05:45:00.770494+00:00"
+},
+"https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html": {
+"v": 2,
+"photo": {
+"img": "https://image.cnbcfm.com/api/v1/image/108554063-1795006580677-gettyimages-2271702239-futuristic-microchip-glowing-data-connections.jpeg?v=1795006768&w=1920&h=1080",
+"w": 1920,
+"h": 1080,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://reason.com/volokh/2026/11/22/the-quorum-clause-case/": {
+"v": 2,
+"photo": {
+"img": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/SOTU_23_Photo-2-edit.jpg",
+"w": 1100,
+"h": 825,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://www.jpost.com/israel-news/defense-news/article-915668": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746693",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6jrey28gvqxo": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/95a5/live/873e73e0-e436-11f1-8346-933d3547e297.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://www.bbc.co.uk/news/articles/c6ly5w40eg07o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+"w": 976,
+"h": 549,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://www.foxbusiness.com/technology/waymo-issues-double-safety-recall-days-after-california-bans-robotaxis-from-freeways": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/waymo-auto-chicago.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149708541.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T06:47:47.450947+00:00"
 }
 }
