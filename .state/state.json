@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/20/sports/marlon-humphreys-ravens-teammates-turn-on-him-after-baltimore-insult/",
   "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
   "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
   "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/",
@@ -19,13 +18,14 @@
   "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
   "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
-  "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx"
+  "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
+  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/"
  ],
  "current_lead": {
-  "url": "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
-  "since": "2026-11-22T20:52:29.799639+00:00"
+  "url": "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
+  "since": "2026-11-22T21:42:53.500735+00:00"
  },
- "last_build": "2026-11-22T20:52:29.799639+00:00",
+ "last_build": "2026-11-22T21:42:53.500735+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok (fallback)",
+  "Washington Times World": "ok",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok (fallback)",
+  "Washington Times Politics": "ok",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "ok",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.breitbart.com/politics/2026/11/01/democrats-melt-down-after-haley-stevens-endorses-republican-mike-rogers-despicable-betrayal/",
   "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
@@ -291,6 +290,7 @@
   "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
   "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
-  "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx"
+  "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
+  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/"
  ]
 }
