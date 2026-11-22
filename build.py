@@ -1493,6 +1493,7 @@ def render(lead, subleads, cols, feeds=(), S=None, banner=None, verse=None, mixe
 <title>{page_title}</title>
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{SITE}/">
+<meta name="google-site-verification" content="kvgCw3X2x4_PsJ1DhQdT_5Qlg5GP8wwYRIfE93LYDOE" />
 <link rel="alternate" type="application/rss+xml" title="Daily Rush Report" href="{SITE}/feed.xml">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Daily Rush Report">
