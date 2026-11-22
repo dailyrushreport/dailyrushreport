@@ -7690,7 +7690,7 @@
 "https://justthenews.com/index%2Ephp/government/security/mexico-captures-top-cartel-leader-fbis-ten-most-wanted-list": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-22T01:56:22.438516+00:00"
+"checked": "2026-11-22T10:36:47.600519+00:00"
 },
 "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet": {
 "v": 2,
@@ -8140,5 +8140,53 @@
 "via": "page"
 },
 "checked": "2026-11-22T09:37:43.758905+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-22T10:36:47.600519+00:00"
+},
+"https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-22T10:36:47.600519+00:00"
+},
+"https://www.jpost.com/israel-news/politics-and-diplomacy/article-915687": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746770",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T10:36:47.600519+00:00"
+},
+"https://news.google.com/rss/articles/CBMingFBVV95cUxNZDdRVVRXbU5SMXZ0UGVnVW0zOXJ2QlFRVEdkZHlhTHN2NXB3LVRfZUN2dVhuMTVCUHpWV0VuNk5nOXB4S3hwNjJPeWE1U2FVYy1UYl9mcXFuejhQZ0hKdHlDRDJ2cVIwbHY2YVZ0ckhydV83OW1WbENsZVgxZFJ2aHBXNHpXX2ctTndMQ3R2ajJYVEt6c3ZQMWk5RGh5dw?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-22T10:36:47.600519+00:00"
+},
+"https://freebeacon.com/america/a-courageous-and-consequential-justice/": {
+"v": 2,
+"photo": {
+"img": "https://freebeacon.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-10-03-AM-2213.jpg",
+"w": 736,
+"h": 514,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T10:36:47.600519+00:00"
+},
+"https://nypost.com/2026/11/22/us-news/aoc-spent-12k-on-glam-german-digs-while-pushing-for-working-class-rights/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149518574.jpg?quality%3D90%26strip%3Dall",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T10:36:47.600519+00:00"
 }
 }
