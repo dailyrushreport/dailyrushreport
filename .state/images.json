@@ -20,65 +20,6 @@
 },
 "checked": "2026-11-19T09:30:18.534569+00:00"
 },
-"https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXlvVmhMZ0xuWHhhVmpaazRlLWNmMkczWGN4aGVQTFpRSzRrZVRHYk5sakg0NFozaTJrZll4Y2hrck5RckpZM09EdmhvbnFRZzZGRVRPVUJocmFXMWpreWFoOWhVa25kQVc1M0U0UVh1SDIweEM4X2RRbTRLdThIS1k5NkgxRVQ3RHJTcUliRGJSUGk4TG4yTkR3TjM0OGxYS2c?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWk5MUd0Tmxnb1h2VHNaSDRjOFVaQWZHSkh0VlZFRnlXMkZRbjNMOU9lRkZFdEJPY2dwY2tvcEhIYnJqNFRvTnE1RV8xWVNNSlpWS3FTQ3E5VXNpRXdldEw2MlllWktiYS1hcExPTk5remlNelN2bjhibmhPQ3ZaX1hyOHEzQzJxQjBrQ3FmZjFIVFZPczcweg?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
-"w": 976,
-"h": 549,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108554895-1795063172662-gettyimages-2305255397-AFP_D7X963Y.jpeg?v=1795063183&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://dailycaller.com/2026/11/19/pete-hegseth-military-oil-deal-venezuela": {
-"v": 2,
-"photo": {
-"img": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2305205761~2.jpg",
-"w": 1280,
-"h": 549,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
-"https://nypost.com/2026/11/19/sports/ian-jackson-nearly-killed-rick-pitino-then-scored-game-high-22-points/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-5ro59nmy2-1795063649963.jpg?quality%3D90%26strip%3Dall%261795045681",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-19T06:53:10.867501+00:00"
-},
 "https://www.bloomberg.com/news/articles/2026-11-19/hong-kong-family-office-unwinds-3-9-billion-of-bets-around-ai": {
 "v": 2,
 "photo": null,
@@ -7965,7 +7906,7 @@
 "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet": {
 "v": 2,
 "photo": null,
-"checked": "2026-11-22T01:56:22.438516+00:00"
+"checked": "2026-11-22T07:59:11.132779+00:00"
 },
 "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk": {
 "v": 2,
@@ -8297,5 +8238,43 @@
 "via": "feed"
 },
 "checked": "2026-11-22T06:47:47.450947+00:00"
+},
+"https://www.jpost.com/diaspora/antisemitism/article-915672": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/747442",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-22T07:59:11.132779+00:00"
+},
+"https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlRiYmZVME8yQTh6Tk4wY0dkUjRnUDhSeV85REtFcjZwWGtQWkx3cFJqdHdta1pqSGNEaW56RGlvOEt2am5XRXpERE5TdmplUTNOTmJSdEVqbWxFNTZYLTdZVEhyZDhvbGJSU2tmREFwN0tRMGJWWWFjSmprRnY0MXFkQWdMNUxtbkd3MFR0VmdpVGlHSVlkUU5MOG5CcF9YU3B1OVZoR2F6ekMxOGluOFZQS2xXb0l0c24tQUlHTVNQSVpaMzhycW5UOHg?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-22T07:59:11.132779+00:00"
+},
+"https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/55f366253b28a6c7feba36044a04cd433ccde075/111_0_2612_2090/master/2612.jpg?width=700&quality=85&auto=format&fit=max&s=d193674fd86a9a96e46e9905612f44f6",
+"w": 700,
+"h": 560,
+"credit": "AFP/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-22T07:59:11.132779+00:00"
+},
+"https://nypost.com/2026/11/22/sports/karl-anthony-towns-draws-praise-from-another-former-coach/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-3g0kbuxgg-1795333296439.jpg?quality%3D90%26strip%3Dall%261795315304",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-22T07:59:11.132779+00:00"
 }
 }
