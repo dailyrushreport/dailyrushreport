@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
   "https://www.breitbart.com/sports/2026/11/19/ravens-sideline-marlon-humphrey-saying-baltimore-best-making-criminals/",
   "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
   "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
   "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
   "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
-  "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/"
+  "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
+  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
  ],
  "current_lead": {
-  "url": "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
-  "since": "2026-11-21T23:59:09.695613+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+  "since": "2026-11-22T03:40:36.321945+00:00"
  },
- "last_build": "2026-11-22T02:43:29.566332+00:00",
+ "last_build": "2026-11-22T03:40:36.321945+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
