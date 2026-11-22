@@ -1,25 +1,25 @@
-# Social drafts — Sun Nov 22, 2026 8:38 AM CT
+# Social drafts — Sun Nov 22, 2026 2:52 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-22-0838.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-22-1452.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland  
-Outlet: The Hill  
-Link: https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/  
-Pinned by editor: no · BREAKING: no
+Lead: Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx  
+Outlet: Fox News  
+Link: https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 152/280 chars (X counting)
+## X — status: pending_approval · 192/280 chars (X counting)
 
 ```
-Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland. (The Hill) https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/
+Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx. (Fox News) https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland. Story via The Hill. Link in bio.
+Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx. Story via Fox News. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```
