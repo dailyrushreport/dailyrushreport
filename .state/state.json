@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
   "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/",
   "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
   "https://www.breitbart.com/tech/2026/11/20/freshly-not-maga-elon-musk-sells-americans-on-tourism-to-china/",
@@ -19,13 +18,14 @@
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
   "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
   "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
-  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
+  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
  ],
  "current_lead": {
-  "url": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
-  "since": "2026-11-23T01:14:02.928386+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+  "since": "2026-11-23T09:19:04.720094+00:00"
  },
- "last_build": "2026-11-23T01:14:02.928386+00:00",
+ "last_build": "2026-11-23T09:19:04.720094+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -49,7 +49,7 @@
   "BBC": "ok",
   "WSJ Opinion": "ok",
   "The Jerusalem Post": "ok",
-  "The Times of Israel": "ok (fallback)",
+  "The Times of Israel": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-23T01:14Z",
   "Fox News World": "ok",
   "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok (fallback)",
+  "Gary Taubes": "FAILED (HTTPError: HTTP Error 403: Forbidden; fallback HTTPError: HTTP Error 429: Too Many Requests) - used cache from 2026-11-23T01:14Z",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
   "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
@@ -291,6 +290,7 @@
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
   "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
   "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
-  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
+  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
  ]
 }

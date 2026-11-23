@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-23-0319.json",
+  "created": "2026-11-23T09:19:04.720094+00:00",
+  "created_ct": "Mon Nov 23, 2026 3:19 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+    "original_headline": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says. (BBC) https://www.bbc.co.uk/news/articles/cr894gjz0j0yo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 144,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
