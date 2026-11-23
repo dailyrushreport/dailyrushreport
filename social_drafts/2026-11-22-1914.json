@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-22-1914.json",
+  "created": "2026-11-23T01:14:02.928386+00:00",
+  "created_ct": "Sun Nov 22, 2026 7:14 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Russian ship docked in Libya hit in suspected drone attack",
+    "original_headline": "Russian ship docked in Libya hit in suspected drone attack",
+    "url": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Russian ship docked in Libya hit in suspected drone attack. (The Hill) https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 139,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Russian ship docked in Libya hit in suspected drone attack. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

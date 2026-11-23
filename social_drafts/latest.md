@@ -1,17 +1,17 @@
-# Social drafts — Sun Nov 22, 2026 3:42 PM CT
+# Social drafts — Sun Nov 22, 2026 7:14 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-22-1542.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-22-1914.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump: 'It Is Going to Be Very Hard' to Work with Chuck Schumer as Senate Majority Leader  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/  
+Lead: Russian ship docked in Libya hit in suspected drone attack  
+Outlet: The Hill  
+Link: https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 171/280 chars (X counting)
+## X — status: pending_approval · 139/280 chars (X counting)
 
 ```
-Trump: 'It Is Going to Be Very Hard' to Work with Chuck Schumer as Senate Majority Leader. (Breitbart) https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/
+Russian ship docked in Libya hit in suspected drone attack. (The Hill) https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump: 'It Is Going to Be Very Hard' to Work with Chuck Schumer as Senate Majority Leader. Story via Breitbart. Link in bio.
+Russian ship docked in Libya hit in suspected drone attack. Story via The Hill. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

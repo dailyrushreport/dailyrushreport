@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
   "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
   "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/",
   "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
@@ -19,13 +18,14 @@
   "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
   "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
-  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/"
+  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
+  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
-  "since": "2026-11-22T21:42:53.500735+00:00"
+  "url": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+  "since": "2026-11-23T01:14:02.928386+00:00"
  },
- "last_build": "2026-11-22T21:42:53.500735+00:00",
+ "last_build": "2026-11-23T01:14:02.928386+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -70,7 +70,7 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-22T14:38Z",
+  "The Register": "ok",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://nypost.com/2026/11/01/us-news/trump-rips-alina-habbas-50m-deal-with-pardoned-venezuelan-bankers-family/",
   "https://www.washingtonexaminer.com/news/campaigns/congressional/4787486/sanders-alleged-democratic-ballot-stacking-alaska-dumb/",
   "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
   "https://nypost.com/2026/11/02/sports/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
@@ -291,6 +290,7 @@
   "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
   "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
-  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/"
+  "https://www.breitbart.com/politics/2026/11/22/trump-it-will-be-very-hard-to-work-with-chuck-schumer-as-senate-majority-leader/",
+  "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/"
  ]
 }
