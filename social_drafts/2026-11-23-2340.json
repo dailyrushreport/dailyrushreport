@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-23-2340.json",
+  "created": "2026-11-24T05:40:30.542916+00:00",
+  "created_ct": "Mon Nov 23, 2026 11:40 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+    "original_headline": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+    "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy. (CNBC) https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 168,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
