@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-24-1041.json",
+  "created": "2026-11-24T16:41:01.709529+00:00",
+  "created_ct": "Tue Nov 24, 2026 10:41 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump shares meme of Jensen Huang raising red bra in air",
+    "original_headline": "Trump shares meme of Jensen Huang raising red bra in air",
+    "url": "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
+    "source": "The Hill",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump shares meme of Jensen Huang raising red bra in air. (The Hill) https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 137,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump shares meme of Jensen Huang raising red bra in air. Story via The Hill. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
