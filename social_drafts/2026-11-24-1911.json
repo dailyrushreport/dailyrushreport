@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-24-1911.json",
+  "created": "2026-11-25T01:11:48.446343+00:00",
+  "created_ct": "Tue Nov 24, 2026 7:11 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution",
+    "original_headline": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution",
+    "url": "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
+    "source": "Fox News",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution. (Fox News) https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 147,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Fort Hood shooter Nidal Hasan asks federal judge to halt execution. Story via Fox News. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

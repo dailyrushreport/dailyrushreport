@@ -1,17 +1,17 @@
-# Social drafts — Tue Nov 24, 2026 10:41 AM CT
+# Social drafts — Tue Nov 24, 2026 7:11 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-24-1041.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-24-1911.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Trump shares meme of Jensen Huang raising red bra in air  
-Outlet: The Hill  
-Link: https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/  
+Lead: Fort Hood shooter Nidal Hasan asks federal judge to halt execution  
+Outlet: Fox News  
+Link: https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 137/280 chars (X counting)
+## X — status: pending_approval · 147/280 chars (X counting)
 
 ```
-Trump shares meme of Jensen Huang raising red bra in air. (The Hill) https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/
+Fort Hood shooter Nidal Hasan asks federal judge to halt execution. (Fox News) https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Trump shares meme of Jensen Huang raising red bra in air. Story via The Hill. Link in bio.
+Fort Hood shooter Nidal Hasan asks federal judge to halt execution. Story via Fox News. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```

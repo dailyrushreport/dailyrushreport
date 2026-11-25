@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.breitbart.com/politics/2026/11/20/trump-tax-companies-build-data-centers-overseas/",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
   "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.thefp.com/p/jensen-huang-is-too-big-to-fail-trump-ai-chips-business-tech",
   "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-  "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/"
+  "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
+  "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution"
  ],
  "current_lead": {
-  "url": "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
-  "since": "2026-11-24T16:41:01.709529+00:00"
+  "url": "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
+  "since": "2026-11-25T01:11:48.446343+00:00"
  },
- "last_build": "2026-11-24T16:41:01.709529+00:00",
+ "last_build": "2026-11-25T01:11:48.446343+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -51,11 +51,11 @@
   "The Jerusalem Post": "ok",
   "The Times of Israel": "ok (fallback)",
   "Fox News World": "ok",
-  "Washington Times World": "ok",
+  "Washington Times World": "ok (fallback)",
   "UnHerd": "ok",
   "The Guardian": "ok",
   "NPR": "ok",
-  "Washington Times Politics": "ok",
+  "Washington Times Politics": "ok (fallback)",
   "The Daily Signal": "ok",
   "The Center Square": "ok",
   "SCOTUSblog": "ok",
@@ -70,7 +70,7 @@
   "Outdoor Life": "ok",
   "Art of Manliness": "ok",
   "IEEE Spectrum": "ok",
-  "The Register": "FAILED (ParseError: not well-formed (invalid token): line 7, column 22) - used cache from 2026-11-24T05:40Z",
+  "The Register": "ok",
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
@@ -80,7 +80,7 @@
   "MAHA / HHS": "ok",
   "Eric Westman / Adapt Your Life": "ok",
   "Ben Bikman": "ok",
-  "Gary Taubes": "ok",
+  "Gary Taubes": "ok (fallback)",
   "Jason Fung": "ok",
   "Chris Kresser": "ok",
   "Low Carb Down Under": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
   "https://www.foxnews.com/outkick-sports/lions-coach-leads-locker-room-prayer-jack-campbell-linebacker-hospitalized-neck-injury",
   "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.thefp.com/p/jensen-huang-is-too-big-to-fail-trump-ai-chips-business-tech",
   "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-  "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/"
+  "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
+  "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution"
  ]
 }
