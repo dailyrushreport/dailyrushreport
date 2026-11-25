@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
   "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
   "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
   "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
   "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
   "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
-  "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/"
+  "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/",
+  "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/",
-  "since": "2026-11-25T09:59:19.353186+00:00"
+  "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+  "since": "2026-11-25T19:47:20.911369+00:00"
  },
- "last_build": "2026-11-25T09:59:19.353186+00:00",
+ "last_build": "2026-11-25T19:47:20.911369+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html",
   "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
   "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
   "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
   "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
-  "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/"
+  "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/",
+  "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
  ]
 }

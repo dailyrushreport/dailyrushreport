@@ -1,25 +1,25 @@
-# Social drafts — Wed Nov 25, 2026 3:59 AM CT
+# Social drafts — Wed Nov 25, 2026 1:47 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-25-0359.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-25-1347.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Senate Leadership Challenger Chris Van Hollen Praises Deal for MS-13 Suspect Abrego Garcia  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/  
-Pinned by editor: no · BREAKING: no
+Lead: SpaceX wins FCC approval to deploy 1 million orbital data center satellites  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html  
+Pinned by editor: no · BREAKING: yes
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 166/280 chars (X counting)
 
 ```
-Senate Leadership Challenger Chris Van Hollen Praises Deal for MS-13 Suspect Abrego Garcia. (Breitbart) https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/
+SpaceX wins FCC approval to deploy 1 million orbital data center satellites. (CNBC) https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html
 
-Common sense, served fast. #DailyRushReport
+Common sense, served fast. #DailyRushReport #BreakingNews
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Senate Leadership Challenger Chris Van Hollen Praises Deal for MS-13 Suspect Abrego Garcia. Story via Breitbart. Link in bio.
+SpaceX wins FCC approval to deploy 1 million orbital data center satellites. Story via CNBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense
+#DailyRushReport #News #Headlines #CommonSense #BreakingNews
 ```

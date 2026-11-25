@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-25-1347.json",
+  "created": "2026-11-25T19:47:20.911369+00:00",
+  "created_ct": "Wed Nov 25, 2026 1:47 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "original_headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites. (CNBC) https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 166,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}
