@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-25-2033.json",
+  "created": "2026-11-26T02:32:57.953642+00:00",
+  "created_ct": "Wed Nov 25, 2026 8:33 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "original_headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "US Army says controlled blast of explosives in Iowa was 'huge success'. (BBC) https://www.bbc.co.uk/news/articles/cwg7l5ve251ko\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 146,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "US Army says controlled blast of explosives in Iowa was 'huge success'. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
