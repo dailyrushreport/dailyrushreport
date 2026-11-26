@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
   "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
   "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
   "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
@@ -19,13 +18,14 @@
   "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
   "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/",
   "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-  "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
+  "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+  "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo"
  ],
  "current_lead": {
-  "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
-  "since": "2026-11-26T02:32:57.953642+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+  "since": "2026-11-26T11:40:52.665089+00:00"
  },
- "last_build": "2026-11-26T02:32:57.953642+00:00",
+ "last_build": "2026-11-26T11:40:52.665089+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/",
   "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
   "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
   "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
@@ -291,6 +290,7 @@
   "https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution",
   "https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/",
   "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-  "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
+  "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+  "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo"
  ]
 }

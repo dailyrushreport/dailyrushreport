@@ -1,17 +1,17 @@
-# Social drafts — Wed Nov 25, 2026 8:33 PM CT
+# Social drafts — Thu Nov 26, 2026 5:40 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-25-2033.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-26-0540.json x` or `... instagram` (prints the final text to copy).
 
-Lead: US Army says controlled blast of explosives in Iowa was 'huge success'  
+Lead: Macy's postpones Thanksgiving parade due to severe weather  
 Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cwg7l5ve251ko  
+Link: https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 146/280 chars (X counting)
+## X — status: pending_approval · 134/280 chars (X counting)
 
 ```
-US Army says controlled blast of explosives in Iowa was 'huge success'. (BBC) https://www.bbc.co.uk/news/articles/cwg7l5ve251ko
+Macy's postpones Thanksgiving parade due to severe weather. (BBC) https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-US Army says controlled blast of explosives in Iowa was 'huge success'. Story via BBC. Link in bio.
+Macy's postpones Thanksgiving parade due to severe weather. Story via BBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
