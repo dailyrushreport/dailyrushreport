@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-26-2122.json",
+  "created": "2026-11-27T03:21:58.324255+00:00",
+  "created_ct": "Thu Nov 26, 2026 9:22 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "original_headline": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher. (CNBC) https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 182,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

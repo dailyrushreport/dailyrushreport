@@ -1,17 +1,17 @@
-# Social drafts — Thu Nov 26, 2026 2:41 PM CT
+# Social drafts — Thu Nov 26, 2026 9:22 PM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-26-1441.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-26-2122.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Tributes for Duran Duran guitarist Andy Taylor after his death aged 65  
-Outlet: BBC  
-Link: https://www.bbc.co.uk/news/articles/cmp3vk6vr44po  
+Lead: Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher  
+Outlet: CNBC  
+Link: https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html  
 Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 146/280 chars (X counting)
+## X — status: pending_approval · 182/280 chars (X counting)
 
 ```
-Tributes for Duran Duran guitarist Andy Taylor after his death aged 65. (BBC) https://www.bbc.co.uk/news/articles/cmp3vk6vr44po
+Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher. (CNBC) https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html
 
 Common sense, served fast. #DailyRushReport
 ```
@@ -19,7 +19,7 @@ Common sense, served fast. #DailyRushReport
 ## Instagram — status: pending_approval
 
 ```
-Tributes for Duran Duran guitarist Andy Taylor after his death aged 65. Story via BBC. Link in bio.
+Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher. Story via CNBC. Link in bio.
 
 #DailyRushReport #News #Headlines #CommonSense
 ```
