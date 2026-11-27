@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-27-0652.json",
+  "created": "2026-11-27T12:52:15.850921+00:00",
+  "created_ct": "Fri Nov 27, 2026 6:52 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "original_headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "source": "CNBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’. (CNBC) https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 166,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’. Story via CNBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}

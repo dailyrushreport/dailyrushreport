@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://www.washingtonexaminer.com/policy/economy/4811339/trump-credit-card-interest-rate-cap/",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
   "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
@@ -19,13 +18,14 @@
   "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
   "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
   "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
-  "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+  "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+  "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
  ],
  "current_lead": {
-  "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-  "since": "2026-11-27T03:21:58.324255+00:00"
+  "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+  "since": "2026-11-27T12:52:15.850921+00:00"
  },
- "last_build": "2026-11-27T03:21:58.324255+00:00",
+ "last_build": "2026-11-27T12:52:15.850921+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -74,7 +74,7 @@
   "City Journal": "ok",
   "Fox News Health": "ok",
   "Peter Attia MD": "ok",
-  "Zoe Harcombe": "FAILED (HTTPError: HTTP Error 415: Unsupported Media Type) - used cache from 2026-11-26T20:41Z",
+  "Zoe Harcombe": "ok",
   "Dr. Ken Berry": "ok",
   "Keto Carnivore (Dr. Kiltz)": "ok",
   "MAHA / HHS": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
   "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
   "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
   "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
@@ -291,6 +290,7 @@
   "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
   "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
   "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
-  "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+  "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+  "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
  ]
 }
