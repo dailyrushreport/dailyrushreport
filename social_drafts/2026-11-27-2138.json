@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-27-2138.json",
+  "created": "2026-11-28T03:38:20.680890+00:00",
+  "created_ct": "Fri Nov 27, 2026 9:38 PM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport",
+    "original_headline": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport",
+    "url": "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/",
+    "source": "Breitbart",
+    "pinned": false,
+    "breaking": true
+  },
+  "drafts": {
+    "x": {
+      "text": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport. (Breitbart) https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/\n\nCommon sense, served fast. #DailyRushReport #BreakingNews",
+      "weighted_length": 172,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport. Story via Breitbart. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense #BreakingNews",
+      "status": "pending_approval"
+    }
+  }
+}

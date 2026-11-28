@@ -4,257 +4,6 @@
 "photo": null,
 "checked": "2026-11-27T21:44:10.628164+00:00"
 },
-"https://justthenews.com/government/courts-law/chinese-tech-giant-huawei-convicted-stealing-us-trade-secrets": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.foxnews.com/us/fort-hood-shooter-nidal-hasan-asks-federal-judge-halt-execution": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/fort-hood-military-shooter-split.jpg?ve=1&tl=1",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.foxnews.com/politics/ice-nabs-illegal-immigrant-days-after-claims-1-million-massachusetts-state-lottery-prize": {
-"v": 2,
-"photo": {
-"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/ariel-velasquez-morales-massachusetts-lottery-1-million-check.png?ve=1&tl=1",
-"w": 931,
-"h": 524,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.dailysignal.com/2026/11/24/newsom-spares-killers-backlash/": {
-"v": 2,
-"photo": {
-"img": "https://static.dailysignalmedia.org/2026/11/55671531831_b3e2530c60_o.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.breitbart.com/politics/2026/11/24/poll-democrats-prefer-chris-van-hollen-over-chuck-schumer-for-senate-majority-leader-by-21-points/": {
-"v": 2,
-"photo": {
-"img": "https://media.breitbart.com/media/2026/11/Chuck-Schumer-and-Chris-Van-Hollen-640x335.jpeg",
-"w": 640,
-"h": 335,
-"credit": "Drew Angerer\\/Getty Images",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://thehill.com/blogs/in-the-know/6241576-chc-memorializes-raul-grijalva/": {
-"v": 2,
-"photo": {
-"img": "https://thehill.com/wp-content/uploads/sites/2/2025/09/Elsewhere-Raul-Grijalva_080113_AP_Manuel-Balce-Ceneta.jpg?w=900",
-"w": 900,
-"h": 505,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.jpost.com/middle-east/article-916028": {
-"v": 2,
-"photo": {
-"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/604025",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html": {
-"v": 2,
-"photo": {
-"img": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://nypost.com/2026/11/24/us-news/plane-carrying-4-adults-2-kids-crashes-near-mississippis-horn-island/": {
-"v": 2,
-"photo": {
-"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149972881.jpg?quality%3D90%26strip%3Dall",
-"w": 2000,
-"h": 1333,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon": {
-"v": 2,
-"photo": {
-"img": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=700&quality=85&auto=format&fit=max&s=e799b9f745685fa4238fc3d710e1a056",
-"w": 700,
-"h": 560,
-"credit": "Mehmet Eser/Anadolu/Getty Images",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2lFeUhtZ045WEdtREJPUmRRa0xsNUQtRFJMWktPQncyR1oyTk03NjJXSnU3cWtvc1Ztd09teElldklBYXd6ZVJoWW1CSjBHMHNsQkZXWlU4Vjd3TUxPQzBxaGtVX0RRZ0dRNXlXaGNhUGoyUFBYZVh2ZnJBNmNUcC1vZXFDMjlSZThzaFhWTHNWZkx2VmlkZkRFckFzalBQTGFWdElXTHE0QS11RDhGWFBWS3V3cGRoRVE?oc=5": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://reason.com/volokh/2026/11/24/privacy-act-claim-against-u-s-over-release-of-victims-names-in-epstein-files-can-go-forward/": {
-"v": 2,
-"photo": null,
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo": {
-"v": 2,
-"photo": {
-"img": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/ed6d/live/7d7bb080-e764-11f1-b407-33329b1ec67a.jpg",
-"w": 1200,
-"h": 675,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-"w": 1200,
-"h": 627,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.thecentersquare.com/california/article_2bbbe8da-f977-45d7-a626-e04b18eb5e26.html": {
-"v": 2,
-"photo": {
-"img": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/d/71/d7115789-3c97-455b-89fd-25beaa38dc4b/69b32f09db896.image.png?crop=1200%2C630%2C0%2C21",
-"w": 1200,
-"h": 630,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.sciencedaily.com/releases/2026/11/261123005337.htm": {
-"v": 2,
-"photo": {
-"img": "https://www.sciencedaily.com/images/1920/senior-man-nasal-spray-nose-drops.webp",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
-"w": 1152,
-"h": 648,
-"credit": "NASA/JPL-Caltech/MSSS",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video": {
-"v": 2,
-"photo": {
-"img": "https://cdn.mos.cms.futurecdn.net/RDYvv4JnkCto7FxZcPVJGQ-1920-80.png",
-"w": 880,
-"h": 495,
-"credit": "SpaceX",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/": {
-"v": 2,
-"photo": {
-"img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
-"w": 1152,
-"h": 648,
-"credit": "Microsoft",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026": {
-"v": 2,
-"photo": {
-"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-"w": 1200,
-"h": 624,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986": {
-"v": 2,
-"photo": {
-"img": "https://image.theregister.com/5310808.jpg?imageId=5310808&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-"w": 1200,
-"h": 683,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.foxbusiness.com/fox-news-tech/saudi-national-accused-bugging-openai-executive-conference-room-freed-1m-bond-report": {
-"v": 2,
-"photo": {
-"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/openai-employee-arrested-recording-device.jpg",
-"w": 1280,
-"h": 720,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://unherd.com/2026/11/my-all-ai-thanksgiving/?edition=us": {
-"v": 2,
-"photo": {
-"img": "https://unherd.com/wp-content/uploads/2026/11/1.jpg",
-"w": 1920,
-"h": 1080,
-"credit": "",
-"via": "page"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
-"https://www.outdoorlife.com/gear/black-friday-deals-on-kifaru-backpacks-will-save-you-hundreds/": {
-"v": 2,
-"photo": {
-"img": "https://www.outdoorlife.com/wp-content/uploads/2026/11/DSCF3820.jpeg?quality=85&w=2048",
-"w": 2048,
-"h": 1365,
-"credit": "",
-"via": "feed"
-},
-"checked": "2026-11-25T01:11:48.446343+00:00"
-},
 "https://justthenews.com/politics-policy/transportation/coast-guard-says-it-looking-6-missing-people-after-small-plane": {
 "v": 2,
 "photo": null,
@@ -2002,5 +1751,201 @@
 "via": "feed"
 },
 "checked": "2026-11-27T21:44:10.628164+00:00"
+},
+"https://justthenews.com/government/courts-law/ongoing-legal-battle-openai-countersues-apple-over-alleged-theft-trade": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.foxnews.com/outkick-sports/former-bears-star-revie-sorey-blocked-walter-payton-dead-73": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/revie-sorey-blocks-falcons-fox-news_.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/American-Airlines-airplanes-Ronald-Reagan-Washington-National-Airport-Nov7-26-getty-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Kevin Carter\\/Getty Images",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.foxnews.com/us/mexico-president-claudia-sheinbaum-protests-new-dea-tip-line-reporting-criminals-corrupt-officials": {
+"v": 2,
+"photo": {
+"img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mexican-president-claudia-scheinbaum-venezuela.jpg?ve=1&tl=1",
+"w": 931,
+"h": 523,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.washingtonexaminer.com/news/4816785/mamdani-successful-surgery-skip-macys-thanksgiving-day-parade/": {
+"v": 2,
+"photo": {
+"img": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26328054626699.jpg?resize=1200,683",
+"w": 1200,
+"h": 683,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.breitbart.com/politics/2026/11/27/biden-memoir-sales-trail-obama-clinton-debut-week/": {
+"v": 2,
+"photo": {
+"img": "https://media.breitbart.com/media/2026/11/promise-me-america-joe-biden-bookstore-shelves-getty-640x335.jpg",
+"w": 640,
+"h": 335,
+"credit": "Brendan SMIALOWSKI \\/ AFP via Getty Images",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.jpost.com/israel-news/crime-in-israel/article-916353": {
+"v": 2,
+"photo": {
+"img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/748258",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos": {
+"v": 2,
+"photo": {
+"img": "https://i.guim.co.uk/img/media/d7818ca875ef7781ca9e3796551e6c682775e314/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=b4ff8d6891e2a949e2e5f54650779340",
+"w": 700,
+"h": 560,
+"credit": "Justin K Aller/Getty Images",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://thehill.com/homenews/house/6245814-madeleine-dean-senate-bid-fetterman/": {
+"v": 2,
+"photo": {
+"img": "https://thehill.com/wp-content/uploads/sites/2/2022/06/deanmadeline_061422gn_w.jpg?w=900",
+"w": 900,
+"h": 505,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHJNd0RjdUxuRU1CRWhGbldUSDlBS0lqZFpoUWNsRS0xbUhLNm5BTzczTUE4T0NYTUk0eXlrYXBSbHlLYUJVb2Q5bWtRbVZ3NGNaeWxYeEowQURYYlpScTU1RkNuRWxCenFWa2pwTEtESDZlRDViY0NLWHhDNmttZ0FQbk1pRkRUOEVNZlA0M2VvVHJWZDFmdjR5NkdIOTlKS2dSMTZWaC13WVVTWU56UDZtcnQ2M1k5WG8zQ3JTLVJMQTc1a3h4NHh0WXJYSVZIZ1E?oc=5": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://reason.com/volokh/2026/11/27/his-majestys-international-common-law-court-of-justice-threat-to-illuminati-police-forces-was-criminally-punishable/": {
+"v": 2,
+"photo": null,
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://dailycaller.com/2026/11/27/southwest-power-pool-ferc-complaint-competitive-bidding-transmission-lines": {
+"v": 2,
+"photo": {
+"img": "https://cdn01.dailycaller.com/wp-content/uploads/2026/11/bonneville-dam-power-lines-columbia-river-getty.jpg",
+"w": 2400,
+"h": 1028,
+"credit": "(Photo by Natalie Behring/Getty Images)",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week": {
+"v": 2,
+"photo": {
+"img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale": {
+"v": 2,
+"photo": {
+"img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+"w": 1200,
+"h": 624,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.city-journal.org/article/mormon-church-employment-counseling-jobs": {
+"v": 2,
+"photo": {
+"img": "https://media4.manhattan-institute.org/wp-content/uploads/sites/5/Roger-and-Kaleen-Jerman-outside-an-employment-services-office-in-Oakland-California-DINEEN-PARSONS.jpg",
+"w": 1200,
+"h": 675,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.foxnews.com/tech/ai-newsletter-locals-never-seen-nothing-like-hulking-meta-data-center": {
+"v": 2,
+"photo": {
+"img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d5bb2d2-76bc-42f4-b69e-60b954ec373c/ca4f8969-9c2a-4f70-83bf-3a7ab5b6ca58/1280x720/match/image.jpg",
+"w": 1280,
+"h": 720,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://nypost.com/2026/11/27/sports/aaron-rodgers-calls-out-tom-brady-for-comments-on-locker-room-sanctity/": {
+"v": 2,
+"photo": {
+"img": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-nm5zi681e-1795827694309.jpg?quality%3D90%26strip%3Dall%261795809828",
+"w": 2000,
+"h": 1333,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://unherd.com/2026/11/in-defence-of-man-city/?edition=us": {
+"v": 2,
+"photo": {
+"img": "https://unherd.com/wp-content/uploads/2026/11/GettyImages-2298086529-e1795794484991.jpg",
+"w": 1024,
+"h": 640,
+"credit": "",
+"via": "page"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
+},
+"https://www.bbc.co.uk/news/articles/cq3dgp88p744o": {
+"v": 2,
+"photo": {
+"img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f840/live/b254cec0-e9b9-11f1-8d2a-f5d2aabc11cb.jpg",
+"w": 976,
+"h": 548,
+"credit": "",
+"via": "feed"
+},
+"checked": "2026-11-28T03:38:20.680890+00:00"
 }
 }
