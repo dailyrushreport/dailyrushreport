@@ -1,25 +1,25 @@
-# Social drafts — Fri Nov 27, 2026 9:38 PM CT
+# Social drafts — Sat Nov 28, 2026 6:33 AM CT
 
 **NOT POSTED. Nothing is ever posted automatically.** Review, then approve with:
-`python3 approve_post.py social_drafts/2026-11-27-2138.json x` or `... instagram` (prints the final text to copy).
+`python3 approve_post.py social_drafts/2026-11-28-0633.json x` or `... instagram` (prints the final text to copy).
 
-Lead: Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport  
-Outlet: Breitbart  
-Link: https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/  
-Pinned by editor: no · BREAKING: yes
+Lead: OpenAI counter-sues Apple over alleged theft of trade secrets  
+Outlet: BBC  
+Link: https://www.bbc.co.uk/news/articles/cm15ekqvlezeo  
+Pinned by editor: no · BREAKING: no
 
-## X — status: pending_approval · 172/280 chars (X counting)
+## X — status: pending_approval · 137/280 chars (X counting)
 
 ```
-Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport. (Breitbart) https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/
+OpenAI counter-sues Apple over alleged theft of trade secrets. (BBC) https://www.bbc.co.uk/news/articles/cm15ekqvlezeo
 
-Common sense, served fast. #DailyRushReport #BreakingNews
+Common sense, served fast. #DailyRushReport
 ```
 
 ## Instagram — status: pending_approval
 
 ```
-Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport. Story via Breitbart. Link in bio.
+OpenAI counter-sues Apple over alleged theft of trade secrets. Story via BBC. Link in bio.
 
-#DailyRushReport #News #Headlines #CommonSense #BreakingNews
+#DailyRushReport #News #Headlines #CommonSense
 ```

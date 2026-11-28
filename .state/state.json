@@ -1,6 +1,5 @@
 {
  "recent_leads": [
-  "https://nypost.com/2026/11/22/world-news/british-swimmer-lewis-pugh-braves-strait-of-hormuz-amid-explosions-to-highlight-iran-wars-impact-on-wildlife/",
   "https://www.washingtonexaminer.com/in_focus/4809922/blue-wave-started-in-strait-of-hormuz/",
   "https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/",
   "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
@@ -19,13 +18,14 @@
   "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
   "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
   "https://www.washingtonexaminer.com/news/white-house/4816641/biden-book-sales-trail-obama-clinton/",
-  "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/"
+  "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/",
+  "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo"
  ],
  "current_lead": {
-  "url": "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/",
-  "since": "2026-11-28T03:38:20.680890+00:00"
+  "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo",
+  "since": "2026-11-28T12:33:30.010493+00:00"
  },
- "last_build": "2026-11-28T03:38:20.680890+00:00",
+ "last_build": "2026-11-28T12:33:30.010493+00:00",
  "feeds": {
   "Fox News": "ok",
   "NY Post": "ok",
@@ -92,7 +92,6 @@
   "WORLD Magazine": "ok"
  },
  "drafted_leads": [
-  "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
   "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
   "https://thehill.com/regulation/court-battles/6193274-oklahoma-man-charged-white-powder-letters-election-offices-fbi/",
   "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
@@ -291,6 +290,7 @@
   "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
   "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
   "https://www.washingtonexaminer.com/news/white-house/4816641/biden-book-sales-trail-obama-clinton/",
-  "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/"
+  "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/",
+  "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo"
  ]
 }

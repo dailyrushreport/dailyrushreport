@@ -1,0 +1,26 @@
+{
+  "file": "2026-11-28-0633.json",
+  "created": "2026-11-28T12:33:30.010493+00:00",
+  "created_ct": "Sat Nov 28, 2026 6:33 AM CT",
+  "never_auto_posted": true,
+  "lead": {
+    "headline": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+    "original_headline": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+    "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo",
+    "source": "BBC",
+    "pinned": false,
+    "breaking": false
+  },
+  "drafts": {
+    "x": {
+      "text": "OpenAI counter-sues Apple over alleged theft of trade secrets. (BBC) https://www.bbc.co.uk/news/articles/cm15ekqvlezeo\n\nCommon sense, served fast. #DailyRushReport",
+      "weighted_length": 137,
+      "limit": 280,
+      "status": "pending_approval"
+    },
+    "instagram": {
+      "text": "OpenAI counter-sues Apple over alleged theft of trade secrets. Story via BBC. Link in bio.\n\n#DailyRushReport #News #Headlines #CommonSense",
+      "status": "pending_approval"
+    }
+  }
+}
